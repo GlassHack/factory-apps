@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/oob_field_name" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:focusable="true" android:focusableInTouchMode="true" android:layout_width="0.0px" android:layout_height="0.0px" />
+    <TextView android:id="@id/edit_name_warning" android:text="@string/plus_oob_edit_name_warning" style="@style/setup_wizard_description_text" />
+    <FrameLayout android:id="@id/name_layout" android:focusable="true" android:focusableInTouchMode="true" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setup_wizard_description_margin_top" />
+    <TextView android:textColor="@color/plus_oob_name_error_color" android:id="@id/name_error" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setup_wizard_description_margin_top" style="@style/setup_wizard_text" />
+</LinearLayout>

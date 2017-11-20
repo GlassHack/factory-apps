@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>बार</item>
+        <item>क्याफे</item>
+        <item>ग्यास स्टेशन</item>
+        <item>चलचित्र घर</item>
+        <item>आवास गृह</item>
+        <item>रात्री क्लब</item>
+        <item>संग्रहालय</item>
+        <item>रेष्टुरेन्ट</item>
+        <item>किनमेल केन्द्र</item>
+        <item>स्टोर</item>
+        <item>किराना पसल वा सुपरमार्केट</item>
+        <item>अन्य</item>
+    </string-array>
+</resources>

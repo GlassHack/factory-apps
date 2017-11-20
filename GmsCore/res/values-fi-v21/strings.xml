@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Ohje ja palaute</string>
+    <string name="plus_app_settings_all_apps_label">Kaikki sovellukset</string>
+    <string name="plus_app_settings_apps_page_label">Liitetyt sovellukset</string>
+    <string name="plus_list_apps_empty_message">Ei yhdistettyjä sovelluksia</string>
+    <string name="plus_manage_app_pacl_label">Kuka näkee sovelluksen toiminnot Googlessa:</string>
+    <string name="plus_manage_app_scopes_label">Sovelluksella on seuraavat käyttöoikeudet:</string>
+</resources>

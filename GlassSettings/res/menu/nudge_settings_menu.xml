@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_power_50" android:id="@id/nudge_turn_on" android:title="TURN_THIS_ON" />
+    <item android:icon="@drawable/ic_power_50" android:id="@id/nudge_turn_off" android:title="TURN_THIS_OFF" />
+    <item android:icon="@drawable/ic_help_50" android:id="@id/nudge_help" android:title="HELP_WITH_THIS" />
+</menu>

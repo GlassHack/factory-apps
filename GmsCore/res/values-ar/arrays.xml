@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>حانة</item>
+        <item>مقهى</item>
+        <item>محطة وقود</item>
+        <item>سينما</item>
+        <item>سكن</item>
+        <item>ملهى ليلي</item>
+        <item>متحف</item>
+        <item>مطعم</item>
+        <item>مركز تسوق</item>
+        <item>متجر</item>
+        <item>متجر بقالة أو سوبر ماركت</item>
+        <item>غير ذلك</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ضعيفة</item>
+        <item>معقولة</item>
+        <item>جيدة</item>
+        <item>قوية</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>البلوتوث</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>اختيار سؤال أمان</item>
+        <item>ما رقم أول هاتف؟</item>
+        <item>ما اسم أفضل صديق من أصدقاء الطفولة؟</item>
+        <item>ما اسم أول معلم؟</item>
+        <item>ما اسم مديرك في أول وظيفة؟</item>
+        <item>ما رقم تسجيل المركبة؟</item>
+    </string-array>
+</resources>

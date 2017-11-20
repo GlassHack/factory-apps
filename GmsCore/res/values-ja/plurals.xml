@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">%1$s分前に端末%2$sのブラウザから（場所: %3$s）</item>
+        <item quantity="one">%1$s分前に端末%2$sのブラウザから（場所: %3$s）</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">%1$s分前に%2$sから</item>
+        <item quantity="one">%1$s分前に%2$sから</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">残り%d時間</item>
+        <item quantity="one">残り1時間</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s人</item>
+        <item quantity="one">%1$s人</item>
+        <item quantity="two">%1$s人</item>
+        <item quantity="few">%1$s人</item>
+        <item quantity="many">%1$s人</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">インストールのためあと%d秒で再起動します...</item>
+        <item quantity="one">インストールのためあと1秒で再起動します...</item>
+    </plurals>
+</resources>

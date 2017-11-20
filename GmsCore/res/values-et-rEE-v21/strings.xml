@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Abi ja tagasiside</string>
+    <string name="plus_app_settings_all_apps_label">Kõik rakendused</string>
+    <string name="plus_app_settings_apps_page_label">Ühendatud rakendused</string>
+    <string name="plus_list_apps_empty_message">Ühtegi rakendust pole ühendatud</string>
+    <string name="plus_manage_app_pacl_label">"Rakendustega seotud tegevuse nähtavus Google'is"</string>
+    <string name="plus_manage_app_scopes_label">Sellel rakendusel on juurdepääs järgnevale:</string>
+</resources>

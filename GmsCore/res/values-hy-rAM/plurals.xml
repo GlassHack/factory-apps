@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Տեղադրելու համար %d վայրկյանից վերբեռնվելու է ...</item>
+        <item quantity="one">Տեղադրելու համար 1 վայրկյանից վերաբեռնվելու է...</item>
+    </plurals>
+</resources>

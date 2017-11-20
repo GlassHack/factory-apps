@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_gray">#ffbbbbbb</color>
+    <color name="person_count_text_gray">#ff808080</color>
+    <color name="background_dark_gray">#ff222222</color>
+    <color name="background_dark_gray_semitransparent">#99222222</color>
+    <color name="background_black">#ff000000</color>
+    <color name="background_black_semitransparent">#cc000000</color>
+    <color name="background_black_search_cover_transparent">#a6000000</color>
+    <color name="state_green">#ff99cc33</color>
+    <color name="state_yellow">#ffddbb11</color>
+    <color name="state_red">#ffcc3333</color>
+    <color name="state_gray">@color/text_gray</color>
+    <color name="divider">#ff666666</color>
+    <color name="placeholder_color">#ff666666</color>
+    <color name="drop_shadow_black">#bf000000</color>
+    <color name="new_permissions_required">#ff808080</color>
+    <color name="contact_red">#ff803535</color>
+    <color name="contact_orange">#ff8b562c</color>
+    <color name="contact_yellow">#ff99933a</color>
+    <color name="contact_green">#ff3c6c2e</color>
+    <color name="contact_teal">#ff225a56</color>
+    <color name="contact_blue">#ff19466d</color>
+    <color name="contact_purple">#ff564170</color>
+    <color name="contact_gray">#ff404040</color>
+</resources>

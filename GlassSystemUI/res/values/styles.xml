@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Notification" parent="@android:style/Theme.DeviceDefault">
+        <item name="android:windowAnimationStyle">@style/Notification.Animation</item>
+    </style>
+    <style name="Notification.Animation" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/notification_enter</item>
+        <item name="android:taskOpenEnterAnimation">@anim/notification_enter</item>
+    </style>
+    <style name="GlanceableNotificationWindowAnimation" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/glanceable_notification_open</item>
+        <item name="android:windowExitAnimation">@anim/glanceable_notification_close</item>
+    </style>
+</resources>

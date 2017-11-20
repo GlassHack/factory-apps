@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/look_at_screen_setup" android:title="CALIBRATE_THIS" />
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/look_at_screen_playpen" android:title="TRY_THIS_OUT" />
+    <item android:icon="@drawable/ic_power_50" android:id="@id/look_at_screen_turn_off" android:title="TURN_THIS_OFF" />
+</menu>

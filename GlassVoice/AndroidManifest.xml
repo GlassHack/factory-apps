@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:allowBackup="false" android:sharedUserId="android.uid.system" package="com.google.glass.voice">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS"/>
+    <uses-permission android:name="android.permission.READ_FRAME_BUFFER"/>
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="com.google.glass.home.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="com.google.glass.home.permission.SETUP_WIFI"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.deviceadmin.REMOTE_WIPE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="com.google.glass.entity.permission.ENTITY_PROVIDER"/>
+    <uses-permission android:name="com.google.glass.logging.permission.USER_EVENT_SERVICE"/>
+    <uses-permission android:name="com.google.glass.sync.permission.TIMELINE_PROVIDER"/>
+    <uses-permission android:name="com.google.android.glass.permission.ACCESS_PRIVATE_CACHE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <application android:label="@string/app_name" android:name="com.google.glass.voice.VoiceApplication" android:persistent="true" android:theme="@style/GlassTheme">
+        <receiver android:name="com.google.glass.voice.BootCompletedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.glass.voice.VoiceService"/>
+        <service android:exported="true" android:name="com.google.glass.voice.VoiceCommandService"/>
+        <service android:exported="true" android:name="com.google.glass.voice.service.menu.VoiceMenuService"/>
+        <service android:exported="true" android:name="com.google.glass.voice.GlassRecognitionService">
+            <intent-filter>
+                <action android:name="android.speech.RecognitionService"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <activity android:launchMode="singleTop" android:name="com.google.glass.voice.VoiceAnnotationActivity" android:taskAffinity="com.google.glass.home" android:theme="@style/GlassTheme.NoneIn">
+            <intent-filter>
+                <action android:name="com.google.glass.ACTION_VOICE_ANNOTATION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.speech.action.RECOGNIZE_SPEECH"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleTop" android:name="com.google.glass.voice.CorrectTranscriptionActivity" android:theme="@style/GlassTheme.NoneIn">
+            <intent-filter>
+                <action android:name="com.google.glass.ACTION_SEARCH_CORRECT_TRANSCRIPTION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleTop" android:name="com.google.glass.voice.TestCorrectTranscriptionActivity" android:theme="@style/GlassTheme.NoneIn">
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.google.glass.voice.sync.SavedAudioSyncService">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter"/>
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/saved_audio_sync_adapter"/>
+        </service>
+        <provider android:authorities="com.google.glass.savedaudio" android:exported="true" android:label="@string/provider_label_audio" android:name="com.google.glass.logging.audio.SavedAudioContentProviderStub"/>
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.google.glass.voice.PinholePageDebugActivity"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    </application>
+</manifest>

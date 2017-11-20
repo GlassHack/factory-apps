@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Google सेवाहरु</string>
+    <string name="system_update_activity_battery_low_charging_text">प्रणाली अद्यावधिक स्थापित गर्न ब्याट्री धेरै कम छ। ब्याट्री पर्याप्त चार्ज हुनको लागि प्रतिक्षा गर्नुहोस्।</string>
+    <string name="system_update_activity_battery_low_text">ब्याट्री ज्यादै कम छ प्रणाली अद्यावधिक स्थापना गर्न। जारी राख्न चार्जरसँग जडान गर्नुहोस्।</string>
+    <string name="system_update_activity_name">"प्रणाली  अद्यावधिक"</string>
+    <string name="system_update_activity_roaming_text">रोमिङ भइरेको बेला प्रणाली अद्यावधिकहरू डाउनलोड गर्न सकिँदैन्।</string>
+    <string name="system_update_activity_title">"प्रणाली  अद्यावधिक"</string>
+    <string name="system_update_check_now_button_text">अब जाँच गर्नुहोस्</string>
+    <string name="system_update_complete_label">प्रणाली अद्यावधिक</string>
+    <string name="system_update_complete_ok_button">ठीक छ</string>
+    <string name="system_update_connection_lost_button_text">Wi-Fi सँग जोड्नुहोस्</string>
+    <string name="system_update_connection_lost_text">सञ्जाल जडान टुट्यो।</string>
+    <string name="system_update_countdown_cancel_button">स्थापना रद्द गर्नुहोस्</string>
+    <string name="system_update_countdown_complete">पुन: बुट हुँदै...</string>
+    <string name="system_update_download_button_text">डाउनलोड</string>
+    <string name="system_update_download_failed_status_text">डाउनलोड गर्न सकेन</string>
+    <string name="system_update_download_retry_button_text">डाउनलोड पुनः प्रयास गर्नुहोस्</string>
+    <string name="system_update_download_waiting_status_text">डाउनलोड गर्न प्रतीक्षा गर्दै</string>
+    <string name="system_update_downloading_required_update_text">"यसले ^१ मिनटसम्म लिन सक्छ। 
+ 
+ पछि, फोन स्वतः पुनःसुरु हुने छ।"</string>
+    <string name="system_update_downloading_required_update_text_tablet">"यसले ^१ मिनटसम्म लिन सक्छ। 
+ 
+ पछि, ट्याब्लेट स्वतः पुनःसुरु हुने छ।"</string>
+    <string name="system_update_downloading_required_update_title">अद्यावधिक डाउनलोड गर्दै ...</string>
+    <string name="system_update_downloading_status_text">डाउनलोड हुँदै</string>
+    <string name="system_update_downloading_wifi_status2_text">वाइ-फाइमार्फत ^१ सम्म मात्र</string>
+    <string name="system_update_install_button_text">रिस्टार्ट र स्थापना</string>
+    <string name="system_update_installing_update_text">"यसले करीव ५ मिनेट लिन सक्छ।
+ 
+ पछि तपाईँ आफ्नो फोन सेट अप गर्ने कार्य सक्न हुनेछ।"</string>
+    <string name="system_update_installing_update_title">अद्यावधिक स्थापना गर्दै ...</string>
+    <string name="system_update_last_checkin">अपडेट ^१ को लागि अन्तिम जाँच गरियो।</string>
+    <string name="system_update_no_update_content_text">तपाईँको प्रणाली अद्यावधिक छ।</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">डाउनलोड असफल भयो। पुन: प्रयास गर्नुहोस्।</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">प्रणाली अद्यावधिक डाउनलोड गर्न सकिएन।</string>
+    <string name="system_update_not_owner_text">एउटा प्रणाली सफ्टवेरको अद्यावधिक उपलब्ध छ, तर केवल मालिकले मात्र त्यसलाई सथापित गर्न सक्छ।</string>
+    <string name="system_update_required_update_restart_text">तपाईँको फोन पुनःसुरु हुने छ त्यसैले तपाईँको प्रणाली अपडेट स्थापित गर्न सकिन्छ।</string>
+    <string name="system_update_required_update_restart_text_tablet">तपाईँको ट्याब्लेट पुनःसुरु हुने छ त्यसैले तपाईँको प्रणाली अपडेट स्थापित गर्न सकिन्छ।</string>
+    <string name="system_update_required_update_restart_title">रिस्टार्ट हुन आँट्दै</string>
+    <string name="system_update_requires_restart_status_text">रिस्टार्ट आवाश्यक्ता पर्दै</string>
+    <string name="system_update_restart_button_text">रिस्टार्ट (^ 1)</string>
+    <string name="system_update_update_available_notification_title">प्रणाली अद्यावधिक उपलव्ध</string>
+    <string name="system_update_update_downloaded_notification_title">प्रणाली अपडेट डाउनलोड गरियो</string>
+    <string name="system_update_verification_failed_text">प्रमाणिकरण प्रक्रिया विफल भयो</string>
+    <string name="system_update_verified_status_text">डाउनलोड गरियो र प्रमाणित गरियो</string>
+    <string name="system_update_verifying_status_text">रुजु गर्दै</string>
+    <string name="system_update_update_available_download_message">डाउनलोड गर्नको लागि छुनुहोस्।</string>
+    <string name="system_update_update_downloaded_install_message">स्थापना गर्न छुनुहोस्</string>
+</resources>

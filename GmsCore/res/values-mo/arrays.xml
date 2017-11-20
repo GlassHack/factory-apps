@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>N-E</item>
+        <item>E</item>
+        <item>S-E</item>
+        <item>S</item>
+        <item>S-V</item>
+        <item>V</item>
+        <item>N-V</item>
+    </string-array>
+</resources>

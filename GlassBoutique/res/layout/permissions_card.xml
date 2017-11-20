@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingRight="40.0px" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:glass="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@id/icon_holder" android:layout_width="240.0px" android:layout_height="fill_parent" android:layout_marginRight="32.0px">
+        <ImageView android:id="@id/large_glassware_icon" android:layout_width="160.0px" android:layout_height="160.0px" android:layout_marginTop="80.0px" android:scaleType="centerInside" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <TextView android:id="@id/glassware_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0px" android:layout_marginRight="20.0px" android:layout_marginBottom="32.0px" android:shadowColor="@color/drop_shadow_black" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:lineSpacingExtra="2.0px" style="@style/SmallOverlayText" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textColor="@color/new_permissions_required" android:id="@id/new_permissions_required" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="30.0px" android:shadowColor="@color/drop_shadow_black" android:lineSpacingExtra="2.0px" style="@style/MediumOverlayText" />
+        <TextView android:id="@id/new_permissions_list" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="3" android:shadowColor="@color/drop_shadow_black" android:layout_below="@id/new_permissions_required" android:lineSpacingExtra="2.0px" style="@style/MediumOverlayText" />
+        <TextView android:id="@id/tap_instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="32.0px" android:shadowColor="@color/drop_shadow_black" android:layout_alignParentBottom="true" android:lineSpacingExtra="2.0px" style="@style/SmallOverlayText" />
+    </RelativeLayout>
+</LinearLayout>

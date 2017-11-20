@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/glass_card_margin" android:layout_marginTop="@dimen/glass_card_margin" android:layout_marginRight="@dimen/glass_card_margin" android:layout_marginBottom="@dimen/glass_card_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center" android:id="@id/device_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="63.0dip" android:layout_weight="1.0" />
+    <TextView android:textSize="22.0sp" android:layout_gravity="center_horizontal" android:id="@id/device_discovery_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="60.0dip" android:layout_weight="1.0" android:textAlignment="center" />
+    <TextView android:textSize="12.0sp" android:layout_gravity="center_horizontal" android:id="@id/device_discovery_footer" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="60.0dip" android:layout_marginRight="60.0dip" android:layout_marginBottom="20.0dip" android:layout_weight="1.0" android:textAlignment="center" />
+</LinearLayout>

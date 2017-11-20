@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafe</item>
+        <item>Gasolinahan</item>
+        <item>Sinehan</item>
+        <item>Lodging</item>
+        <item>Night Club</item>
+        <item>Museo</item>
+        <item>Restaurant</item>
+        <item>Mall</item>
+        <item>Tindahan</item>
+        <item>Grocery o Supermarket</item>
+        <item>Iba pa</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>mahina</item>
+        <item>katamtaman</item>
+        <item>mahusay</item>
+        <item>malakas</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>H</item>
+        <item>HS</item>
+        <item>S</item>
+        <item>TS</item>
+        <item>T</item>
+        <item>TK</item>
+        <item>K</item>
+        <item>HK</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Pumili ng panseguridad na tanong</item>
+        <item>Unang numero ng telepono?</item>
+        <item>Pangalan ng pinakamatalik na kaibigan sa pagkabata?</item>
+        <item>Pangalan ng unang guro?</item>
+        <item>Pangalan ng manager sa unang trabaho?</item>
+        <item>Numero ng pagpaparehistro ng sasakyan?</item>
+    </string-array>
+</resources>

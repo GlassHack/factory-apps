@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="setup_wizard_back_button" format="reference" />
+    <attr name="setup_wizard_next_button" format="reference" />
+    <attr name="setup_wizard_start_button" format="reference" />
+    <attr name="setup_wizard_divider_color" format="reference" />
+    <attr name="ic_backup" format="reference" />
+    <attr name="ic_communication" format="reference" />
+    <attr name="ic_emergency_dial" format="reference" />
+    <attr name="ic_location" format="reference" />
+    <attr name="orientation">
+        <enum name="horizontal" value="0" />
+        <enum name="vertical" value="1" />
+    </attr>
+    <attr name="itemFocusable" format="boolean" />
+    <attr name="gridSetting" format="integer" />
+    <attr name="space" format="dimension" />
+    <attr name="selectedSize" format="dimension" />
+    <attr name="selectedTakesMoreSpace" format="boolean" />
+    <attr name="scrollCenterStrategy">
+        <enum name="keepCenter" value="0" />
+        <enum name="fixed" value="1" />
+        <enum name="fixedPercent" value="2" />
+        <enum name="fixedToEnd" value="3" />
+    </attr>
+    <attr name="scrollCenterOffset" format="dimension" />
+    <attr name="scrollCenterOffsetPercent" format="integer" />
+    <attr name="scrollItemAlign">
+        <enum name="center" value="0" />
+        <enum name="low" value="1" />
+        <enum name="high" value="2" />
+    </attr>
+    <attr name="flingOperationMode">
+        <enum name="disable" value="0" />
+        <enum name="notouch" value="1" />
+        <enum name="touch" value="2" />
+        <enum name="auto" value="3" />
+    </attr>
+    <attr name="dragOperationMode" format="integer">
+        <enum name="disable" value="0" />
+        <enum name="notouch" value="1" />
+        <enum name="touch" value="2" />
+        <enum name="auto" value="3" />
+    </attr>
+    <attr name="scrollCenterDrawable" format="reference" />
+    <attr name="lerperDivisor" format="float" />
+    <attr name="trackpadThreshold" format="integer" />
+    <attr name="trackpadSensitivityX" format="float" />
+    <attr name="trackpadSensitivityY" format="float" />
+    <attr name="trackpadOvershootProtection" format="float" />
+    <attr name="trackpadLockAxis" format="boolean" />
+    <attr name="lowItemTransform" format="reference" />
+    <attr name="highItemTransform" format="reference" />
+    <attr name="expandedItemInAnim" format="reference" />
+    <attr name="expandedItemOutAnim" format="reference" />
+    <attr name="navigateOutAllowed" format="boolean" />
+    <attr name="navigateOutOfOffAxisAllowed" format="boolean" />
+    <attr name="navigateInAnimationAllowed" format="boolean" />
+    <attr name="trackpadNavigationEnabled" format="boolean" />
+    <attr name="trackpadNavigationTiltEnabled" format="boolean" />
+    <attr name="fitFor">
+        <enum name="height" value="0" />
+        <enum name="width" value="1" />
+    </attr>
+    <attr name="panoMaxHeight" format="dimension" />
+    <attr name="panoMaxWidth" format="dimension" />
+    <attr name="defaultShadow" format="reference" />
+    <attr name="drawableBottom" format="reference" />
+    <attr name="showDone" format="boolean" />
+    <attr name="keyButtonTextColor" format="reference" />
+    <attr name="allowFastForward" format="boolean" />
+    <attr name="allowNext" format="boolean" />
+    <attr name="allowPause" format="boolean" />
+    <attr name="allowPlay" format="boolean" />
+    <attr name="allowPrevious" format="boolean" />
+    <attr name="allowRewind" format="boolean" />
+    <attr name="nextIcon" format="reference" />
+    <attr name="prevIcon" format="reference" />
+    <attr name="fastforwardIcon" format="reference" />
+    <attr name="rewindIcon" format="reference" />
+    <attr name="fastforwardStretchIcon" format="reference" />
+    <attr name="rewindStretchIcon" format="reference" />
+    <attr name="playIcon" format="reference" />
+    <attr name="pauseIcon" format="reference" />
+    <attr name="retryIcon" format="reference" />
+    <attr name="ffwRwAlpha" format="integer" />
+    <attr name="ffwRwActiveAlpha" format="integer" />
+    <attr name="ffwRwTextColor" format="color" />
+    <attr name="seekAlpha" format="integer" />
+    <attr name="seekActiveAlpha" format="integer" />
+    <attr name="seekIcon" format="reference" />
+    <attr name="seekStretchIcon" format="reference" />
+    <attr name="seekTextColor" format="color" />
+    <attr name="seekTextSize" format="dimension" />
+    <attr name="seekDirection">
+        <enum name="right" value="1" />
+        <enum name="left" value="2" />
+    </attr>
+    <attr name="inactiveScale" format="float" />
+    <attr name="metadataBackground" format="reference" />
+    <attr name="controlsBackground" format="reference" />
+    <attr name="showMetadata" format="boolean" />
+    <attr name="errorIcon" format="reference" />
+    <attr name="autoUnrefOnDetach" format="boolean" />
+</resources>

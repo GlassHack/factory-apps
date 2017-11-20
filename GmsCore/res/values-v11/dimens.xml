@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auth_gls_arrow_button_height">59.0dip</dimen>
+    <dimen name="auth_gls_arrow_button_width">47.0dip</dimen>
+    <dimen name="auth_gls_bg_make_it_google_height">416.0dip</dimen>
+    <dimen name="auth_gls_bg_make_it_google_width">416.0dip</dimen>
+    <dimen name="auth_gls_button_margin_top">16.0dip</dimen>
+    <dimen name="auth_gls_captcha_height">90.0dip</dimen>
+    <dimen name="auth_gls_captcha_width">240.0dip</dimen>
+    <dimen name="auth_gls_checkbox_margin_bottom">8.0dip</dimen>
+    <dimen name="auth_gls_checkbox_margin_top">10.0dip</dimen>
+    <dimen name="auth_gls_checkbox_text_size">14.0sp</dimen>
+    <dimen name="auth_gls_content_margin_sides">0.0dip</dimen>
+    <dimen name="auth_gls_description_margin_top">16.0dip</dimen>
+    <dimen name="auth_gls_description_text_size">18.0sp</dimen>
+    <dimen name="auth_gls_input_field_vmargins">10.0dip</dimen>
+    <dimen name="auth_gls_password_label_margin_left">8.0dip</dimen>
+    <dimen name="auth_gls_password_label_margin_right">8.0dip</dimen>
+    <dimen name="auth_gls_photo_margin_top">20.0dip</dimen>
+    <dimen name="auth_gls_photo_width">150.0dip</dimen>
+    <item type="dimen" name="auth_gls_setup_border_width">4.999995%</item>
+    <dimen name="auth_gls_setup_margin_bottom">16.0dip</dimen>
+    <item type="dimen" name="auth_gls_setup_title_height">14.999998%</item>
+    <dimen name="auth_gls_sign_in_content_width">716.0dip</dimen>
+    <dimen name="auth_gls_sign_in_margin_top">10.0dip</dimen>
+    <dimen name="auth_gls_title_height">48.0dip</dimen>
+    <dimen name="auth_gls_title_height_short">48.0dip</dimen>
+    <dimen name="auth_gls_title_margin_sides">0.0dip</dimen>
+    <dimen name="auth_gls_title_text_size">25.0sp</dimen>
+    <dimen name="auth_gls_top_divider_margin_bottom">0.0dip</dimen>
+    <dimen name="auth_gls_top_divider_margin_top">6.0dip</dimen>
+</resources>

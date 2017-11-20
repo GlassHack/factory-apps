@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/plus_solid_grey" android:layout_width="fill_parent" android:layout_height="@dimen/plus_titlebar_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/up_button" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/common_SettingsActionBar.Button">
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/up_button_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="-4.0dip" android:layout_marginRight="-4.0dip" android:src="@drawable/common_ic_settings_back" android:contentDescription="@string/plus_actionbar_up_button_description" style="@style/common_SettingsActionBar.Up" />
+        <ImageView android:gravity="center_vertical" android:id="@id/titlebar_icon_layout" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/plus_icon_red_32" android:layout_alignParentLeft="true" android:contentDescription="@string/plus_plus_icon_image_description" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/title_container" android:background="@drawable/common_settings_spinner_bg" android:clickable="true" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginLeft="4.0dip" android:layout_marginRight="4.0dip" android:layout_toRightOf="@id/up_button" android:layout_centerVertical="true">
+        <TextView android:textSize="@dimen/plus_sharebox_share_title_text" android:textColor="@color/plus_sharebox_title_text" android:id="@id/title_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/plus_app_label" />
+        <Spinner android:ellipsize="end" android:id="@id/account_spinner" android:background="@null" android:paddingLeft="0.0dip" android:clickable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textSize="12.0sp" android:id="@id/plus_page_name" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <Button android:textSize="@dimen/plus_sharebox_share_button_text" android:textStyle="bold" android:textColor="@color/plus_sharebox_title_button" android:id="@id/share_button" android:paddingLeft="12.0dip" android:paddingRight="12.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/plus_titlebar_height" android:text="@string/plus_sharebox_share" android:drawablePadding="2.0dip" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" style="@style/common_SelectableItem" />
+</RelativeLayout>

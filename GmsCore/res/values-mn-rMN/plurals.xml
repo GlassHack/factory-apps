@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Суулгахын тулд %d секундын дараа дахиж асна…</item>
+        <item quantity="one">Суулгахын тулд 1 секундын дараа дахиж асна…</item>
+    </plurals>
+</resources>

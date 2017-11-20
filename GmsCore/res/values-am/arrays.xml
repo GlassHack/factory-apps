@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>መጠጥ ቤት</item>
+        <item>ሻይ ቤት</item>
+        <item>ነዳጅ ማደያ</item>
+        <item>ሲነማ አዳራሽ</item>
+        <item>መኖሪያ</item>
+        <item>የምሽት ክለብ</item>
+        <item>ቤተ መዘክር</item>
+        <item>ምግብ ቤት</item>
+        <item>የገበያ ማዕከል</item>
+        <item>መደብር</item>
+        <item>ግሮሰሪ ወይም የገበያ ማዕከል</item>
+        <item>ሌላ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ደካማ</item>
+        <item>ደህና</item>
+        <item>ጥሩ</item>
+        <item>ጠንካራ</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ብሉቱዝ</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>የድኅንነት ጥበቃ ጥያቄ ይምረጡ</item>
+        <item>የመጀመሪያ ስልክ ቁጥር?</item>
+        <item>የልጅነት ቅርብ ጓደኛ ስም?</item>
+        <item>የመጀመሪያ አስተማሪ ስም?</item>
+        <item>የመጀመሪያ ስራዎ ስራ አስኪያጅ ስም?</item>
+        <item>የተሽከርካሪ ምዝገባ ቁጥር?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>बार</item>
+        <item>कैफ़े</item>
+        <item>पेट्रोल पंप</item>
+        <item>सिनेमाघर</item>
+        <item>लॉजिंग</item>
+        <item>नाइट क्लब</item>
+        <item>संग्रहालय</item>
+        <item>रेस्तरां</item>
+        <item>शॉपिंग सेंटर</item>
+        <item>स्टोर</item>
+        <item>किराना दुकान या सुपरमार्केट</item>
+        <item>अन्य</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>कमज़ोर</item>
+        <item>उचित</item>
+        <item>अच्छा</item>
+        <item>सशक्त</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>ब्लूटूथ</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>उ</item>
+        <item>उपू</item>
+        <item>पू</item>
+        <item>दपू</item>
+        <item>द</item>
+        <item>दप</item>
+        <item>प</item>
+        <item>उप</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>कोई सुरक्षा प्रश्न चुनें</item>
+        <item>पहला फ़ोन नंबर?</item>
+        <item>बचपन के सबसे अच्छे मित्र का नाम?</item>
+        <item>प्रथम शिक्षक का नाम?</item>
+        <item>पहली नौकरी में प्रबंधक का नाम?</item>
+        <item>वाहन पंजीकरण संख्या?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Hjælp og feedback</string>
+    <string name="plus_app_settings_all_apps_label">Alle apps</string>
+    <string name="plus_app_settings_apps_page_label">Tilknyttede apps</string>
+    <string name="plus_list_apps_empty_message">Der er ikke tilknyttet nogen apps</string>
+    <string name="plus_manage_app_pacl_label">Hvem kan se appaktiviteter på Google</string>
+    <string name="plus_manage_app_scopes_label">Denne app har adgang til:</string>
+</resources>

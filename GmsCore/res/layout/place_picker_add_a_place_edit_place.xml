@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/item_default_color" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="@color/text_white" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/place_picker_add_a_place_title" android:background="@color/dark_blue" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:layout_width="fill_parent" android:layout_height="56.0dip" android:text="@string/add_a_place_call_to_action" android:singleLine="true" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:background="@color/item_default_color" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="32.0dip" android:src="@drawable/ic_qu_storedirectory" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="72.0dip" android:layout_marginTop="24.0dip">
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/text_dark_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/place_name_title" />
+                    <EditText android:id="@id/place_name" android:hint="@string/place_name_hint" android:inputType="textCapWords" style="@style/AddAPlaceFormField" />
+                    <View style="@style/AddAPlaceFormDivider" />
+                </LinearLayout>
+            </FrameLayout>
+            <FrameLayout android:background="@color/item_default_color" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="32.0dip" android:src="@drawable/ic_place" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="72.0dip" android:layout_marginTop="24.0dip">
+                    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/text_dark_gray" android:layout_gravity="start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/place_address_title" />
+                        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/dark_blue" android:layout_gravity="end" android:id="@id/add_a_place_update_address" android:background="@color/item_default_color" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:text="@string/place_address_update_hint" />
+                    </FrameLayout>
+                    <com.google.android.location.places.ui.MultilineWithNextEditText android:id="@id/place_address" android:hint="@string/place_address_hint" android:minLines="1" android:inputType="textPostalAddress|textMultiLine" style="@style/AddAPlaceFormField" />
+                    <View android:layout_marginTop="8.0dip" style="@style/AddAPlaceFormDivider" />
+                </LinearLayout>
+            </FrameLayout>
+            <FrameLayout android:background="@color/item_default_color" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="32.0dip" android:src="@drawable/ic_qu_phone" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="72.0dip" android:layout_marginTop="24.0dip">
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/text_dark_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/place_phone_title" />
+                    <EditText android:id="@id/place_phone" android:hint="@string/place_phone_hint" android:inputType="phone" style="@style/AddAPlaceFormField" />
+                    <View style="@style/AddAPlaceFormDivider" />
+                </LinearLayout>
+            </FrameLayout>
+            <FrameLayout android:background="@color/item_default_color" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="32.0dip" android:src="@drawable/ic_qu_website" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="72.0dip" android:layout_marginTop="24.0dip">
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/text_dark_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/place_website_title" />
+                    <EditText android:id="@id/place_website" android:hint="@string/place_website_hint" android:inputType="textUri" style="@style/AddAPlaceFormField" />
+                    <View style="@style/AddAPlaceFormDivider" />
+                </LinearLayout>
+            </FrameLayout>
+            <FrameLayout android:background="@color/item_default_color" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:layout_width="24.0dip" android:layout_height="24.0dip" android:layout_marginLeft="16.0dip" android:layout_marginTop="32.0dip" android:src="@drawable/ic_qu_category" />
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="72.0dip" android:layout_marginTop="24.0dip">
+                    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/text_dark_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/place_category_title" />
+                    <Spinner android:id="@id/place_category" android:saveEnabled="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:spinnerMode="dialog" />
+                </LinearLayout>
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <Button android:id="@id/add_a_place_edit_place_cancel" android:background="@drawable/place_picker_selectable_background" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/add_a_place_cancel" android:layout_weight="1.0" />
+        <View android:id="@id/ViewColorPickerHelper" android:background="?android:listDivider" android:layout_width="1.0dip" android:layout_height="wrap_content" />
+        <Button android:enabled="false" android:id="@id/add_a_place_edit_place_add" android:background="@drawable/place_picker_selectable_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:text="@string/add_a_place_add" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="8.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="16.0dip" android:paddingEnd="16.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/bugreport_confirm" style="?android:attr/textAppearanceMedium" />
+    <CheckBox android:id="@android:id/checkbox" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/bugreport_confirm_repeat" />
+</LinearLayout>

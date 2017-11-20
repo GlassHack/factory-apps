@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">עזרה ומשוב</string>
+    <string name="plus_app_settings_all_apps_label">כל האפליקציות</string>
+    <string name="plus_app_settings_apps_page_label">אפליקציות מחוברות</string>
+    <string name="plus_list_apps_empty_message">אין אפליקציות מחוברות</string>
+    <string name="plus_manage_app_pacl_label">‏מי יכול לראות פעילויות של אפליקציות ב-Google</string>
+    <string name="plus_manage_app_scopes_label">אפליקציה זו יכולה לגשת אל:</string>
+</resources>

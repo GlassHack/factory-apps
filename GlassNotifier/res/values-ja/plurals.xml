@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_days">
+        <item quantity="other">%d日</item>
+        <item quantity="one">%d日</item>
+    </plurals>
+    <plurals name="time_hours">
+        <item quantity="other">%d時間</item>
+        <item quantity="one">%d時間</item>
+    </plurals>
+    <plurals name="time_minutes">
+        <item quantity="other">%d分</item>
+        <item quantity="one">%d分</item>
+    </plurals>
+    <plurals name="time_months">
+        <item quantity="other">%dか月</item>
+        <item quantity="one">%dか月</item>
+    </plurals>
+    <plurals name="time_weeks">
+        <item quantity="other">%d週間</item>
+        <item quantity="one">%d週間</item>
+    </plurals>
+    <plurals name="time_years">
+        <item quantity="other">%d年</item>
+        <item quantity="one">%d年</item>
+    </plurals>
+</resources>

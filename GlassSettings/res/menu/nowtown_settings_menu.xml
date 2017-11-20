@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/nowtown_turn_on" android:title="TURN_THIS_ON" />
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/nowtown_turn_off" android:title="TURN_THIS_OFF" />
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/nowtown_clear" android:title="DELETE_THIS" />
+</menu>

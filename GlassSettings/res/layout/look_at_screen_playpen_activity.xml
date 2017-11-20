@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:id="@id/look_at_screen_test_card" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:glass="http://schemas.android.com/apk/res/com.google.glass.settings">
+    <com.google.glass.settings.ui.LookAtScreenPlaypenView android:id="@id/look_at_screen_playpen_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:ellipsize="end" android:gravity="center" android:id="@id/look_at_screen_playpen_message" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0px" android:text="@string/look_at_screen_playpen_first_message" android:maxLines="2" android:singleLine="false" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/SmallOverlayText" />
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_power_50" android:id="@id/head_wake_turn_on_menu_item" android:title="TURN_THIS_ON" />
+    <item android:icon="@drawable/ic_power_50" android:id="@id/head_wake_turn_off_menu_item" android:title="TURN_THIS_OFF" />
+    <item android:icon="@drawable/ic_angle_50" android:id="@id/head_wake_set_trigger_angle" android:title="CHANGE_THE_WAKE_ANGLE" />
+</menu>

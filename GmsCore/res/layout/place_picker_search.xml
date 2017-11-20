@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/place_picker_search_container" android:background="@drawable/shadow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="8.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="8.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/place_picker_search_plate" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="48.0dip">
+        <ImageView android:id="@id/place_picker_search_icon" android:layout_width="24.0dip" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip" android:src="@drawable/ic_qu_search" android:alpha="0.54" />
+        <EditText android:ellipsize="end" android:id="@id/place_picker_search_input" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="48.0dip" android:layout_marginLeft="8.0dip" android:hint="@string/place_picker_search_hint" android:singleLine="true" android:layout_weight="1.0" android:inputType="textNoSuggestions" android:imeOptions="actionSearch|flagNoExtractUi" />
+        <ImageButton android:id="@id/place_picker_search_clear" android:background="@drawable/place_picker_clear_background" android:layout_width="24.0dip" android:layout_height="48.0dip" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" android:src="@drawable/ic_qu_close" android:alpha="0.54" android:importantForAccessibility="no" />
+    </LinearLayout>
+    <ListView android:id="@id/place_picker_search_suggestion" android:layout_width="fill_parent" android:layout_height="wrap_content" android:headerDividersEnabled="true" />
+</LinearLayout>

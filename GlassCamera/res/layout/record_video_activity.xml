@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.glass.widget.horizontalscroll.FrameLayoutCard android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:glass="http://schemas.android.com/apk/res/com.google.glass.camera">
+    <TextureView android:id="@id/viewfinder" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_medium" />
+        <LinearLayout android:gravity="center" android:layout_gravity="bottom|center" android:id="@id/recording_time_wrapper" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="30.0px">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_video_50" />
+            <TextView android:id="@id/recording_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0px" style="@style/LargeOverlayText" />
+        </LinearLayout>
+    </FrameLayout>
+    <com.google.glass.widget.TipsView android:gravity="center_horizontal" android:layout_gravity="bottom" android:id="@id/tip" android:paddingLeft="40.0px" android:paddingRight="40.0px" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/tip_view_height" android:layout_marginBottom="30.0px" glass:tip="@string/extend_video_tip" style="@style/TipsViewText" />
+    <com.google.glass.widget.ProgressBar android:layout_gravity="bottom" android:id="@id/progress" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/thumbnail_placeholder" android:background="@color/background_dark_gray" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_placeholder_video_150" android:scaleType="center" />
+    <FrameLayout android:id="@id/thumbnail_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+        <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_video_overlay_150" />
+    </FrameLayout>
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/gradient" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/overlay_medium" android:layout_alignParentBottom="true" android:layout_centerInParent="true" />
+    <TextView android:layout_gravity="bottom|center" android:id="@id/guard_phrase_hint" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/guard_phrase_bottom_margin" android:text="@string/guard_phrase_hint" style="@style/TipsViewText" />
+</com.google.glass.widget.horizontalscroll.FrameLayoutCard>

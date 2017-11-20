@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">"des d'un navegador de %1$s a %2$s fa menys de %3$s minuts"</item>
+        <item quantity="one">"des d'un navegador de %1$s a %2$s fa menys d'%3$s minut"</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">des de %1$s fa menys de %2$s minuts</item>
+        <item quantity="one">"des de %1$s fa menys d'%2$s minut"</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Queden %d hores.</item>
+        <item quantity="one">Queda 1 hora.</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dies</item>
+        <item quantity="one">%d dia</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d hores</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s persones</item>
+        <item quantity="one">%1$s persona</item>
+        <item quantity="two">%1$s persones</item>
+        <item quantity="few">%1$s persones</item>
+        <item quantity="many">%1$s persones</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">"S'està reiniciant per dur a terme la instal·lació d'aquí a %d segons…"</item>
+        <item quantity="one">"S'està reiniciant per dur a terme la instal·lació d'aquí a 1 segon..."</item>
+    </plurals>
+</resources>

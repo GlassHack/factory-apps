@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Google සේවාවන්</string>
+    <string name="system_update_activity_battery_low_charging_text">පද්ධති යාවත්කාලිනය ස්ථාපනය කිරීමට බැටරිය ප්‍රමාණවත් නැත. බැටරිය අවශ්‍ය තරම් ආරෝපණය වන තෙක් සිටින්න.</string>
+    <string name="system_update_activity_battery_low_text">පද්ධති යාවත්කාලීනය ස්ථාපනය කිරිමට බැටරිය ප්‍රමාණවත් නැත. ඉදිරියට යාමට අරෝපකයක් සම්බන්ධ කරන්න.</string>
+    <string name="system_update_activity_name">පද්ධති යාවත්කාලීන</string>
+    <string name="system_update_activity_roaming_text">රෝමින් සිටියදී, පද්ධති යාවත්කාලීනයන් බාගැනීම කළ නොහැක.</string>
+    <string name="system_update_activity_title">පද්ධති යාවත්කාලීන</string>
+    <string name="system_update_check_now_button_text">දැන් පරීක්ෂා කරන්න</string>
+    <string name="system_update_complete_label">පද්ධතිය යාවත්කාලීන කිරීම</string>
+    <string name="system_update_complete_ok_button">හරි</string>
+    <string name="system_update_connection_lost_button_text">Wi-Fi වෙත සම්බන්ධ වන්න</string>
+    <string name="system_update_connection_lost_text">ජාල සම්බන්ධතාවය නැතිවිය.</string>
+    <string name="system_update_countdown_cancel_button">ස්ථාපනය කිරීම අවලංගු කරන්න</string>
+    <string name="system_update_countdown_complete">දැන් යළි පණගැන්වේ…</string>
+    <string name="system_update_download_button_text">බාගන්න</string>
+    <string name="system_update_download_failed_status_text">බාගැනීමට නොහැකි විය</string>
+    <string name="system_update_download_retry_button_text">බාගැනීමට නැවත උත්සාහ කරන්න</string>
+    <string name="system_update_download_waiting_status_text">බාගැනීමට රැඳී සිටින්න</string>
+    <string name="system_update_downloading_required_update_text">"මෙය මිනිත්තු ^1 දක්වා ගතවිය හැක.
+
+ඉන් පසුව, දුරකථනය ස්වයංක්‍රියව යළි අරඹනු ඇත."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"මෙය මිනිත්තු ^1 දක්වා ගතවිය හැක.
+
+ඉන් පසුව, ටැබ්ලටය ස්වයංක්‍රියව යළි අරඹනු ඇත."</string>
+    <string name="system_update_downloading_required_update_title">යාවත්කාලීනය බාගනිමින්...</string>
+    <string name="system_update_downloading_status_text">බාගනිමින්</string>
+    <string name="system_update_downloading_wifi_status2_text">Wi-Fi හරහා ^1 දක්වා පමණි</string>
+    <string name="system_update_install_button_text">යලි පණ ගන්වා ස්ථාපනය කරන්න</string>
+    <string name="system_update_installing_update_text">"මෙයට මිනිත්තු 5 දක්වා ගත වීමට ඉඩ තිබේ.
+
+ඉන් පසුව, ඔබට ඔබගේ දුරකථනයේ සැකසීම අවසන් කිරීමට පුළුවන් වනු ඇත."</string>
+    <string name="system_update_installing_update_title">යාවත්කාලිනය ස්ථාපනය වෙමින්…</string>
+    <string name="system_update_last_checkin">යාවත්කාලීන කිරීම සඳහා අවසන් පරික්ෂාව ^1.</string>
+    <string name="system_update_no_update_content_text">ඔබගේ පද්ධතිය යාවත්කාලිනයි.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">බාගැනීම අසාර්ථකයි, යළි උත්සාහ කරන්න.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">පද්ධති යාවත්කාලින බාගැනීමට නොහැකි විය</string>
+    <string name="system_update_not_owner_text">පද්ධති මෘදුකාංග යාවත්කාලිනයක් ඇත, එහෙත් එය හිමිකරුට පමණක් ස්ථාපනය කළ හැක.</string>
+    <string name="system_update_required_update_restart_text">ඔබගේ පද්ධති යාවත්කාලිනය ස්ථාපනය කිරීමට, දුරකථනය නැවත ආරම්භ වේ.</string>
+    <string name="system_update_required_update_restart_text_tablet">ඔබගේ පද්ධති යාවත්කාලිනය ස්ථාපනය කිරීමට, ටැබ්ලටය නැවත ආරම්භ වේ.</string>
+    <string name="system_update_required_update_restart_title">යළි පණගැන්වීමට සූදානම්</string>
+    <string name="system_update_requires_restart_status_text">යළි පණගැන්වීමක් අවශ්‍යයි</string>
+    <string name="system_update_restart_button_text">යළි පණගන්වන්න (^1)</string>
+    <string name="system_update_update_available_notification_title">පද්ධති යාවත්කාලිනය ලබාගත හැක</string>
+    <string name="system_update_update_downloaded_notification_title">පද්ධති යාවත්කාලිනය බාගන්නා ලදි</string>
+    <string name="system_update_verification_failed_text">සත්‍යාපනය අසාර්ථකයි</string>
+    <string name="system_update_verified_status_text">බාගෙන ඇත සහ සත්‍යාපිතයි</string>
+    <string name="system_update_verifying_status_text">සත්‍යාපනය කරමින්</string>
+    <string name="system_update_update_available_download_message">බාගැනීමට ස්පර්ශ කරන්න.</string>
+    <string name="system_update_update_downloaded_install_message">ස්ථාපනය කිරීමට ස්පර්ශ කරන්න.</string>
+</resources>

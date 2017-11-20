@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Gaz to‘ldirish shaxobchasi</item>
+        <item>Kinoteatr</item>
+        <item>Turarjoy</item>
+        <item>Tungi klub</item>
+        <item>Muzey</item>
+        <item>Restoran</item>
+        <item>Savdo markazi</item>
+        <item>Do‘kon</item>
+        <item>Baqqollik yoki supermarket</item>
+        <item>Boshqa</item>
+    </string-array>
+</resources>

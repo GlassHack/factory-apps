@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_invalid_panorama_data">Panorama incorrect</string>
+    <string name="maps_network_unavailable">"Ce programme exige une connexion de données. Une nouvelle tentative sera automatiquement effectuée. Veuillez vérifier l'intensité de votre signal. Le mode Avion est-il activé ? L'itinérance des données est-elle désactivée ?"</string>
+    <string name="maps_no_panorama_data">Pas de données de panorama définies</string>
+    <string name="maps_panorama_disabled">Image non disponible</string>
+    <string name="maps_service_unavailable">Service Street View non disponible</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Connexion de données perdue, nouvel essai…</string>
+</resources>

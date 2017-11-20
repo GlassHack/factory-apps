@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафене</item>
+        <item>Бензиностанция</item>
+        <item>Кино</item>
+        <item>Настаняване</item>
+        <item>Нощен клуб</item>
+        <item>Музей</item>
+        <item>Ресторант</item>
+        <item>Търговски център</item>
+        <item>Магазин</item>
+        <item>Бакалница или супермаркет</item>
+        <item>Друго</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>лоша</item>
+        <item>задоволителна</item>
+        <item>добра</item>
+        <item>надеждна</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>КБП</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>С</item>
+        <item>СИ</item>
+        <item>И</item>
+        <item>ЮИ</item>
+        <item>Ю</item>
+        <item>ЮЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Изберете защитен въпрос</item>
+        <item>Първият ви телефонен номер?</item>
+        <item>Как се казва най-добрият ви приятел от детството?</item>
+        <item>Името на първия ви учител?</item>
+        <item>Името на началника на първата ви работа?</item>
+        <item>Регистрационният номер на превозното ви средство?</item>
+    </string-array>
+</resources>

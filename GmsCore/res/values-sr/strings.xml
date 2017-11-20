@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Одлазак на Почетну</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Кретање нагоре</string>
+    <string name="abc_action_menu_overflow_description">Још опција</string>
+    <string name="abc_action_mode_done">Готово</string>
+    <string name="abc_activity_chooser_view_see_all">Прикажи све</string>
+    <string name="abc_activitychooserview_choose_application">Избор апликације</string>
+    <string name="abc_searchview_description_clear">Брисање упита</string>
+    <string name="abc_searchview_description_query">Упит за претрагу</string>
+    <string name="abc_searchview_description_search">Претрага</string>
+    <string name="abc_searchview_description_submit">Слање упита</string>
+    <string name="abc_searchview_description_voice">Гласовна претрага</string>
+    <string name="abc_shareactionprovider_share_with">Дели са</string>
+    <string name="abc_shareactionprovider_share_with_application">Дели са апликацијом %s</string>
+    <string name="account_level_title">Потр. је радња на налогу</string>
+    <string name="activity_recognition_permission_description">Дозвољава апликацији да повремено добија од Google-а ажурирања о вашем нивоу активности, на пример, да ли пешачите, возите ауто или бицикл или мирујете.</string>
+    <string name="activity_recognition_permission_label">препознавање активности</string>
+    <string name="add_a_place_add">Додај</string>
+    <string name="add_a_place_call_to_action">Додајте место</string>
+    <string name="add_a_place_call_to_drag">Превуците мапу да бисте поставили означивач</string>
+    <string name="add_a_place_cancel">Откажи</string>
+    <string name="add_a_place_next">Даље</string>
+    <string name="agree">Прихватам</string>
+    <string name="app_label">Локација мреже</string>
+    <string name="app_level_title">Захтев за пријављивање</string>
+    <string name="app_level_title_secondary">Захтев за пријав. аплик. %s</string>
+    <string name="auth_accept_access">Прихвати</string>
+    <string name="auth_account_already_has_gmail">Налог већ има Gmail.</string>
+    <string name="auth_account_setup_title">Google налог</string>
+    <string name="auth_ads_settings_title">Огласи</string>
+    <string name="auth_allow_external_site_access">Има непрекидни приступ подацима на %s</string>
+    <string name="auth_app_label">Менаџер Google налога</string>
+    <string name="auth_app_permission_footnote">%s и Google ће користити ове информације у складу са својим условима коришћења услуге и политикама приватности.</string>
+    <string name="auth_app_permission_label">ОВА АПЛИКАЦИЈА ЖЕЛИ</string>
+    <string name="auth_app_permission_ok_footnote">Ако наставите, дозволићете овој апликацији и Google-у да користе ваше податке у складу са одговарајућим условима коришћења услуге и политикама приватности.</string>
+    <string name="auth_app_permission_sign_in_footnote">Ако додирнете Пријави ме, дозволићете овој апликацији и Google-у да користе ваше податке у складу са одговарајућим условима коришћења услуге и политикама приватности.</string>
+    <string name="auth_app_permission_title">Пријава на %s преко Google-а</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Дозволи пријављивање</string>
+    <string name="auth_authzen_action_approved_toast_text">Радња је одобрена</string>
+    <string name="auth_authzen_action_canceled_toast_text">Радња је отказана</string>
+    <string name="auth_authzen_allow_reset_button_text">Омогући ресет. лозинке</string>
+    <string name="auth_authzen_cancel_button_label">Откажи</string>
+    <string name="auth_authzen_close_button_text">Затвори</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Дозволи</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Откажи</string>
+    <string name="auth_authzen_default_confirmation_description">Желите ли да дозволите пријављивање на налог са %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Потребно је да потврдите</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Изабрали сте нетачан број. Захтев је отказан.</string>
+    <string name="auth_authzen_default_request_description">детаљи захтева нису познати</string>
+    <string name="auth_authzen_generic_error_text">Дошло је до грешке. Покушајте поново.</string>
+    <string name="auth_authzen_google_logo_label">Google логотип</string>
+    <string name="auth_authzen_login_challenge_approved_text">Пријављивање је одобрено</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Пријављивање је отказано</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Дозволи пријављивање</string>
+    <string name="auth_authzen_login_challenge_desc_text">Да ли покушавате да се пријавите са %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google је зауставио покушај пријављивања.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Нетачан број</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Додирните број приказан на другом екрану. На тај начин ћете се пријавити на рачунару.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Неко је управо покушао да се пријави на ваш Google налог помоћу ваше лозинке. Google је спречио покушај пријављивања.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Пријављивање је спречено</string>
+    <string name="auth_authzen_login_challenge_title_text">Покушавате да се пријавите?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Да бисте одобрили пријављивање на рачунару, треба да верификујете идентитет</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">захтев за пријављивање са рачунара у %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Нисам захтевао/ла ово</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Хвала вам што сте нас обавестили, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Евидентирали смо ове активности да бисмо могли да наставимо са заштитом налога.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Пријави ме</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Откажи</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Унесите PIN за Google налог</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">Може, настави</string>
+    <string name="auth_authzen_no_button_text">Не</string>
+    <string name="auth_authzen_notify_google_default_text">Google ће бити обавештен да је неко покушао да приступи вашем налогу.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google је примио захтев за промену ваше лозинке. Пошто захтев нисте послали ви, отказали смо га. Нисмо изменили налог.</string>
+    <string name="auth_authzen_ok_button_text">Потврди</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Додирните број приказан на другом екрану. На тај начин ћете се пријавити на рачунару.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Дозволите пријављивање</string>
+    <string name="auth_authzen_profile_picture_label">Слика профила</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Да ли сте управо покушали да се пријавите на Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Ресетовање лозинке је одобрено</string>
+    <string name="auth_authzen_recovery_canceled_text">Ресетовање лозинке је отказано</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Желите ли да дозволите ресетовање лозинке са локације %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Потребно је да потврдите</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google је зауставио покушај ресетовања лозинке.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Нетачан број</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Додирните број приказан на другом екрану. На тај начин ћете ресетовати лозинку.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Омогућите ресетовање лозинке</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Неко је захтевао ресетовање лозинке за ваш Google налог. Google је зауставио покушај ресетовања лозинке.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Ресетовање лозинке је спречено</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Да ли сте захтевали ресетовање лозинке са локације %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Да ли сте покушали да ресетујете лозинку?</string>
+    <string name="auth_authzen_secure_account_button_text">Заштитите налог</string>
+    <string name="auth_authzen_sending_reply_failed_text">Није било могуће послати одговор серверу.</string>
+    <string name="auth_authzen_sending_reply_text">Слање одговора серверу</string>
+    <string name="auth_authzen_time_display_text">пре мање од %s минута</string>
+    <string name="auth_authzen_time_just_now_text">Малопре</string>
+    <string name="auth_authzen_wait_text">Сачекајте...</string>
+    <string name="auth_authzen_workflow_title">Упит Google овлашћења</string>
+    <string name="auth_authzen_yes_button_text">Да</string>
+    <string name="auth_back_button_label">Назад</string>
+    <string name="auth_bad_name_title">Желите ли да користите ово име?</string>
+    <string name="auth_bluetooth_lure_button">Додај као поуздани уређај</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Потврдите закључавање екрана</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Нови Bluetooth уређај је упарен.
+Додајте %s као поуздани уређај да бисте прескочили закључавање екрана када се повежете."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Нови Bluetooth уређај је упарен.</string>
+    <string name="auth_bluetooth_lure_title">Лично откључавање</string>
+    <string name="auth_cancel_button_label">Откажи</string>
+    <string name="auth_captcha_instructions">Унесите текст који видите овде:</string>
+    <string name="auth_captcha_title">Треба да унесете CAPTCHA</string>
+    <string name="auth_communicating_message">Уређај контактира Google да би сачувао информације на налог. То може да потраје до 5 минута.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Стање акредитива</string>
+    <string name="auth_d2d_source_bt_notice">Користиће се Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Уређај ће се самостално закључати и морате поново да га откључате да бисте наставили.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Не можете да користите функцију Додирни и врати зато што на овом уређају нема налога.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Не можете да користите функцију Додирни и врати зато што Bluetooth није доступан на уређају.</string>
+    <string name="auth_d2d_source_notification_text">"Нови ^1 је подешен ^2 помоћу овог уређаја, укључујући покушај преноса следећих Google налога: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Нови уређај је подешен</string>
+    <string name="auth_d2d_source_progress_message">Копирање података на нови уређај...</string>
+    <string name="auth_d2d_source_question">Желите ли да копирате налоге и податке са овог уређаја?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Није могуће користити функцију Додирните и вратите на ограниченом корисничком профилу.</string>
+    <string name="auth_d2d_source_title">Враћање налога</string>
+    <string name="auth_d2d_source_unknown_device_name">Непознат уређај</string>
+    <string name="auth_d2d_target_adding_accounts_message">Додају се налози...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Повезивање са другим уређајем...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Веза је прекинута</string>
+    <string name="auth_d2d_target_description">"Брзо копирајте све Google налоге, резервне копије апликација и податке са постојећег Android уређаја. Да бисте копирали: 
+
+1. Проверите да ли је други уређај укључен и откључан. 
+
+2. Накратко приближите два уређаја са задње стране, па их спустите."</string>
+    <string name="auth_d2d_target_more_info">Ова функција користи NFC за пренос података налога. Ако уређај подржава NFC, проверите да ли је укључен у Подешавања > Бежична веза и мреже > Још.</string>
+    <string name="auth_d2d_target_more_info_close">Важи</string>
+    <string name="auth_d2d_target_more_info_link">Сазнајте више</string>
+    <string name="auth_d2d_target_skip_button">Прескочи</string>
+    <string name="auth_d2d_target_sorry_alert">Жао нам је, нешто је кренуло наопако</string>
+    <string name="auth_d2d_target_tap_progress_message">Да бисте наставили, додирните Потврди на другом уређају</string>
+    <string name="auth_d2d_target_title">Додирните и идите</string>
+    <string name="auth_d2d_target_try_again_button">Покушај поново</string>
+    <string name="auth_d2d_target_unlock_progress_message">Откључајте други уређај</string>
+    <string name="auth_d2d_target_wait_progress_message">Копирање налога и података...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Домен захтева управљање мобилним уређајем. Инсталирајте апликацију „Смернице за Google Apps уређаје“ да бисте применили безбедносне смернице потребне за налог "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> не користи Gmail.</string>
+    <string name="auth_error_account_disabled">"Овај налог је онемогућен. 
+
+ (За више информација посетите http://google.com/accounts у веб-прегледачу.)"</string>
+    <string name="auth_error_account_not_verified">"Овај налог није верификован. Проверите е-пошту и пратите наведену везу да бисте верификовали овај налог.
+
+(Да бисте повратили информације о налогу, посетите http://www.google.com/accounts/recovery на рачунару.)"</string>
+    <string name="auth_error_bad_password">Лозинка је преслаба или садржи неважеће знакове. Покушајте поново.</string>
+    <string name="auth_error_bad_username">Неважеће корисничко име.</string>
+    <string name="auth_error_invalid_second_factor">Користите посебну лозинку за апликацију уместо уобичајене лозинке за налог.</string>
+    <string name="auth_error_login_failed">"Корисничко име и лозинка се не подударају. Покушајте поново.
+
+Да бисте повратили информације о налогу, посетите google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Да бисте приступали налогу, морате да се пријавите на вебу. Додирните Даље да бисте започели Пријављивање преко прегледача.</string>
+    <string name="auth_error_not_logged_in">Корисник није пријављен.</string>
+    <string name="auth_error_username_unavailable">Корисничко име није доступно.</string>
+    <string name="auth_existing_account_error_text">На овом Android уређају већ постоји налог ^1.</string>
+    <string name="auth_existing_account_error_title">Налог већ постоји</string>
+    <string name="auth_exit_menu_item">Изађи из пријављивања преко прегледача</string>
+    <string name="auth_facl_scope_details_dialog_title">Шта ова апликација може да види</string>
+    <string name="auth_facl_with_warning_label">Промени кога ова апликација може да види</string>
+    <string name="auth_field_cant_be_blank">Поље не сме да буде празно.</string>
+    <string name="auth_fitness_settings_title">Фитнес</string>
+    <string name="auth_gls_account_creation_tos">Ако наставите, прихватате Google <annotation id="tos">услове коришћења услуге</annotation>, <annotation id="google_privacy">политику приватности</annotation> и <annotation id="play_tos">Услове коришћења услуге Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Ако наставите, прихватате Google <annotation id="tos">услове коришћења услуге</annotation> и <annotation id="google_privacy">политику приватности</annotation> и Chrome <annotation id="chrome_tos">услове коришћења услуге</annotation> и <annotation id="chrome_privacy">обавештење о приватности</annotation>, као и <annotation id="play_tos">Услове коришћења услуге</annotation> Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">Никада више нећете губити садржај. Са Google налогом је све безбедно.</string>
+    <string name="auth_gls_account_intro_learn_more">Сазнајте више</string>
+    <string name="auth_gls_account_intro_recommended_title">Нека буде Google</string>
+    <string name="auth_gls_account_intro_required_title">Омогућава Google</string>
+    <string name="auth_gls_account_intro_simple_message">Да ли желите да додате постојећи налог или отворите нови?</string>
+    <string name="auth_gls_account_intro_title">Google налог</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Имате ли Google налог?
+
+Ако користите Gmail или Google Apps, одговорите са „Да“."</string>
+    <string name="auth_gls_account_pre_intro_no">Не</string>
+    <string name="auth_gls_account_pre_intro_title">Имате ли Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Да</string>
+    <string name="auth_gls_account_recovery_info">Ако икада изгубите лозинку, можете да одговорите на безбедносно питање и да добијете имејл са линком за поновно постављање на другу адресу.</string>
+    <string name="auth_gls_account_tos_plus_title">Довршавање придруживања Google+</string>
+    <string name="auth_gls_account_tos_title">Довршавање налога</string>
+    <string name="auth_gls_add_a_google_account">Додавање Google налога</string>
+    <string name="auth_gls_alternatives_list_title">Предложена корисничка имена</string>
+    <string name="auth_gls_answer">" "<b>Одговор</b></string>
+    <string name="auth_gls_backup_consent_message">"Користите Google налог да бисте правили резервне копије апликација, подешавања (као што су обележивачи и лозинке за Wi-Fi) и других података. Ако сте раније направили резервну копију налога, сада можете да га вратите на овај телефон.
+
+У сваком тренутку можете да промените подешавања резервне копије у Подешавањима."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Користите Google налог да бисте правили резервне копије апликација, подешавања (као што су обележивачи и Wi-Fi лозинке) и других података.
+
+ У сваком тренутку можете да промените подешавања резервне копије у Подешавањима."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Редовно прави резервну копију овог телефона помоћу Google налога</string>
+    <string name="auth_gls_cant_be_blank">Поље не сме да буде празно.</string>
+    <string name="auth_gls_checking_account">Проверавање доступности...</string>
+    <string name="auth_gls_checking_username_message">"Телефон контактира Google да би проверио да ли је жељено корисничко име доступно.
+
+Ово може да потраје неколико минута."</string>
+    <string name="auth_gls_choose_a_password">Лозинка</string>
+    <string name="auth_gls_circles_subtitle">Кругови</string>
+    <string name="auth_gls_circles_text">Најједноставнији начин да делите на мрежи оно што вам је најважније.</string>
+    <string name="auth_gls_confirm_password">Поново унесите лозинку</string>
+    <string name="auth_gls_create_button_label">Отвори налог</string>
+    <string name="auth_gls_create_google_account">Избор корисничког имена</string>
+    <string name="auth_gls_create_google_account_text">Уз Google налог добијате Gmail, Google-ову е-пошту. Функционише на свим уређајима, блокира непожељне поруке и још много тога.</string>
+    <string name="auth_gls_creating_account_title">Чување налога...</string>
+    <string name="auth_gls_creating_profile">Прављење профила...</string>
+    <string name="auth_gls_crop_failure">Није могуће опсећи слику.</string>
+    <string name="auth_gls_dasher_warning">Администратор на домену %s поседује све ваше податке на Google+ и управља њима и у сваком тренутку може да избрише или измени ваш профил без ваше дозволе.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Домен захтева управљање мобилним уређајем. Активирајте апликацију „Смернице за Google Apps уређаје“ да бисте применили безбедносне смернице потребне за налог "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Активирај</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Домен захтева управљање мобилним уређајем. Инсталирајте апликацију „Смернице за Google Apps уређаје“ да бисте применили безбедносне смернице потребне за налог "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Преузми</string>
+    <string name="auth_gls_edit_text_help">Додирните било који оквир за текст да бисте започели са куцањем</string>
+    <string name="auth_gls_eight_chars_min">најмање 8 знакова</string>
+    <string name="auth_gls_enable_web_history">Укључи веб-историју</string>
+    <string name="auth_gls_error_bad_password">Лозинка је преслаба или садржи неважеће знакове. Покушајте поново.</string>
+    <string name="auth_gls_error_login_failed">"Корисничко име и лозинка се не подударају. Покушајте поново.
+
+Да бисте повратили информације о налогу, идите на google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Да бисте приступили налогу, морате да се пријавите на вебу. Додирните Даље да бисте започели Пријављивање преко прегледача.</string>
+    <string name="auth_gls_existing_account_error_text">На овом Android уређају већ постоји налог ^1.</string>
+    <string name="auth_gls_existing_account_error_title">Налог већ постоји</string>
+    <string name="auth_gls_existing_button_label">Постојећи</string>
+    <string name="auth_gls_google_play_opt_in">Обавештавај ме о вестима и понудама са Google Play-а.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" може да садржи само слова,
+бројеве и тачке."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не садржи слова.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> садржи мање од 6 или више од 30 знакова.</string>
+    <string name="auth_gls_huddle_text">Групна размена порука за све људе у круговима.</string>
+    <string name="auth_gls_invalid_email">"Имејл адреса коју сте унели није важећа.
+ Пример: petar@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Адреса за обнављање не може да буде иста као она коју отварате.</string>
+    <string name="auth_gls_is_not_available">Корисничко име <b>^1</b> није доступно.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Сазнајте више</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Google налог вам омогућава:
+
+"<li><ul>да видите и организујете све информације са било које локације;</ul></li>"
+
+"<li><ul>да аутоматски правите резервне копије података, као што су е-пошта, контакти, музика и слике;</ul></li>"
+
+"<li><ul>да лако користите Google услуге – укључујући Контакте, Календар, Мапе и још пуно тога – са било које локације.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">О Google налозима</string>
+    <string name="auth_gls_learn_more_web_history">"Веб-историја прилагођава резултате претраге на основу онога што сте претраживали и сајтова које сте посећивали, чиме пружа персонализован Google доживљај. 
+
+Да бисте прегледали веб-историју и управљали њом, укључујући искључивање или укључивање, погледајте http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">О веб-историји</string>
+    <string name="auth_gls_name_checking_info_title">Проверавају се информације…</string>
+    <string name="auth_gls_name_progress_title">Само тренутак…</string>
+    <string name="auth_gls_name_text">Име и презиме се користе за персонализацију телефона и Google услуга.</string>
+    <string name="auth_gls_name_text_local">Телефон користи име и презиме за персонализацију неких апликација.</string>
+    <string name="auth_gls_name_title_local">Власник овог телефона је...</string>
+    <string name="auth_gls_name_title_plus">Име и презиме за Google+</string>
+    <string name="auth_gls_network_unreliable">Није могуће успоставити поуздану везу са сервером.</string>
+    <string name="auth_gls_network_unreliable_help">Ово може да буде привремени проблем, а могуће је и да Android уређај није припремљен за услуге за размену података. Ако се ово настави, позовите Корисничку подршку.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Ово може да буде привремени проблем. Покушајте поново или се повежите са другом Wi-Fi мрежом.</string>
+    <string name="auth_gls_new_button_label">Ново</string>
+    <string name="auth_gls_no_network">Немате мрежну везу.</string>
+    <string name="auth_gls_no_network_help">Ово може да буде привремени проблем, а могуће је и да Android уређај није припремљен за услуге за размену података. Покушајте поново када се повежете са мобилном мрежом или се повежите са Wi-Fi мрежом.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Ово може да буде привремени проблем. Покушајте поново или се повежите са другом Wi-Fi мрежом.</string>
+    <string name="auth_gls_not_now_button_label">Не сада</string>
+    <string name="auth_gls_password_mismatch">Лозинке се не подударају. Покушајте поново.</string>
+    <string name="auth_gls_password_title">Прављење лозинке</string>
+    <string name="auth_gls_photo_button_label">Сними слику</string>
+    <string name="auth_gls_photo_description">Слика</string>
+    <string name="auth_gls_photo_failure">Није могуће покренути камеру.</string>
+    <string name="auth_gls_photo_text">Ова слика ће се користити у запису контакта. Можете да је промените касније у апликацији Људи.</string>
+    <string name="auth_gls_photo_text_es">Снимите слику коју ће пријатељи видети у Google+. Касније можете да изаберете нову слику.</string>
+    <string name="auth_gls_photo_title">Слика</string>
+    <string name="auth_gls_plus_accepted_button_label">Придружи ме Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Не сада</string>
+    <string name="auth_gls_plus_failure_new_account_text">Google налог је отворен, али захтев за придруживање Google+ није обрађен. Покушајте поново касније из било ког веб-прегледача на plus.google.com.</string>
+    <string name="auth_gls_plus_failure_text">Захтев за придруживање Google+ није обрађен. Покушајте поново касније из било ког веб-прегледача на plus.google.com.</string>
+    <string name="auth_gls_plus_failure_title">Придружите се Google+ касније</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"На Google+ ћете имати јавни профил који помаже да вас пријатељи пронађу на мрежи. Свако ко зна имејл адресу може да пронађе профил и да га прегледа.
+
+Можете да користите +1 дугмад широм веба да бисте давали препоруке другима. Профил и +1 ставке ће се јавно приказивати у претрази, на огласима и широм веба.
+
+За сада ће на профилу бити приказано само име (%s %s). Касније, када почнете да користите Google+, можете да додате слику, биографију и друге детаље."</string>
+    <string name="auth_gls_plus_name_check_text">Ово може да потраје неколико минута.</string>
+    <string name="auth_gls_plus_name_check_title">Контактирање Google+...</string>
+    <string name="auth_gls_plus_query_text">Уз Google+ дељење на вебу је више налик дељењу у стварном животу.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Нисте %s?</string>
+    <string name="auth_gls_provisioned_welcome">Здраво %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Унесите лозинку за:
+%s"</string>
+    <string name="auth_gls_recovery_title">Информације за опоравак</string>
+    <string name="auth_gls_restore_consent_yes_agree">Врати са Google налога на овај телефон</string>
+    <string name="auth_gls_restoring_message">Телефон контактира Google ради враћања налога. То може мало да потраје.</string>
+    <string name="auth_gls_restoring_title">Враћање...</string>
+    <string name="auth_gls_retake_photo_button_label">Сними поново слику</string>
+    <string name="auth_gls_secondary_email_label">Имејл адреса за опоравак налога</string>
+    <string name="auth_gls_security_questions_title">Безбедносна питања</string>
+    <string name="auth_gls_server_error">Дошло је до проблема при комуникацији са Google серверима.</string>
+    <string name="auth_gls_server_error_help">Покушајте поново касније.</string>
+    <string name="auth_gls_sign_in_agreement">Ако се пријавите, прихватате Google <annotation id="tos">услове коришћења услуге</annotation>, <annotation id="google_privacy">политику приватности</annotation> и <annotation id="play_tos">Услове коришћења услуге Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Ако се пријавите, прихватате Google "<annotation id="tos">услове коришћења услуге</annotation>, <annotation id="google_privacy">политику приватности </annotation> и <annotation id="play_tos">Услове коришћења услуге Google Play</annotation>". 
+
+Имајте у виду: Било који други корисник може да прихвати ажуриране дозволе за апликацију у ваше име. Као и код сваког рачунара, требало би да делите овај таблет само са људима којима верујете."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Ако се пријавите, прихватате Google "<annotation id="tos">услове коришћења услуге</annotation> и <annotation id="google_privacy">политику приватности</annotation>, Chrome <annotation id="chrome_tos">услове коришћења услуге</annotation> и <annotation id="chrome_privacy">обавештење о приватности</annotation> и <annotation id="play_tos">Услове коришћења услуге</annotation> Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Ако се пријавите, прихватате Google "<annotation id="tos">услове коришћења услуге</annotation> и <annotation id="google_privacy">политику приватности</annotation>, Chrome <annotation id="chrome_tos">услове коришћења услуге</annotation> и <annotation id="chrome_privacy">обавештење о приватности</annotation> и <annotation id="play_tos">Услове коришћења услуге</annotation>" Google Play. 
+
+Имајте у виду: Било који други корисник може да прихвати ажуриране дозволе за апликацију у ваше име. Као и код сваког рачунара, требало би да делите овај таблет само са људима којима верујете."</string>
+    <string name="auth_gls_submission_title">Жао нам је…</string>
+    <string name="auth_gls_suggest_username_next_button_label">Промени корисничко име</string>
+    <string name="auth_gls_suggestions_hint">Додирните за предлоге</string>
+    <string name="auth_gls_sync_intro_activity_title">Успешно пријављивање на налог</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Прављење резервних копија и враћање</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Резервна копија</string>
+    <string name="auth_gls_sync_intro_title">Синхронизација налога</string>
+    <string name="auth_gls_sync_item_title">Синхронизуј %s</string>
+    <string name="auth_gls_too_short">Прекратко</string>
+    <string name="auth_gls_ui_activity_authenticating">Потврда аутентичности...</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Припрема...</string>
+    <string name="auth_gls_uploads_subtitle">Инстант отпремање</string>
+    <string name="auth_gls_uploads_text">Лако синхронизујте све слике са свих уређаја.</string>
+    <string name="auth_gls_verify_your_profile">Верификација профила</string>
+    <string name="auth_gls_wait_for_device_country_msg">Прикупљање информација о телефону. Ово може да потраје и до 30 секунди.</string>
+    <string name="auth_gls_wait_for_device_country_title">Подешавање налога</string>
+    <string name="auth_google_settings_header_title">Приватност</string>
+    <string name="auth_google_title_logo">Google логотип</string>
+    <string name="auth_google_trust_agent_title">Лично откључавање</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Пријављивање на Google+</string>
+    <string name="auth_gsf_notification_login_error">Додирните да бисте се пријавили на налог.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Затражена је дозвола
+за налог %s"</string>
+    <string name="auth_invalid_login_character">Неважећи знак. Дозвољени су само 0–9, a–z, A–Z и тачке.</string>
+    <string name="auth_invalid_password_character">Лозинка садржи неважећи знак.</string>
+    <string name="auth_invalid_scope">Неважећи опсег је коришћен током захтева за потврду аутентичности.</string>
+    <string name="auth_invalid_username">Текст који сте откуцали није важеће корисничко име.</string>
+    <string name="auth_learn_more_title">Сазнајте више</string>
+    <string name="auth_location_neighborhood_level">Дозволи слање анонимних података о локацији Google-у. Дозволи и да одобрене апликације утврђују приближну локацију помоћу података из извора као што су Wi-Fi и мобилне мреже.</string>
+    <string name="auth_location_network_based">Google-ова услуга лоцирања</string>
+    <string name="auth_location_settings_title">Подешавања локације</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Унели сте погрешну лозинку или је налог промењен. Поново унесите лозинку. Ако сте заборавили лозинку и желите да опоравите налог, кликните <annotation id="help_url">овде</annotation>.</string>
+    <string name="auth_login_activity_task_title">Пријављивање...</string>
+    <string name="auth_login_activity_title">Пријављивање</string>
+    <string name="auth_login_task_title">Пријављивање</string>
+    <string name="auth_login_title">Унос имејл адресе и лозинке</string>
+    <string name="auth_maps_settings_title">Мапе и Latitude</string>
+    <string name="auth_minutemaid_title">Подешавање Google налога</string>
+    <string name="auth_name_title">Име</string>
+    <string name="auth_network_unreliable">Није могуће успоставити поуздану везу са сервером.</string>
+    <string name="auth_network_unreliable_help">Ово може да буде привремени проблем, а могуће је и да Android уређај није припремљен за услуге за размену података. Ако се ово настави, позовите Корисничку подршку.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Ово може да буде привремени проблем. Покушајте поново или се повежите са другом Wi-Fi мрежом.</string>
+    <string name="auth_next_button_label">Даље</string>
+    <string name="auth_nfc_caution">Заштитите ову ознаку. Нападач можда може да је копира.</string>
+    <string name="auth_nfc_tag_exists">%1$s је већ додат</string>
+    <string name="auth_nfc_tag_not_supported">Приложени NFC није подржан</string>
+    <string name="auth_no_network">Немате мрежну везу.</string>
+    <string name="auth_no_network_help">Ово може да буде привремени проблем, а могуће је и да Android уређај није припремљен за услуге за размену података. Покушајте поново када се повежете са мобилном мрежом или се повежите са Wi-Fi мрежом.</string>
+    <string name="auth_no_network_help_wifi_only">Ово може да буде привремени проблем. Покушајте поново или се повежите са другом Wi-Fi мрежом.</string>
+    <string name="auth_ok_button_label">Потврди</string>
+    <string name="auth_only_you_acl">Само ви</string>
+    <string name="auth_otp_dialog_title">Верификациони кôд</string>
+    <string name="auth_otp_done_button">Готово</string>
+    <string name="auth_otp_error">Дошло је до проблема при генерисању верификационог кода.</string>
+    <string name="auth_otp_instruction">Користите овај кôд само за пријављивање на Google.</string>
+    <string name="auth_otp_no_accounts_available_message">Нема конфигурисаних налога на овом уређају.</string>
+    <string name="auth_otp_progress_dialog_message">Генерисање верификационог кода.</string>
+    <string name="auth_otp_select_account_message">Изаберите налог</string>
+    <string name="auth_pacl_scope_details_dialog_title">Шта Google може да види</string>
+    <string name="auth_password">Лозинка</string>
+    <string name="auth_personal_unlocking_name">Лично откључавање</string>
+    <string name="auth_personal_unlocking_service_name">Лично откључавање (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Google налог је отворен, али захтев за прављење Google+ профила није прихваћен. Покушајте поново касније из било ког веб-прегледача на plus.google.com.</string>
+    <string name="auth_plus_failure_text">Захтев за придруживање Google+ није обрађен. Покушајте поново касније из било ког веб-прегледача на plus.google.com.</string>
+    <string name="auth_plus_failure_title">Направите Google+ профил касније</string>
+    <string name="auth_plus_faq_title">Добро дошли у Google+!</string>
+    <string name="auth_plus_name_check_text">Ово може да потраје неколико минута.</string>
+    <string name="auth_plus_query_title">Прављење Google+ профила</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Здраво %s!</string>
+    <string name="auth_provisioned_welcome_2">"Унесите лозинку за:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Chrome уређај је закључан.</string>
+    <string name="auth_proximity_auth_device_locked_title">Лако откључавање</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Chrome уређај је откључан.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Лако откључавање</string>
+    <string name="auth_proximity_auth_setup_completed_content">Овај телефон може да откључава Chrome уређаје.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Лако откључавање је укључено</string>
+    <string name="auth_proximity_auth_setup_failed_content">Покушајте поново на Chrome уређају.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Грешка при подешавању Лаког откључавања</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Телефон је пронађен. Наставите на Chrome уређају.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Подешавање Лаког откључавања</string>
+    <string name="auth_recovery_loading">Учитава се...</string>
+    <string name="auth_recovery_sending">Слање...</string>
+    <string name="auth_relogin_activity_title">Поново унесите лозинку</string>
+    <string name="auth_scope_acl_edit_desc">Измени</string>
+    <string name="auth_scope_details_dialog_title">Више информација</string>
+    <string name="auth_scope_icon_desc">Икона</string>
+    <string name="auth_scope_info_desc">Информације</string>
+    <string name="auth_scope_warning_desc">Упозорење</string>
+    <string name="auth_search_settings_title">Претрага</string>
+    <string name="auth_server_error">Дошло је до проблема при комуникацији са Google серверима.</string>
+    <string name="auth_server_error_help">Покушајте поново касније.</string>
+    <string name="auth_setup_wizard_back_button_label">Назад</string>
+    <string name="auth_setup_wizard_next_button_label">Даље</string>
+    <string name="auth_setup_wizard_services_activity_title">Google услуге</string>
+    <string name="auth_setup_wizard_services_backup"><b>Направите резервну копију података са уређаја на Google-у</b> да бисте лако вратили апликације, податке апликација, системска подешавања и лозинке за Wi‑Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Направите резервне копије апликација и података</b> на Google диску да бисте могли лако да вратите уређај. Подаци обухватају апликације, податке апликација, системска подешавања и лозинке за Wi‑Fi. Резервне копије се не одражавају на ограничење складишног простора.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Подаци обухватају апликације, подешавања апликација, системска подешавања и лозинке за Wi‑Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Резервна копија и враћање</string>
+    <string name="auth_setup_wizard_services_communication_heading">Комуникација</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Помозите нам да побољшамо Android доживљај</b>, перформансе батерије, рангирање у Play продавници и још пуно тога тако што ћете аутоматски слати Google-у дијагностику и податке о коришћењу за овај уређај.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Подаци обухватају информације о хардверу и мрежи, коришћење апликација и телефона и извештаје о отказивању.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Помозите нам да побољшамо Android доживљај</b>, перформансе батерије, рангирање у Play продавници и још пуно тога тако што ћете аутоматски слати Google-у дијагностику и податке о коришћењу за овај уређај. <annotation id="learn_more">Сазнајте више.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">Google-ова услуга лоцирања користи Wi‑Fi и друге сигнале да би прецизније и брже одредила локацију и при том често троши мање енергије од GPS-а. Неки подаци могу да буду сачувани на уређају. Подаци могу да се прикупљају чак и када нема покренутих апликација.</string>
+    <string name="auth_setup_wizard_services_location_heading">Локација</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Користите Google-ову услугу лоцирања</b> да би апликације боље одредиле локацију. Анонимни подаци о локацији са уређаја ће бити послати Google-у.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Помозите нам да побољшамо услуге лоцирања</b> тако што ћете дозволити апликацијама и услугама да траже мреже чак и када је Wi‑Fi искључен.</string>
+    <string name="auth_setup_wizard_services_play">Обавештавај ме о вестима и понудама са Google Play-а.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">Овај уређај може да добија ажурирања и апликације од Google-а, мобилног оператера и произвођача уређаја.</string>
+    <string name="auth_setup_wizard_title">Чаробњак за подешавање</string>
+    <string name="auth_show_error_activity_title">Пријављивање није могуће</string>
+    <string name="auth_show_error_title">Грешка</string>
+    <string name="auth_sign_in_agreement">Пријављивањем прихватате <annotation id="google_privacy">Google</annotation> и <annotation id="android_privacy">додатну</annotation> политику приватности.</string>
+    <string name="auth_sign_in_agreement_multi_user">Ако се пријавите, прихватате Google <annotation id="tos">услове коришћења услуге</annotation>, <annotation id="google_privacy">политику приватности</annotation> и <annotation id="play_tos">Услове коришћења услуге Google Play</annotation>". 
+
+Имајте у виду: Било који други корисник може да прихвати ажуриране дозволе за апликацију у ваше име. Као и код сваког рачунара, требало би да делите овај таблет само са људима којима верујете."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Ако се пријавите, прихватате Google <annotation id="tos">услове коришћења услуге</annotation> и <annotation id="google_privacy">политику приватности</annotation>, Chrome <annotation id="chrome_tos">услове коришћења услуге</annotation> и <annotation id="chrome_privacy">обавештење о приватности</annotation> и <annotation id="play_tos">Услове коришћења услуге</annotation> Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Ако се пријавите, прихватате Google <annotation id="tos">услове коришћења услуге</annotation> и <annotation id="google_privacy">политику приватности</annotation>, Chrome <annotation id="chrome_tos">услове коришћења услуге</annotation> и <annotation id="chrome_privacy">обавештење о приватности</annotation> и <annotation id="play_tos">Услове коришћења услуге</annotation>" Google Play. 
+
+Имајте у виду: Било који други корисник може да прихвати ажуриране дозволе за апликацију у ваше име. Као и код сваког рачунара, требало би да делите овај таблет само са људима којима верујете."</string>
+    <string name="auth_sign_in_browser">Пријави ме преко прегледача</string>
+    <string name="auth_sign_in_button_label">Пријави ме</string>
+    <string name="auth_sign_in_with_google_account_short">Пријавите се помоћу Google налога:</string>
+    <string name="auth_skip_button_label">Прескочи</string>
+    <string name="auth_submission_error_text">Дошло је до грешке. Покушајте поново.</string>
+    <string name="auth_submission_title">Жао нам је…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Да бисте подесили, додирните NFC ознаку или уређај овим уређајем.</string>
+    <string name="auth_trust_agent_add_nfc_title">Додавање NFC-а</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Додајте поуздани уређај</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Додајте поуздано место</string>
+    <string name="auth_trust_agent_button_nfc_settings">NFC подешавања</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Безбедно повезано са Bluetooth уређајем %s</string>
+    <string name="auth_trust_agent_dpm_disabled">Онемогућио је администратор</string>
+    <string name="auth_trust_agent_enable_nfc">Омогућите NFC да бисте додали NFC уређај</string>
+    <string name="auth_trust_agent_first_use_notification_button">ВАЖИ</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">док је повезан са %s, који сте подесили као поуздан уређај.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Да бисте принудно закључали уређај, искључите екран, па га укључите и додирните икону за закључавање.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">док сте у месту %s, које сте подесили као поуздано место.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Уређај је откључан</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Назив</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC је пронађен
+Унесите назив за њега."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Онемогућено је</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Омогућено је</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Побољшање подударања лица</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Откажи</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Овај уређај више неће препознавати ваше лице и функција поузданог лица ће бити искључена.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Ресетуј</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Желите ли да ресетујете поуздано лице?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Ресетуј поуздано лице</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Поуздано лице</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Повезано</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Нема</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Није повезано</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Поуздани уређаји</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Нема</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Кућа</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Непознато</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Поуздана места</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Посао</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Упаривање није успело. Покушајте поново.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Није мог. подес. NFC уређај</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Додајте поуздани Bluetooth уређај да би овај уређај остао откључан док је повезан. 
+
+Примери:
+
+– Bluetooth сат
+– Bluetooth систем у аутомобилу"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth је искључен)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Додавање поузданог уређаја</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth је искључен.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Откажи</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Избор уређаја</string>
+    <string name="auth_trust_agent_trusted_devices_ok">Потврди</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Додајте поуздани уређај да би овај уређај остао откључан док је повезан. 
+
+Примери:
+
+– Bluetooth сат
+– Bluetooth систем у аутомобилу 
+– NFC налепница на држачу за телефон у аутомобилу."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Желите ли да уклоните овај уређај из поузданих уређаја?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Непознати уређај.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Додајте поуздани NFC уређај да бисте откључали овај уређај додиром. 
+
+Примери:
+
+– NFC налепница на држачу за телефон у аутомобилу."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Додајте налог да бисте преузели кућну адресу и адресу на послу.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Откажи</string>
+    <string name="auth_trust_agent_trusted_places_ok">Потврди</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Додајте поуздано место да би уређај остао откључан када сте тамо. 
+
+Примери:
+
+– Код куће
+– У канцеларији"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Уклони</string>
+    <string name="auth_trust_agent_trusted_places_rename">Преименуј</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Изаберите налог</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Непознато</string>
+    <string name="auth_trust_devices_not_available">Функција Поуздани уређаји није доступна за коришћење.</string>
+    <string name="auth_trust_places_not_available">Функција Поуздана места није доступна за коришћење.</string>
+    <string name="auth_try_again_button_label">Покушај поново</string>
+    <string name="auth_ui_activity_authenticating">Потврда аутентичности...</string>
+    <string name="auth_ui_activity_title">Пријављивање на Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Пријави ме</string>
+    <string name="auth_ui_add_account_title">Подешавање налога</string>
+    <string name="auth_unexpected_acl_error">Дошло је до проблема при давању дозвола.</string>
+    <string name="auth_use_location_summary">Нека Google користи локацију за побољшање резултата претраге и других услуга</string>
+    <string name="auth_use_location_title">Локација и Google претрага</string>
+    <string name="auth_username">Имејл адреса</string>
+    <string name="auth_visible_actions_title">Дељење са…</string>
+    <string name="authorization_dialog">Дијалог за овлашћење</string>
+    <string name="cancel">Откажи</string>
+    <string name="circle_button_add_to_circles">Додај у кругове</string>
+    <string name="circle_button_circles">Кругова: %d</string>
+    <string name="circle_button_follow">Прати</string>
+    <string name="circle_button_following_circle">Пратите</string>
+    <string name="circle_button_medium_add_to_circles">Додај</string>
+    <string name="circle_button_profile_blocked">Блокиран/а</string>
+    <string name="common_accessibility_audience_view_editable">Измени публику</string>
+    <string name="common_add_account_button_label">Додај налог</string>
+    <string name="common_add_account_label">Додавање налога</string>
+    <string name="common_ads_settings_title">Огласи</string>
+    <string name="common_android_wear_notification_needs_update_text">Апликација захтева ажурирање апликације Android Wear.</string>
+    <string name="common_android_wear_update_text">Ова апликација не може да се покрене ако не ажурирате апликацију Android Wear.</string>
+    <string name="common_android_wear_update_title">Ажурирајте Android Wear</string>
+    <string name="common_app_name">Google Play услуге</string>
+    <string name="common_cannot_start_hangouts_exception">Није могуће покренути Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Није могуће покренути Hangouts (грешка у вези са дозволом).</string>
+    <string name="common_car_permission_desc">Приступ услузи за аутомобиле.</string>
+    <string name="common_car_permission_label">Услуга за аутомобиле</string>
+    <string name="common_chips_label_empty_circles">Нема кругова</string>
+    <string name="common_chips_label_extended_circles">Проширени кругови</string>
+    <string name="common_chips_label_only_you">Само ви</string>
+    <string name="common_chips_label_public">Јавно</string>
+    <string name="common_chips_label_your_circles">Кругови</string>
+    <string name="common_choose_account_label">Избор налога</string>
+    <string name="common_clear_app_data_menu_item">Обриши податке апликације</string>
+    <string name="common_connected_apps_settings_title">Повезане апликације</string>
+    <string name="common_fitness_settings_title">Фитнес</string>
+    <string name="common_games_settings_title">Play игре</string>
+    <string name="common_get_verification_code_menu_item">Преузми верификациони кôд</string>
+    <string name="common_google_play_services_enable_button">Омогући Google Play услуге</string>
+    <string name="common_google_play_services_enable_text">Ова апликација неће функционисати ако не омогућите Google Play услуге.</string>
+    <string name="common_google_play_services_enable_title">Омогућавање Google Play услуга</string>
+    <string name="common_google_play_services_error_dialog_title">Грешка</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Захтева %1$s</string>
+    <string name="common_google_play_services_install_button">Преузми Google Play услуге</string>
+    <string name="common_google_play_services_install_text_phone">Ова апликација не може да се покрене без Google Play услуга, које недостају на телефону.</string>
+    <string name="common_google_play_services_install_text_tablet">Ова апликација не може да се покрене без Google Play услуга, које недостају на таблету.</string>
+    <string name="common_google_play_services_install_title">Преузимање Google Play услуга</string>
+    <string name="common_google_play_services_invalid_account_text">Наведени налог не постоји на овом уређају. Одаберите други налог.</string>
+    <string name="common_google_play_services_invalid_account_title">Неважећи налог</string>
+    <string name="common_google_play_services_needs_enabling_title">Апликација захтева да Google Play услуге буду омогућене.</string>
+    <string name="common_google_play_services_network_error_text">За повезивање са Google Play услугама потребна је веза за пренос података.</string>
+    <string name="common_google_play_services_network_error_title">Грешка на мрежи</string>
+    <string name="common_google_play_services_no_restricted_profiles">Ова апликација не подржава налоге за ограничене профиле</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Апликација захтева инсталацију Google Play услуга.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Апликација захтева ажурирање Google Play услуга.</string>
+    <string name="common_google_play_services_notification_ticker">Грешка Google Play услуга</string>
+    <string name="common_google_play_services_unknown_issue">Непознат проблем са Google Play услугама.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play услуге, које су потребне за функционисање неких од апликација, нису подржане на уређају. Контактирајте произвођача да бисте добили помоћ.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play услуге</string>
+    <string name="common_google_play_services_update_button">Ажурирај</string>
+    <string name="common_google_play_services_update_text">Ова апликација не може да се покрене ако не ажурирате Google Play услуге.</string>
+    <string name="common_google_play_services_update_title">Ажурирање Google Play услуга</string>
+    <string name="common_google_settings">Google подешавања</string>
+    <string name="common_list_apps_menu_help">Помоћ</string>
+    <string name="common_list_apps_menu_help_and_feedback">Помоћ и повр. информације</string>
+    <string name="common_location_settings_title">Локација</string>
+    <string name="common_maps_settings_title">Мапе и Latitude</string>
+    <string name="common_mdm_feature_name">Менаџер Android уређаја</string>
+    <string name="common_network_load_failed">Није доступно зато што уређај није могао да се повеже са мрежом</string>
+    <string name="common_no_network">Није доступно зато што је уређај офлајн</string>
+    <string name="common_open_on_phone">Отвори на телефону</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Нема налога за избор</string>
+    <string name="common_search_and_now_settings_title">Претрага и Тренутно</string>
+    <string name="common_search_settings_title">Претрага</string>
+    <string name="common_security_settings_title">Верификовање апликација</string>
+    <string name="common_signin_button_text">Пријави ме</string>
+    <string name="common_signin_button_text_long">Пријави ме преко Google-а</string>
+    <string name="common_storage_settings_title">Складишни простор за Play услуге</string>
+    <string name="common_ui_confirm_deleting_button">Избриши</string>
+    <string name="common_ui_confirm_deleting_checkbox">Разумем и желим да избришем</string>
+    <string name="common_url_load_unsuccessful_message">Android уређај није повезан са услугом за размену података. Да бисте одмах прегледали ове информације, посетите %s у веб-прегледачу.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android уређај није повезан са Wi-Fi мрежом. Да бисте одмах прегледали ове информације, посетите %s у веб-прегледачу.</string>
+    <string name="common_url_login_notice">Пријавите се као %1$s</string>
+    <string name="common_usage_and_diagnostics">Коришћење и дијагностика</string>
+    <string name="country_invalid">Ова земља није дозвољена</string>
+    <string name="device_location_acl_no_one">Нико</string>
+    <string name="device_location_best_acl_picker_title">Видљивост тачно одређене локације</string>
+    <string name="device_location_city_acl_picker_title">Видљивост локације на нивоу града</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s и други</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> и још %d</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Морате да имате везу за пренос података да бисте видели подешавања дељења локације. Проверите везу или покушајте поново касније.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Отвори подешавања локације</string>
+    <string name="device_location_reporting_reminder_dialog_summary">Ако искључите Дељење локације, то не утиче на Извештавање о локацији ни Историју локација. Локација ће можда бити потребна другим Google услугама које сте претходно омогућили, нпр. Google тренутно. Извештавање о локацији и Историју локација увек можете да контролишете у подешавањима локације.</string>
+    <string name="device_location_reporting_reminder_dialog_title">Извештавање о локацији</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> и &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> и &lt;b>%s&lt;/b></string>
+    <string name="disagree">Не прихватам</string>
+    <string name="enable_location_reporting_error">Нисмо могли да укључимо Извештавање о локацији и Историју локација за %s. Да бисте укључили Извештавање о локацији и Историју локација, идите у Подешавања локације.</string>
+    <string name="enable_location_reporting_error_title">Дошло је до грешке</string>
+    <string name="enable_location_reporting_title">Извештавање о локацији</string>
+    <string name="friend_locations_enable_reporting_auto_body">Извештавање о локацији омогућава Google производима који користе ову функцију да на уређају чувају најновије податке о локацији и да их користе. Дељење локације захтева да укључите Извештавање о локацији.&lt;br/>&lt;br/>Историја локација омогућава Google-у да чува историју података о локацији са уређаја на којима сте омогућили Извештавање о локацији. &lt;a href=\"%2$s\"> Сазнајте више&lt;/a>.&lt;br/>&lt;br/>Желите да укључите Извештавање о локацији и Историју локација за %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">Извештавање о локацији омогућава Google производима који користе ову функцију да на уређају чувају најновије податке о локацији и да их користе. Дељење локације захтева да укључите Извештавање о локацији.&lt;br/>&lt;br/>У Подешавањима локације у Google мапама проверите да ли је „Извештавање о локацији“ подешено на „Откриj локацију“ и да ли је потврђен избор у пољу „Извештавај са овог уређаја“. &lt;a href=\"%s\">Сазнајте више&lt;/a>.</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">Извештавање о локацији омогућава Google производима који користе ову функцију да на уређају чувају најновије податке о локацији и да их користе. Дељење локације захтева да укључите Извештавање о локацији.&lt;br/>&lt;br/>Пријавите се на Google мапе као %1$s и у Подешавањима локације проверите да ли је „Извештавање о локацији“ подешено на „Откриj локацију“ и да ли је потврђен избор у пољу „Извештавај са овог уређаја“. &lt;a href=\"%2$s\">Сазнајте више&lt;/a>.</string>
+    <string name="loading">Учитавање…</string>
+    <string name="location_settings_allow_access_summary">Дозволите Google апликацијама да користе локацију овог уређаја кад год је укључен</string>
+    <string name="location_settings_allow_access_title">Приступ локацији</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Нећете моћи поново да вратите Историју локација. 
+
+Google тренутно и друге апликације које користе Историју локација ће можда престати да функционишу."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Желите ли трајно да избришете?</string>
+    <string name="location_settings_delete_auth_error">Неважеће корисничко име или лозинка</string>
+    <string name="location_settings_delete_io_error">Уређај не може да се повеже са мрежом</string>
+    <string name="location_settings_delete_location_history">ИЗБРИШИ ИСТОРИЈУ ЛОКАЦИЈА</string>
+    <string name="location_settings_delete_location_history_in_progress">БРИСАЊЕ...</string>
+    <string name="location_settings_delete_offline_error">Уређај је офлајн</string>
+    <string name="location_settings_expiration_both_one">Остао је још 1 сат и 1 минут</string>
+    <string name="location_settings_expiration_both_other" formatted="false">Остало је још %d сата(и) и %d минут(а)</string>
+    <string name="location_settings_expiration_hours_one">Остао је још 1 сат и %d минут(а)</string>
+    <string name="location_settings_expiration_minutes">Преостало минута: %d</string>
+    <string name="location_settings_expiration_minutes_one">Остало је још %d сата(и) и 1 минут</string>
+    <string name="location_settings_expiration_soon">Остало је мање од 15 минута</string>
+    <string name="location_settings_info_title">Информације</string>
+    <string name="location_settings_location_history_activity_title">Историја локација</string>
+    <string name="location_settings_location_history_summary_full">"Ово подешавање омогућава да Google складишти историју података о локацији са уређаја на којима сте омогућили Извештавање о локацији за овај налог. Историја локација вам помаже да искористите Google на најбољи начин, на пример, услуга Google тренутно може да је користи да би вас обавестила о саобраћају на редовној путањи. 
+
+Историју локација можете да прегледате и да њом управљате на maps.google.com/locationhistory. Историју локација можете да искључите у било ком тренутку, али тиме нећете да уклоните постојеће уносе. Дугме у наставку ће избрисати све постојеће уносе Историје локација за налог."</string>
+    <string name="location_settings_location_reporting_activity_title">Извештавање о локацији</string>
+    <string name="location_settings_location_reporting_summary_full">"Google користи ову функцију у производима као што су Google тренутно и Google мапе. 
+
+Укључивањем Извештавања о локацији омогућавате да било који Google производ који користи ову функцију чува и користи најновије податке о локацији овог уређаја који су у вези са Google налогом."</string>
+    <string name="location_settings_no_network_alert">Морате да имате везу за пренос података да бисте видели подешавања дељења локације. Проверите везу или покушајте поново касније.</string>
+    <string name="location_settings_not_available_summary">Немате Google налог.</string>
+    <string name="location_settings_not_available_title">Додај налог</string>
+    <string name="location_settings_reporting_summary_off">Искључено је за овај уређај</string>
+    <string name="location_settings_reporting_summary_on">Укључено је за овај уређај</string>
+    <string name="location_settings_save_error">Нисмо успели да сачувамо подешавања.</string>
+    <string name="location_settings_saving">Чување подешавања...</string>
+    <string name="location_settings_screen_title">Google подешавања локације</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Ово подешавање контролише приступ локацији само за Google апликације. 
+
+Да бисте контролисали приступ локацији за све апликације, идите на Подешавања > Приступ локацији."</string>
+    <string name="location_settings_temporary_sharing_title">Привремено дељење са</string>
+    <string name="location_settings_ulr_summary_ambiguous">Није могуће утврдити претходно подешавање. Искључено је.</string>
+    <string name="location_settings_ulr_summary_auth_error">Недоступно је због нетачног корисничког имена или лозинке</string>
+    <string name="location_settings_ulr_summary_error">Није могуће контактирати сервер и преузети подешавања. Покушајте поново касније.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Онемогућено је</string>
+    <string name="location_settings_ulr_summary_loading">Преузимање…</string>
+    <string name="location_settings_ulr_summary_off">Искључено</string>
+    <string name="location_settings_ulr_summary_offline">Није доступно зато што је уређај офлајн</string>
+    <string name="location_settings_ulr_summary_on">Укључено</string>
+    <string name="location_settings_ulr_summary_restricted">Онемогућено је</string>
+    <string name="location_settings_ulr_summary_unknown">Непознато</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Није доступно у земљи %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Није доступно у овом региону</string>
+    <string name="location_settings_view_all">Прикажи све</string>
+    <string name="location_sharing_settings_acl_title">Дели се са %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Изаберите људе са којима ћете делити</string>
+    <string name="location_sharing_settings_city_description">Користите дељење локације на нивоу града да бисте омогућили пријатељима и породици да виде у ком сте граду.</string>
+    <string name="location_sharing_settings_city_example">Пример: Београд, Србија</string>
+    <string name="location_sharing_settings_city_title">Локација на нивоу града</string>
+    <string name="location_sharing_settings_description">Дељење локације вам омогућава да са људима које изаберете делите тренутну локацију из Извештавања о локацији на уређају.&lt;br/>&lt;br/> Људи са којима делите локацију могу да виде вашу тренутну локацију у Google производима, укључујући Google+ и Google тренутно. Могу да виде и ваша места, нпр. кућу и посао. &lt;a href=\"%s\">Сазнајте више&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">Дељење локације вам омогућава да са људима које изаберете делите тренутну локацију из &lt;a href=\"%1$s\">Извештавања о локацији&lt;/a> на уређају.&lt;br/>&lt;br/>Људи са којима делите локацију могу да виде вашу тренутну локацију у Google производима, укључујући Google+ и Google тренутно. Могу да виде и ваша места, нпр. кућу и посао. &lt;a href=\"%2$s\">Сазнајте више&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Промени</string>
+    <string name="location_sharing_settings_pinpoint_description">Користите дељење тачно одређене локације да бисте најмилијима омогућили да виде вашу прецизну тренутну локацију.</string>
+    <string name="location_sharing_settings_pinpoint_example">Пример: Главна улица 123, Београд, Србија</string>
+    <string name="location_sharing_settings_pinpoint_title">Тачно одређена локација</string>
+    <string name="location_sharing_settings_title">Дељење локације</string>
+    <string name="location_ulr_ambiguous_setting_text">Није могуће утврдити претходно подешавање. Укључити одмах?</string>
+    <string name="location_ulr_setting_google_location_disabled">Није доступна јер Google апликације немају приступ локацији</string>
+    <string name="location_ulr_setting_label">Google извештавање о локацији</string>
+    <string name="location_ulr_setting_location_disabled">Није доступна јер је Локација искључена</string>
+    <string name="location_ulr_setting_no_account">Искључено је, нема налога</string>
+    <string name="location_ulr_setting_reporting_only">Коришћење последње локације</string>
+    <string name="location_warning_do_not_show_again">Не приказуј поново</string>
+    <string name="location_warning_message">Омогући Google-у да помаже апликацијама у одређивању локације. То значи да ће Google-у бити слати анонимни подаци о локацији, чак и када ниједна апликација није покренута.</string>
+    <string name="location_warning_title">Желите ли да користите Google-ову услугу лоцирања?</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Моја локација 
+Прецизно до {0} м"</string>
+    <string name="maps_API_OUTDATED_WARNING">Ова апликација користи застарелу верзију Google мапa. Можда неће исправно радити.</string>
+    <string name="maps_CLOSE_SOFTKEY">Затвори</string>
+    <string name="maps_COMPASS_ALT_TEXT">Компас</string>
+    <string name="maps_LEVEL_ALT_TEXT">{0}. ниво</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Моја локација</string>
+    <string name="maps_YOUR_LOCATION">Ваша тренутна локација</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Увећај</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Умањи</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d. Google - слике ©%2$d. %3$s , подаци мапе ©%4$d. %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d. Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d. Google - слике ©%2$d. %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d. Google - подаци мапе ©%2$d. %3$s</string>
+    <string name="maps_invalid_panorama_data">Неважећа панорама.</string>
+    <string name="maps_network_unavailable">Овом програму је потребна веза са подацима и аутоматски ће покушати поново. Проверите јачину сигнала. Да ли је укључен режим рада у авиону? Да ли је онемогућен роминг?</string>
+    <string name="maps_no_panorama_data">Нису постављени подаци за панораму.</string>
+    <string name="maps_panorama_disabled">Слика више није доступна</string>
+    <string name="maps_service_unavailable">Услуга Приказ улице није доступна.</string>
+    <string name="maps_street_range_name_format">%2$s %1$s</string>
+    <string name="maps_waiting_for_network">Изгубљена је веза са подацима, нови покушај је у току…</string>
+    <string name="mr_media_route_button_content_description">Пребацуј</string>
+    <string name="mr_media_route_chooser_searching">Претраживање уређаја…</string>
+    <string name="mr_media_route_chooser_title">Повежите са уређајем</string>
+    <string name="mr_media_route_controller_disconnect">Прекини везу</string>
+    <string name="mr_system_route_name">Систем</string>
+    <string name="mr_user_route_category_name">Уређаји</string>
+    <string name="notification_ticker">Приступ је захтеван</string>
+    <string name="off">Искључи</string>
+    <string name="ok">Потврди</string>
+    <string name="on">Укључи</string>
+    <string name="open_location_settings">Отвори подешавања локације</string>
+    <string name="phone_number_hint">Број телефона</string>
+    <string name="phone_number_invalid">Неважећи број телефона</string>
+    <string name="phone_number_invalid_character">Неважећи знакови у броју телефона</string>
+    <string name="place_address_hint">Адреса</string>
+    <string name="place_address_title">Адреса</string>
+    <string name="place_address_update_hint">Ажурирајте</string>
+    <string name="place_category_hint">Изаберите категорију</string>
+    <string name="place_category_title">Категорија</string>
+    <string name="place_name_hint">Назив места</string>
+    <string name="place_name_title">Назив</string>
+    <string name="place_phone_hint">Примарни број телефона</string>
+    <string name="place_phone_title">Телефон</string>
+    <string name="place_picker_adding_a_place">Слање извештаја...</string>
+    <string name="place_picker_cancel">Откажи</string>
+    <string name="place_picker_cant_add_place">Место није додато.</string>
+    <string name="place_picker_label">Изаберите место</string>
+    <string name="place_picker_location_off_message">Да бисте изабрали локацију, прво треба да укључите Приступ локацији у Подешавањима.</string>
+    <string name="place_picker_nearby_places">Оближња места</string>
+    <string name="place_picker_no_search_results">Нема одговарајућих места.</string>
+    <string name="place_picker_search_error">Резултати нису учитани.</string>
+    <string name="place_picker_search_hint">Претражите</string>
+    <string name="place_picker_searching_label">Претраживање...</string>
+    <string name="place_picker_select_a_location_label">Изаберите локац. за више инфор.</string>
+    <string name="place_picker_select_this_location">Изаберите ову локацију</string>
+    <string name="place_picker_settings">Подешавања</string>
+    <string name="place_picker_updating_location_label">Ажурирање локације...</string>
+    <string name="place_picker_updating_nearby_label">Ажурирање оближ. места...</string>
+    <string name="place_website_hint">Званични веб-сајт</string>
+    <string name="place_website_title">Веб-сајт</string>
+    <string name="plus_accessibility_acl_selection">Изаберите публику</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Круг</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Додај у нови круг</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Аватар</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Кругови</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Претражите људе или кругове</string>
+    <string name="plus_accessibility_circle_selection">Изаберите кругове</string>
+    <string name="plus_accessibility_comment_avatar">Кругови</string>
+    <string name="plus_accessibility_facl_selection">Изаберите чланове кругова које апликација може да види</string>
+    <string name="plus_accessibility_update_circles">Ажурирајте кругове</string>
+    <string name="plus_actionbar_up_button_description">Иди нагоре</string>
+    <string name="plus_add_to_circle_progress">Додавање...</string>
+    <string name="plus_add_to_circles_title_default">Додајте у кругове</string>
+    <string name="plus_add_to_circles_title_with_user_name">Додајте %1$s</string>
+    <string name="plus_add_to_following_circle_progress">Праћење…</string>
+    <string name="plus_add_to_new_circle_progress_message">Додавање...</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">НАЛОГ</string>
+    <string name="plus_app_settings_activity_label">Повезане апликације</string>
+    <string name="plus_app_settings_activity_log_label">Евиденција активности</string>
+    <string name="plus_app_settings_activity_log_page_label">Евиденција активности</string>
+    <string name="plus_app_settings_all_apps_label">Све апликације и уређаји</string>
+    <string name="plus_app_settings_apps_page_label">Повезане апликације</string>
+    <string name="plus_app_settings_fitness_apps_label">Фитнес апликације/уређаји</string>
+    <string name="plus_app_settings_sign_in_apps_label">Пријављивање са Google+</string>
+    <string name="plus_article_preview_image_description">Преглед чланка</string>
+    <string name="plus_audience_edit_button_label">Измени</string>
+    <string name="plus_audience_selection_cancel">Откажи</string>
+    <string name="plus_audience_selection_contacts">Сви контакти</string>
+    <string name="plus_audience_selection_contacts_description">Укључује контакте које ћете накнадно направити</string>
+    <string name="plus_audience_selection_description_acl">ДЕЛИТЕ СА</string>
+    <string name="plus_audience_selection_done">Готово</string>
+    <string name="plus_audience_selection_everyone">Сви кругови</string>
+    <string name="plus_audience_selection_everyone_description">Укључује кругове које ћете накнадно направити</string>
+    <string name="plus_audience_selection_header_circles">КРУГОВИ</string>
+    <string name="plus_audience_selection_header_people">ЉУДИ</string>
+    <string name="plus_audience_selection_header_search">ПРЕТРАЖЕНО ЈЕ</string>
+    <string name="plus_audience_selection_header_suggested">ПРЕДЛОЖЕНО</string>
+    <string name="plus_audience_selection_hidden_circle">Људи у овом кругу нису јавни на вашем профилу</string>
+    <string name="plus_audience_selection_loading">Учитавање…</string>
+    <string name="plus_audience_selection_new_circle">Додај у нови круг</string>
+    <string name="plus_audience_selection_public_circle">сви на вебу</string>
+    <string name="plus_audience_selection_search_device_results">НА УРЕЂАЈУ</string>
+    <string name="plus_audience_selection_search_google_results">НА GOOGLE-У</string>
+    <string name="plus_audience_selection_title">Публика</string>
+    <string name="plus_audience_selection_title_acl">Дели са...</string>
+    <string name="plus_audience_selection_title_search">Претражи...</string>
+    <string name="plus_audience_selection_title_update_circles">Додајте у кругове</string>
+    <string name="plus_auth_audience_view_default_description">%s ће слати информације о активностима из ове апликације Google-у. Можете да изаберете ко још може да види ове активности на Google-у.</string>
+    <string name="plus_auth_audience_view_footnote">Google ће користити ове информације у складу са Google-овим <annotation id="tos">условима коришћења услуге</annotation> и <annotation id="google_privacy">политиком приватности</annotation></string>
+    <string name="plus_auth_hide_circles_label">Сакриј све кругове</string>
+    <string name="plus_auth_info_fragment_app_name">%s жели да:</string>
+    <string name="plus_auth_see_circles_label">Прикажи све кругове</string>
+    <string name="plus_avatar_image_description">Слика аватара корисника</string>
+    <string name="plus_bad_name_agree_button_label">Пошаљи</string>
+    <string name="plus_bad_name_decline_button_label">Промени име</string>
+    <string name="plus_bad_name_skip_button_label">Прескочи Google+</string>
+    <string name="plus_checking_gplus_signup_state">Повезује се...</string>
+    <string name="plus_choose_facl_title">%s види ове основне податке</string>
+    <string name="plus_circle_creation_circle_name_hint">Име круга</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Прављење круга није успело. Покушајте поново касније.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Направи</string>
+    <string name="plus_circle_creation_title_default">Направите круг</string>
+    <string name="plus_circle_creation_title_with_user_name">Додајте %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Дугме за затварање дијалога</string>
+    <string name="plus_close_button_label">Затвори</string>
+    <string name="plus_create_button_description">Дугме за додавање у нови круг</string>
+    <string name="plus_cross_client_auth_toast_text">Добро дошли назад у %1$s. Пријављени сте помоћу Google-а као %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Активност могу да виде:</string>
+    <string name="plus_delete_moment_failed_dialog_message">Дошло је до проблема при брисању активности. Покушајте поново касније.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Брисање...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Избриши и све %s активности на Google-у</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s више неће имати приступ који сте доделили за Google налог нити ће слати активности апликације Google-у. Може да прође до сат времена док се ово не доврши.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Откажи</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Прекини везу</string>
+    <string name="plus_disconnect_source_dialog_title">Желите да прекинете везу?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Није могуће прекинути везу са %s.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Желите ли да прекинете везу ове апликације са Google-ом?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Прекидање везе са %s...</string>
+    <string name="plus_domain_default">ваш домен</string>
+    <string name="plus_domain_restricted_choice_body">Спречите дељење поста изван %s</string>
+    <string name="plus_domain_restricted_choice_title">Ограничавање на %s</string>
+    <string name="plus_done">Потврди</string>
+    <string name="plus_facl_default_description">Ваше име и презиме, слика профила, Google+ ИД, узраст, језик и листа људи у круговима који су изабрани у наставку. Листа садржи њихове јавне профиле, али не и имена кругова у које сте их ставили.</string>
+    <string name="plus_first_name">Име</string>
+    <string name="plus_gender_prompt">Изаберите пол</string>
+    <string name="plus_install_app_dialog_checkbox_text">Не питај поново.</string>
+    <string name="plus_install_app_dialog_message">Желите да набавите апликацију Google+ да бисте видели пост који од малопре делите?</string>
+    <string name="plus_install_app_dialog_negative_button">Не сада</string>
+    <string name="plus_install_app_dialog_positive_button">Инсталирај</string>
+    <string name="plus_install_app_dialog_title">Набавите Google+</string>
+    <string name="plus_internal_error">Дошло је до интерне грешке.</string>
+    <string name="plus_invalid_account">Неважећи налог</string>
+    <string name="plus_last_name">Презиме</string>
+    <string name="plus_list_apps_aspen_empty_message">"Нисте повезани ни са једном апликацијом помоћу Google+ пријављивања.
+
+"<annotation id="learn_more">Сазнајте више</annotation></string>
+    <string name="plus_list_apps_disabled_error">Тренутно није могуће учитати повезане апликације. <annotation id="learn_more">Сазнајте више</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Са Google налогом није повезана ниједна апликација</string>
+    <string name="plus_list_apps_error">Није могуће учитати апликације. Покушајте поново касније.</string>
+    <string name="plus_list_apps_error_aspen">"Учитавање апликација није могуће.
+
+"<annotation id="learn_more">Сазнајте више</annotation> о апликацијама са Google+ пријављивањем.</string>
+    <string name="plus_list_apps_error_fitness">"Учитавање апликација или уређаја није успело.
+
+"<annotation id="learn_more">Сазнајте више</annotation> о Фитнес апликацијама и уређајима.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Нисте повезали ниједну апликацију или уређај са Google фитнесом
+
+"<annotation id="learn_more">Сазнајте више</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Нема налога.</string>
+    <string name="plus_list_moments_disabled_error">Тренутно није могуће учитати евиденцију активности. <annotation id="learn_more">Сазнајте више</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Немате ниједну активност</string>
+    <string name="plus_list_moments_error">Није могуће учитати активности. Покушајте поново касније.</string>
+    <string name="plus_list_moments_filter_empty_message">Немате ниједну активност овог типа.</string>
+    <string name="plus_list_moments_time_acl_format">%1$s – %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Није могуће видети ову активност из евиденције активности. Посетите ову апликацију директно.</string>
+    <string name="plus_loading">Учитавање…</string>
+    <string name="plus_manage_app_acl_description_label">Активности које ова апликација дели са Google-ом</string>
+    <string name="plus_manage_app_acl_error">Није могуће ажурирати апликацију.</string>
+    <string name="plus_manage_app_all_circles_label">Сви кругови</string>
+    <string name="plus_manage_app_app_icon_desc">Икона</string>
+    <string name="plus_manage_app_disabled_error">Тренутно није могуће учитати повезану апликацију. <annotation id="learn_more">Сазнајте више</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Прекини везу</string>
+    <string name="plus_manage_app_domain_label">Домен</string>
+    <string name="plus_manage_app_extended_circles_label">Проширени кругови</string>
+    <string name="plus_manage_app_facl_label">Апликација може да види ове људе</string>
+    <string name="plus_manage_app_label">Повезана апликација</string>
+    <string name="plus_manage_app_limited_label">Дели се приватно</string>
+    <string name="plus_manage_app_no_acl_description">Ваше коришћење ове апликације</string>
+    <string name="plus_manage_app_no_circles_label">Ништа</string>
+    <string name="plus_manage_app_only_you_label">Само ви</string>
+    <string name="plus_manage_app_pacl_label">Ко може да види активности из апликације на Google-у</string>
+    <string name="plus_manage_app_pacl_sub_label">Оно што изаберете овде не мења видљивост постојећих активности у евиденцији активности, али се примењује на активности у играма.</string>
+    <string name="plus_manage_app_public_label">Јавно</string>
+    <string name="plus_manage_app_scopes_label">Апликација може да приступа:</string>
+    <string name="plus_manage_app_updating_acl">Ажурирање…</string>
+    <string name="plus_manage_aspen_app_label">Апл. са Google+ пријављивањем</string>
+    <string name="plus_manage_device_disconnect_label">Прекини везу</string>
+    <string name="plus_manage_device_label">Повезани уређај</string>
+    <string name="plus_manage_moment_acl">"Видљиво за:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Није могуће учитати неке детаље, покушајте поново касније</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Избриши</string>
+    <string name="plus_manage_moment_delete_label">ИЗБРИШИ</string>
+    <string name="plus_manage_moment_image_desc">Активности</string>
+    <string name="plus_manage_moment_label">Активности</string>
+    <string name="plus_manage_moment_no_in_app_delete">Није могуће управљати овом активношћу. <annotation id="learn_more">Сазнајте више</annotation></string>
+    <string name="plus_ok_button_description">Дугме за потврду</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Препоручите ово на Google-у</string>
+    <string name="plus_one_annotation_none_short">Препоручите ово</string>
+    <string name="plus_one_app">Из апликације &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">Много</string>
+    <string name="plus_one_description">Додирните да бисте додали плус један постојећем кориснику %1$s</string>
+    <string name="plus_one_description_remove">Додирните да бисте уклонили свој плус један од постојећих %1$s</string>
+    <string name="plus_one_description_standard">Додирните да бисте додали плус један.</string>
+    <string name="plus_one_error">Дошло је до привременог проблема са +1. Покушајте поново.</string>
+    <string name="plus_one_public">Јавно</string>
+    <string name="plus_one_self">+1 додао/ла %1$s</string>
+    <string name="plus_one_self_removed">+1 је уклоњен.</string>
+    <string name="plus_one_share">Дели</string>
+    <string name="plus_one_social_annotation_prefix">укључујући %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">и %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">+1 за ово – %1$s</string>
+    <string name="plus_one_social_annotation_user">Ви</string>
+    <string name="plus_one_title">Јавно сте додали +1 овоме као</string>
+    <string name="plus_one_undo">Опозови</string>
+    <string name="plus_oob_3p_promo">Добијте више од апликације %1$s помоћу јавног Google+ профила.</string>
+    <string name="plus_oob_cancel_button_label">Откажи</string>
+    <string name="plus_oob_default_promo">Добијте више од Google-а помоћу јавног Google+ профила.</string>
+    <string name="plus_oob_done_button_label">Готово</string>
+    <string name="plus_oob_edit_name_warning">Ако промените име Google+ профила, оно ће бити промењено у свим Google производима.</string>
+    <string name="plus_oob_failure_text">Нажалост, Google+ није могао да подеси профил. Покушајте поново касније.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Име</string>
+    <string name="plus_oob_first_name_content_description">Име</string>
+    <string name="plus_oob_gender_content_description">Пол</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Не сада</string>
+    <string name="plus_oob_interstitial_loading">Веза с Google+…</string>
+    <string name="plus_oob_interstitial_loading_body">Ово може да потраје неколико минута.</string>
+    <string name="plus_oob_interstitial_sending">Слање…</string>
+    <string name="plus_oob_interstitial_sending_body">Ово може да потраје неколико минута.</string>
+    <string name="plus_oob_join">Направи</string>
+    <string name="plus_oob_last_name_content_description">Презиме</string>
+    <string name="plus_oob_loading">Учитавање…</string>
+    <string name="plus_oob_next">Даље</string>
+    <string name="plus_oob_next_content_description">Дугме Даље</string>
+    <string name="plus_oob_no_connection_message">Повезивање са сервером није могуће.</string>
+    <string name="plus_oob_no_connection_title">Веза није успостављена</string>
+    <string name="plus_oob_pronoun_content_description">Обраћај ми се као</string>
+    <string name="plus_oob_sending">Слање...</string>
+    <string name="plus_oob_title_tos">Google+ профил</string>
+    <string name="plus_oob_tos_accept">Прихватам</string>
+    <string name="plus_photo_preview_image_description">Преглед слике</string>
+    <string name="plus_plus_icon_image_description">Слика са иконом Google плус</string>
+    <string name="plus_posted_just_now">Малопре</string>
+    <string name="plus_pronoun_prompt">Изаберите</string>
+    <string name="plus_remove_from_circle_progress">Уклањање...</string>
+    <string name="plus_replybox_button_description">Одговори</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Желите ли да одбаците овај одговор?</string>
+    <string name="plus_replybox_hint_text">Додајте одговор</string>
+    <string name="plus_replybox_internal_error">Није могуће одговорити.</string>
+    <string name="plus_replybox_no_network_connection">Додавање одговора није могуће. Покушајте поново.</string>
+    <string name="plus_replybox_post_error_message">Постављање одговора није успело.</string>
+    <string name="plus_replybox_post_success">Одговор је постављен.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Проширени кругови</string>
+    <string name="plus_scope_fragment_mixed_label">Изабрани кругови</string>
+    <string name="plus_scope_fragment_only_you_label">Само ви</string>
+    <string name="plus_scope_fragment_public_label">Свaко на вебу</string>
+    <string name="plus_scope_fragment_your_circles_label">Кругови</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Чаробњак за подешавање</string>
+    <string name="plus_share_button_description">Дугме за дељење</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Готово</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Изаберите примаоце</string>
+    <string name="plus_sharebox_audience_to_text">Коме:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Публика</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Нови круг</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Није могуће додати људе у круг</string>
+    <string name="plus_sharebox_circles_button">Готово</string>
+    <string name="plus_sharebox_circles_checkbox_label">Додај %1$s у круг:</string>
+    <string name="plus_sharebox_circles_create_failed">Није могуће направити круг</string>
+    <string name="plus_sharebox_circles_create_option">Направи нови круг</string>
+    <string name="plus_sharebox_circles_following_circle">Праћење</string>
+    <string name="plus_sharebox_circles_friends_circle">Пријатељи</string>
+    <string name="plus_sharebox_circles_name_length_warning">Име круга је предугачко.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Ово име круга се већ користи.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Додајте у круг</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Желите ли да одбаците овај пост?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Није могуће делити.</string>
+    <string name="plus_sharebox_load_error">Дошло је до привременог проблема при учитавању дијалога дељења. Покушајте поново.</string>
+    <string name="plus_sharebox_next">ДАЉЕ</string>
+    <string name="plus_sharebox_no_network_connection">Није могуће направити пост. Покушајте поново.</string>
+    <string name="plus_sharebox_post_body_hint">Размишљам о...</string>
+    <string name="plus_sharebox_post_body_icon">Слика профила</string>
+    <string name="plus_sharebox_post_error_message">Није могуће направити пост. Покушајте поново.</string>
+    <string name="plus_sharebox_post_error_title">Пажња</string>
+    <string name="plus_sharebox_post_pending">Слање...</string>
+    <string name="plus_sharebox_post_success">Сада делите пост.</string>
+    <string name="plus_sharebox_preview_loading">Учитавање…</string>
+    <string name="plus_sharebox_search_hint">Откуцајте име, имејл адресу или круг</string>
+    <string name="plus_sharebox_share">ДЕЛИ</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Дели и на Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Делите преко Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Када делите јавно, људи које нисте додали у кругове ће моћи да виде пост и можда ће моћи да оставе коментар.</string>
+    <string name="plus_sharebox_under_age_warning_title">Јавно делите</string>
+    <string name="plus_undo_button_description">Дугме за опозив</string>
+    <string name="plus_unified_setup_activity_title">Направите профил</string>
+    <string name="plus_unknown_app_name">Апликација</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Ажурирање кругова није успело. Покушајте поново касније.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Не можете да додате корисника у кругове.</string>
+    <string name="plus_update_circles_not_allowed_message">Не можете да додате %1$s у кругове.</string>
+    <string name="plus_update_circles_progress">Ажурирање кругова...</string>
+    <string name="plus_video_preview_image_description">Преглед видеа</string>
+    <string name="recovery_done_button_label">Готово</string>
+    <string name="recovery_input_screen_message">Реците Google-у како да вас контактира ако заборавите лозинку за %s.</string>
+    <string name="recovery_message_set">"Лозинке се лако заборављају.
+
+Одмах наведите број телефона или резервну имејл адресу. На тај начин можете да повратите приступ садржају на Google-у и Google Play-у. "<annotation id="help_url">Сазнајте више</annotation></string>
+    <string name="recovery_message_verify">"Лозинке се лако заборављају.
+
+Одмах потврдите број телефона или резервну имејл адресу. На тај начин можете да повратите приступ садржају на Google-у и Google Play-у. "<annotation id="help_url">Сазнајте више</annotation></string>
+    <string name="recovery_notification_ticker">Потребно је проверити налог</string>
+    <string name="recovery_notification_title">Подсетник за обнављање лозинке</string>
+    <string name="recovery_server_error">Грешка у комуникацији са сервером. Покушајте поново касније.</string>
+    <string name="recovery_title">Обнављање Google лозинке</string>
+    <string name="recovery_yes_button_label">Подеси опције за обнављање</string>
+    <string name="recovery_yes_button_label_verify">Потврди опције за обнављање</string>
+    <string name="retry_call_to_action">Покушајте поново</string>
+    <string name="secondary_email_hint">Резервна имејл адреса</string>
+    <string name="secondary_email_invalid">Неважећа имејл адреса</string>
+    <string name="secondary_email_same_as_primary">Не може бити иста као примарна</string>
+    <string name="selected_location_unknown">Непознато</string>
+    <string name="sharedUserLabel">Google услуге</string>
+    <string name="sid_lsid_grant_detail">Баш као и лозинка, колачићи за Идентификацију сесије (SID) и Идентификацију локалне сесије (LSID) повезују идентитет са низом захтева прегледача. Они омогућавају потпун приступ свим подацима налога. Само прегледачи могу оправдано да користе ове колачиће.</string>
+    <string name="sid_lsid_grant_label">Користите SID и LSID колачиће да бисте добили приступ свим подацима Google налога.</string>
+    <string name="storage_management_drive_clear_failure">Дошло је до грешке при брисању података Диска. Покушајте поново касније.</string>
+    <string name="storage_management_drive_clear_label">Обриши</string>
+    <string name="storage_management_drive_clear_success">Подаци Диска су обрисани.</string>
+    <string name="storage_management_drive_clearing">Брисање…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Сви локални подаци Диска за апликације које могу да користе Диск ће бити трајно избрисани. То може да обухвата промене на чекању које још увек нису отпремљене на сервер Google диска.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Желите ли да обришете све податке?</string>
+    <string name="storage_management_drive_descriptive_text">Апликације које могу да користе Диск чувају датотеке на уређају ради побољшања учинка и омогућавања офлајн приступа.</string>
+    <string name="storage_management_drive_get_storage_failure">Дошло је до грешке при рачунању искоришћености складишног простора Диска. Покушајте поново касније.</string>
+    <string name="storage_management_drive_size_label">Локална меморија Диска</string>
+    <string name="storage_management_wear_descriptive_text">Апликације користе складишни простор на уређају да би копирале податке на Wear уређај.</string>
+    <string name="storage_management_wear_manage_size_label">Управљај меморијом Wear уређаја</string>
+    <string name="storage_management_wear_size_label">Меморија Wear уређаја</string>
+    <string name="storage_managment_all_storage_descriptive_text">Укупна количина података које користе Google Play услуге, укључујући претраживач и друге податке.</string>
+    <string name="storage_managment_clear_all_data">Обриши све податке</string>
+    <string name="storage_managment_computing_size">Израчунавање...</string>
+    <string name="storage_managment_icing_size_label">Складишни простор претраживача</string>
+    <string name="storage_managment_manage_icing_button">Управљај меморијом за претрагу</string>
+    <string name="storage_managment_search_index_descriptive_text">Убрзавамо претрагу на телефону тако што пружамо претраживач који апликације могу да користе.</string>
+    <string name="storage_managment_title">Складишни простор за Google Play услуге</string>
+    <string name="storage_managment_total_size_label">Укупни складишни простор</string>
+    <string name="system_update_activity_battery_low_charging_text">Није могуће инсталирати ажурирање система јер немате довољно батерије. Сачекајте да се батерија довољно напуни.</string>
+    <string name="system_update_activity_battery_low_text">Није могуће инсталирати ажурирање система јер немате довољно батерије. Прикључите пуњач да бисте наставили.</string>
+    <string name="system_update_activity_name">Ажурирања система</string>
+    <string name="system_update_activity_roaming_text">Није могуће преузети ажурирања система у ромингу.</string>
+    <string name="system_update_activity_title">Ажурирања система</string>
+    <string name="system_update_check_now_button_text">Провери одмах</string>
+    <string name="system_update_complete_label">Ажурирање система</string>
+    <string name="system_update_complete_ok_button">Потврди</string>
+    <string name="system_update_connection_lost_button_text">Повежи се са Wi-Fi мрежом</string>
+    <string name="system_update_connection_lost_text">Мрежна веза је прекинута.</string>
+    <string name="system_update_countdown_cancel_button">Откажи инсталацију</string>
+    <string name="system_update_countdown_complete">Поново се покреће...</string>
+    <string name="system_update_download_button_text">Преузми</string>
+    <string name="system_update_download_failed_no_space_status_text">Нема довољно слободног простора за преузимање</string>
+    <string name="system_update_download_failed_status_text">Преузимање није успело</string>
+    <string name="system_update_download_retry_button_text">Поново покушај преузимање</string>
+    <string name="system_update_download_waiting_status_text">Чека се преузимање</string>
+    <string name="system_update_downloading_required_update_text">"Ово би могло да потраје до ^1 минута.
+
+После тога, уређај ће се аутоматски поново покренути."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Ово би могло да потраје до ^1 минута.
+
+Након тога, таблет ће се аутоматски поново покренути."</string>
+    <string name="system_update_downloading_required_update_title">Преузима се ажурирање...</string>
+    <string name="system_update_downloading_status_text">Преузима се</string>
+    <string name="system_update_downloading_wifi_status2_text">Преко Wi-Fi-ја само до ^1</string>
+    <string name="system_update_install_button_text">Поново покрени и инсталирај</string>
+    <string name="system_update_installing_update_text">"Ово би могло да потраје до 5 минута.
+
+Након тога ћете моћи да довршите подешавање телефона."</string>
+    <string name="system_update_installing_update_title">Инсталира се ажурирање...</string>
+    <string name="system_update_last_checkin">Последњи пут је проверено да ли има ажурирања ^1.</string>
+    <string name="system_update_no_update_content_text">Систем је ажуриран.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Преузимање није успело. Покушајте поново.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Преузимање ажурирања система није успело</string>
+    <string name="system_update_not_owner_text">Ажурирање системског софтвера је доступно, али само власник може да га инсталира.</string>
+    <string name="system_update_notification_action_download">Преузми</string>
+    <string name="system_update_notification_action_install">Инсталирај</string>
+    <string name="system_update_notification_action_snooze">Касније</string>
+    <string name="system_update_required_update_restart_text">Уређај ће се поново покренути да би се инсталирало ажурирање система.</string>
+    <string name="system_update_required_update_restart_text_tablet">Таблет ће се поново покренути да би се инсталирало ажурирање система.</string>
+    <string name="system_update_required_update_restart_title">Ускоро се поново покреће</string>
+    <string name="system_update_requires_restart_status_text">Захтева поновно покретање</string>
+    <string name="system_update_restart_button_text">Поново покрени (^1)</string>
+    <string name="system_update_update_available_notification_title">Доступно је ажурирање система</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Нема довољно слободног простора за преузимање ажурирања система.</string>
+    <string name="system_update_update_downloaded_notification_title">Преузето је ажурирање система</string>
+    <string name="system_update_verification_failed_text">Верификација није успела.</string>
+    <string name="system_update_verified_status_text">Преузето и верификовано</string>
+    <string name="system_update_verifying_status_text">Проверава се</string>
+    <string name="temporary_sharing_description">Људи са којима делите прецизну локацију у Google производима током ограниченог временског периода.</string>
+    <string name="temporary_sharing_title">Привремено дељење</string>
+    <string name="turn_on_location_reporting_auto_button">Укључи</string>
+    <string name="usage_and_diagnostics_consent_message">Помозите нам да побољшамо Android доживљај тако што ћете Google-у аутоматски слати дијагностичке податке и податке о коришћењу. Ове информације нећемо користити да бисмо вас идентификовали, већ како бисмо помогли тимовима који раде на питањима попут трајања батерије, учинка апликација и нових Google функција.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Сазнајте више&lt;/font></string>
+    <string name="usage_reporting_off">Искључено</string>
+    <string name="usage_reporting_on">Укључено</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Повезано је</string>
+    <string name="wearable_status_connecting">Повезивање…</string>
+    <string name="wearable_status_disconnected">Веза је прекинута</string>
+    <string name="wearable_status_starting">Покретање...</string>
+    <string name="wearable_status_wire_protocol_mismatch">Некомпатибилан носиви уређај. Примените сва ажурирања.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Обриши одмах</string>
+    <string name="wearable_storage_managment_title">Меморија носивог уређаја</string>
+    <string name="wearable_storage_managment_total_size_label">Меморија носивог уређаја</string>
+    <string name="wearable_storage_managment_usage_label">Коришћење простора према апликацији</string>
+</resources>

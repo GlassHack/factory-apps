@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="main_message">false</item>
+    <item type="id" name="secondary_message">false</item>
+    <item type="id" name="top_view">false</item>
+    <item type="id" name="notification_text">false</item>
+    <item type="id" name="gradient_background_view">false</item>
+    <item type="id" name="slider_view">false</item>
+    <item type="id" name="prompt">false</item>
+    <item type="id" name="container_view">false</item>
+    <item type="id" name="allow_always">false</item>
+    <item type="id" name="allow_once">false</item>
+    <item type="id" name="not_now">false</item>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kawiarnia</item>
+        <item>Stacja benzynowa</item>
+        <item>Kino</item>
+        <item>Hotel</item>
+        <item>Klub nocny</item>
+        <item>Muzeum</item>
+        <item>Restauracja</item>
+        <item>Centrum handlowe</item>
+        <item>Sklep</item>
+        <item>Sklep spożywczy lub supermarket</item>
+        <item>Inne</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>słabe</item>
+        <item>dopuszczalne</item>
+        <item>dobre</item>
+        <item>silne</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>Komunikacja NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>pn</item>
+        <item>pn-wsch</item>
+        <item>wsch</item>
+        <item>pd-wsch</item>
+        <item>pd</item>
+        <item>pd-zach</item>
+        <item>zach</item>
+        <item>pn-zach</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>północ</item>
+        <item>północny wschód</item>
+        <item>wschód</item>
+        <item>południowy wschód</item>
+        <item>południe</item>
+        <item>południowy zachód</item>
+        <item>zachód</item>
+        <item>północny zachód</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Wybierz pytanie ochronne</item>
+        <item>Jaki był Twój pierwszy numer telefonu?</item>
+        <item>Jak ma na imię Twój najlepszy przyjaciel z dzieciństwa?</item>
+        <item>Jak nazywał się Twój pierwszy nauczyciel?</item>
+        <item>Jak nazywał się kierownik w Twojej pierwszej pracy?</item>
+        <item>Jaki jest numer rejestracyjny Twojego samochodu?</item>
+    </string-array>
+</resources>

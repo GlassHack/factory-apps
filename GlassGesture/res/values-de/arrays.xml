@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wink_calibration_first_wink_hints">
+        <item>Zwinkern Sie mit dem rechten Auge.</item>
+        <item>Nicht zu schnell, nicht zu langsam. Folgen Sie dem Video.</item>
+        <item>Können Sie alle vier Ecken des Bildschirms sehen?</item>
+        <item>Streichen Sie Ihre Haare zurück.</item>
+    </string-array>
+    <string-array name="wink_calibration_following_wink_hints">
+        <item>Zwinkern Sie erneut mit dem rechten Auge.</item>
+        <item>Nicht zu schnell, nicht zu langsam. Folgen Sie dem Video.</item>
+        <item>Können Sie alle vier Ecken des Bildschirms sehen?</item>
+        <item>Streichen Sie Ihre Haare zurück.</item>
+    </string-array>
+    <string-array name="wink_calibration_tip_card_contents">
+        <item>Blicken Sie beim Zwinkern durch das Display hindurch.</item>
+        <item>Schließen Sie nur das rechte Auge.</item>
+        <item>Der Bildschirm sollte während der Kalibrierung vollständig sichtbar sein.</item>
+        <item>Zwischen Auge und Gerät sollten sich keine Haare befinden.</item>
+        <item>Führen Sie die Kalibrierung ohne getönte Gläser durch.</item>
+        <item>Führen Sie die Kalibrierung erneut durch, falls das Zwinkern nicht mehr funktioniert.</item>
+        <item>Zwinkern funktioniert immer noch nicht? Wir arbeiten daran. Haben Sie noch etwas Geduld.</item>
+    </string-array>
+</resources>

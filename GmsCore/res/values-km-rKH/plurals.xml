@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">កំពុង​ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ដំឡើង​ក្នុង​រយៈពេល %d វិនាទី…</item>
+        <item quantity="one">កំពុង​ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ដំឡើង​ក្នុង​រយៈពេល 1 វិនាទី...</item>
+    </plurals>
+</resources>

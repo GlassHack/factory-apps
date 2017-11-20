@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:background="@android:color/background_light" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="yes"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/frown_cloud" />
+    <RelativeLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="@color/text_light_gray" android:id="@id/search_failed_hint" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/place_picker_search_error" />
+        <Button android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/text_white" android:id="@id/place_picker_retry_link" android:background="@drawable/place_picker_blue_background" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/retry_call_to_action" android:includeFontPadding="false" android:layout_below="@id/search_failed_hint" android:layout_alignLeft="@id/search_failed_hint" android:layout_alignRight="@id/search_failed_hint" />
+    </RelativeLayout>
+</LinearLayout>

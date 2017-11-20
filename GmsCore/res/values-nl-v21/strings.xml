@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Help en feedback</string>
+    <string name="plus_app_settings_all_apps_label">Alle apps</string>
+    <string name="plus_app_settings_apps_page_label">Gekoppelde apps</string>
+    <string name="plus_list_apps_empty_message">Er zijn geen gekoppelde apps</string>
+    <string name="plus_manage_app_pacl_label">Wie app-activiteiten kan bekijken op Google</string>
+    <string name="plus_manage_app_scopes_label">Deze app heeft toegang tot:</string>
+</resources>

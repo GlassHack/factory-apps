@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:tag="@string/plus_oob_field_view_tag_string_label" style="@style/plus_oob_DescriptionText" />
+    <EditText android:tag="@string/plus_oob_field_view_tag_string" android:inputType="text" style="@style/plus_oob_EditText" />
+</LinearLayout>

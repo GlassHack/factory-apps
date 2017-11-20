@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Nenda mwanzo</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Nenda juu</string>
+    <string name="abc_action_menu_overflow_description">Chaguo zaidi</string>
+    <string name="abc_action_mode_done">Nimemaliza</string>
+    <string name="abc_activity_chooser_view_see_all">Angalia zote</string>
+    <string name="abc_activitychooserview_choose_application">Chagua programu</string>
+    <string name="abc_searchview_description_clear">Futa hoja</string>
+    <string name="abc_searchview_description_query">Hoja ya utafutaji</string>
+    <string name="abc_searchview_description_search">Tafuta</string>
+    <string name="abc_searchview_description_submit">Wasilisha hoja</string>
+    <string name="abc_searchview_description_voice">Tafuta kwa kutamka</string>
+    <string name="abc_shareactionprovider_share_with">Shiriki na:</string>
+    <string name="abc_shareactionprovider_share_with_application">Shiriki na %s</string>
+    <string name="account_level_title">Unahitajika Kuchukua Hatua</string>
+    <string name="activity_recognition_permission_description">Huruhusu programu kupokea sasisho za mara kwa mara za kiwango cha shughuli yako kutoka kwa Google, kwa mfano, ukiwa unatembea, unaendesha gari, unaendesha baisikeli, au umetulia.</string>
+    <string name="activity_recognition_permission_label">utambuzi wa shughuli</string>
+    <string name="add_a_place_add">Ongeza</string>
+    <string name="add_a_place_call_to_action">Ongeza mahali</string>
+    <string name="add_a_place_call_to_drag">Buruta ramani ili uweke alama</string>
+    <string name="add_a_place_cancel">Ghairi</string>
+    <string name="add_a_place_next">Inayofuata</string>
+    <string name="agree">Kubali</string>
+    <string name="app_label">Mahali pa Mtandao</string>
+    <string name="app_level_title">Ombi la Kuingia</string>
+    <string name="app_level_title_secondary">Ombi la Kuingia na %s</string>
+    <string name="auth_accept_access">Kubali</string>
+    <string name="auth_account_already_has_gmail">Akaunti tayari ina Gmail.</string>
+    <string name="auth_account_setup_title">Akaunti ya Google</string>
+    <string name="auth_ads_settings_title">Matangazo</string>
+    <string name="auth_allow_external_site_access">Kuwa na ufikivu unaoendelea katika data yako kwa %s</string>
+    <string name="auth_app_label">Kidhibiti cha Akaunti ya Google</string>
+    <string name="auth_app_permission_footnote">%s na Google zitatumia maelezo haya kulingana na sheria na masharti na sera zao za faragha zinazohusika.</string>
+    <string name="auth_app_permission_label">PROGRAMU HII INGEPENDA</string>
+    <string name="auth_app_permission_ok_footnote">Kwa kuendelea, unaruhusu programu hii na Google kutumia maelezo yako kulingana na sheria na masharti na sera husika za faragha.</string>
+    <string name="auth_app_permission_sign_in_footnote">Kwa kugusa Ingia katika akaunti, unaruhusu programu hii na Google zitimie maelezo yako kwa mujibu wa sheria na masharti na sera za faragha husika.</string>
+    <string name="auth_app_permission_title">Ingia kwenye %s ukitumia Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Ruhusu kuingia katika akaunti</string>
+    <string name="auth_authzen_action_approved_toast_text">Kitendo kimeidhinishwa</string>
+    <string name="auth_authzen_action_canceled_toast_text">Kitendo kimeghairiwa</string>
+    <string name="auth_authzen_allow_reset_button_text">Ruhusu kuweka upya nenosiri</string>
+    <string name="auth_authzen_cancel_button_label">Ghairi</string>
+    <string name="auth_authzen_close_button_text">Funga</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Ruhusu</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Ghairi</string>
+    <string name="auth_authzen_default_confirmation_description">Je, ungependa kuruhusu uingiaji kwenye akaunti yako kutokea %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Tunahitaji uthibitisho wako</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Umechagua nambari isiyo sahihi. Ombi lako limeghairiwa.</string>
+    <string name="auth_authzen_default_request_description">maelezo ya ombi hayajulikani</string>
+    <string name="auth_authzen_generic_error_text">Hitilafu ilitokea. Tafadhali jaribu tena.</string>
+    <string name="auth_authzen_google_logo_label">Nembo ya Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Kuingia katika akaunti kumeidhinishwa</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Kuingia katika akaunti kumeghairiwa</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Ruhusu kuingia kutumia Google</string>
+    <string name="auth_authzen_login_challenge_desc_text">Je, unajaribu kuingia kwenye akaunti yako kutokea %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google imesimamisha jaribio la kuingia katika akaunti.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Nambari si sahihi</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Gusa nambari inayoonekana kwenye skrini nyingine. Hii itakuwezesha kuingia kwenye kompyuta yako.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Kuna mtu alijaribu kuingia kwenye Akaunti yako ya Google kwa kutumia nenosiri lako. Google ilizuia jaribio hilo la kuingia kwenye akaunti.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Kuingia kwenye akaunti kumezuiwa</string>
+    <string name="auth_authzen_login_challenge_title_text">Unajaribu kuingia kwenye akaunti?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Ili uidhinishe kuingia katika akaunti kwenye kompyuta yako, unahitaji kuthibitisha utambulisho wako</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">ombi la kuingia katika akaunti kutoka kwa kompyuta katika %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Sikuomba hili</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Asante kwa kutujulisha, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Tumenakili shughuli hii, ili tuweze kuendelea kuweka akaunti yako salama.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Ingia katika akaunti</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Ghairi</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Ingiza PIN yako ya Akaunti ya Google</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">Sawa, endelea</string>
+    <string name="auth_authzen_no_button_text">La</string>
+    <string name="auth_authzen_notify_google_default_text">Google itajulishwa kwamba mtu alijaribu kufikia akaunti yako.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google ilipokea ombi la kubadilisha nenosiri lako. Kwa kuwa ombi halikutoka kwako, limeghairiwa. Hakuna mabadiliko yaliyofanywa kwenye akaunti yako.</string>
+    <string name="auth_authzen_ok_button_text">Sawa</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Gusa nambari inayoonekana kwenye skrini nyingine. Hii itakuwezesha kuingia kwenye kompyuta yako.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Ruhusu kuingia kwenye akaunti</string>
+    <string name="auth_authzen_profile_picture_label">Picha ya wasifu</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Je, umejaribu kuingia katika akaunti kwenye Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Uwekaji nenosiri upya umeidhinishwa</string>
+    <string name="auth_authzen_recovery_canceled_text">Uwekaji nenosiri upya umeghairiwa</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Ungependa kuruhusu uwekaji wa nenosiri upya kutoka %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Tunahitaji uthibitishaji wako</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google ilisimamisha jaribio la kuweka nenosiri upya.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Nambari si sahihi</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Gusa nambari iliyoonyeshwa kwenye skrini nyingine. Hii itaweka nenosiri lako upya.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Ruhusu kuweka nenosiri upya</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Mtu fulani aliomba kuweka nenosiri la Akaunti yako ya Google upya. Google ilisimamisha jaribio la kuweka nenosiri upya.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Uwekaji wa nenosiri upya ulizuiwa</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Je, uliomba kuweka nenosiri lako upya kutoka %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Je, ulijaribu kuweka nenosiri lako upya?</string>
+    <string name="auth_authzen_secure_account_button_text">Linda akaunti yako</string>
+    <string name="auth_authzen_sending_reply_failed_text">Haikuweza kutuma jibu kwenye seva.</string>
+    <string name="auth_authzen_sending_reply_text">Inatuma jibu kwa seva</string>
+    <string name="auth_authzen_time_display_text">chini ya dakika %s zilizopita</string>
+    <string name="auth_authzen_time_just_now_text">Sasa Hivi</string>
+    <string name="auth_authzen_wait_text">Tafadhali subiri…</string>
+    <string name="auth_authzen_workflow_title">Kishawishi cha Uidhinishaji wa Google</string>
+    <string name="auth_authzen_yes_button_text">Ndiyo</string>
+    <string name="auth_back_button_label">Nyuma</string>
+    <string name="auth_bad_name_title">Jina hili litumiwe?</string>
+    <string name="auth_bluetooth_lure_button">Ongeza kama kifaa kinachoaminiwa</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Thibitisha PIN au mchoro wako wa kufunga skrini</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Kifaa kipya cha bluetooth kimeoanishwa.
+Ongeza %s kama kifaa kinachoaminiwa ili uepushe skrini yako kujifunga unapounganishwa."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Kifaa kipya cha bluetooth kimeoanishwa.</string>
+    <string name="auth_bluetooth_lure_title">Kufungua binafsi</string>
+    <string name="auth_cancel_button_label">Ghairi</string>
+    <string name="auth_captcha_instructions">Charaza maandishi unayoyaona hapa:</string>
+    <string name="auth_captcha_title">Unahitajika Kuingiza CAPTCHA</string>
+    <string name="auth_communicating_message">Kifaa chako kinawasiliana na Google ili kuhifadhi maelezo kwenye akaunti yako. Hii inaweza kuchukua hadi dakika 5.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Hali ya Kitambulisho</string>
+    <string name="auth_d2d_source_bt_notice">Bluetooth itatumika.</string>
+    <string name="auth_d2d_source_lock_notice">Kifaa chako kitajifunga na ni lazima kifunguliwe tena ili uendelee kutumia.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Haiwezi Kugonga na Kurejeshe kwa sababu hakuna akaunti kwenye kifaa hiki.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Haiwezi Kugonga na Kurejeshe kwa sababu Bluetooth haipatikani kwenye kifaa chako.</string>
+    <string name="auth_d2d_source_notification_text">"Kifaa kipya ^1 kilisanidiwa mnamo ^2 kwa kutumia kifaa hiki, ikiwa ni pamoja na jaribio la kuhamisha akaunti za Google zifuatazo: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Usanidi kifaa kipya umekamilika</string>
+    <string name="auth_d2d_source_progress_message">Inanakili data kwenye kifaa chako kipya...</string>
+    <string name="auth_d2d_source_question">Je, ungependa kunakili akaunti na data kutoka kwa kifaa hiki?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Haiwezekani Kugusa na Kurejesha kutoka kwa wasifu wa mtumiaji uliowekewa vizuizi.</string>
+    <string name="auth_d2d_source_title">Rejesha Akaunti</string>
+    <string name="auth_d2d_source_unknown_device_name">Kifaa Kisichojulikana</string>
+    <string name="auth_d2d_target_adding_accounts_message">Inaongeza akaunti...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Inaunganisha kifaa chako kingine...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Hakuna muunganisho</string>
+    <string name="auth_d2d_target_description">"Nakili kwa haraka akaunti zozote za Google, programu rudufu na data kutoka kwenye kifaa chako cha sasa cha Android. Ili unakili: 
+
+1. Hakikisha kwamba kifaa chako kingine kimewashwa na kimefunguliwa. 
+
+2. Weka vifaa viwili vikiwa mgongo-kwa-mgongo kwa muda mfupi, kisha uvitenganishe."</string>
+    <string name="auth_d2d_target_more_info">Kipengele hiki hutumia NFC ili kuhamisha data ya akaunti. Kama kifaa chako kinaweza kutumika na NFC, hakikisha kimewashwa katika Mipangilio > Isiyotumia waya &amp; mitandao > Zaidi.</string>
+    <string name="auth_d2d_target_more_info_close">Nimeelewa</string>
+    <string name="auth_d2d_target_more_info_link">Pata maelezo zaidi</string>
+    <string name="auth_d2d_target_skip_button">Ruka</string>
+    <string name="auth_d2d_target_sorry_alert">Samahani, hitilafu imetokea</string>
+    <string name="auth_d2d_target_tap_progress_message">Ili uendelee, gusa SAWA kwenye kifaa chako kingine</string>
+    <string name="auth_d2d_target_title">Gonga na Uendelee</string>
+    <string name="auth_d2d_target_try_again_button">Jaribu Tena</string>
+    <string name="auth_d2d_target_unlock_progress_message">Fungua kifaa chako kingine</string>
+    <string name="auth_d2d_target_wait_progress_message">Inanakili akaunti na data...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Kikoa chako kinahitaji usimamizi wa kifaa cha simu ya mkononi. Sakinisha programu ya \"Sera ya Kifaa cha Programu za Google\" ili kutekeleza sera za usalama zinazohitajika na akaunti ya "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> haitumii Gmail.</string>
+    <string name="auth_error_account_disabled">"Akaunti hii imelemazwa. 
+
+(Ili kupata maelezo, tembelea http://google.com/accounts kwa kutumia kivinjari cha wavuti.)"</string>
+    <string name="auth_error_account_not_verified">"Akaunti hii haijathibitishwa. Kagua barua pepe yako na ufuate kiungo kilichojumuishwa ili kuthibitisha akaunti hii.
+
+(Ili kuokoa maelezo ya akaunti yako, nenda kwenye http://www.google.com/accounts/recovery katika kompyuta yako.)"</string>
+    <string name="auth_error_bad_password">Nenosiri hilo ni dhaifu mno au linajumuisha vibamboi batili. Jaribu tena.</string>
+    <string name="auth_error_bad_username">Jina la mtumiaji si sahihi.</string>
+    <string name="auth_error_invalid_second_factor">Tumia nenosiri mahususi la programu badala ya nenosiri la akaunti yako ya kawaida.</string>
+    <string name="auth_error_login_failed">"Jina la mtumiaji na nenosiri haziambatani. Jaribu tena. 
+ 
+ Ili kuokoa akaunti yako, nenda kwenye google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Ili ufikie akaunti yako, lazima uingie kwenye wavuti. Gusa Inayofuata ili uanzishe kuingia katika akaunti kwenye kivinjari.</string>
+    <string name="auth_error_not_logged_in">Mtumiaji hajaingia.</string>
+    <string name="auth_error_username_unavailable">Jina hili la mtumiaji tayari linatumika.</string>
+    <string name="auth_existing_account_error_text">Tayari kuna akaunti ya ^1kwenye kifaa hiki cha Android.</string>
+    <string name="auth_existing_account_error_title">Akaunti tayari ipo</string>
+    <string name="auth_exit_menu_item">Ondoka kwenye akaunti katika kivinjari</string>
+    <string name="auth_facl_scope_details_dialog_title">Yale ambayo programu hii inaweza kuona</string>
+    <string name="auth_facl_with_warning_label">Badilisha anayeweza kuonekana na programu hii</string>
+    <string name="auth_field_cant_be_blank">Uga hauwezi kuwa tupu.</string>
+    <string name="auth_fitness_settings_title">Siha</string>
+    <string name="auth_gls_account_creation_tos">Kwa kuendelea, unakubali <annotation id="tos">Sheria na Masharti</annotation>, <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, na <annotation id="play_tos">Sheria na Masharti</annotation> ya Google Play.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Kwa kuendela, unakubali <annotation id="tos">Sheria na Masharti</annotation> ya Google na <annotation id="google_privacy">Sera ya Faragha</annotation>, <annotation id="chrome_tos">Sheria na Masharti</annotation> ya Chrome na <annotation id="chrome_privacy">Notisi ya Faragha</annotation>, na <annotation id="play_tos">Sheria na Masharti</annotation> ya Google Play .</string>
+    <string name="auth_gls_account_intro_default_message">Usipoteze vitu vyako tena. Akaunti ya Google huweka kila kitu salama.</string>
+    <string name="auth_gls_account_intro_learn_more">Pata maelezo zaidi</string>
+    <string name="auth_gls_account_intro_recommended_title">Tumia Google</string>
+    <string name="auth_gls_account_intro_required_title">Inaendeshwa na Google</string>
+    <string name="auth_gls_account_intro_simple_message">Ungependa kuongeza akaunti iliyopo au kufungua nyingine mpya?</string>
+    <string name="auth_gls_account_intro_title">Akaunti ya Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Je, una Akaunti ya Google?
+
+Ukiwa unatumia Gmail au Programu za Google, jibu Ndiyo."</string>
+    <string name="auth_gls_account_pre_intro_no">La</string>
+    <string name="auth_gls_account_pre_intro_title">Una akaunti ya Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Ndiyo</string>
+    <string name="auth_gls_account_recovery_info">"Ikiwa utapoteza nenosiri lako, unaweza kujibu swali la usalama na kiungo cha kuweka  upya nenosiri kikatumwa katika anwani yako nyingine ya barua pepe."</string>
+    <string name="auth_gls_account_tos_plus_title">maliza kujiunga na Google+</string>
+    <string name="auth_gls_account_tos_title">Maliza akaunti</string>
+    <string name="auth_gls_add_a_google_account">Ongeza Akaunti ya Google</string>
+    <string name="auth_gls_alternatives_list_title">Majina ya mtumiaji yanayopendekezwa</string>
+    <string name="auth_gls_answer">" "<b>Jibu</b></string>
+    <string name="auth_gls_backup_consent_message">"Tumia akaunti yako ya Google kuweka hifadhi mbadala ya programu zako, mipangilio (kama vile alamisho na manenosiri ya Wi-Fi), na data nyingine. Ikiwa ulikuwa umeweka hifadhi mbadala ya akaunti yako hapo awali, unaweza kuirejesha kwenye simu hii sasa. 
+
+Unaweza kubadilisha mipangilio yako ya hifadhi mbadala wakati wowote katika Mipangilio."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Tumia akaunti yako ya Google ili kuhifadhi nakala rudufu ya programu zako, mipangilio (kama vile alamisho na manenosiri ya Wi-Fi), na data nyingine.
+
+ Unaweza kubadilisha mipangilio yako ya kuhifadhi nakala rudufu wakati wowote katika Mipangilio."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Weka simu hii ikiwa na hifadhi ya nakala rudufu ya Akaunti yangu ya Google</string>
+    <string name="auth_gls_cant_be_blank">Sehemu haiwezi kuwa tupu.</string>
+    <string name="auth_gls_checking_account">Inakagua upatikanaji...</string>
+    <string name="auth_gls_checking_username_message">"Simu yako inawasiliana na Google ili kuona kama jina la mtumiaji ulilochagua linapatikana.
+
+Hii inaweza kuchukua dakika kadhaa."</string>
+    <string name="auth_gls_choose_a_password">Nenosiri</string>
+    <string name="auth_gls_circles_subtitle">Miduara</string>
+    <string name="auth_gls_circles_text">Njia rahisi sana ya kushirikishana mambo muhimu kwenye mtandao.</string>
+    <string name="auth_gls_confirm_password">Charaza tena nenosiri</string>
+    <string name="auth_gls_create_button_label">Jipatie akaunti</string>
+    <string name="auth_gls_create_google_account">Chagua jina la mtumiaji</string>
+    <string name="auth_gls_create_google_account_text">Akaunti yako ya Google huja ikiwa na Gmail, barua pepe kutoka Google. Barua pepe hii hufanya kazi kwenye kifaa chochote, huzuia barua taka, na mengine.</string>
+    <string name="auth_gls_creating_account_title">Inahifadhi akaunti…</string>
+    <string name="auth_gls_creating_profile">Inaunda wasifu wako...</string>
+    <string name="auth_gls_crop_failure">Haikuweza kupogoa picha.</string>
+    <string name="auth_gls_dasher_warning">Msimamizi katika %s anamiliki na kudhibiti data yako kwenye Google+ na anaweza kufuta au kurekebisha wasifu wako wakati wowote bila idhini yako</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Kikoa chako kinahitaji udhibiti wa kifaa cha mkononi. Washa programu ya \"Sera ya Kifaa ya Google Apps\" ili utekeleze sera za usalama zinazohitajika na akaunti ya "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Washa</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Kikoa chako kinahitaji usimamizi wa vifaa vya mkononi. Sakinisha programu ya \"Sera ya Kifaa cha Programu za Google\" ili kutekeleza sera za usalama zinazohitajika na akaunti ya "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Pakua</string>
+    <string name="auth_gls_edit_text_help">Gusa kisanduku chochote cha maandishi ili kuanza kuandika</string>
+    <string name="auth_gls_eight_chars_min">Herufi zisiwe chini ya 8</string>
+    <string name="auth_gls_enable_web_history">Washa historia ya wavuti</string>
+    <string name="auth_gls_error_bad_password">Nenosiri hilo ni dhaifu mno au linajumuisha vibamboi batili. Jaribu tena.</string>
+    <string name="auth_gls_error_login_failed">"Jina la mtumiaji na nenosiri haziambatani. Jaribu tena. 
+ 
+ Ili kuokoa akaunti yako, nenda kwenye google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Ili ufikie akaunti yako, sharti uingie kwenye wavuti. Gusa Inayofuata ili uingie kupitia Kivinjari.</string>
+    <string name="auth_gls_existing_account_error_text">Tayari kuna akaunti iitwayo ^1 kwenye kifaa hiki cha Android.</string>
+    <string name="auth_gls_existing_account_error_title">Akaunti tayari ipo</string>
+    <string name="auth_gls_existing_button_label">Zilizopo</string>
+    <string name="auth_gls_google_play_opt_in">Nijulishe kuhusu taarifa na ofa mpya kutoka Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b> ^ 1 </b>" inaweza kuwa na herufi, 
+ tarakimu, na uakifishaji tu."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> haina herufi zozote.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> ina chini ya vibambo 6 au zaidi ya 30.</string>
+    <string name="auth_gls_huddle_text">Kutuma ujumbe kwa watu wote katika orodha ya anwani zako.</string>
+    <string name="auth_gls_invalid_email">"Anwani ya barua pepe uliyocharaza sio halali.
+ Mfano: joe@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Anwani ya barua pepe ya kurejesha akaunti haiwezi kuwa sawa na ya akaunti unayofungua.</string>
+    <string name="auth_gls_is_not_available">Jina la mtumiaji <b>^1</b> tayari linatumika.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more"> Pata maelezo zaidi </annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Akaunti ya Google inakuwezesha:
+
+"<li><ul>" Kuangalia na kupanga maelezo yako yote kutoka mahali popote.  "</ul></li>" 
+ 
+ "<ul> <li> Kurudufu moja kwa moja data yako, kama vile barua pepe, anwani, muziki, na picha. </li> </ul>" 
+ 
+ "<ul> <li>Tumia huduma za Google kwa urahisi kutoka mahali popote - ikiwa ni pamoja na Anwani, Kalenda, Ramani, na zaidi. </li> </ul></string>
+    <string name="auth_gls_learn_more_account_intro_title">Kuhusu Akaunti za Google</string>
+    <string name="auth_gls_learn_more_web_history">"Historia ya wavuti hurekebisha matokeo ya utafutaji kulingana na yale ambayo umetafuta na tovuti ulizotembelea, hivyo kukupa utumiaji wa Google uliogeuzwa kukufaa. 
+
+Ili kuonyesha na kudhibiti historia yako ya wavuti, ikiwa ni pamoja na kuiwasha au kuizima, tazama http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Kuhusu historia ya wavuti</string>
+    <string name="auth_gls_name_checking_info_title">Inakagua maelezo...</string>
+    <string name="auth_gls_name_progress_title">Subiri kidogo...</string>
+    <string name="auth_gls_name_text">Jina lako hutumiwa ili kubinafsisha simu yako na huduma za Google.</string>
+    <string name="auth_gls_name_text_local">Simu hutumia jina lako kubinafsisha baadhi ya programu.</string>
+    <string name="auth_gls_name_title_local">Simu hii ni ya...</string>
+    <string name="auth_gls_name_title_plus">Jina lako la Google+</string>
+    <string name="auth_gls_network_unreliable">Haiwezi kupata muunganisho thabiti kwa seva.</string>
+    <string name="auth_gls_network_unreliable_help">Huenda hili likawa tatizo la muda au huenda kifaa chako cha Android hakijawashiwa huduma za data. Ikiendelea, pigia simu kwa Huduma kwa Wateja.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Hili ni tatizo la muda. Jaribu tena au uunganishe kwenye mtandao mwingine wa Wi-Fi.</string>
+    <string name="auth_gls_new_button_label">Mpya</string>
+    <string name="auth_gls_no_network">Huna muunganisho wa mtandao.</string>
+    <string name="auth_gls_no_network_help">Hili linaweza kuwa tatizo la muda au huenda kifaa chako cha Android hakijawashwa huduma za data. Jaribu tena ukiwa umeunganishwa kwenye mtandao wa simu za mkononi, au unganisha kwenye mtandao wa Wi-Fi.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Hili ni tatizo la muda. Jaribu tena au uunganishe kwenye mtandao mwingine wa Wi-Fi.</string>
+    <string name="auth_gls_not_now_button_label">Sio sasa</string>
+    <string name="auth_gls_password_mismatch">Manenosiri hayakulingana. Jaribu tena.</string>
+    <string name="auth_gls_password_title">Tunga nenosiri</string>
+    <string name="auth_gls_photo_button_label">Piga picha</string>
+    <string name="auth_gls_photo_description">Picha yako</string>
+    <string name="auth_gls_photo_failure">Haikuweza kuzindua kamera.</string>
+    <string name="auth_gls_photo_text">Picha hii itatumika katika rekodi yako ya anwani. Unaweza kuibadilisha baadaye katika programu ya Watu.</string>
+    <string name="auth_gls_photo_text_es">Piga picha ambayo marafiki wako wataona kwenye Google+. Unaweza kuchagua picha mpya baadaye.</string>
+    <string name="auth_gls_photo_title">Picha yako</string>
+    <string name="auth_gls_plus_accepted_button_label">Jiunge na Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Sio sasa</string>
+    <string name="auth_gls_plus_failure_new_account_text">Akaunti yako ya Google imeundwa, lakini ombi lako la kujiunga na Google+ halikufaulu. Jaribu tena baadaye kwa kutumia kivinjari chochote cha wavuti katika plus.google.com.</string>
+    <string name="auth_gls_plus_failure_text">Ombi lako la kujiunga na Google+ halikufanikiwa. Jaribu tena baadaye kutoka kivinjari chochote cha wavuti kwenye plus.google.com.</string>
+    <string name="auth_gls_plus_failure_title">Jiunge na Google+ baadaye</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Kwenye Google+, utakuwa na wasifu wako unaoonekana kwa kila mtu ili kuwasaidia marafiki wako kukupata mtandaoni. Mtu yeyote anayejua anwani yako ya barua pepe anaweza kukupata na kuona wasifu wako.
+
+ Unaweza kutumia vitufe vya +1 katika wavuti ili kupendekeza vitu. Wasifu wako na +1 zitaonekana hadharani katika utafutaji, kwenye matangazo na kwa wavuti wote. 
+
+Kwa sasa, wasifu wako utaonyesha jina lako (%s%s). Unaweza kuongeza picha, maelezo binafsi, na maelezo mengine baadaye utakapoanza kutumia Google+."</string>
+    <string name="auth_gls_plus_name_check_text">Hii inaweza kuchukua dakika kadhaa.</string>
+    <string name="auth_gls_plus_name_check_title">Inawasiliana na Google+...</string>
+    <string name="auth_gls_plus_query_text">Google+ hufanya kushiriki kwenye wavuti sawa na kushiriki katika masiha halisi.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Sio %s?</string>
+    <string name="auth_gls_provisioned_welcome">Hujambo,%s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Weka nenosiri lako la: 
+%%s"</string>
+    <string name="auth_gls_recovery_title">Melezo ya urejeshaji</string>
+    <string name="auth_gls_restore_consent_yes_agree">Rejesha kutoka kwenye Akaunti yangu ya Google kwenda simu hii</string>
+    <string name="auth_gls_restoring_message">Simu yako inawasiliana na Google ili kurejesha akaunti yako. Hii inaweza kuchukua muda.</string>
+    <string name="auth_gls_restoring_title">Inarejesha...</string>
+    <string name="auth_gls_retake_photo_button_label">Piga picha tena</string>
+    <string name="auth_gls_secondary_email_label">Anwani ya barua pepe ya kurejesha akaunti</string>
+    <string name="auth_gls_security_questions_title">Maswali ya uthabiti</string>
+    <string name="auth_gls_server_error">Kulikuwa na tatizo la kuwasiliana na seva za Google.</string>
+    <string name="auth_gls_server_error_help">Jaribu tena baadaye.</string>
+    <string name="auth_gls_sign_in_agreement">Kwa kuingia, unakubaliana na <annotation id="tos">Sheria na Masharti ya</annotation>, <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, na <annotation id="play_tos">Sheria na Masharti ya Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Kwa kuingia, unakubaliana na "<annotation id="tos">Sheria na Masharti</annotation>ya Google, <annotation id="google_privacy">Sera ya Faragha </annotation>, na <annotation id="play_tos">Sheria na Masharti ya Google Play </annotation>". 
+
+Kumbuka: Mtumiaji mwengine yeyote anaweza kukubali idhini za programu zilizosasishwa kwa niaba yako. Sawa na kompyuta zingine, shiriki kampyuta hii ndogo na watu unaowaamini pekee."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Kwa kuingia, unakubaliana na "<annotation id="tos">Sheria na Masharti</annotation> na <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, <annotation id="chrome_tos">Sheria na Masharti</annotation> na <annotation id="chrome_privacy">Ilani ya Faragha</annotation> ya Chrome, na <annotation id="play_tos"> Sheria na Masharti</annotation> ya Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Kwa kuingia, unakubaliana na  Sheria na Masharti ya "<annotation id="tos">Google</annotation> na <annotation id="google_privacy">Sera ya Faragha</annotation>, Sheria na Masharti ya <annotation id="chrome_tos">Chrome</annotation> na <annotation id="chrome_privacy">Ilani ya Faragha</annotation>, na Sheria na Masharti ya <annotation id="play_tos">Google Play</annotation>". 
+
+Kumbuka: Mtumiaji mwingine yeyote anaweza kukubali idhini ya programu zilizosasishwa kwa niaba yako. Sawa na kompyuta zingine, shiriki kampyuta hii ndogo na watu unaowaamini pekee."</string>
+    <string name="auth_gls_submission_title">Samahani...</string>
+    <string name="auth_gls_suggest_username_next_button_label">Badilisha jina la mtumiaji</string>
+    <string name="auth_gls_suggestions_hint">Gusa ili kupata mapendekezo</string>
+    <string name="auth_gls_sync_intro_activity_title">Umefanikiwa kuingia kwenye akaunti</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Hifadhi mbadala na kuonyesha upya</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Hifadhi rudufu</string>
+    <string name="auth_gls_sync_intro_title">Usawazishaji Akaunti</string>
+    <string name="auth_gls_sync_item_title">Usawazishaji %s</string>
+    <string name="auth_gls_too_short">Fupi sana</string>
+    <string name="auth_gls_ui_activity_authenticating">Inathibitisha...</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Inaandaa...</string>
+    <string name="auth_gls_uploads_subtitle">Upakiaji wa Papo Hapo</string>
+    <string name="auth_gls_uploads_text">Sawazisha kwa urahisi picha zako zote kutoka kwa vifaa vyako vyote.</string>
+    <string name="auth_gls_verify_your_profile">Thibitisha wasifu wako</string>
+    <string name="auth_gls_wait_for_device_country_msg">Kukusanya maelezo kuhusu simu yako. Hii inaweza kuchukua hadi sekunde 30.</string>
+    <string name="auth_gls_wait_for_device_country_title">Usanidi wa akaunti</string>
+    <string name="auth_google_settings_header_title">Faragha</string>
+    <string name="auth_google_title_logo">Nembo ya Google</string>
+    <string name="auth_google_trust_agent_title">Kufungua binafsi</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Ingia kwa Google+</string>
+    <string name="auth_gsf_notification_login_error">Gusa ili uingie kwenye akaunti yako.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Ruhusa imeombwa
+kwa akaunti %s"</string>
+    <string name="auth_invalid_login_character">Herufi hii si sahihi. Ni 0-9, a-z, A-Z, na vitone pekee vinavyoruhusiwa.</string>
+    <string name="auth_invalid_password_character">Herufi ya nenosiri si sahihi.</string>
+    <string name="auth_invalid_scope">Upeo batili ulitumika wakati wa ombi la uthibitishaji.</string>
+    <string name="auth_invalid_username">Maandishi uliyoyacharaza sio jina halali la mtumiaji.</string>
+    <string name="auth_learn_more_title">Pata maelezo zaidi</string>
+    <string name="auth_location_neighborhood_level">Ruhusu data ya eneo isiyokutambulisha itumwe kwa Google. Pia ruhusu programu zilizoruhusiwa kutumia data kutoka vyanzo kama vile Wi-Fi na mitandao ya vifaa vya mkononi ili kukadiria mahali ulipo.</string>
+    <string name="auth_location_network_based">Huduma ya Google ya kutambua eneo</string>
+    <string name="auth_location_settings_title">Mipangilio ya eneo</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Umechapa nenosiri lisilosahihi au akaunti yako imebadilika. Chapa tena nenosiri lako. Iwapo umesahau nenosiri lako na unahitaji kurejesha akaunti yako bofya <annotation id="help_url">hapa</annotation>.</string>
+    <string name="auth_login_activity_task_title">Unaingia katika akaunti...</string>
+    <string name="auth_login_activity_title">Ingia</string>
+    <string name="auth_login_task_title">Unaingia</string>
+    <string name="auth_login_title">Charaza Anwani ya Barua Pepe na Nenosiri</string>
+    <string name="auth_maps_settings_title">Ramani na Latitudo</string>
+    <string name="auth_minutemaid_title">Sanidi Akaunti ya Google</string>
+    <string name="auth_name_title">Jina lako</string>
+    <string name="auth_network_unreliable">Haiwezi kupata muunganisho thabiti kwa seva.</string>
+    <string name="auth_network_unreliable_help">Huenda hili likawa tatizo la muda au huenda kifaa chako cha Android hakijawezeshwa huduma za data. Ikiendelea, pigia simu kwa Huduma kwa Wateja.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Hii inaweza kuwa hitilafu ya muda. Jaribu tena au uunganishe kwenye mtandao mwingine wa Wi-Fi.</string>
+    <string name="auth_next_button_label">Ufuatao</string>
+    <string name="auth_nfc_caution">Linda lebo hii. Mshambuliaji huenda akaweza kuinakili.</string>
+    <string name="auth_nfc_tag_exists">%1$s tayari ameongezwa</string>
+    <string name="auth_nfc_tag_not_supported">Kifaa cha NFC kilichotolewa hakiwezi kutumika</string>
+    <string name="auth_no_network">Huna muunganisho wa mtandao.</string>
+    <string name="auth_no_network_help">Hili linaweza kuwa tatizo la muda au huenda kifaa chako cha Android hakijawezeshwa huduma za data. Jaribu tena wakati umeunganishwa kwa mtandao wa simu ya mkononi, au unganisha kwenye mtandao wa Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Hili ni tatizo la muda. Jaribu tena au uunganishe kwenye mtandao mwingine wa Wi-Fi.</string>
+    <string name="auth_ok_button_label">Sawa</string>
+    <string name="auth_only_you_acl">Wewe tu</string>
+    <string name="auth_otp_dialog_title">Nambari ya kuthibitisha</string>
+    <string name="auth_otp_done_button">Imefanywa</string>
+    <string name="auth_otp_error">Kulikuwa na tatizo katika kuzalisha nambari ya kuthibitisha.</string>
+    <string name="auth_otp_instruction">Tumia msimbo huu kuingia katika Google pekee.</string>
+    <string name="auth_otp_no_accounts_available_message">Hakuna akaunti iliyosanidiwa kwenye kifaa hiki.</string>
+    <string name="auth_otp_progress_dialog_message">Inazalisha nambari ya kuthibitisha.</string>
+    <string name="auth_otp_select_account_message">Chagua akaunti</string>
+    <string name="auth_pacl_scope_details_dialog_title">Kile ambacho Google inaweza kuona</string>
+    <string name="auth_password">Nenosiri</string>
+    <string name="auth_personal_unlocking_name">Kufungua binafsi</string>
+    <string name="auth_personal_unlocking_service_name">Ufunguaji binafsi (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Akaunti yako ya Google imefunguliwa, lakini ombi lako la kuunda wasifu wa Google+ halikutumwa. Jaribu tena baadaye kutoka kivinjari chochote cha wavuti katika plus.google.com.</string>
+    <string name="auth_plus_failure_text">Ombi lako la kujiunga na Google+ halikufanikiwa. Jaribu tena baadaye kutoka kivinjari chochote cha wavuti kwenye plus.google.com.</string>
+    <string name="auth_plus_failure_title">Unda wasifu wa Google+ baadaye</string>
+    <string name="auth_plus_faq_title">Karibu kwenye Google+!</string>
+    <string name="auth_plus_name_check_text">Hii inaweza kuchukua dakika kadhaa.</string>
+    <string name="auth_plus_query_title">Unda wasifu wa Google+</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Hujambo,%s!</string>
+    <string name="auth_provisioned_welcome_2">"Weka nenosiri lako la: 
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Kifaa cha Chrome kimefungwa.</string>
+    <string name="auth_proximity_auth_device_locked_title">Fungua kwa urahisi</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Kifaa cha Chrome kimefunguliwa.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Fungua kwa urahisi</string>
+    <string name="auth_proximity_auth_setup_completed_content">Simu hii inaweza kufungua vifaa vyako vya Chrome.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Kufungua kwa urahisi kumewashwa</string>
+    <string name="auth_proximity_auth_setup_failed_content">Tafadhali jaribu tena kwenye kifaa chako cha Chrome.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Hitilafu wakati wa kusanidi Fungua kwa urahisi</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Simu imepatikana. Endelea kwenye kifaa cha Chrome.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Usanidi wa Fungua kwa urahisi</string>
+    <string name="auth_recovery_loading">Inapakia...</string>
+    <string name="auth_recovery_sending">Inatuma…</string>
+    <string name="auth_relogin_activity_title">Charaza upya nenosiri</string>
+    <string name="auth_scope_acl_edit_desc">Badilisha</string>
+    <string name="auth_scope_details_dialog_title">Maelezo zaidi</string>
+    <string name="auth_scope_icon_desc">Ikoni</string>
+    <string name="auth_scope_info_desc">Maelezo</string>
+    <string name="auth_scope_warning_desc">Onyo</string>
+    <string name="auth_search_settings_title">Tafuta</string>
+    <string name="auth_server_error">Kulikuwa na tatizo la kuwasiliana na seva za Google.</string>
+    <string name="auth_server_error_help">Jaribu tena baadaye.</string>
+    <string name="auth_setup_wizard_back_button_label">Iliyotangulia</string>
+    <string name="auth_setup_wizard_next_button_label">Inayofuata</string>
+    <string name="auth_setup_wizard_services_activity_title">Huduma za Google</string>
+    <string name="auth_setup_wizard_services_backup"><b>Fanya hifadhi rudufu ya yaliyo katika kifaa chako kwenye Google</b> ili uweze kurejesha programu, data ya programu, mipangilio ya mfumo na maneno-siri ya Wi-Fi kwa urahisi.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Fanya hifadhi rudufu ya programu zako na data</b> kwenye Hifadhi ya Google ili uweze kurejesha mipangilio ya kifaa kwa urahisi. Data inajumuisha programu, data ya programu, mipangilio ya mfumo na manenosiri ya Wi‑Fi. Hifadhi rudufu haitaathiri nafasi uliyo nayo ya hifadhi.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Data hujumuisha programu, mipangilio ya programu, mipangilio ya mfumo, na manenosiri ya Wi-Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Hifadhi nakala rudufu na uzirejeshe</string>
+    <string name="auth_setup_wizard_services_communication_heading">Mawasiliano</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Saidia katika kuboresha hali yako ya utumiaji wa Android</b>, utendaji kazi wa betri, nafasi inayoshikilia katika Duka la Google Play na zaidi kwa kutuma data za uchunguzi na matumizi kuhusu kifaa hiki kwa Google.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Data inajumuisha maunzi na maelezo ya mtandao, matumizi ya programu na simu, na ripoti za kuacha kufanya kazi.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Saidia katika kuboresha hali yako ya utumiaji wa Android</b>, utendaji kazi wa betri, nafasi inayoshikilia katika Duka la Google Play na zaidi kwa kutuma data ya uchunguzi na matumizi kuhusu kifaa hiki kwa Google. <annotation id="learn_more">Pata maelezo zaidi.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">Huduma ya Google ya kutambua mahali hutumia Wi-Fi na mawimbi mengine kugundua mahali kwa usahihi na kwa haraka zaidi, mara nyingi ikitumia kiasi kidogo cha nishati ikilinganishwa na GPS. Baadhi ya data inaweza kuwa imehifadhiwa kwenye kifaa chako. Data inaweza kukusanywa hata wakati hakuna programu zinazotumika.</string>
+    <string name="auth_setup_wizard_services_location_heading">Mahali</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Tumia huduma ya Google ya utambuzi wa mahali</b> ili usaidie programu kutambua mahali. Data ya mahali kutoka kwenye kifaa chako itatumwa bila kufichia maelezo yanayokuhusu kwa Google.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Saidia kuboresha huduma za utambuzi wa mahali</b> kwa kuruhusu programu na huduma ziangalie mitandao hata Wi-Fi inapokua imezimwa.</string>
+    <string name="auth_setup_wizard_services_play">Nijulishe kuhusu taarifa na matoleo mapya kutoka Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">Kifaa hiki kinaweza kupokea sasisho na programu kutoka Google, mtoa huduma wako na mtengenezaji wa kifaa.</string>
+    <string name="auth_setup_wizard_title">Utaratibu Uliofupishwa wa Kusanidi</string>
+    <string name="auth_show_error_activity_title">Haikuweza kuingia</string>
+    <string name="auth_show_error_title">Hitilafu</string>
+    <string name="auth_sign_in_agreement">Kwa kuingia unakubali <annotation id="google_privacy"> Google </annotation> na <annotation id="android_privacy"> Sera za Ziada za Faragha</annotation>.</string>
+    <string name="auth_sign_in_agreement_multi_user">Kwa kuingia, unakubali kutii Sheria na Masharti ya <annotation id="tos">Google</annotation>, <annotation id="google_privacy">Sera ya Faragha</annotation>, na <annotation id="play_tos">Sheria na Masharti ya Google Play</annotation>". 
+
+Kumbuka: Mtumiaji mwingine yeyote anaweza kukubali vibali vilivyosasishwa vya programu kwa niaba yako. Sawa na kompyuta zingine, shiriki kompyuta kibao hii na watu unaowaamini pekee."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Kwa kuingia, unakubaliana na <annotation id="tos">Sheria na Masharti</annotation> na <annotation id="google_privacy">Sera ya Faragha</annotation> ya Google, <annotation id="chrome_tos">Sheria na Masharti</annotation> na <annotation id="chrome_privacy">Ilani ya Faragha</annotation> ya Chrome, na <annotation id="play_tos"> Sheria na Masharti</annotation> ya Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">"Kwa kuingia, unakubaliana na  Sheria na Masharti ya "<annotation id="tos">Google</annotation> na <annotation id="google_privacy">Sera ya Faragha</annotation>, Sheria na Masharti ya <annotation id="chrome_tos">Chrome</annotation> na <annotation id="chrome_privacy">Ilani ya Faragha</annotation>, na Sheria na Masharti ya <annotation id="play_tos">Google Play</annotation>". 
+
+Kumbuka: Mtumiaji mwengine yeyote anaweza kukubali idhini za programu zilizosasishwa kwa niaba yako. Sawa na kompyuta zingine, shiriki kampyuta hii ndogo na watu unaowaamini pekee."</string>
+    <string name="auth_sign_in_browser">Ingia katika akaunti kwenye kivinjari</string>
+    <string name="auth_sign_in_button_label">Ingia</string>
+    <string name="auth_sign_in_with_google_account_short">Ingia kwa kutumia akaunti yako ya Google:</string>
+    <string name="auth_skip_button_label">Ruka</string>
+    <string name="auth_submission_error_text">Kulikuwa na hitilafu. Jaribu tena.</string>
+    <string name="auth_submission_title">Samahani...</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Ili usanidi, gonga kifaa hiki katika tagi ya NFC au kifaa.</string>
+    <string name="auth_trust_agent_add_nfc_title">Ongeza NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Ongeza kifaa kinachoaminiwa</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Ongeza maeneo unayoyaamini</string>
+    <string name="auth_trust_agent_button_nfc_settings">Mipangilio ya NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Imeunganishwa kwa usalama kwenye kifaa %s cha Bluetooth</string>
+    <string name="auth_trust_agent_dpm_disabled">Imezimwa na msimamizi</string>
+    <string name="auth_trust_agent_enable_nfc">Anzisha NFC ili uongeze kifaa cha NFC</string>
+    <string name="auth_trust_agent_first_use_notification_button">NIMEELEWA</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">ukiwa umeunganishwa kwenye %s, ulichokiweka kama kifaa unachokiamini.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Ili ulazimishe kifaa chako kijifunge, zima skrini kisha uwashe na uguse aikoni ya kufuli.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">wakati ukiwa %s, uliloliweka kama eneo unaloliamini.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Kifaa chako kimefunguliwa</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Jina</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC imepatikana
+Andika jina lake."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Imezimwa</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Imewezeshwa</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Boresha ulinganishaji sura</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Ghairi</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Kifaa hiki hakitatambua uso wako tena, na kipengele cha uso unaoaminika kitazimwa.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Weka upya</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Ungependa kuweka uso unaoaminika upya?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Weka uso unaoaminika upya</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Uso unaoaminika</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Imeunganishwa</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Hamna</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Haijaunganishwa</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Vifaa unavyoviamini</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Hamna</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Mwanzo</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Isiyojulikana</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Maeneo unayoyaamini</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Kazini</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Kuoanisha kumeshindikana. Jaribu tena.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Haikuweza kusanidi kifaa cha NFC</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Ongeza kifaa cha kuaminiwa cha Bluetooth ili kifaa hiki kisifungwe kinapounganishwa. 
+
+Mifano:
+
+- Saa yako ya Bluetooth
+- Mfumo wa Bluetooth wa gari lako"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth 
+(Bluetooth imezimwa)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Ongeza kifaa kinachoaminiwa</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth imezimwa.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Ghairi</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Chagua kifaa</string>
+    <string name="auth_trust_agent_trusted_devices_ok">Sawa</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Ongeza kifaa cha kuaminiwa cha Bluetooth ili kifaa hiki kisifungwe kinapounganishwa.
+
+Mifano:
+
+- Saa yako ya Bluetooth
+- Mfumo wa Bluetooth wa gari lako 
+- Kibandiko cha NFC kwenye kituo cha simu katika gari lako."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Ungependa kuondoa kifaa hiki miongoni mwa vifaa unavyoviamini?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Kifaa kisichojulikana.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Ongeza kifaa cha NFC cha kuaminiwa ili ufungue kifaa hiki kwa kugonga . 
+
+Mifano:
+
+- Kibandiko cha NFC kwenye kituo cha simu katika gari lako."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Tafadhali ongeza akaunti ili upate anwani za nyumbani na kazini.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Ghairi</string>
+    <string name="auth_trust_agent_trusted_places_ok">Sawa</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Ongeza mahali panapoaminiwa ili kifaa hiki kisifungwe unapoingia mahali hapo. 
+
+Mifano:
+
+- Nyumbani kwako
+- Ofisini kwako"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Ondoa</string>
+    <string name="auth_trust_agent_trusted_places_rename">Badilisha jina</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Chagua Akaunti</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Isiyojulikana</string>
+    <string name="auth_trust_devices_not_available">Kipengele cha vifaa vinavyoaminiwa hakipatikani kwa matumizi.</string>
+    <string name="auth_trust_places_not_available">Kipengele cha maeneo unayoyaamini hakipatikani kwa matumizi.</string>
+    <string name="auth_try_again_button_label">Jaribu tena</string>
+    <string name="auth_ui_activity_authenticating">Inahalalisha...</string>
+    <string name="auth_ui_activity_title">Kuingia kwa kutumia Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Ingia katika akaunti</string>
+    <string name="auth_ui_add_account_title">Usanidi wa akaunti</string>
+    <string name="auth_unexpected_acl_error">Kulikuwa na tatizo katika kutoa idhini.</string>
+    <string name="auth_use_location_summary">Ruhusu Google itumie eneo lako kuboresha matokeo ya utafutaji na huduma zingine</string>
+    <string name="auth_use_location_title">Eneo na Huduma ya Tafuta na Google</string>
+    <string name="auth_username">Barua pepe</string>
+    <string name="auth_visible_actions_title">Shiriki na...</string>
+    <string name="authorization_dialog">Mawasialiano ya kuidhinisha</string>
+    <string name="cancel">Ghairi</string>
+    <string name="circle_button_add_to_circles">Mwongeze kwenye miduara</string>
+    <string name="circle_button_circles">Miduara %d</string>
+    <string name="circle_button_follow">Fuata</string>
+    <string name="circle_button_following_circle">Unafuata</string>
+    <string name="circle_button_medium_add_to_circles">Ongeza</string>
+    <string name="circle_button_profile_blocked">Umezuia</string>
+    <string name="common_accessibility_audience_view_editable">Hariri hadhira</string>
+    <string name="common_add_account_button_label">Ongeza akaunti</string>
+    <string name="common_add_account_label">Ongeza akaunti</string>
+    <string name="common_ads_settings_title">Matangazo</string>
+    <string name="common_android_wear_notification_needs_update_text">Programu inahitaji sasisho kwa programu ya Android Wear.</string>
+    <string name="common_android_wear_update_text">Programu hii haitaendeshwa usiposasisha programu ya Android Wear.</string>
+    <string name="common_android_wear_update_title">Sasisha Android Wear</string>
+    <string name="common_app_name">Huduma za Google Play</string>
+    <string name="common_cannot_start_hangouts_exception">Hangout haiwezi kuanzishwa.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangout haiwezi kuanzishwa (hitilafu ya ruhusa).</string>
+    <string name="common_car_permission_desc">Ufikiaji wa huduma ya gari.</string>
+    <string name="common_car_permission_label">Huduma ya Gari</string>
+    <string name="common_chips_label_empty_circles">Hakuna miduara</string>
+    <string name="common_chips_label_extended_circles">Miduara mipana</string>
+    <string name="common_chips_label_only_you">Wewe tu</string>
+    <string name="common_chips_label_public">Hadhara</string>
+    <string name="common_chips_label_your_circles">Miduara yako</string>
+    <string name="common_choose_account_label">Chagua akaunti</string>
+    <string name="common_clear_app_data_menu_item">Futa data ya programu.</string>
+    <string name="common_connected_apps_settings_title">Programu zilizounganishwa</string>
+    <string name="common_fitness_settings_title">Siha</string>
+    <string name="common_games_settings_title">Michezo ya Google Play</string>
+    <string name="common_get_verification_code_menu_item">Pata nambari ya kuthibitisha</string>
+    <string name="common_google_play_services_enable_button">Wezesha huduma za Google Play</string>
+    <string name="common_google_play_services_enable_text">Programu hii haitafanya kazi mpaka utakapowezesha huduma za Google Play.</string>
+    <string name="common_google_play_services_enable_title">Wezesha huduma za Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Hitilafu</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Imeombwa na %1$s</string>
+    <string name="common_google_play_services_install_button">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Programu hii haiwezi kuendeshwa bila huduma za Google Play, ambazo hazipo kwenye simu yako.</string>
+    <string name="common_google_play_services_install_text_tablet">Programu hii haiwezi kufanya kazi bila huduma za Google Play, ambazo hazipatikani kwenye kompyuta kibao yako.</string>
+    <string name="common_google_play_services_install_title">Pata huduma za Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Akaunti iliyobainishwa haipo kwenye kifaa hiki. Tafadhali chagua akaunti tofauti.</string>
+    <string name="common_google_play_services_invalid_account_title">Akaunti Batili</string>
+    <string name="common_google_play_services_needs_enabling_title">Programu inahitaji huduma za Google Play ili iwashwe.</string>
+    <string name="common_google_play_services_network_error_text">Muunganisho wa data unahitajika ili kuunganisha kwenye huduma za Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Hitilafu ya Mtandao</string>
+    <string name="common_google_play_services_no_restricted_profiles">Programu hii haiwezi kutumiwa na akaunti za wasifu zilizowekewa vikwazo</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Programu inahitaji usakinishaji wa huduma za Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Programu inahitaji toleo jipya la huduma za Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">Hitilafu kwenye huduma za Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Suala lisilojulikana na huduma za Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">Huduma za Google Play, ambazo baadhi ya programu zako zinategemea, si linganifu na kifaa chako. Tafadhali wasiliana na mtengenezaji kwa usaidizi.</string>
+    <string name="common_google_play_services_unsupported_title">Huduma za Google Play</string>
+    <string name="common_google_play_services_update_button">Sasisha</string>
+    <string name="common_google_play_services_update_text">Programu hii haiwezi kuendeshwa mpaka utakaposasisha huduma za Google Play.</string>
+    <string name="common_google_play_services_update_title">Sasisha huduma za Google Play</string>
+    <string name="common_google_settings">Mipangilio ya Google</string>
+    <string name="common_list_apps_menu_help">Usaidizi</string>
+    <string name="common_list_apps_menu_help_and_feedback">Usaidizi na maoni</string>
+    <string name="common_location_settings_title">Mahali</string>
+    <string name="common_maps_settings_title">Ramani na Latitudo</string>
+    <string name="common_mdm_feature_name">Kisimamizi cha Kifaa cha Android</string>
+    <string name="common_network_load_failed">Haipatikani kwa sababu kifaa hiki hakikuweza kuunganisha kwenye mtandao</string>
+    <string name="common_no_network">Haipatikani kwa sababu kifaa kiko nje ya mtandao</string>
+    <string name="common_open_on_phone">Fungua kwenye simu</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Hakuna akaunti za kuchagua</string>
+    <string name="common_search_and_now_settings_title">Utafutaji na Google Msaidizi</string>
+    <string name="common_search_settings_title">Utafutaji</string>
+    <string name="common_security_settings_title">Thibitisha programu</string>
+    <string name="common_signin_button_text">Ingia</string>
+    <string name="common_signin_button_text_long">Ingia ukitumia Google</string>
+    <string name="common_storage_settings_title">Hifadhi ya huduma za Google Play</string>
+    <string name="common_ui_confirm_deleting_button">Futa</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ninaelewa na ninataka kufuta</string>
+    <string name="common_url_load_unsuccessful_message">Kifaa chako cha Android hakijaunganishwa kwenye huduma ya data. Ili kuona maelezo haya sasa, tembelea %s kwa kivinjari.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Kifaa chako cha Android hakijaunganishwa kwenye mtandao wa Wi-Fi. Ili kuona maelezo haya sasa, tembelea %s iliyo na kivinjari.</string>
+    <string name="common_url_login_notice">Ingia katika akaunti kama %1$s</string>
+    <string name="common_usage_and_diagnostics">Matumizi na uchunguzi</string>
+    <string name="country_invalid">Nchi hii hairuhusiwi</string>
+    <string name="device_location_acl_no_one">Hakuna mtu</string>
+    <string name="device_location_best_acl_picker_title">Tambulisha Mwonekano wa Mahali</string>
+    <string name="device_location_city_acl_picker_title">Mwonekano wa Eneo la Mji</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s na wengine</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> na wengine %d</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Lazima uwe na muunganisho wa data ili kuangalia mipangilio ya kushiriki eneo. Tafadhali angalia muunganisho wako au jaribu tena baadaye.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Fungua mipangilio ya mahali</string>
+    <string name="device_location_reporting_reminder_dialog_summary">Kuzima kipengee cha Kushiriki Mahali hakuathiri Kuonyesha mahali ulipo au Historia ya Mahali. Huduma zingine za Google ambazo ulichagua kujijumuisha awali kama vile, Google Msaidizi, zaweza kuhitaji mahali pako. Unaweza kudhibiti Kuripoti Mahali Ulipo na Historia ya Mahali wakati wowote kutoka Mipangilio ya Mahali.</string>
+    <string name="device_location_reporting_reminder_dialog_title">Kuonyesha mahali ulipo</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> na &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> na &lt;b>%s&lt;/b></string>
+    <string name="disagree">Kataa</string>
+    <string name="enable_location_reporting_error">Hatukuweza kuwasha Kuonyesha Mahali Ulipo na Historia kwa %s. Ili kuwasha Kuonyesha Mahali Ulipo na Historia ya Eneo nenda kwenye Mipangilio ya Eneo.</string>
+    <string name="enable_location_reporting_error_title">Kulikuwa na hitilafu</string>
+    <string name="enable_location_reporting_title">Kuonyesha Mahali Ulipo</string>
+    <string name="friend_locations_enable_reporting_auto_body">Kuonyesha Mahali Ulipo kunaruhusu bidhaa yoyote ya Google ambayo inatumia kipengele hiki kuhifadhi na kutumia data ya eneo ya hivi karibuni ya kifaa chako. Kushiriki Eneo kunahitaji Kuonyesha Mahali Ulipo kuwezeshwa.&lt;br/> &lt;br/>Historia ya Eneo inaruhusu Google kuhifadhi historia ya data yako ya eneo kutoka vifaa ambavyo umewezesha Kuonyesha Mahali Ulipo. &lt;a href=\"%2$s\">Pata maelezo zaidi&lt;/a>.&lt;br>Ungependa kuwezesha Kuonyesha Mahali Ulipo na Historia kwa %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">Kuonyesha Mahali Ulipo kunaruhusu bidhaa yoyote ya Google ambayo inatumia kipengele hiki kuhifadhi na kutumia data ya eneo ya hivi majuzi ya vifaa vyako. Kushiriki eneo kunahitaji Kuonyesha Mahali Ulipo kuwezeshwa.&lt;br/>&lt;br/>Chini ya Mipangilio ya Eneo katika Ramani za Google, hakikisha kuwa \"Kuonyesha Mahali Ulipo\" imewekwa kwa \"Tambua eneo lako\" na \"Onyesha kutoka kifaa hiki\" imewekewa alama. &lt;a href=\"%s\">Pata maelezo zaidi&lt;/a>.</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">Kuonyesha Mahali Ulipo kunaruhusu bidhaa yoyote ya Google ambayo inatumia kipengele hiki kuhifadhi na kutumia data ya eneo ya hivi majuzi ya vifaa vyako. Kushiriki Eneo kunahitaji Kuonyesha Mahali Ulipo kuwezeshwa.&lt;br/>&lt;br/>Ingia kwenye Ramani za Google kama %1$s na chini ya mipangilio ya Eneo, hakikisha \"Kuonyesha Mahali Ulipo\" imewekwa kwa \"Tambua eneo lako\" na \"Onyesha kutoka kifaa hiki\" imewekewa alama.&lt;a href=\"%2$s\">Pata Maelezo zaidi&lt;/a>.</string>
+    <string name="loading">Inapakia...</string>
+    <string name="location_settings_allow_access_summary">Ruhusu programu za Google zitumie mahali kifaa hiki kipo wakati wowote kikiwa kimewashwa</string>
+    <string name="location_settings_allow_access_title">Fikia eneo</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Hutaweza kupata tena Historia yako ya Mahali. 
+
+Google Msaidizi na programu nyingine ambazo hutumia Historia ya Mahali huenda zikaacha kufanya kazi."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Ungependa kufuta kabisa?</string>
+    <string name="location_settings_delete_auth_error">Jina la mtumiaji au nenosiri sio sahihi</string>
+    <string name="location_settings_delete_io_error">Kifaa hakikuweza kuunganisha kwenye mtandao</string>
+    <string name="location_settings_delete_location_history">FUTA HISTORIA YA MAHALI</string>
+    <string name="location_settings_delete_location_history_in_progress">INAFUTA...</string>
+    <string name="location_settings_delete_offline_error">Kifaa kiko nje ya mtandao</string>
+    <string name="location_settings_expiration_both_one">Imebaki saa 1 na dakika 1</string>
+    <string name="location_settings_expiration_both_other" formatted="false">Zimebaki saa %d na dakika %d</string>
+    <string name="location_settings_expiration_hours_one">Imebaki saa 1 na dakika %d</string>
+    <string name="location_settings_expiration_minutes">Zimebaki dakika %d</string>
+    <string name="location_settings_expiration_minutes_one">Zimebaki saa %d na dakika 1</string>
+    <string name="location_settings_expiration_soon">Zimebaki chini ya dakika 15</string>
+    <string name="location_settings_info_title">Maelezo</string>
+    <string name="location_settings_location_history_activity_title">Historia ya Mahali</string>
+    <string name="location_settings_location_history_summary_full">"Mpangilio huu huruhusu Google kuhifadhi historia ya data ya mahali ulipo kutoka kwenye vifaa ambavyo umewasha kipengele cha Kuonyesha mahali ulipo kwenye akaunti hii. Historia ya Mahali inakusaidia kupata manufaa zaidi kutoka Google—kwa mfano, Google Msaidizi inaweza kuitumia ili kukuarifu kuhusu trafiki unapo safiri. 
+
+Unaweza kutazama na kudhibiti Historia yako ya Mahali katika maps.google.com/locationhistory. Unaweza kuzima Historia ya Mahali wakati wowote, lakini kufanya hivyo hakutaondoa data ambayo tayari imeingizwa. Kitufe cha hapa chini kitafuta data yote iliyopo ya Historia ya Mahali kwenye akaunti yako."</string>
+    <string name="location_settings_location_reporting_activity_title">Kuonyesha mahali ulipo</string>
+    <string name="location_settings_location_reporting_summary_full">"Google hutumia kipengele hiki katika bidhaa kama vile Google Msaidizi na Ramani za Google. 
+
+Kuwasha kipengee cha Kuonyesha mahali ulipo huwezesha bidhaa yoyote ya Google inayotumia kipengee hiki kuhifadhi na kutumia data yako ya mahali iliyohifadhiwa hivi majuzi kwenye kifaa kwa pamoja na akaunti yako ya Google."</string>
+    <string name="location_settings_no_network_alert">Lazima uwe na muunganisho wa data ili kuangalia mipangilio ya kushiriki eneo. Tafadhali angalia muunganisho wako au ujaribu tena baadaye.</string>
+    <string name="location_settings_not_available_summary">Huna akaunti ya Google.</string>
+    <string name="location_settings_not_available_title">Ongeza akaunti</string>
+    <string name="location_settings_reporting_summary_off">Zima kwa kifaa hiki</string>
+    <string name="location_settings_reporting_summary_on">Washa kwa kifaa hiki</string>
+    <string name="location_settings_save_error">Haiwezi kuhifadhi mipangilio.</string>
+    <string name="location_settings_saving">Inahifadhi mipangilio...</string>
+    <string name="location_settings_screen_title">Mipangilio ya mahali ya Google</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Mpangilio huu unadhibiti ufikiaji mahali wa programu za Google pekee. 
+
+Ili kudhibiti programu zote kufikia mahali, nenda kwenye Mipangilio > Kufikia mahali."</string>
+    <string name="location_settings_temporary_sharing_title">Inashiriki kwa Muda na</string>
+    <string name="location_settings_ulr_summary_ambiguous">Haiwezi kutambua mpangilio wa awali. Imezimwa.</string>
+    <string name="location_settings_ulr_summary_auth_error">Haipatikani kwa sababu ya jina la mtumiaji au nenosiri lisilosahihi</string>
+    <string name="location_settings_ulr_summary_error">Haiwezi kufikia seva kurejesha mipangilio. Jaribu tena baadaye.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Imezimwa</string>
+    <string name="location_settings_ulr_summary_loading">Inachukua…</string>
+    <string name="location_settings_ulr_summary_off">Imezimwa</string>
+    <string name="location_settings_ulr_summary_offline">Haipatikani kwa sababu kifaa kiko nje ya mtandao</string>
+    <string name="location_settings_ulr_summary_on">Imewashwa</string>
+    <string name="location_settings_ulr_summary_restricted">Imezimwa</string>
+    <string name="location_settings_ulr_summary_unknown">Hajulikani</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Hakupatikani nchini %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Haipatikani katika eneo hili</string>
+    <string name="location_settings_view_all">Tazama Yote</string>
+    <string name="location_sharing_settings_acl_title">Unashiriki na %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Chagua watu unaotaka kushiriki nao</string>
+    <string name="location_sharing_settings_city_description">Tumia kipengele cha kushiriki mji wako ili kuruhusu marafiki na jamii yako kuona mji wako.</string>
+    <string name="location_sharing_settings_city_example">Mfano: Ukerewe, Mwanza, Tanzania</string>
+    <string name="location_sharing_settings_city_title">Eneo la Mji</string>
+    <string name="location_sharing_settings_description">Kushiriki Eneo kunakuruhusu kushiriki mahali ulipo kwa sasa kutoka Kuonyesha Mahali Ulipo kwenye kifaa chako, na watu unaochagua.&lt;br/>&lt;br/>Watu unaoshiriki nao mahali ulipo wanaweza kuona mahali ulipo sasa katika bidhaa za Google, ikiwemo Google+ na Google Msaidizi. Pia wanaweza kuona maeneo yako, kama vile nyumbani na kazini. &lt;a href=\"%s\">Pata maelezo zaidi&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">Kushiriki eneo kunakuruhusu kushiriki eneo lako la sasa kutoka &lt;a href=\"%1$s\">Kuonyesha Mahali Ulipo&lt;/a> kwenye kifaa chako, na watu unaochagua.&lt;br/>&lt;br/>Watu unaoshiriki nao mahali ulipo wanaweza kuona mahali ulipo sasa katika bidhaa za Google, ikiwemo Google+ na Google Msaidizi. Pia wanaweza kuona maeneo yako, kama vile nyumbani na kazini. &lt;a href=\"%2$s\">Pata maelezo zaidi&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Badilisha</string>
+    <string name="location_sharing_settings_pinpoint_description">Tumia kipengele cha kutambulisha na kushiriki eneo ili kuruhusu wapendwa wako kutazama eneo lako mahususi la sasa.</string>
+    <string name="location_sharing_settings_pinpoint_example">Mfano: 123 Namanga Rd, Kitengela, Kajiado, Kenya</string>
+    <string name="location_sharing_settings_pinpoint_title">Tambulisha Mahali</string>
+    <string name="location_sharing_settings_title">Kushiriki Mahali</string>
+    <string name="location_ulr_ambiguous_setting_text">Haiwezi kutambua mpangilio wa awali. Ungependa kuwasha sasa?</string>
+    <string name="location_ulr_setting_google_location_disabled">Haipatikani kwa sababu programu za Google hazina ufikiaji kwa eneo hili</string>
+    <string name="location_ulr_setting_label">Kuonyesha mahali Ulipo na Google</string>
+    <string name="location_ulr_setting_location_disabled">Hazipatikani kwa sababu Eneo limezimwa</string>
+    <string name="location_ulr_setting_no_account">Imezimwa, hakuna akaunti</string>
+    <string name="location_ulr_setting_reporting_only">Inatumia eneo la mwisho</string>
+    <string name="location_warning_do_not_show_again">Usionyeshe tena</string>
+    <string name="location_warning_message">Ruhusu programu za Google zisaidie kutambua mahali. Hii inamaanisha kutuma data isiyo na utambulisho wako kwa Google, hata wakati hakuna programu zinazotumika.</string>
+    <string name="location_warning_title">Ungependa kutumia huduma ya mahali ulipo?</string>
+    <string name="mr_media_route_button_content_description">Tuma</string>
+    <string name="mr_media_route_chooser_searching">Inatafuta vifaa...</string>
+    <string name="mr_media_route_chooser_title">Unganisha kwenye kifaa</string>
+    <string name="mr_media_route_controller_disconnect">Tenganisha</string>
+    <string name="mr_system_route_name">Mfumo</string>
+    <string name="mr_user_route_category_name">Vifaa</string>
+    <string name="notification_ticker">Ufikiaji Umeombwa</string>
+    <string name="off">Zima</string>
+    <string name="ok">SAWA</string>
+    <string name="on">Washa</string>
+    <string name="open_location_settings">Fungua mipangilio ya eneo</string>
+    <string name="phone_number_hint">Nambari ya simu</string>
+    <string name="phone_number_invalid">Nambari ya simu si sahihi</string>
+    <string name="phone_number_invalid_character">Nambari ya simu ina herufi isiyo sahihi</string>
+    <string name="place_address_hint">Anwani ya Posta</string>
+    <string name="place_address_title">Anwani</string>
+    <string name="place_address_update_hint">Sasisha</string>
+    <string name="place_category_hint">Chagua aina</string>
+    <string name="place_category_title">Aina</string>
+    <string name="place_name_hint">Jina la mahali</string>
+    <string name="place_name_title">Jina</string>
+    <string name="place_phone_hint">Nambari kuu ya simu</string>
+    <string name="place_phone_title">Nambari ya simu</string>
+    <string name="place_picker_adding_a_place">Inatuma ripoti...</string>
+    <string name="place_picker_cancel">Ghairi</string>
+    <string name="place_picker_cant_add_place">Haiwezi kuongeza mahali.</string>
+    <string name="place_picker_label">Chagua mahali</string>
+    <string name="place_picker_location_off_message">Ili uchague mahali, unapaswa kuwasha Upatikanaji wa Mahali katika Mipangilio kwanza.</string>
+    <string name="place_picker_nearby_places">Maeneo ya karibu</string>
+    <string name="place_picker_no_search_results">Hakuna mahali panapolingana.</string>
+    <string name="place_picker_search_error">Haiwezi kupakia matokeo ya utafutaji.</string>
+    <string name="place_picker_search_hint">Utafutaji</string>
+    <string name="place_picker_searching_label">Inatafuta...</string>
+    <string name="place_picker_select_a_location_label">Chagua mahali kwa maelezo zaidi</string>
+    <string name="place_picker_select_this_location">Chagua mahali hapa</string>
+    <string name="place_picker_settings">Mipangilio</string>
+    <string name="place_picker_updating_location_label">Inasasisha mahali pako...</string>
+    <string name="place_picker_updating_nearby_label">Inasasisha maeneo yaliyo karibu nawe...</string>
+    <string name="place_website_hint">Tovuti rasmi</string>
+    <string name="place_website_title">Tovuti</string>
+    <string name="plus_accessibility_acl_selection">Chagua hadhira</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Mduara</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Mwongeze kwenye mduara mpya</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avata</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Miduara</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Tafuta watu au miduara</string>
+    <string name="plus_accessibility_circle_selection">Chagua miduara</string>
+    <string name="plus_accessibility_comment_avatar">Miduara</string>
+    <string name="plus_accessibility_facl_selection">Chagua wanachama wa mduara ambao programu inaruhusiwa kuona</string>
+    <string name="plus_accessibility_update_circles">Sasisha miduara</string>
+    <string name="plus_actionbar_up_button_description">Nenda juu</string>
+    <string name="plus_add_to_circle_progress">Inaongeza...</string>
+    <string name="plus_add_to_circles_title_default">Mwongeze kwenye miduara</string>
+    <string name="plus_add_to_circles_title_with_user_name">Mwongeze %1$s</string>
+    <string name="plus_add_to_following_circle_progress">Inafuata...</string>
+    <string name="plus_add_to_new_circle_progress_message">Inaongeza...</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">AKAUNTI</string>
+    <string name="plus_app_settings_activity_label">Programu zilizounganishwa</string>
+    <string name="plus_app_settings_activity_log_label">Kumbukumbu ya shughuli</string>
+    <string name="plus_app_settings_activity_log_page_label">Kumbukumbu ya shughuli</string>
+    <string name="plus_app_settings_all_apps_label">Programu zote na vifaa</string>
+    <string name="plus_app_settings_apps_page_label">Programu zilizounganishwa</string>
+    <string name="plus_app_settings_fitness_apps_label">Programu na vifaa vya Mazoezi</string>
+    <string name="plus_app_settings_sign_in_apps_label">Unazoweza kuingia kwa Google+</string>
+    <string name="plus_article_preview_image_description">Picha ya onyesho la kuchungulia makala</string>
+    <string name="plus_audience_edit_button_label">Badilisha</string>
+    <string name="plus_audience_selection_cancel">Ghairi</string>
+    <string name="plus_audience_selection_contacts">Anwani zote</string>
+    <string name="plus_audience_selection_contacts_description">Inajumuisha anwani zitakazoongezwa katika siku zijazo</string>
+    <string name="plus_audience_selection_description_acl">SHIRIKI NA</string>
+    <string name="plus_audience_selection_done">Imekamilika</string>
+    <string name="plus_audience_selection_everyone">Miduara yote</string>
+    <string name="plus_audience_selection_everyone_description">Inajumuisha miduara itakayoundwa baadaye</string>
+    <string name="plus_audience_selection_header_circles">MIDUARA</string>
+    <string name="plus_audience_selection_header_people">WATU</string>
+    <string name="plus_audience_selection_header_search">IMETAFUTA</string>
+    <string name="plus_audience_selection_header_suggested">ILIYOPENDEKEZWA</string>
+    <string name="plus_audience_selection_hidden_circle">Watu katika mduara huu hawaonekani na umma kwenye wasifu wako</string>
+    <string name="plus_audience_selection_loading">Inapakia…</string>
+    <string name="plus_audience_selection_new_circle">Mwongeze kwenye mduara mpya</string>
+    <string name="plus_audience_selection_public_circle">mtu yeyote kwenye wavuti</string>
+    <string name="plus_audience_selection_search_device_results">KUTOKA KWA KIFAA CHAKO</string>
+    <string name="plus_audience_selection_search_google_results">KUTOKA KWA GOOGLE</string>
+    <string name="plus_audience_selection_title">Hadhira</string>
+    <string name="plus_audience_selection_title_acl">Shiriki na...</string>
+    <string name="plus_audience_selection_title_search">Tafuta...</string>
+    <string name="plus_audience_selection_title_update_circles">Ongeza kwenye miduara</string>
+    <string name="plus_auth_audience_view_default_description">%s itatuma maelezo ya shughuli zako kutoka programu hii kwa Google. Unaweza kuchagua ni nani mwingine anaweza kuona shughuli hizi kwenye Google.</string>
+    <string name="plus_auth_audience_view_footnote">Google itatumia maelezo haya kulingana na <annotation id="tos">Sheria na Masharti</annotation> ya Google na <annotation id="google_privacy">Sera ya Faragha</annotation></string>
+    <string name="plus_auth_hide_circles_label">Ficha miduara yote</string>
+    <string name="plus_auth_info_fragment_app_name">%s ingependa:</string>
+    <string name="plus_auth_see_circles_label">Ona miduara yote</string>
+    <string name="plus_avatar_image_description">Picha ya ishara ya mtumiaji</string>
+    <string name="plus_bad_name_agree_button_label">Wasilisha</string>
+    <string name="plus_bad_name_decline_button_label">Badilisha jina</string>
+    <string name="plus_bad_name_skip_button_label">Ruka Google+</string>
+    <string name="plus_checking_gplus_signup_state">Inaunganisha...</string>
+    <string name="plus_choose_facl_title">Habari za msingi ambazo %s itapata</string>
+    <string name="plus_circle_creation_circle_name_hint">Jina la mduara</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Imeshindwa kuunda mduara, jaribu tena baadaye.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Unda</string>
+    <string name="plus_circle_creation_title_default">Unda mduara</string>
+    <string name="plus_circle_creation_title_with_user_name">Mwongeze %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Kitufe cha kufunga mazungumzo.</string>
+    <string name="plus_close_button_label">Funga</string>
+    <string name="plus_create_button_description">Kitufe cha kuongeza kwenye mduara mpya</string>
+    <string name="plus_cross_client_auth_toast_text">Karibu tena kwenye %1$s. Umeingia kwa Google kama %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Shughuli hii inaonekana kwa:</string>
+    <string name="plus_delete_moment_failed_dialog_message">Kuna tatizo wakati wa kufuta shughuli, tafadhali jaribu tena baadaye.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Inafuta...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Pia futa shughuli zako zote za %s kwenye Google</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s haitakuwa tena na ufikiaji uliotoa kwenye Akaunti yako ya Google na haitatuma shughuli zako za programu kwa Google. Huenda hii ikachukua saa moja kukamilika.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Ghairi</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Kata muunganisho</string>
+    <string name="plus_disconnect_source_dialog_title">Tenganisha?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Isingeweza kukata muunganisho wa %s.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Je, unataka kukata muunganisho wa programu hii kutoka Google?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Inakata muunganisho wa %s…</string>
+    <string name="plus_domain_default">kikoa chako</string>
+    <string name="plus_domain_restricted_choice_body">Zuia chapisho kushirikiwa nje ya %s</string>
+    <string name="plus_domain_restricted_choice_title">Shiriki tu kwenye %s</string>
+    <string name="plus_done">SAWA</string>
+    <string name="plus_facl_default_description">Jina lako kamili, picha ya wasifu, kitambulisho cha Google+, umri na lugha na orodha ya watu kwenye miduara iliyotiwa alama hapa chini. Orodha ina wasifu wao wa hadharani lakini haina majina ya miduara uliowaweka.</string>
+    <string name="plus_first_name">Kwanza</string>
+    <string name="plus_gender_prompt">Teua jinsia</string>
+    <string name="plus_install_app_dialog_checkbox_text">Usiulize tena.</string>
+    <string name="plus_install_app_dialog_message">Je, unataka kupata programu ya Google+ ili uweze kutazama chapisho ambalo umeshiriki sasa hivi?</string>
+    <string name="plus_install_app_dialog_negative_button">Sio sasa</string>
+    <string name="plus_install_app_dialog_positive_button">Sakinisha</string>
+    <string name="plus_install_app_dialog_title">Pata Google+</string>
+    <string name="plus_internal_error">Hitilafu ya ndani ilitokea.</string>
+    <string name="plus_invalid_account">Akaunti si sahihi</string>
+    <string name="plus_last_name">La mwisho</string>
+    <string name="plus_list_apps_aspen_empty_message">"Hujaunganisha programu zozote kwa Kuingia katika akaunti Ukitumia Google+.
+
+"<annotation id="learn_more">Pata maelezo zaidi</annotation></string>
+    <string name="plus_list_apps_disabled_error">Haiwezi kupakia programu Zilizounganishwa kwa wakati huu. <annotation id="learn_more">Pata maelezo zaidi</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Hakuna programu zilizounganishwa kwenye akaunti yako ya Google</string>
+    <string name="plus_list_apps_error">Haikuweza kupakia programu. Tafadhali jaribu tena baadaye.</string>
+    <string name="plus_list_apps_error_aspen">"Haikuweza kupakia programu.
+
+"<annotation id="learn_more">Pata maelezo zaidi</annotation> kuhusu programu zinazoweza kuingiwa kwa kutumia Google+.</string>
+    <string name="plus_list_apps_error_fitness">"Haikuweza kupakia programu au vifaa.
+
+"<annotation id="learn_more">Pata maelezo zaidi</annotation> kuhusu programu na vifaa vya Mazoezi.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Hujaunganisha programu au vifaa vyovyote kwenye Google Fit
+
+"<annotation id="learn_more">Pata maelezo zaidi</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Hakuna akaunti.</string>
+    <string name="plus_list_moments_disabled_error">Haiwezi kupakia Kumbukumbu yako ya shughuli kwa wakati huu. <annotation id="learn_more">Pata maelezo zaidi</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Huna shughuli zozote</string>
+    <string name="plus_list_moments_error">Haikuweza kupakia shughuli. Tafadhali jaribu tena baadaye.</string>
+    <string name="plus_list_moments_filter_empty_message">Huna shughuli za aina hii</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Huwezi kutazama shughuli hii kutoka kumbukumbu ya Shughuli yako. Tafadhali tembelea programu hii moja kwa moja.</string>
+    <string name="plus_loading">Inapakia…</string>
+    <string name="plus_manage_app_acl_description_label">Shughuli ambazo programu hii hushiriki na Google</string>
+    <string name="plus_manage_app_acl_error">Haikuweza kusasisha programu.</string>
+    <string name="plus_manage_app_all_circles_label">Miduara yote</string>
+    <string name="plus_manage_app_app_icon_desc">Ikoni</string>
+    <string name="plus_manage_app_disabled_error">Imeshindwa kupakia programu yako iliyounganishwa kwa wakati huu. <annotation id="learn_more">Pata maelezo zaidi</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Kata muunganisho</string>
+    <string name="plus_manage_app_domain_label">Kikoa</string>
+    <string name="plus_manage_app_extended_circles_label">Miduara mipana</string>
+    <string name="plus_manage_app_facl_label">Programu hii inaweza kuona watu hawa</string>
+    <string name="plus_manage_app_label">Programu iliyounganishwa</string>
+    <string name="plus_manage_app_limited_label">Imeshirikiwa kwa faragha</string>
+    <string name="plus_manage_app_no_acl_description">Matumizi yako ya programu hii</string>
+    <string name="plus_manage_app_no_circles_label">Hakuna</string>
+    <string name="plus_manage_app_only_you_label">Wewe tu</string>
+    <string name="plus_manage_app_pacl_label">Anayeweza kuona shughuli za programu kwenye Google</string>
+    <string name="plus_manage_app_pacl_sub_label">Uamuzi unaofanya hapa haubadilishi mwonekano wa shughuli zozote zilizopo katika Kumbukumbu yako ya Shughuli, lakini unatumika kwenye shughuli ya michezo.</string>
+    <string name="plus_manage_app_public_label">Hadharani</string>
+    <string name="plus_manage_app_scopes_label">Programu hii inaweza kufikia:</string>
+    <string name="plus_manage_app_updating_acl">Inasasisha...</string>
+    <string name="plus_manage_aspen_app_label">Programu zinazoweza kuingiwa kwa kutumia Google+</string>
+    <string name="plus_manage_device_disconnect_label">Ondoa</string>
+    <string name="plus_manage_device_label">Kifaa kilichounganishwa</string>
+    <string name="plus_manage_moment_acl_error">Haikuweza kupakia baadhi ya maelezo, tafadhali jaribu tena baadaye</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Futa</string>
+    <string name="plus_manage_moment_delete_label">FUTA</string>
+    <string name="plus_manage_moment_image_desc">Tazama shughuli</string>
+    <string name="plus_manage_moment_label">Shughuli</string>
+    <string name="plus_manage_moment_no_in_app_delete">Haiwezi kudhibiti shughuli hii. <annotation id="learn_more">Pata maelezo zaidi</annotation></string>
+    <string name="plus_ok_button_description">Kitufe cha SAWA</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Pendekeza hii kwenye Google</string>
+    <string name="plus_one_annotation_none_short">Pendekeza hii</string>
+    <string name="plus_one_app">Kutoka &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">10K+</string>
+    <string name="plus_one_description">Gusa ili kuongeza pamoja na yako kwa %1$s iliyoko</string>
+    <string name="plus_one_description_remove">Gusa ili kuondoa pamoja na yako kutoka kwa %1$s iliyoko</string>
+    <string name="plus_one_description_standard">Gusa ili kuongeza pamoja na.</string>
+    <string name="plus_one_error">Kulikuwa na tatizo la muda kwa +1 yako. Tafadhali jaribu tena.</string>
+    <string name="plus_one_public">Umma</string>
+    <string name="plus_one_self">+1 ya %1$s</string>
+    <string name="plus_one_self_removed">+1 yako imeondolewa.</string>
+    <string name="plus_one_share">Shiriki</string>
+    <string name="plus_one_social_annotation_prefix">pamoja na %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">pamoja na %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s alilipa +1</string>
+    <string name="plus_one_social_annotation_user">Wewe</string>
+    <string name="plus_one_title">Ulilipa +1 hadharani kama</string>
+    <string name="plus_one_undo">Tengua</string>
+    <string name="plus_oob_3p_promo">Pata zaidi kutoka %1$s ukiwa na wasifu wa hadharani wa Google+.</string>
+    <string name="plus_oob_cancel_button_label">Ghairi</string>
+    <string name="plus_oob_default_promo">Pata mengi zaidi kutoka Google na wasifu unaonekana hadharani kwenye Google+.</string>
+    <string name="plus_oob_done_button_label">Imekamilika</string>
+    <string name="plus_oob_edit_name_warning">Kubadilisha jina la wasifu wako kwenye Google+ kutalibadilisha kwenye bidhaa zingine zote za Google.</string>
+    <string name="plus_oob_failure_text">Tunasikitika Google+ haikuweza kuweka wasifu wako. Jaribu tena baadaye.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Jina</string>
+    <string name="plus_oob_first_name_content_description">Jina la kwanza</string>
+    <string name="plus_oob_gender_content_description">Jinsia</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Sio sasa</string>
+    <string name="plus_oob_interstitial_loading">Inawasiliana na Google+...</string>
+    <string name="plus_oob_interstitial_loading_body">Hii inaweza kuchukua dakika kadhaa.</string>
+    <string name="plus_oob_interstitial_sending">Inatuma…</string>
+    <string name="plus_oob_interstitial_sending_body">Hii inaweza kuchukua dakika kadhaa.</string>
+    <string name="plus_oob_join">Unda</string>
+    <string name="plus_oob_last_name_content_description">Jina la mwisho</string>
+    <string name="plus_oob_loading">Inapakia…</string>
+    <string name="plus_oob_next">Inayofuata</string>
+    <string name="plus_oob_next_content_description">Kitufe cha inayofuata</string>
+    <string name="plus_oob_no_connection_message">Haikuweza kuunganisha kwenye seva.</string>
+    <string name="plus_oob_no_connection_title">Hakuna Muunganisho</string>
+    <string name="plus_oob_pronoun_content_description">Tafadhali niite</string>
+    <string name="plus_oob_sending">Inatuma…</string>
+    <string name="plus_oob_title_tos">Wasifu wa Google+</string>
+    <string name="plus_oob_tos_accept">Kubali</string>
+    <string name="plus_photo_preview_image_description">Taswira ya onyesho la kuchungulia picha</string>
+    <string name="plus_plus_icon_image_description">Picha ya ikoni ya Google+</string>
+    <string name="plus_posted_just_now">Sasa hivi</string>
+    <string name="plus_pronoun_prompt">Chagua</string>
+    <string name="plus_remove_from_circle_progress">Inaondoa...</string>
+    <string name="plus_replybox_button_description">Jibu</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Je, ungependa kutupa jibu hili?</string>
+    <string name="plus_replybox_hint_text">Ongeza jibu</string>
+    <string name="plus_replybox_internal_error">Haikuweza kujibu.</string>
+    <string name="plus_replybox_no_network_connection">Haiwezi kuunda jibu. Tafadhali jaribu tena.</string>
+    <string name="plus_replybox_post_error_message">Haikuweza kuchapisha jibu.</string>
+    <string name="plus_replybox_post_success">Jibu lako limechapishwa.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Miduara yako mipana</string>
+    <string name="plus_scope_fragment_mixed_label">Miduara iliyochaguliwa</string>
+    <string name="plus_scope_fragment_only_you_label">Wewe pekee</string>
+    <string name="plus_scope_fragment_public_label">Mtu yeyote kwenye wavuti</string>
+    <string name="plus_scope_fragment_your_circles_label">Miduara yako</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Utaratibu Uliofupishwa wa Kusanidi</string>
+    <string name="plus_share_button_description">Kitufe cha kushiriki</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Imekamilika</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Chagua wapokeaji</string>
+    <string name="plus_sharebox_audience_to_text">Kwa:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Hadhira</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Mduara mpya</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Haikuweza kuongeza watu kwenye mduara</string>
+    <string name="plus_sharebox_circles_button">Imekamilika</string>
+    <string name="plus_sharebox_circles_checkbox_label">Ongeza %1$s kwenye mduara:</string>
+    <string name="plus_sharebox_circles_create_failed">Haikuweza kuunda mduara</string>
+    <string name="plus_sharebox_circles_create_option">Unda mduara mpya</string>
+    <string name="plus_sharebox_circles_following_circle">Kufuata</string>
+    <string name="plus_sharebox_circles_friends_circle">Marafiki</string>
+    <string name="plus_sharebox_circles_name_length_warning">Jina hili la mduara ni refu sana.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Jina hili la mduara tayari limetumika.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Ongeza kwenye mduara</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Je, ungependa kutupa chapisho hili?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Hukuweza kushiriki.</string>
+    <string name="plus_sharebox_load_error">Kulikuwa na tatizo la muda katika upakiaji wa kushirikisha mazungumzo. Tafadhali jaribu tena.</string>
+    <string name="plus_sharebox_next">KINACHOFUATA</string>
+    <string name="plus_sharebox_no_network_connection">Haiwezi kuunda chapisho. Tafadhali jaribu tena.</string>
+    <string name="plus_sharebox_post_body_hint">Shiriki maoni yako…</string>
+    <string name="plus_sharebox_post_body_icon">Picha ya wasifu</string>
+    <string name="plus_sharebox_post_error_message">Haiwezi kuunda chapisho. Tafadhali jaribu tena.</string>
+    <string name="plus_sharebox_post_error_title">Zingatia</string>
+    <string name="plus_sharebox_post_pending">Inatuma…</string>
+    <string name="plus_sharebox_post_success">Chapisho lako limeshirikiwa.</string>
+    <string name="plus_sharebox_preview_loading">Inapakia…</string>
+    <string name="plus_sharebox_search_hint">Andika jina, barua pepe au mduara</string>
+    <string name="plus_sharebox_share">SHIRIKI</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Pia shiriki kwenye Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Shiriki kupitia Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Unaposhiriki hadharani, watu ambao hujawaongeza kwenye miduara yako wataweza kuona chapisho lako na huenda wakaweza kutoa maoni.</string>
+    <string name="plus_sharebox_under_age_warning_title">Unashiriki hadharani</string>
+    <string name="plus_undo_button_description">Kitufe cha kutendua</string>
+    <string name="plus_unified_setup_activity_title">Unda wasifu</string>
+    <string name="plus_unknown_app_name">Programu</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Imeshindwa kusasisha miduara, jaribu tena baadaye.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Huwezi kumwongeza mtumiaji huyu kwenye miduara.</string>
+    <string name="plus_update_circles_not_allowed_message">Huwezi kuongeza %1$s kwenye miduara.</string>
+    <string name="plus_update_circles_progress">Inasasisha miduara...</string>
+    <string name="plus_video_preview_image_description">Taswira ya onyesho la kuchungulia video</string>
+    <string name="recovery_done_button_label">Imekamilika</string>
+    <string name="recovery_input_screen_message">Eleza Google jinsi ya kuwasiliana na wewe iwapo utasahau nenosiri la %s.</string>
+    <string name="recovery_message_set">"Manenosiri ni rahisi kusahau.
+
+Toa nambari ya simu au anwani mbadala ya barua pepe sasa. Huku kunakusaidia kurejesha ufikiaji wa maudhui kwenye Google na Google Play. "<annotation id="help_url">Pata maelezo zaidi</annotation></string>
+    <string name="recovery_message_verify">"Manenosiri ni rahisi kusahau.
+
+Thibitisha nambari yako ya simu au anwani mbadala ya barua pepe sasa. Huku kunakusaidia kurejesha ufikiaji wa Maudhui yako kwenye Google na Google Play. "<annotation id="help_url">Pata maelezo zaidi</annotation></string>
+    <string name="recovery_notification_ticker">Akaunti inahitaji kushughulikiwa</string>
+    <string name="recovery_notification_title">Kikumbusho cha urejeshaji wa nenosiri</string>
+    <string name="recovery_server_error">Hitilafu wakati wa kuzungumza na seva. Tafadhali jaribu tena baada ya muda mfupi.</string>
+    <string name="recovery_title">Urejeshaji nenosiri wa Google</string>
+    <string name="recovery_yes_button_label">Sanidi chaguo za urejeshaji</string>
+    <string name="recovery_yes_button_label_verify">Thibitisha chaguo za urejeshaji</string>
+    <string name="retry_call_to_action">Jaribu tena</string>
+    <string name="secondary_email_hint">Barua pepe mbadala</string>
+    <string name="secondary_email_invalid">Anwani ya barua pepe si sahihi</string>
+    <string name="secondary_email_same_as_primary">Haiwezi kuwa sawa na anwani ya msingi</string>
+    <string name="selected_location_unknown">Hapajulikani</string>
+    <string name="sharedUserLabel">Huduma za Google</string>
+    <string name="sid_lsid_grant_detail">Kama nenosiri, Utambulisho wa Kipindi (SID) na vidakuzi vya Utambulisho wa Kipindi cha Ndani (LSID) huhusisha utambulisho wako na mfululizo wa maombi kutoka kwa kivinjari. Huruhusu uwezo kamili wa kufikia data yote ya akaunti yako. Vivinjari pekee ndivyo vina uwezo halali kutumia vidakuzi hivi.</string>
+    <string name="sid_lsid_grant_label">Tumia vidakuzi vya Utambulisho wa Kipindi (SID) na Utambulisho wa Kipindi cha Ndani (LSID) ili ufikie data yako yote ya akaunti ya Google.</string>
+    <string name="storage_management_drive_clear_failure">Kulikuwa na hitilafu katika kufuta data kwenye Hifadhi. Tafadhali jaribu tena baadaye.</string>
+    <string name="storage_management_drive_clear_label">Futa</string>
+    <string name="storage_management_drive_clear_success">Data iliyokuwa kwenye Hifadhi imefutwa.</string>
+    <string name="storage_management_drive_clearing">Inafuta...</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Data yote kwenye Hifadhi za programu inayowashwa na Hifadhi itafutwa kabisa. Hii inaweza kujumuisha mabadiliko yanayonasubiri kushughulikiwa ambayo hayajapakiwa kwenye seva ya Hifadhi ya Google.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Je, ungependa kufuta data yote?</string>
+    <string name="storage_management_drive_descriptive_text">Programu zinazowashwa na Hifadhi huweka faili kwenye kifaa chako ili kuboresha utendaji na kuwasha uwezo wa kufikia nje ya mtandao.</string>
+    <string name="storage_management_drive_get_storage_failure">Kulikuwa na hitilafu katika kuhesabu matumizi ya nafasi ya Hifadhi. Tafadhali jaribu tena baadaye.</string>
+    <string name="storage_management_drive_size_label">Nafasi ya Hifadhi kwenye Kifaa</string>
+    <string name="storage_management_wear_descriptive_text">Programu hutumia hifadhi ya kifaa chako ili kutoa nakala ya data kwenda kwenye kifaa kinachoweza kubebwa au kuvaliwa mwilini.</string>
+    <string name="storage_management_wear_manage_size_label">Simamia hifadhi inayoweza kubebwa au kuvaliwa mwilini</string>
+    <string name="storage_management_wear_size_label">Hifadhi inayoweza kubebwa au kuvaliwa mwilini</string>
+    <string name="storage_managment_all_storage_descriptive_text">Jumla ya data iliyotumiwa na huduma za Google Play, pamoja na injini ya utafutaji na data nyingine.</string>
+    <string name="storage_managment_clear_all_data">Futa data yote</string>
+    <string name="storage_managment_computing_size">Inahesabu...</string>
+    <string name="storage_managment_icing_size_label">Hifadhi ya injini ya utafutaji</string>
+    <string name="storage_managment_manage_icing_button">Dhibiti hifadhi ya utafutaji</string>
+    <string name="storage_managment_search_index_descriptive_text">Tunaharakisha utafutaji kwenye simu yako kwa kutoa injini ya utafutaji ili itumiwe na Programu zako.</string>
+    <string name="storage_managment_title">Hifadhi ya huduma za Google Play</string>
+    <string name="storage_managment_total_size_label">Jumla ya hifadhi</string>
+    <string name="system_update_activity_battery_low_charging_text">Betri iko chini mno kuwezesha usakinishaji wa sasisho la mfumo. Subiri betri ipate chaji ya kutosha.</string>
+    <string name="system_update_activity_battery_low_text">Betri iko chini mno kuwezesha usakinishaji wa sasisho la mfumo. Unganisha chaja ili uendelee.</string>
+    <string name="system_update_activity_name">Sasisho za mfumo</string>
+    <string name="system_update_activity_roaming_text">Sasisho za mfumo haziwezi kupakuliwa wakati unatumia mitandao mingine.</string>
+    <string name="system_update_activity_title">Sasisho za mfumo</string>
+    <string name="system_update_check_now_button_text">Angalia sasa</string>
+    <string name="system_update_complete_label">Sasisho la mfumo</string>
+    <string name="system_update_complete_ok_button">SAWA</string>
+    <string name="system_update_connection_lost_button_text">Unganisha kwenye Wi-Fi</string>
+    <string name="system_update_connection_lost_text">Muunganisho wa mtandao ulipotea.</string>
+    <string name="system_update_countdown_cancel_button">Ghairi kusakinisha</string>
+    <string name="system_update_countdown_complete">Inajiwasha tena sasa...</string>
+    <string name="system_update_download_button_text">Pakua</string>
+    <string name="system_update_download_failed_no_space_status_text">Nafasi inayopatikana haitoshi kwa upakuaji</string>
+    <string name="system_update_download_failed_status_text">Haikuweza kupakua</string>
+    <string name="system_update_download_retry_button_text">Jaribu tena kupakua</string>
+    <string name="system_update_download_waiting_status_text">Inasubiri ili kupakua</string>
+    <string name="system_update_downloading_required_update_text">"Hii inaweza kuchukua hadi dakika ^ 1.
+
+Baada ya hapo, kifaa kitazima na kuwaka tena kiotomatiki."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Hii inaweza kuchukua hadi dakika ^ 1.
+
+Baada ya hapo, kompyuta kibao itazima na kuwaka tena kiotomatiki."</string>
+    <string name="system_update_downloading_required_update_title">Inapakua sasisho...</string>
+    <string name="system_update_downloading_status_text">Inapakua</string>
+    <string name="system_update_downloading_wifi_status2_text">Kupitia mtandao wa Wi-Fi pekee mpaka ^ 1</string>
+    <string name="system_update_install_button_text">Washa tena na usakinishe</string>
+    <string name="system_update_installing_update_text">"Hii inaweza kuchukua hadi dakika 5.
+
+Baada ya hapo, utaweza kukamilisha kusanidi simu yako."</string>
+    <string name="system_update_installing_update_title">Inasakinisha sasisho...</string>
+    <string name="system_update_last_checkin">Mara ya mwisho kuangalia iwapo kuna sasisho ^1.</string>
+    <string name="system_update_no_update_content_text">Mfumo wako umesasishwa.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Kupakua hakukufaulu. Jaribu tena.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Haikuweza kupakua sasisho ya mfumo</string>
+    <string name="system_update_not_owner_text">Sasisho ya programu ya mfumo linapatikana, lakini mmiliki tu ndiye anayeweza kuisakinisha.</string>
+    <string name="system_update_notification_action_download">Pakua</string>
+    <string name="system_update_notification_action_install">Sakinisha</string>
+    <string name="system_update_notification_action_snooze">Baadaye</string>
+    <string name="system_update_required_update_restart_text">Kifaa kitazima na kuwaka tena ili sasisho ya mfumo wako iweze kusakinishwa.</string>
+    <string name="system_update_required_update_restart_text_tablet">Kompyuta kibao itazima na kuwaka tena ili sasisho ya mfumo wako iweze kusakinishwa.</string>
+    <string name="system_update_required_update_restart_title">Inakaribia kuzima na kuwaka tena</string>
+    <string name="system_update_requires_restart_status_text">Inahitaji kuzimwa na kuwashwa tena</string>
+    <string name="system_update_restart_button_text">Washa tena (^1)</string>
+    <string name="system_update_update_available_notification_title">Sasisho ya mfumo inapatikana</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Nafasi haitoshi kupakua sasisho ya mfumo.</string>
+    <string name="system_update_update_downloaded_notification_title">Sasisho ya mfumo limepakuliwa</string>
+    <string name="system_update_verification_failed_text">Uthibitishaji umeshindikana</string>
+    <string name="system_update_verified_status_text">Imepakuliwa na kuthibitishwa</string>
+    <string name="system_update_verifying_status_text">Inathibitisha</string>
+    <string name="temporary_sharing_description">Watu unaoshiriki nao mahali sahihi ulipo kwenye bidhaa za Google kwa muda mfupi.</string>
+    <string name="temporary_sharing_title">Kushiriki kwa Muda</string>
+    <string name="turn_on_location_reporting_auto_button">Washa</string>
+    <string name="usage_and_diagnostics_consent_message">Saidia kuboresha hali yako ya utumiaji wa Android kiotomatiki kwa kutuma data ya uchunguzi na matumizi kwa Google. Maelezo haya hayatatumika kukutambua na yatasaidia timu zinazoshughulikia masuala kama muda wa matumizi ya betri, utendaji wa programu, na vipengele vipya vya Google.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Pata maelezo zaidi&lt;/font></string>
+    <string name="usage_reporting_off">Imezimwa</string>
+    <string name="usage_reporting_on">Imewashwa</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Imeunganishwa</string>
+    <string name="wearable_status_connecting">Inaunganisha…</string>
+    <string name="wearable_status_disconnected">Imekata muunganisho</string>
+    <string name="wearable_status_starting">Inaanza...</string>
+    <string name="wearable_status_wire_protocol_mismatch">Vifaa vya kuvaliwa visivyooana, tafadhali weka sasisho zozote.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Futa sasa</string>
+    <string name="wearable_storage_managment_title">Hifadhi ya vifaa vya kuvaliwa</string>
+    <string name="wearable_storage_managment_total_size_label">Hifadhi ya vifaa vya kuvaliwa</string>
+    <string name="wearable_storage_managment_usage_label">Matumizi ya nafasi ya hifadhi kwa programu</string>
+</resources>

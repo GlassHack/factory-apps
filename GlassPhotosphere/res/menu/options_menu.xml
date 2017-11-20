@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@android:drawable/ic_menu_preferences" android:id="@id/options" android:title="@string/label_options" />
+    <item android:icon="@android:drawable/ic_menu_save" android:id="@id/test_stitch" android:title="@string/label_test_stitch" />
+</menu>

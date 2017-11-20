@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="integer" name="config_activityDefaultDur">@android:integer/config_activityDefaultDur</item>
+    <integer name="kg_carousel_angle">75</integer>
+    <integer name="kg_glowpad_rotation_offset">0</integer>
+</resources>

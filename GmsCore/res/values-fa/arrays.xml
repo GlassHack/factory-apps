@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>بار</item>
+        <item>کافه</item>
+        <item>پمپ بنزین</item>
+        <item>سینما</item>
+        <item>اقامتگاه</item>
+        <item>کلوپ شبانه</item>
+        <item>موزه</item>
+        <item>رستوران</item>
+        <item>مرکز خرید</item>
+        <item>فروشگاه</item>
+        <item>سوپرمارکت یا خواربارفروشی</item>
+        <item>موارد دیگر</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ضعیف</item>
+        <item>متوسط</item>
+        <item>خوب</item>
+        <item>قوی</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>بلوتوث</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>یک سؤال امنیتی انتخاب کنید</item>
+        <item>اولین شماره تلفن؟</item>
+        <item>نام بهترین دوست دوران کودکی شما چیست؟</item>
+        <item>نام اولین معلم؟</item>
+        <item>نام مدیر اولین شغل شما؟</item>
+        <item>شماره ثبت خودرو؟</item>
+    </string-array>
+</resources>

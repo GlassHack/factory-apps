@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SurfaceView android:layout_gravity="center" android:id="@id/camera_preview" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <com.google.android.apps.lightcycle.calibration.CameraPreviewView android:id="@id/preview_overlay" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <Button android:id="@id/settings_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/settings_button_text" android:layout_alignParentLeft="true" />
+        <TextView android:textSize="18.0sp" android:id="@id/tap_to_take_photo" android:padding="10.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/tap_to_take_photo" android:layout_alignParentRight="true" />
+        <Spinner android:textSize="18.0sp" android:id="@id/resolution_selector" android:padding="10.0sp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:src="@drawable/bg_make_it_google" android:contentDescription="@null" style="@style/MakeItGoogleGraphic" />
+    <view android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.google.android.gsf.login.ProportionalOuterFrame">
+        <RelativeLayout android:gravity="bottom" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+            <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:id="@id/title_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/account_intro_recommended_title" android:layout_weight="1.0" style="@style/setup_wizard_title" />
+                <ImageButton android:gravity="bottom" android:id="@id/learn_more_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_menu_info_holo_dark" android:contentDescription="@string/account_intro_learn_more" style="?android:attr/buttonBarButtonStyle" />
+            </LinearLayout>
+            <View android:id="@id/top_divider" android:layout_below="@id/title_content" style="@style/setup_wizard_top_divider" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="vertical" style="@style/StackButtonedContent">
+            <TextView android:id="@id/supporting_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" style="@style/setup_wizard_description_text" />
+        </LinearLayout>
+        <LinearLayout android:id="@id/buttons" style="@style/StackedButtons">
+            <Button android:id="@id/create_button" android:layout_width="fill_parent" android:text="@string/create_button_label" style="@style/setup_wizard_button" />
+            <Button android:id="@id/skip_button" android:layout_width="fill_parent" android:text="@string/not_now_button_label" style="@style/setup_wizard_button" />
+        </LinearLayout>
+    </view>
+</FrameLayout>

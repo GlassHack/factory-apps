@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:theme="@android:style/Theme.NoTitleBar" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/new_panorama" android:background="@drawable/button_selector_pro" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/new_panorama" android:layout_weight="1.0" style="@style/main_menu_button_pro" />
+    <Button android:id="@id/my_gallery" android:background="@drawable/button_selector_pro" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/my_panoramas" android:layout_weight="1.0" style="@style/main_menu_button_pro" />
+    <Button android:id="@id/settings" android:background="@drawable/button_selector_pro" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/settings" android:layout_weight="1.0" style="@style/main_menu_button_pro" />
+    <Button android:id="@id/help_n_tips" android:background="@drawable/button_selector_pro" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/help_n_tips" android:layout_weight="1.0" style="@style/main_menu_button_pro" />
+    <Button android:id="@id/feedback" android:background="@drawable/button_selector_pro" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/feedback" android:layout_weight="1.0" style="@style/main_menu_button_pro" />
+</LinearLayout>

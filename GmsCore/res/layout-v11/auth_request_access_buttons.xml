@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/auth_standard_margin" android:paddingBottom="@dimen/auth_standard_margin" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:orientation="horizontal" android:paddingRight="@dimen/auth_buttons_right_margin" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/cancel_button" android:layout_width="wrap_content" android:layout_height="@dimen/auth_button_height" android:text="@android:string/cancel" android:layout_toLeftOf="@id/accept_button" style="@style/CancelAuthButton" />
+        <Button android:id="@id/accept_button" android:layout_width="wrap_content" android:layout_height="@dimen/auth_button_height" android:text="@string/auth_sign_in_button_label" android:layout_alignParentRight="true" style="@style/ActionAuthButton" />
+    </RelativeLayout>
+</LinearLayout>

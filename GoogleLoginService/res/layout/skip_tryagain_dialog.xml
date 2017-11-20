@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/setup_wizard_margin_bottom" android:paddingTop="@dimen/setup_wizard_margin_bottom" android:paddingRight="@dimen/setup_wizard_margin_bottom" android:paddingBottom="@dimen/setup_wizard_margin_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/setup_wizard_margin_bottom" android:paddingEnd="@dimen/setup_wizard_margin_bottom"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_horizontal" android:id="@id/message" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="setup_wizard_title_height_fraction">20.000004%</item>
+    <item type="dimen" name="setup_wizard_border_width_fraction">10.000002%</item>
+    <dimen name="setup_wizard_margin_bottom">32.0dip</dimen>
+    <dimen name="setup_wizard_title_size">60.0dip</dimen>
+    <dimen name="setup_wizard_title_height">64.0dip</dimen>
+    <dimen name="setup_wizard_title_margin_sides">16.0dip</dimen>
+    <dimen name="setup_wizard_content_margin_sides">16.0dip</dimen>
+    <dimen name="setup_wizard_description_text_size">22.0sp</dimen>
+    <dimen name="setup_wizard_button_min_width">182.0dip</dimen>
+    <dimen name="setup_wizard_button_margin_top">32.0dip</dimen>
+    <dimen name="setup_wizard_arrow_button_width">71.0dip</dimen>
+    <dimen name="setup_wizard_arrow_button_height">89.0dip</dimen>
+    <dimen name="setup_wizard_arrow_button_updown_width">89.0dip</dimen>
+    <dimen name="setup_wizard_arrow_button_updown_height">71.0dip</dimen>
+    <dimen name="system_update_outer_padding_top">80.0dip</dimen>
+    <dimen name="system_update_outer_padding_bottom">48.0dip</dimen>
+    <dimen name="system_update_outer_padding_sides">64.0dip</dimen>
+    <dimen name="system_update_title_text_size">60.0sp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Nápověda a zpětná vazba</string>
+    <string name="plus_app_settings_all_apps_label">Všechny aplikace</string>
+    <string name="plus_app_settings_apps_page_label">Připojené aplikace</string>
+    <string name="plus_list_apps_empty_message">Nejsou připojeny žádné aplikace</string>
+    <string name="plus_manage_app_pacl_label">Kdo na Googlu uvidí vaše aktivity v této aplikaci</string>
+    <string name="plus_manage_app_scopes_label">Tato aplikace má přístup k:</string>
+</resources>

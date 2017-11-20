@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>బార్</item>
+        <item>కేఫ్</item>
+        <item>గ్యాస్ కేంద్రం</item>
+        <item>చలన చిత్ర థియేటర్</item>
+        <item>బస</item>
+        <item>రాత్రిపూట ఉండే క్లబ్</item>
+        <item>సంగ్రహాలయం</item>
+        <item>రెస్టారెంట్</item>
+        <item>షాపింగ్ కేంద్రం</item>
+        <item>దుకాణం</item>
+        <item>కిరాణా కొట్టు లేదా సూపర్‌మార్కెట్</item>
+        <item>ఇతరం</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/look_at_screen_practice_dialog" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/mock_notification_card" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/balloons" android:layout_width="@dimen/lhs_width" android:layout_height="fill_parent" android:src="@drawable/ic_las_balloon" />
+        <LinearLayout android:orientation="vertical" android:layout_width="@dimen/rhs_width" android:layout_height="fill_parent">
+            <com.google.glass.widget.DynamicSizeTextView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/rhs_left_padding" android:layout_marginTop="@dimen/adjusted_top_padding" android:layout_marginRight="@dimen/generic_card_padding" android:text="@string/look_at_screen_mock_notification_message" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+            <LinearLayout android:gravity="bottom|right|center" android:layout_gravity="bottom" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="@dimen/footer_height" android:layout_marginRight="34.0px" android:layout_marginBottom="34.0px" android:layout_weight="0.0">
+                <TextView android:gravity="bottom" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/look_at_screen_mock_notification_footnote_message" style="@style/SmallOverlayText" />
+                <ImageView android:layout_width="@dimen/glassware_icon_size" android:layout_height="@dimen/glassware_icon_size" android:layout_marginLeft="@dimen/glassware_icon_left_margin" android:src="@drawable/ic_gear_30" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:textColor="@color/state_gray" android:ellipsize="end" android:gravity="center" android:id="@id/calibration_message" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0px" android:text="@string/look_at_screen_practice_instruction_message" android:maxLines="2" android:singleLine="false" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/SmallOverlayText" />
+</RelativeLayout>

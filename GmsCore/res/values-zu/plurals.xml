@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">kusukela ku-%1$s kusiphequluli esise-%2$s ngaphansi kwamaminithi angu-%3$s adlule</item>
+        <item quantity="one">kusukela ku-%1$s kusiphequluli esise-%2$s ngaphansi kweminithi engu-%3$s edlule</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">kusukela e-%1$s ngaphansi kwamaminithi angu-%2$s adlule</item>
+        <item quantity="one">kusukela e-%1$s ngaphansi kwamaminithi angu-%2$s adlule</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d amahora asele</item>
+        <item quantity="one">1 ihora elisele</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d izinsuku</item>
+        <item quantity="one">%d usuku</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d amahora</item>
+        <item quantity="one">%d ihora</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d amaminithi</item>
+        <item quantity="one">%d iminithi</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s abantu</item>
+        <item quantity="one">%1$s umuntu</item>
+        <item quantity="two">%1$s abantu</item>
+        <item quantity="few">%1$s abantu</item>
+        <item quantity="many">%1$s abantu</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Iqalisa phansi ukufaka emasekhondini angu-%d...</item>
+        <item quantity="one">Iqalisa phansi ukufaka esekhendini eyi-1...</item>
+    </plurals>
+</resources>

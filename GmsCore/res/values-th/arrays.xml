@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>บาร์</item>
+        <item>ร้านกาแฟ</item>
+        <item>ปั๊มน้ำมัน</item>
+        <item>โรงภาพยนตร์</item>
+        <item>ที่พัก</item>
+        <item>ไนท์คลับ</item>
+        <item>พิพิธภัณฑ์</item>
+        <item>ร้านอาหาร</item>
+        <item>ศูนย์การค้า</item>
+        <item>ร้านค้า</item>
+        <item>ร้านขายของชำหรือซูเปอร์มาร์เก็ต</item>
+        <item>อื่นๆ</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>แย่</item>
+        <item>พอใช้</item>
+        <item>ดี</item>
+        <item>รัดกุม</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>บลูทูธ</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>เหนือ</item>
+        <item>ตะวันออกเฉียงเหนือ</item>
+        <item>ตะวันออก</item>
+        <item>ตะวันออกเฉียงใต้</item>
+        <item>ใต้</item>
+        <item>ตะวันตกเฉียงใต้</item>
+        <item>ตะวันตก</item>
+        <item>ตะวันตกเฉียงเหนือ</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>เลือกคำถามเพื่อความปลอดภัย</item>
+        <item>หมายเลขโทรศัพท์หมายเลขแรกคือ</item>
+        <item>ชื่อของเพื่อนรักในวัยเด็ก</item>
+        <item>ชื่อของครูคนแรก</item>
+        <item>ชื่อของผู้จัดการในงานแรก</item>
+        <item>เลขทะเบียนรถยนต์</item>
+    </string-array>
+</resources>

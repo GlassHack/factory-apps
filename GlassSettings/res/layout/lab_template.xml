@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/PaddedCard"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/lab_name" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/OverlayText" />
+    <TextView android:id="@id/lab_state_on" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/deviceinfo_lab_state_on" style="@style/OverlayGreenText" />
+    <TextView android:id="@id/lab_state_off" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/deviceinfo_lab_state_off" style="@style/OverlayRedText" />
+</LinearLayout>

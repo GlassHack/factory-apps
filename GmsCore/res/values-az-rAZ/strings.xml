@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sharedUserLabel">Google Xidmətləri</string>
+    <string name="system_update_activity_battery_low_charging_text">Sistem güncəllənməsini quraşdırmaq üçün batareya çox boşalıb. Batareyanın dolmasını gözləyin.</string>
+    <string name="system_update_activity_battery_low_text">Sistem güncəlləşdirilməsini quraşdırmaq üçün batareya çox boşalıb. Lütfən, davam etmək üçün cihazı elektrik şəbəkəsinə qoşun.</string>
+    <string name="system_update_activity_name">Sistem güncəlləmələri</string>
+    <string name="system_update_activity_roaming_text">Rominq zamanı sistem güncəlləşmələri endirilə bilməz.</string>
+    <string name="system_update_activity_title">Sistem güncəlləmələri</string>
+    <string name="system_update_check_now_button_text">İndi yoxlayın</string>
+    <string name="system_update_complete_label">Sistem güncəllənməsi</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Wi-Fi ilə qoşulun</string>
+    <string name="system_update_connection_lost_text">Şəbəkə bağlantısıitib.</string>
+    <string name="system_update_countdown_cancel_button">Quraşdırmanı ləğv edin</string>
+    <string name="system_update_countdown_complete">"İndi yenid'n ywkl'nir.."</string>
+    <string name="system_update_download_button_text">Endir</string>
+    <string name="system_update_download_failed_status_text">Endirilmədi</string>
+    <string name="system_update_download_retry_button_text">Endirməyə yenidən cəhd edin</string>
+    <string name="system_update_download_waiting_status_text">Endirmək üçün gözlənilir</string>
+    <string name="system_update_downloading_required_update_text">"Bu, ^1 dəqiqəyə qədər vaxt ala bilər.
+
+Sonra telefon avtomatik olaraq sönüb yanacaq."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Bu, ^1 dəqiqəyə qədər vaxt ala bilər.
+
+Sonra planşet avtomatik olaraq sönüb yanacaq."</string>
+    <string name="system_update_downloading_required_update_title">Gencəlləmə endirilir...</string>
+    <string name="system_update_downloading_status_text">Endirilir</string>
+    <string name="system_update_downloading_wifi_status2_text">Yalnız Wi-Fi vasitəsilə ^1 qədər</string>
+    <string name="system_update_install_button_text">Yenidən başladın və quraşdırın</string>
+    <string name="system_update_installing_update_text">"Bu, 5 dəqiqə vaxt ala bilər.
+
+Sonra cihazınızın quraşdırılmasını tamamlaya biləcəksiniz."</string>
+    <string name="system_update_installing_update_title">Sistem güncəlləməsi quraşdırılır...</string>
+    <string name="system_update_last_checkin">Sonuncu dəfə ^1 güncəllənməsi üçün yoxlanılıb.</string>
+    <string name="system_update_no_update_content_text">Sisteminiz hazırda güncəldir</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Endirmə uğursuz oldu. Yenidən cəhd edin.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Sistem güncəlləməsini endirmək olmadı.</string>
+    <string name="system_update_not_owner_text">Sistem proqram təminatı güncəllənməsi əlçatımlıdır, lakin yalnız sahib onları quraşdıra bilər.</string>
+    <string name="system_update_required_update_restart_text">Telefon sönüb yanacaq və sistem güncəllənməniz quraşdırıla biləcək.</string>
+    <string name="system_update_required_update_restart_text_tablet">Planşet sönüb yanacaq və sistem güncəllənməniz quraşdırıla biləcək.</string>
+    <string name="system_update_required_update_restart_title">Yenidən başlatmaq haqqında</string>
+    <string name="system_update_requires_restart_status_text">Yenidən başlatma tələb olunur</string>
+    <string name="system_update_restart_button_text">Yenidən başladın (^1)</string>
+    <string name="system_update_update_available_notification_title">Sistem güncəllənməsi əlçatımlıdır</string>
+    <string name="system_update_update_downloaded_notification_title">Sistem güncəllənməsi endirilib</string>
+    <string name="system_update_verification_failed_text">Doğrulanma alınmadı</string>
+    <string name="system_update_verified_status_text">Endirilib və təsdiqlənib</string>
+    <string name="system_update_verifying_status_text">Təsdiqləmə</string>
+    <string name="system_update_update_available_download_message">Endirmək üçün toxunun.</string>
+    <string name="system_update_update_downloaded_install_message">Quraşdırmaq üçün toxunun.</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/first_name_edit" android:hint="@string/plus_first_name" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionNext" android:contentDescription="@string/plus_oob_first_name_content_description" style="@style/setup_wizard_edit_text" />
+    <EditText android:id="@id/last_name_edit" android:layout_marginTop="6.0dip" android:hint="@string/plus_last_name" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionDone" android:contentDescription="@string/plus_oob_last_name_content_description" style="@style/setup_wizard_edit_text" />
+</LinearLayout>

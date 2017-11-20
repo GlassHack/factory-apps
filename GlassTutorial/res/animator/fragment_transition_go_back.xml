@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <objectAnimator android:interpolator="@android:interpolator/decelerate_quad" android:duration="@integer/fragment_transition_animation_duration" android:valueFrom="1.0" android:valueTo="0.66" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="@android:interpolator/decelerate_quad" android:duration="@integer/fragment_transition_animation_duration" android:valueFrom="1.0" android:valueTo="0.66" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="@android:interpolator/decelerate_quad" android:duration="@integer/fragment_transition_animation_duration" android:valueFrom="1.0" android:valueTo="0.0" android:propertyName="alpha" />
+</set>

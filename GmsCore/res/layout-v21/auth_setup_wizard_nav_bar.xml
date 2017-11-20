@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment android:name="com.android.setupwizard.navigationbar.SetupWizardNavBar" android:id="@id/navigation_bar" style="@style/auth_setup_wizard_navbar_style"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

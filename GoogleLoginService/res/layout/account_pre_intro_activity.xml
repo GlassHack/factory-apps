@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.google.android.gsf.login.ProportionalOuterFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="bottom" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/account_pre_intro_title" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentStart="true" style="@style/setup_wizard_title" />
+        <View android:id="@id/top_divider" android:layout_below="@id/title" style="@style/setup_wizard_top_divider" />
+    </RelativeLayout>
+    <TextView android:id="@id/message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:text="@string/account_pre_intro_default_message" android:layout_below="@id/title_area" android:layout_alignParentLeft="true" android:layout_alignParentStart="true" style="@style/setup_wizard_description_text" />
+    <LinearLayout android:id="@id/buttons" style="@style/StackedButtons">
+        <Button android:id="@id/yes_button" android:layout_width="fill_parent" android:text="@string/account_pre_intro_yes" style="@style/setup_wizard_button" />
+        <Button android:id="@id/no_button" android:layout_width="fill_parent" android:text="@string/account_pre_intro_no" style="@style/setup_wizard_button" />
+    </LinearLayout>
+</view>

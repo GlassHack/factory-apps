@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_invalid_panorama_data">Panorama no válido.</string>
+    <string name="maps_network_unavailable">Este programa requiere una conexión de datos y volverá a intentar restaurarla automáticamente. Verifique la intensidad de señal. ¿Está encendido el modo avión? ¿Está desactivado datos móviles?</string>
+    <string name="maps_no_panorama_data">No se establecieron datos de panorama.</string>
+    <string name="maps_panorama_disabled">La imagen ya no está disponible</string>
+    <string name="maps_service_unavailable">El servicio Street View no está disponible.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Se ha perdido la conexión con los datos. Intentando restaurarla.</string>
+</resources>

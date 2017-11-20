@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/LoginActivityOuterFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="bottom" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/setup_wizard_title_height" android:text="@string/plus_faq_title" android:layout_alignParentTop="true" style="@style/setup_wizard_title" />
+        <View android:id="@id/top_divider" android:layout_below="@id/title" style="@style/setup_wizard_top_divider" />
+    </RelativeLayout>
+    <include android:id="@id/button_row" layout="@layout/arrow_buttons" />
+    <view android:id="@id/bottom_scroll_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/button_row" android:layout_below="@id/title_area" class="com.google.android.gsf.login.BottomScrollView">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/input_field_vmargins" android:text="@string/plus_faq_text" android:layout_alignParentTop="true" style="@style/setup_wizard_description_text" />
+            <TextView android:id="@id/dasher_warning" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/input_field_vmargins" android:text="@string/dasher_warning" android:layout_below="@id/description" style="@style/setup_wizard_description_text" />
+        </RelativeLayout>
+    </view>
+</RelativeLayout>

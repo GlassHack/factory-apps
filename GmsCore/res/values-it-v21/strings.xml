@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Guida e feedback</string>
+    <string name="plus_app_settings_all_apps_label">Tutte le app</string>
+    <string name="plus_app_settings_apps_page_label">App connesse</string>
+    <string name="plus_list_apps_empty_message">Nessuna app connessa</string>
+    <string name="plus_manage_app_pacl_label">"Impostazioni di visibilità delle attività dell'app su Google"</string>
+    <string name="plus_manage_app_scopes_label">Questa app può accedere a:</string>
+</resources>

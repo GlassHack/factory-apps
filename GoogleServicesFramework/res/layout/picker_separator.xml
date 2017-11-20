@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:textColor="@color/list_item_unselected_text_color" android:id="@id/separator" android:paddingLeft="@dimen/picker_separator_horizontal_padding" android:paddingRight="@dimen/picker_separator_horizontal_padding" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:alpha="@alpha/picker_item_separator_alpha" style="@style/Canvas.Text.Dialog.List.Title"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

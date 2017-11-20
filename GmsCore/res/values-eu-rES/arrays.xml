@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Taberna</item>
+        <item>Kafetegia</item>
+        <item>Gasolindegia</item>
+        <item>Zinema</item>
+        <item>Ostatua</item>
+        <item>Diskoteka</item>
+        <item>Museoa</item>
+        <item>Jatetxea</item>
+        <item>Merkataritza-gunea</item>
+        <item>Denda</item>
+        <item>Janari-denda edo supermerkatua</item>
+        <item>Bestelakoak</item>
+    </string-array>
+</resources>

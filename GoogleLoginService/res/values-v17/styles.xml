@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="setup_wizard_title">
+        <item name="android:textSize">@dimen/setup_wizard_title_size</item>
+        <item name="android:textColor">@color/setup_wizard_title_color</item>
+        <item name="android:clickable">false</item>
+        <item name="android:longClickable">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:layout_marginStart">@dimen/setup_wizard_title_margin_sides</item>
+        <item name="android:layout_marginEnd">@dimen/setup_wizard_title_margin_sides</item>
+    </style>
+    <style name="setup_wizard_description_text" parent="@style/setup_wizard_text">
+        <item name="android:textSize">@dimen/setup_wizard_description_text_size</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_description_margin_top</item>
+        <item name="android:layout_marginStart">@dimen/setup_wizard_content_margin_sides</item>
+        <item name="android:layout_marginEnd">@dimen/setup_wizard_content_margin_sides</item>
+    </style>
+</resources>

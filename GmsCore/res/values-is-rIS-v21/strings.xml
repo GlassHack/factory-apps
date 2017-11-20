@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Hjálp og ábendingar</string>
+    <string name="plus_app_settings_all_apps_label">Öll forrit</string>
+    <string name="plus_app_settings_apps_page_label">Tengd forrit</string>
+    <string name="plus_list_apps_empty_message">Engin forrit eru tengd</string>
+    <string name="plus_manage_app_pacl_label">Hverjir geta séð forritavirknina þína á Google</string>
+    <string name="plus_manage_app_scopes_label">Þetta forrit hefur aðgang að:</string>
+</resources>

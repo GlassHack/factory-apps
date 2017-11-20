@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wallpaper android:description="@string/panorama_wallpaper_description" android:settingsActivity="com.google.android.apps.lightcycle.wallpaper.PanoramaWallpaperPreferencesActivity" android:thumbnail="@drawable/glow8blue80"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

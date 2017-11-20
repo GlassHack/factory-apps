@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:tag="@string/plus_oob_field_view_tag_hidden_button" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_oob_scroll_element_gap_small"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tag_horizontal_scroll_item_position" />
+    <item type="id" name="tag_timeline_database_adapter_read_callback" />
+    <item type="id" name="tag_loading_task" />
+    <item type="id" name="tag_cell_layout_type" />
+    <item type="id" name="tag_horizontal_scroll_fade_out_on_scroll" />
+    <item type="id" name="tag_notification_state_listener" />
+    <item type="id" name="tag_owned_views" />
+    <item type="id" name="tag_composite_adapter_recycle_runnable" />
+    <item type="id" name="tag_horizontal_scroll_read_result" />
+    <item type="id" name="tag_read_more_html_page" />
+    <item type="id" name="tag_paged_webview" />
+    <item type="id" name="tag_item_fast_scroll_label_text" />
+    <item type="id" name="tag_item_crc32" />
+    <item type="id" name="tag_item_read_more" />
+    <item type="id" name="tag_item_is_bundle_entry_point" />
+    <item type="id" name="tag_item_time_label_text" />
+    <item type="id" name="tag_html_item_footer_right_margin" />
+    <item type="id" name="tag_html_item_content_sized_listener" />
+    <item type="id" name="tag_menu_item" />
+    <item type="id" name="tag_horizontal_scroll_item_view_type" />
+    <item type="id" name="tag_horizontal_scroll_item_view_binder" />
+    <item type="id" name="tag_horizontal_scroll_bound_view" />
+    <item type="id" name="tag_horizontal_scroll_legacy_wrap" />
+    <item type="id" name="tag_timeline_database_adapter_load_runnable" />
+    <item type="id" name="tag_item_binder_bound_item" />
+    <item type="id" name="menu_browse_website" />
+    <item type="id" name="bluetooth_device_card">false</item>
+    <item type="id" name="bluetooth_icon">false</item>
+    <item type="id" name="phone_call_caller_profile_picture">false</item>
+    <item type="id" name="phone_call_current_action">false</item>
+    <item type="id" name="phone_call_status">false</item>
+    <item type="id" name="phone_call_timer">false</item>
+    <item type="id" name="caller_profile_picture">false</item>
+    <item type="id" name="caller_id">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="gradient">false</item>
+    <item type="id" name="icon_and_label_layout">false</item>
+    <item type="id" name="glassware_icon">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="tip">false</item>
+    <item type="id" name="root">false</item>
+    <item type="id" name="scroll_view">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="ms_dialog">false</item>
+    <item type="id" name="background_image">false</item>
+    <item type="id" name="gradient_view">false</item>
+    <item type="id" name="slider">false</item>
+    <item type="id" name="microphone_container">false</item>
+    <item type="id" name="sound_levels">false</item>
+    <item type="id" name="pulsing_circle">false</item>
+    <item type="id" name="gray_circle">false</item>
+    <item type="id" name="red_circle">false</item>
+    <item type="id" name="green_circle">false</item>
+    <item type="id" name="microphone">false</item>
+    <item type="id" name="keyboard">false</item>
+    <item type="id" name="video_hint">false</item>
+    <item type="id" name="mosaic_wrapper">false</item>
+    <item type="id" name="mosaic">false</item>
+    <item type="id" name="thumbnail">false</item>
+    <item type="id" name="album_art">false</item>
+    <item type="id" name="single_track_layout">false</item>
+    <item type="id" name="track_name">false</item>
+    <item type="id" name="artist_name">false</item>
+    <item type="id" name="bundle_cover_layout">false</item>
+    <item type="id" name="bundle_summary">false</item>
+    <item type="id" name="viewfinder">false</item>
+    <item type="id" name="overlay">false</item>
+    <item type="id" name="setting_title">false</item>
+    <item type="id" name="setting_value">false</item>
+    <item type="id" name="setting_details">false</item>
+    <item type="id" name="setting_extra_details1">false</item>
+    <item type="id" name="setting_extra_details2">false</item>
+    <item type="id" name="setting_info">false</item>
+    <item type="id" name="setting_extra_info">false</item>
+    <item type="id" name="slider_control">false</item>
+    <item type="id" name="indeterminate_slider">false</item>
+    <item type="id" name="textView">false</item>
+    <item type="id" name="sender_picture_placeholder">false</item>
+    <item type="id" name="sender_picture">false</item>
+    <item type="id" name="sender_name">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="timeline_item_footer">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="timestamp">false</item>
+    <item type="id" name="source_icon">false</item>
+    <item type="id" name="wear_synchronicity">false</item>
+    <item type="id" name="sync">false</item>
+    <item type="id" name="sender_picture_mosaic">false</item>
+    <item type="id" name="placeholder">false</item>
+    <item type="id" name="rendered_html">false</item>
+    <item type="id" name="profile_photo">false</item>
+    <item type="id" name="creator_picture">false</item>
+    <item type="id" name="creator_name">false</item>
+    <item type="id" name="map">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="participants">false</item>
+    <item type="id" name="failed_overlay">false</item>
+    <item type="id" name="cover">false</item>
+    <item type="id" name="mosaic_title">false</item>
+    <item type="id" name="video">false</item>
+    <item type="id" name="non_video">false</item>
+    <item type="id" name="overlay_icon">false</item>
+    <item type="id" name="buffering_slider">false</item>
+    <item type="id" name="tips">false</item>
+    <item type="id" name="voice_input_activity_card">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="initial_selected_voice_command_text">false</item>
+    <item type="id" name="final_selected_voice_command_text">false</item>
+    <item type="id" name="voice_input_subselected_item">false</item>
+    <item type="id" name="voice_input_prompt">false</item>
+    <item type="id" name="streaming_text">false</item>
+    <item type="id" name="streaming_text_main">false</item>
+    <item type="id" name="mode_slider_view">false</item>
+    <item type="id" name="cancel_tip">false</item>
+    <item type="id" name="keyboard_mode_tip">false</item>
+    <item type="id" name="progress_slider">false</item>
+    <item type="id" name="crop_marks">false</item>
+    <item type="id" name="voice_menu_container">false</item>
+    <item type="id" name="voice_menu_top_layout">false</item>
+    <item type="id" name="voice_menu_primary_scroll_view">false</item>
+    <item type="id" name="voice_menu_items">false</item>
+    <item type="id" name="empty_secondary_menu_message">false</item>
+    <item type="id" name="swipe_forward_tip_gradient">false</item>
+    <item type="id" name="swipe_forward_tip">false</item>
+    <item type="id" name="menu_scroll_view">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="message_recipient">false</item>
+    <item type="id" name="voice_message_swipe_tip">false</item>
+    <item type="id" name="incoming_call_answer">false</item>
+    <item type="id" name="incoming_call_decline">false</item>
+</resources>

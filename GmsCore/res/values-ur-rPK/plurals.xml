@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d گھنٹے باقی ہیں</item>
+        <item quantity="one">1 گھنٹہ باقی ہے</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d دن</item>
+        <item quantity="one">%d دن</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d گھنٹے</item>
+        <item quantity="one">%d گھنٹہ</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d منٹ</item>
+        <item quantity="one">%d منٹ</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s لوگ</item>
+        <item quantity="one">%1$s شخص</item>
+        <item quantity="two">%1$s لوگ</item>
+        <item quantity="few">%1$s لوگ</item>
+        <item quantity="many">%1$s لوگ</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d سیکنڈ میں انسٹال کرنے کیلئے ریبوٹ کر رہا ہے…</item>
+        <item quantity="one">1 سیکنڈ میں انسٹال کرنے کیلئے ریبوٹ کر رہا ہے…</item>
+    </plurals>
+</resources>

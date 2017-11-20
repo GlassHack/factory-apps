@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Ajuda e comentários</string>
+    <string name="plus_app_settings_all_apps_label">Todas as aplicações</string>
+    <string name="plus_app_settings_apps_page_label">Aplicações associadas</string>
+    <string name="plus_list_apps_empty_message">Não existem aplicações associadas</string>
+    <string name="plus_manage_app_pacl_label">Quem pode ver as atividades da aplicação no Google</string>
+    <string name="plus_manage_app_scopes_label">Esta aplicação pode aceder a:</string>
+</resources>

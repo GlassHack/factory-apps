@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/auth_snackbar_text_size" android:textColor="@color/auth_snackbar_text" android:id="@id/toast_text" android:background="@color/auth_snackbar_background" android:paddingLeft="@dimen/auth_snackbar_padding_left" android:paddingTop="@dimen/auth_snackbar_padding_top" android:paddingRight="@dimen/auth_snackbar_padding_right" android:paddingBottom="@dimen/auth_snackbar_padding_bottom" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+</LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/share_preview" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/plus_preview_content_text_size" android:textStyle="bold" android:textColor="@color/plus_preview_title_text" android:id="@id/video_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/plus_video_title_margin" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/plus_video_image_margin" android:layout_below="@id/video_title">
+        <com.google.android.gms.plus.data.internal.PlusImageView android:layout_gravity="center" android:id="@id/video_image" android:layout_width="@dimen/plus_preview_video_height" android:layout_height="@dimen/plus_preview_video_height" android:src="@drawable/empty_thumbnail" android:scaleType="centerCrop" />
+        <ImageView android:layout_gravity="center" android:id="@id/video_overlay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/video_overlay" android:contentDescription="@string/plus_video_preview_image_description" />
+    </FrameLayout>
+</RelativeLayout>

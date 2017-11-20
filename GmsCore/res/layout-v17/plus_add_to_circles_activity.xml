@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="0.0dip" android:layout_marginTop="@dimen/plus_add_to_circles_view_margin" android:layout_marginRight="0.0dip" android:layout_marginBottom="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.gms.plus.audience.AudienceSelectionScrollView android:id="@id/audience_selection_container_view" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="fill_parent" android:overScrollMode="never">
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:id="@id/add_to_circles_top_blank_view" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <FrameLayout android:id="@id/add_to_circles_left_blank_view" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+                <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="@drawable/plus_shadow_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/plus_add_to_circles_view_margin" android:layout_marginRight="@dimen/plus_add_to_circles_view_margin">
+                    <LinearLayout android:gravity="start|center" android:orientation="horizontal" android:id="@id/add_to_circles_header" android:background="@drawable/plus_add_to_circles_header_background" android:layout_width="fill_parent" android:layout_height="@dimen/plus_add_to_circles_header_height">
+                        <com.google.android.gms.plus.audience.AudienceAvatarImageView android:id="@id/add_to_circles_user_icon" android:visibility="gone" android:contentDescription="@string/plus_avatar_image_description" android:layout_marginStart="15.0dip" style="@style/AddToCirclesAvatarImage" />
+                        <TextView android:id="@id/add_to_circles_title" style="@style/plus_AddToCircles_HeaderText" />
+                    </LinearLayout>
+                    <View android:background="@color/plus_add_to_circles_header_divider_grey" android:layout_width="fill_parent" android:layout_height="@dimen/plus_add_to_circles_header_divider" />
+                    <FrameLayout android:id="@id/fragment_container" android:background="@android:color/white" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:measureAllChildren="true" />
+                </LinearLayout>
+                <FrameLayout android:id="@id/add_to_circles_right_blank_view" android:background="@android:color/transparent" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.google.android.gms.plus.audience.AudienceSelectionScrollView>
+</LinearLayout>

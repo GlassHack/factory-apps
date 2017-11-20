@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@id/text" style="@style/plus_oob_DescriptionText"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Справка/отзыв</string>
+    <string name="plus_app_settings_all_apps_label">Все приложения</string>
+    <string name="plus_app_settings_apps_page_label">Подключенные приложения</string>
+    <string name="plus_list_apps_empty_message">Нет подключенных приложений</string>
+    <string name="plus_manage_app_pacl_label">Кто видит мои действия в этом приложении</string>
+    <string name="plus_manage_app_scopes_label">Это приложение получит доступ к следующим данным:</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Уушийн газар</item>
+        <item>Кафе</item>
+        <item>Шатахуун түгээгүүр</item>
+        <item>Кино театр</item>
+        <item>Лоджин</item>
+        <item>Шөнийн клуб</item>
+        <item>Музей</item>
+        <item>Ресторан</item>
+        <item>Худалдааны төв</item>
+        <item>Дэлгүүр</item>
+        <item>Хүнсний дэлгүүр, эсвэл супермаркет</item>
+        <item>Бусад</item>
+    </string-array>
+</resources>

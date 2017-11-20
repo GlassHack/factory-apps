@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">%1$s dakikadan kısa süre önce %2$s konumunda %3$s cihazından</item>
+        <item quantity="one">%1$s dakikadan kısa süre önce %2$s konumunda %3$s cihazından</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">%1$s dakikadan kısa süre önce %2$s konumundan</item>
+        <item quantity="one">%1$s dakikadan kısa süre önce %2$s konumundan</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d saat kaldı</item>
+        <item quantity="one">1 saat kaldı</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d sa.</item>
+        <item quantity="one">%d sa.</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d dk.</item>
+        <item quantity="one">%d dk.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s kişi</item>
+        <item quantity="one">%1$s kişi</item>
+        <item quantity="two">%1$s kişi</item>
+        <item quantity="few">%1$s kişi</item>
+        <item quantity="many">%1$s kişi</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Yükleme için %d saniye içinde yeniden başlatılıyor...</item>
+        <item quantity="one">Yükleme için 1 saniye içinde yeniden başlatılıyor...</item>
+    </plurals>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/audience_selection_create_circle_view" android:layout_width="fill_parent" android:layout_height="@dimen/plus_create_circle_list_item_height" style="@style/common_SelectableItem">
+        <View android:id="@id/top_border" android:background="@color/plus_audience_selection_divider_color" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:paddingLeft="@dimen/plus_audience_selection_list_update_item_padding" android:paddingRight="@dimen/plus_audience_selection_list_update_item_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/plus_accessibility_audience_selection_create_circle">
+            <TextView android:textSize="@dimen/plus_add_to_circles_text_size" android:textColor="@color/plus_audience_selection_text_light_color" android:gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/plus_audience_selection_new_circle" android:layout_weight="1.0" />
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/plus_iconic_ic_plus_grey_20" />
+        </LinearLayout>
+    </RelativeLayout>
+</merge>

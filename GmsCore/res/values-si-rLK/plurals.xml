@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">ස්ථාපනය වීමට තව තත්පර %d කින් යළිපණගැන්වේ…</item>
+        <item quantity="one">ස්ථාපනය වීමට තව තත්පර 1 කින් යළි පණගැන්වේ…</item>
+    </plurals>
+</resources>

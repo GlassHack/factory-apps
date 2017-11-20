@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Pomoć i povratne inf.</string>
+    <string name="plus_app_settings_all_apps_label">Sve aplikacije</string>
+    <string name="plus_app_settings_apps_page_label">Povezane aplikacije</string>
+    <string name="plus_list_apps_empty_message">Nema povezanih aplikacija</string>
+    <string name="plus_manage_app_pacl_label">Tko može vidjeti vaše aktivnosti u aplikaciji na Googleu</string>
+    <string name="plus_manage_app_scopes_label">Aplikacija može pristupiti:</string>
+</resources>

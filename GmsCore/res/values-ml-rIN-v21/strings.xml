@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">സഹായവും ഫീഡ്‌ബാക്കും</string>
+    <string name="plus_app_settings_all_apps_label">എല്ലാ അപ്ലിക്കേഷനുകളും</string>
+    <string name="plus_app_settings_apps_page_label">കണക്റ്റുചെയ്‌ത അപ്ലിക്കേഷനുകൾ</string>
+    <string name="plus_list_apps_empty_message">അപ്ലിക്കേഷനുകളൊന്നും കണക്‌റ്റുചെയ്തിട്ടില്ല</string>
+    <string name="plus_manage_app_pacl_label">Google-ൽ അപ്ലിക്കേഷൻ പ്രവർത്തനങ്ങൾ ആർക്കൊക്കെ കാണാനാകും</string>
+    <string name="plus_manage_app_scopes_label">ഈ അപ്ലിക്കേഷന് ഇവ ആക്‌സസ്സുചെയ്യാനാകും:</string>
+</resources>

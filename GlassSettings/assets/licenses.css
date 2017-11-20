@@ -1,0 +1,22 @@
+body {
+ font-family: 'sans-serif-light';
+ font-size: 26px;
+ background-color: black;
+ color: white;
+}
+
+.label {
+ font-family: 'sans-serif-light';
+ font-size: 26px;
+}
+
+.file-list {
+ font-family: 'sans-serif-light';
+ font-size: 26px;
+}
+
+.license-text {
+ font-family: 'sans-serif-light';
+ font-size: 26px;
+ white-space: pre-line;
+}

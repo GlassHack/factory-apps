@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/main_workflow_layout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/workflow_layout" android:background="#ffdcdcdc" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:layout_gravity="center" android:id="@id/logo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:src="@drawable/ic_google_logo" android:contentDescription="@string/auth_authzen_google_logo_label" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="230.0dip">
+            <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/fragments_layout" android:background="#ffdcdcdc" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip" />
+        </ScrollView>
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:background="#ffdcdcdc" android:layout_width="fill_parent" android:layout_height="40.0dip" />
+        <View android:layout_gravity="bottom" android:background="#fff3f3f3" android:layout_width="fill_parent" android:layout_height="40.0dip" />
+        <ImageView android:layout_gravity="center" android:id="@id/profile_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/default_silhouette" android:scaleType="fitCenter" android:minWidth="80.0dip" android:minHeight="80.0dip" android:contentDescription="@string/auth_authzen_profile_picture_label" />
+    </FrameLayout>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/profile_layout" android:background="#fff3f3f3" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold" android:textColor="#ff666666" android:layout_gravity="center" android:id="@id/account" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="16.0dip" />
+        <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ff666666" android:gravity="center" android:id="@id/request_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="8.0dip" android:layout_marginRight="24.0dip" android:layout_marginBottom="20.0dip" android:text="@string/auth_authzen_default_request_description" />
+    </LinearLayout>
+</LinearLayout>

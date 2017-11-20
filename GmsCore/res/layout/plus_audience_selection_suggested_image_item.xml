@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.plus.audience.AudienceSelectionListSuggestedPersonView android:padding="@dimen/plus_audience_selection_suggested_item_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/top_border" layout="@layout/plus_audience_selection_list_divider" />
+    <com.google.android.gms.common.ui.widget.SquareImageView android:layout_gravity="bottom" android:id="@id/audience_selection_person_avatar" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/default_avatar" android:scaleType="fitCenter" android:adjustViewBounds="true" android:contentDescription="@string/plus_accessibility_audience_selection_person_avatar" />
+    <View android:background="@drawable/plus_audience_selection_showcase_gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@android:color/white" android:ellipsize="end" android:gravity="bottom|left|center" android:id="@id/audience_selection_person_name" android:padding="@dimen/plus_audience_selection_suggested_text_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" />
+    <CheckBox android:id="@id/audience_selection_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:id="@id/audience_selection_suggested_check" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_audience_selection_suggested_checkbox_margin" android:layout_marginRight="@dimen/plus_audience_selection_suggested_checkbox_margin" android:src="@drawable/ic_check_circle_blue_24" android:scaleType="center" android:adjustViewBounds="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+    <View android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/common_SelectableItem" />
+</com.google.android.gms.plus.audience.AudienceSelectionListSuggestedPersonView>

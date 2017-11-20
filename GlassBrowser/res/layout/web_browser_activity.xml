@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/browser_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ViewSwitcher android:id="@id/browser_view_switcher" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.3" />
+    <com.google.glass.widget.TipsView android:gravity="bottom|center" android:id="@id/browser_tip" android:background="@drawable/gradient_bg" android:paddingBottom="30.0px" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="180.0px" android:layout_alignParentBottom="true" android:alpha="0.0" style="@style/TipsViewText" />
+    <RelativeLayout android:id="@id/clutch_mode_frame" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner_shadow" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner_shadow" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:rotation="90.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:rotation="90.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner_shadow" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:rotation="180.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:rotation="180.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner_shadow" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:rotation="270.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_corner" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" android:rotation="270.0" />
+    </RelativeLayout>
+    <ImageView android:id="@id/reticle" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/zoomframe_reticle" android:layout_centerInParent="true" />
+    <RelativeLayout android:orientation="vertical" android:id="@id/loading_view" android:background="@color/loading_background" android:paddingLeft="40.0px" android:paddingRight="40.0px" android:paddingBottom="40.0px" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="center" android:id="@id/loading_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true">
+            <ImageView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="20.0px" android:src="@drawable/ic_world_50" />
+            <TextView android:id="@id/loading_textview" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/loading_message" style="@style/LargeOverlayText" />
+            <TextView android:id="@id/error_textview" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/error_message" style="@style/LargeOverlayText" />
+        </LinearLayout>
+        <TextView android:ellipsize="end" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/browser_loading_url" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" android:singleLine="true" android:layout_alignParentBottom="true" style="@style/TipsViewText" />
+    </RelativeLayout>
+    <com.google.glass.widget.SliderView android:id="@id/browser_slider" android:background="@drawable/gradient_bg" android:paddingTop="2.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <ImageView android:id="@id/gradient" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/overlay_medium" android:layout_alignParentBottom="true" android:layout_centerInParent="true" />
+    <TextView android:id="@id/guard_phrase_hint" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/guard_phrase_bottom_margin" android:text="@string/guard_phrase_hint" android:layout_alignParentBottom="true" android:layout_centerInParent="true" style="@style/TipsViewText" />
+</RelativeLayout>

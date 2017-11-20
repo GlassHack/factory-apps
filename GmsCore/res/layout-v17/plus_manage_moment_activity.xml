@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/content_area" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/details" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="16.0dip" android:layout_marginBottom="10.0dip" android:layout_above="@id/manage_divider" android:layout_alignParentTop="true">
+                <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <ImageView android:id="@id/image" android:background="@android:color/transparent" android:layout_width="96.0dip" android:layout_height="96.0dip" android:contentDescription="@string/plus_manage_moment_image_desc" android:layout_marginEnd="10.0dip" />
+                    <TextView android:textSize="18.0sp" android:id="@id/action" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toEndOf="@id/image" />
+                    <TextView android:textSize="22.0sp" android:id="@id/target" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/action" android:layout_toEndOf="@id/image" />
+                    <TextView android:textSize="18.0sp" android:id="@id/time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/target" android:layout_toEndOf="@id/image" style="@style/plus_AppsTextSecondary" />
+                </RelativeLayout>
+                <TextView android:textSize="18.0sp" android:id="@id/acl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
+            </LinearLayout>
+            <View android:id="@id/manage_divider" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_above="@id/manage_layout" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/manage_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:layout_alignParentBottom="true">
+                <TextView android:gravity="center" android:id="@id/delete" android:paddingTop="20.0dip" android:paddingBottom="20.0dip" android:focusable="true" android:clickable="true" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/plus_ManageButton" />
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+</LinearLayout>

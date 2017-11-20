@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/label_options" android:orderingFromXml="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/general_settings">
+        <EditTextPreference android:numeric="decimal" android:title="@string/marker_distance" android:key="markerDistance" android:summary="@string/marker_distance_description" android:defaultValue="36.8" />
+        <EditTextPreference android:numeric="decimal" android:title="@string/target_distance" android:key="targetDistanceCm" android:summary="@string/target_distance_description" android:defaultValue="99.7" />
+    </PreferenceCategory>
+</PreferenceScreen>

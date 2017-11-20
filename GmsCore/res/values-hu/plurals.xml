@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">innen: %1$s, %2$s, kevesebb mint %3$s perccel ezelőtt</item>
+        <item quantity="one">innen: %1$s, %2$s, kevesebb mint %3$s perccel ezelőtt</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">innen: %1$s, kevesebb mint %2$s perccel ezelőtt</item>
+        <item quantity="one">innen: %1$s, kevesebb mint %2$s perccel ezelőtt</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d óra van hátra</item>
+        <item quantity="one">1 óra van hátra</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d nap</item>
+        <item quantity="one">%d nap</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d óra</item>
+        <item quantity="one">%d óra</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d perc</item>
+        <item quantity="one">%d perc</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s személy</item>
+        <item quantity="one">%1$s személy</item>
+        <item quantity="two">%1$s személy</item>
+        <item quantity="few">%1$s személy</item>
+        <item quantity="many">%1$s személy</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Újraindítás a telepítéshez %d másodperc múlva…</item>
+        <item quantity="one">Újraindítás a telepítéshez 1 másodperc múlva…</item>
+    </plurals>
+</resources>

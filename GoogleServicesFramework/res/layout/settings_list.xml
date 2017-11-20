@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pano="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/selector" android:background="@color/selector_color" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_centerVertical="true" android:alpha="0.0" />
+    <com.google.android.pano.widget.ScrollAdapterView android:gravity="center_vertical" android:id="@id/list" android:focusable="true" android:descendantFocusability="afterDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" pano:orientation="vertical" pano:scrollCenterStrategy="fixedPercent" pano:scrollCenterOffsetPercent="50" />
+</RelativeLayout>

@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="tag_horizontal_scroll_item_position" />
+    <item type="id" name="tag_timeline_database_adapter_read_callback" />
+    <item type="id" name="tag_loading_task" />
+    <item type="id" name="tag_cell_layout_type" />
+    <item type="id" name="tag_horizontal_scroll_fade_out_on_scroll" />
+    <item type="id" name="tag_notification_state_listener" />
+    <item type="id" name="tag_owned_views" />
+    <item type="id" name="tag_composite_adapter_recycle_runnable" />
+    <item type="id" name="tag_horizontal_scroll_read_result" />
+    <item type="id" name="tag_read_more_html_page" />
+    <item type="id" name="tag_paged_webview" />
+    <item type="id" name="tag_item_fast_scroll_label_text" />
+    <item type="id" name="tag_item_crc32" />
+    <item type="id" name="tag_item_read_more" />
+    <item type="id" name="tag_item_is_bundle_entry_point" />
+    <item type="id" name="tag_item_time_label_text" />
+    <item type="id" name="tag_html_item_footer_right_margin" />
+    <item type="id" name="tag_html_item_content_sized_listener" />
+    <item type="id" name="tag_menu_item" />
+    <item type="id" name="tag_horizontal_scroll_item_view_type" />
+    <item type="id" name="tag_horizontal_scroll_item_view_binder" />
+    <item type="id" name="tag_horizontal_scroll_bound_view" />
+    <item type="id" name="tag_horizontal_scroll_legacy_wrap" />
+    <item type="id" name="tag_timeline_database_adapter_load_runnable" />
+    <item type="id" name="tag_item_binder_bound_item" />
+    <item type="id" name="menu_browse_website" />
+    <item type="id" name="head_wake_settings_card">false</item>
+    <item type="id" name="battery_state_image">false</item>
+    <item type="id" name="battery_settings_header">false</item>
+    <item type="id" name="battery_state_text">false</item>
+    <item type="id" name="battery_state_duration_text">false</item>
+    <item type="id" name="battery_state_connect_charger_text">false</item>
+    <item type="id" name="device_icon">false</item>
+    <item type="id" name="device_discovery_title">false</item>
+    <item type="id" name="device_discovery_footer">false</item>
+    <item type="id" name="device_aps">false</item>
+    <item type="id" name="videoView">false</item>
+    <item type="id" name="overlay">false</item>
+    <item type="id" name="text">false</item>
+    <item type="id" name="settings_container">false</item>
+    <item type="id" name="timeline_lhs">false</item>
+    <item type="id" name="bluetooth_connection_state">false</item>
+    <item type="id" name="timeline_rhs">false</item>
+    <item type="id" name="bluetooth_device_card">false</item>
+    <item type="id" name="bluetooth_icon">false</item>
+    <item type="id" name="scroller">false</item>
+    <item type="id" name="phoneIcon">false</item>
+    <item type="id" name="phoneName">false</item>
+    <item type="id" name="instruction">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="imageCenter">false</item>
+    <item type="id" name="linkImageLeft">false</item>
+    <item type="id" name="linkImageRight">false</item>
+    <item type="id" name="imageLeft">false</item>
+    <item type="id" name="imageRight">false</item>
+    <item type="id" name="textCenter">false</item>
+    <item type="id" name="textLeft">false</item>
+    <item type="id" name="textRight">false</item>
+    <item type="id" name="cardStatus">false</item>
+    <item type="id" name="statusText">false</item>
+    <item type="id" name="timestamp">false</item>
+    <item type="id" name="don_doff_calibration_card">false</item>
+    <item type="id" name="don_doff_background_video_view">false</item>
+    <item type="id" name="don_doff_calibration_text">false</item>
+    <item type="id" name="don_doff_settings_card">false</item>
+    <item type="id" name="don_doff_main_icon">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="gradient">false</item>
+    <item type="id" name="icon_and_label_layout">false</item>
+    <item type="id" name="glassware_icon">false</item>
+    <item type="id" name="label">false</item>
+    <item type="id" name="tip">false</item>
+    <item type="id" name="root">false</item>
+    <item type="id" name="scroll_view">false</item>
+    <item type="id" name="secondary_label">false</item>
+    <item type="id" name="head_wake_angle_chooser_layout">false</item>
+    <item type="id" name="head_wake_angle_chooser_view">false</item>
+    <item type="id" name="head_wake_angle_label_text">false</item>
+    <item type="id" name="head_wake_angle_chooser_angle_text">false</item>
+    <item type="id" name="head_wake_angle_chooser_instructions_text">false</item>
+    <item type="id" name="head_wake_main_icon">false</item>
+    <item type="id" name="lab_name">false</item>
+    <item type="id" name="lab_state_on">false</item>
+    <item type="id" name="lab_state_off">false</item>
+    <item type="id" name="header">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="look_at_screen_calibration_dialog">false</item>
+    <item type="id" name="filling_circle">false</item>
+    <item type="id" name="look_at_circle_message">false</item>
+    <item type="id" name="look_straightahead_message">false</item>
+    <item type="id" name="look_at_screen_test_card">false</item>
+    <item type="id" name="look_at_screen_playpen_view">false</item>
+    <item type="id" name="look_at_screen_playpen_message">false</item>
+    <item type="id" name="look_at_screen_practice_dialog">false</item>
+    <item type="id" name="mock_notification_card">false</item>
+    <item type="id" name="balloons">false</item>
+    <item type="id" name="calibration_message">false</item>
+    <item type="id" name="look_at_screen_settings_card">false</item>
+    <item type="id" name="look_at_screen_main_icon">false</item>
+    <item type="id" name="ms_dialog">false</item>
+    <item type="id" name="background_image">false</item>
+    <item type="id" name="gradient_view">false</item>
+    <item type="id" name="slider">false</item>
+    <item type="id" name="microphone_container">false</item>
+    <item type="id" name="sound_levels">false</item>
+    <item type="id" name="pulsing_circle">false</item>
+    <item type="id" name="gray_circle">false</item>
+    <item type="id" name="red_circle">false</item>
+    <item type="id" name="green_circle">false</item>
+    <item type="id" name="microphone">false</item>
+    <item type="id" name="keyboard">false</item>
+    <item type="id" name="key_text">false</item>
+    <item type="id" name="details_layout">false</item>
+    <item type="id" name="value_text">false</item>
+    <item type="id" name="video_hint">false</item>
+    <item type="id" name="mosaic_wrapper">false</item>
+    <item type="id" name="mosaic">false</item>
+    <item type="id" name="thumbnail">false</item>
+    <item type="id" name="album_art">false</item>
+    <item type="id" name="single_track_layout">false</item>
+    <item type="id" name="track_name">false</item>
+    <item type="id" name="artist_name">false</item>
+    <item type="id" name="bundle_cover_layout">false</item>
+    <item type="id" name="bundle_summary">false</item>
+    <item type="id" name="nowtown_settings_card">false</item>
+    <item type="id" name="nowtown_icon">false</item>
+    <item type="id" name="nudge_tutorial_card">false</item>
+    <item type="id" name="nudge_background_video_view">false</item>
+    <item type="id" name="nudge_tutorial_text">false</item>
+    <item type="id" name="nudge_settings_card">false</item>
+    <item type="id" name="nudge_main_icon">false</item>
+    <item type="id" name="head_wake_icon_base">false</item>
+    <item type="id" name="head_wake_icon_head">false</item>
+    <item type="id" name="head_wake_icon_cap">false</item>
+    <item type="id" name="viewfinder">false</item>
+    <item type="id" name="accessibility_settings_card">false</item>
+    <item type="id" name="accessiblity_main_icon">false</item>
+    <item type="id" name="read_aloud_mode_title">false</item>
+    <item type="id" name="read_aloud_mode_enable_state">false</item>
+    <item type="id" name="regulatory_info_container">false</item>
+    <item type="id" name="regulatory_image">false</item>
+    <item type="id" name="footer_container">false</item>
+    <item type="id" name="region_name">false</item>
+    <item type="id" name="data_connection_image">false</item>
+    <item type="id" name="setting_title">false</item>
+    <item type="id" name="setting_value">false</item>
+    <item type="id" name="setting_details">false</item>
+    <item type="id" name="setting_extra_details1">false</item>
+    <item type="id" name="setting_extra_details2">false</item>
+    <item type="id" name="setting_info">false</item>
+    <item type="id" name="setting_extra_info">false</item>
+    <item type="id" name="slider_control">false</item>
+    <item type="id" name="indeterminate_slider">false</item>
+    <item type="id" name="textView">false</item>
+    <item type="id" name="sync_setting_icon_done">false</item>
+    <item type="id" name="sync_setting_icon_pending">false</item>
+    <item type="id" name="sync_setting_icon_active_outer">false</item>
+    <item type="id" name="sync_setting_icon_active_center">false</item>
+    <item type="id" name="sender_picture_placeholder">false</item>
+    <item type="id" name="sender_picture">false</item>
+    <item type="id" name="sender_name">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="timeline_item_footer">false</item>
+    <item type="id" name="source_icon">false</item>
+    <item type="id" name="wear_synchronicity">false</item>
+    <item type="id" name="sync">false</item>
+    <item type="id" name="sender_picture_mosaic">false</item>
+    <item type="id" name="placeholder">false</item>
+    <item type="id" name="rendered_html">false</item>
+    <item type="id" name="profile_photo">false</item>
+    <item type="id" name="creator_picture">false</item>
+    <item type="id" name="creator_name">false</item>
+    <item type="id" name="map">false</item>
+    <item type="id" name="body">false</item>
+    <item type="id" name="participants">false</item>
+    <item type="id" name="failed_overlay">false</item>
+    <item type="id" name="cover">false</item>
+    <item type="id" name="mosaic_title">false</item>
+    <item type="id" name="video">false</item>
+    <item type="id" name="non_video">false</item>
+    <item type="id" name="overlay_icon">false</item>
+    <item type="id" name="buffering_slider">false</item>
+    <item type="id" name="tips">false</item>
+    <item type="id" name="license_switcher">false</item>
+    <item type="id" name="license_message">false</item>
+    <item type="id" name="web_view_holder">false</item>
+    <item type="id" name="voice_input_activity_card">false</item>
+    <item type="id" name="initial_selected_voice_command_text">false</item>
+    <item type="id" name="final_selected_voice_command_text">false</item>
+    <item type="id" name="voice_input_subselected_item">false</item>
+    <item type="id" name="voice_input_prompt">false</item>
+    <item type="id" name="streaming_text">false</item>
+    <item type="id" name="streaming_text_main">false</item>
+    <item type="id" name="mode_slider_view">false</item>
+    <item type="id" name="cancel_tip">false</item>
+    <item type="id" name="keyboard_mode_tip">false</item>
+    <item type="id" name="progress_slider">false</item>
+    <item type="id" name="crop_marks">false</item>
+    <item type="id" name="voice_menu_container">false</item>
+    <item type="id" name="voice_menu_top_layout">false</item>
+    <item type="id" name="voice_menu_primary_scroll_view">false</item>
+    <item type="id" name="voice_menu_items">false</item>
+    <item type="id" name="empty_secondary_menu_message">false</item>
+    <item type="id" name="swipe_forward_tip_gradient">false</item>
+    <item type="id" name="swipe_forward_tip">false</item>
+    <item type="id" name="menu_scroll_view">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="message_recipient">false</item>
+    <item type="id" name="voice_message_swipe_tip">false</item>
+    <item type="id" name="wifi_aps">false</item>
+    <item type="id" name="qr_scan">false</item>
+    <item type="id" name="barcode_viewfinder">false</item>
+    <item type="id" name="barcode_shade">false</item>
+    <item type="id" name="wifi_signal_strength">false</item>
+    <item type="id" name="wifi_security">false</item>
+    <item type="id" name="wink_setup_card">false</item>
+    <item type="id" name="wink_icon">false</item>
+    <item type="id" name="forget_device">false</item>
+    <item type="id" name="bluetooth_menu_turn_bluetooth_on">false</item>
+    <item type="id" name="bluetooth_menu_forget">false</item>
+    <item type="id" name="developer_setting_enable">false</item>
+    <item type="id" name="developer_setting_disable">false</item>
+    <item type="id" name="developer_setting_change_overlay">false</item>
+    <item type="id" name="deviceinfo_lab_menu_enable">false</item>
+    <item type="id" name="deviceinfo_lab_menu_disable">false</item>
+    <item type="id" name="deviceinfo_menu_install_update">false</item>
+    <item type="id" name="deviceinfo_menu_debug_launcher">false</item>
+    <item type="id" name="deviceinfo_menu_more_details">false</item>
+    <item type="id" name="deviceinfo_menu_labs">false</item>
+    <item type="id" name="deviceinfo_menu_feedback">false</item>
+    <item type="id" name="deviceinfo_menu_menu_licenses">false</item>
+    <item type="id" name="deviceinfo_menu_regulatory_info">false</item>
+    <item type="id" name="deviceinfo_menu_toggle_adb">false</item>
+    <item type="id" name="deviceinfo_menu_reset_device">false</item>
+    <item type="id" name="don_doff_setup">false</item>
+    <item type="id" name="don_doff_turn_off">false</item>
+    <item type="id" name="head_wake_turn_on_menu_item">false</item>
+    <item type="id" name="head_wake_turn_off_menu_item">false</item>
+    <item type="id" name="head_wake_set_trigger_angle">false</item>
+    <item type="id" name="lockscreen_change_the_pattern_menu_item">false</item>
+    <item type="id" name="lockscreen_turn_on_menu_item">false</item>
+    <item type="id" name="lockscreen_turn_off_menu_item">false</item>
+    <item type="id" name="lockscreen_show_tutorial_menu_item">false</item>
+    <item type="id" name="look_at_screen_setup">false</item>
+    <item type="id" name="look_at_screen_playpen">false</item>
+    <item type="id" name="look_at_screen_turn_off">false</item>
+    <item type="id" name="pair_device">false</item>
+    <item type="id" name="show_paired_devices">false</item>
+    <item type="id" name="nowtown_turn_on">false</item>
+    <item type="id" name="nowtown_turn_off">false</item>
+    <item type="id" name="nowtown_clear">false</item>
+    <item type="id" name="nudge_turn_on">false</item>
+    <item type="id" name="nudge_turn_off">false</item>
+    <item type="id" name="nudge_help">false</item>
+    <item type="id" name="read_aloud_mode_enable">false</item>
+    <item type="id" name="read_aloud_mode_disable">false</item>
+    <item type="id" name="sync_item_all">false</item>
+    <item type="id" name="sync_item_photos">false</item>
+    <item type="id" name="sync_item_clear">false</item>
+    <item type="id" name="switch_network">false</item>
+    <item type="id" name="forget_network">false</item>
+    <item type="id" name="join_network">false</item>
+    <item type="id" name="turn_on_wifi">false</item>
+    <item type="id" name="wink_setup">false</item>
+    <item type="id" name="wink_turn_off">false</item>
+    <item type="id" name="wink_help">false</item>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">kutoka kivinjari cha %1$s kilicho %2$s chini ya dakika %3$s zilizopita</item>
+        <item quantity="one">kutoka kivinjari cha %1$s kilicho %2$s chini ya dakika %3$s iliyopita</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">kutoka %1$s chini ya dakika %2$s zilizopita</item>
+        <item quantity="one">kutoka %1$s chini ya dakika %2$s iliyopita</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Zimebaki saa %d</item>
+        <item quantity="one">Imebaki saa 1</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">Siku %d</item>
+        <item quantity="one">Siku %d</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa %d</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika %d</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">Watu %1$s</item>
+        <item quantity="one">Mtu %1$s</item>
+        <item quantity="two">Watu %1$s</item>
+        <item quantity="few">Watu %1$s</item>
+        <item quantity="many">Watu %1$s</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Inajiwasha tena ili isakinishe katika sekunde %d …</item>
+        <item quantity="one">Inajiwasha tena ili isakinishe katika sekunde 1...</item>
+    </plurals>
+</resources>

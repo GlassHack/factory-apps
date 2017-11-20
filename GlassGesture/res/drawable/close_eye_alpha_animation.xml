@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00013" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00012" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00011" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00010" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00009" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00008" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00007" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00006" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00005" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00004" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00003" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00002" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00001" />
+    <item android:duration="25" android:drawable="@drawable/wink_alpha_00000" />
+</animation-list>

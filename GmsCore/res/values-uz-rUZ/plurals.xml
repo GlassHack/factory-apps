@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">O‘rnatish uchun %d soniyadan so‘ng o‘chib yonadi…</item>
+        <item quantity="one">O‘rnatish uchun 1 soniyadan so‘ng o‘chib yonadi…</item>
+    </plurals>
+</resources>

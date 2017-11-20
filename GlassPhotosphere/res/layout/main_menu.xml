@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="20.0dip">
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:id="@id/new_panorama" android:background="@drawable/main_menu_button" android:clickable="true" android:layout_width="wrap_content" android:layout_height="140.0dip">
+            <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="100.0dip" android:src="@drawable/camera" />
+            <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/new_panorama" style="@style/main_menu_button_text" />
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="40.0dip" android:layout_marginBottom="40.0dip">
+            <LinearLayout android:orientation="vertical" android:id="@id/my_gallery" android:background="@drawable/main_menu_button" android:clickable="true" android:layout_width="0.0dip" android:layout_height="110.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="70.0dip" android:src="@drawable/gallery" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/my_panoramas" style="@style/main_menu_button_text" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/help_n_tips" android:background="@drawable/main_menu_button" android:clickable="true" android:layout_width="0.0dip" android:layout_height="110.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="70.0dip" android:src="@drawable/help" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/help_ampersand_tips" style="@style/main_menu_button_text" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="vertical" android:id="@id/feedback" android:background="@drawable/main_menu_button" android:clickable="true" android:layout_width="0.0dip" android:layout_height="110.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="70.0dip" android:src="@drawable/email" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/feedback" style="@style/main_menu_button_text" />
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical" android:id="@id/settings" android:background="@drawable/main_menu_button" android:clickable="true" android:layout_width="0.0dip" android:layout_height="110.0dip" android:layout_weight="1.0">
+                <ImageView android:layout_gravity="center_vertical" android:layout_width="fill_parent" android:layout_height="70.0dip" android:src="@drawable/settings" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/settings" style="@style/main_menu_button_text" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <TextView android:gravity="center_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/confidential" android:layout_alignParentBottom="true" />
+</RelativeLayout>

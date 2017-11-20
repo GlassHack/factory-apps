@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/cover_image" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <ImageView android:id="@id/gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_large_strong" />
+    <com.google.glass.widget.SliderView android:id="@id/progress_slider" android:background="@color/background_dark_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" />
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/generic_card_padding" android:layout_marginRight="@dimen/generic_card_padding" android:layout_marginBottom="32.0px" android:layout_alignParentBottom="true">
+        <TextView android:ellipsize="end" android:gravity="bottom" android:id="@id/artist_name" android:layout_width="@dimen/artist_width" android:layout_height="40.0px" android:singleLine="true" android:includeFontPadding="false" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true" style="@style/SmallOverlayText" />
+        <LinearLayout android:gravity="bottom" android:id="@id/duration_layout" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="40.0px" android:layout_above="@id/progress_slider" android:layout_alignParentRight="true" android:layout_alignParentBottom="true">
+            <TextView android:id="@id/song_time" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/SmallOverlayText" />
+            <TextView android:paddingLeft="@dimen/duration_padding" android:paddingRight="@dimen/duration_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/slash" android:includeFontPadding="false" style="@style/SmallOverlayText" />
+            <TextView android:id="@id/song_duration" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" style="@style/SmallOverlayText" />
+        </LinearLayout>
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/artist_name">
+            <ImageView android:id="@id/play_status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="10.0px" android:src="@drawable/ic_play_small_50" />
+            <TextView android:textSize="@dimen/music_large_text_size" android:ellipsize="end" android:id="@id/song_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:includeFontPadding="false" style="@style/OverlayText" />
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

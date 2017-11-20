@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Hulp en terugvoer</string>
+    <string name="plus_app_settings_all_apps_label">Alle programme</string>
+    <string name="plus_app_settings_apps_page_label">Gekoppelde programme</string>
+    <string name="plus_list_apps_empty_message">Geen programme is gekoppel nie</string>
+    <string name="plus_manage_app_pacl_label">Wie programaktiwiteite op Google kan sien</string>
+    <string name="plus_manage_app_scopes_label">Hierdie program het toegang tot:</string>
+</resources>

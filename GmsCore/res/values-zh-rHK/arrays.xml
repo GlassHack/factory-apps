@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>酒吧</item>
+        <item>咖啡室</item>
+        <item>油站</item>
+        <item>戲院</item>
+        <item>酒店住宿</item>
+        <item>夜總會</item>
+        <item>博物館</item>
+        <item>餐廳酒樓</item>
+        <item>購物中心</item>
+        <item>商店</item>
+        <item>雜貨店或超級市場</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>弱</item>
+        <item>可</item>
+        <item>佳</item>
+        <item>強</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>藍牙</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>北</item>
+        <item>東北</item>
+        <item>東</item>
+        <item>東南</item>
+        <item>南</item>
+        <item>西南</item>
+        <item>西</item>
+        <item>西北</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>北</item>
+        <item>東北</item>
+        <item>東</item>
+        <item>東南</item>
+        <item>南</item>
+        <item>西南</item>
+        <item>西</item>
+        <item>西北</item>
+    </string-array>
+</resources>

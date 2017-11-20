@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/label_options" android:orderingFromXml="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/dogfood_settings">
+        <CheckBoxPreference android:title="@string/use_realtime_alignment" android:key="useRealtimeAlignment" android:summary="@string/use_realtime_alignment_description" android:defaultValue="false" />
+        <CheckBoxPreference android:title="@string/enable_location_provider" android:key="enableLocationProvider" android:summary="@string/enable_location_provider_description" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/experimental_settings">
+        <CheckBoxPreference android:title="@string/enable_hdr_mode" android:key="enableHdrMode" android:summary="@string/enable_hdr_mode_description" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_wifi_50" android:id="@id/switch_network" android:title="CHANGE_NETWORKS" />
+    <item android:icon="@drawable/ic_delete_50" android:id="@id/forget_network" android:title="FORGET_THIS_NETWORK" />
+    <item android:icon="@drawable/ic_wifi_50" android:id="@id/join_network" android:title="JOIN_A_NETWORK" />
+    <item android:icon="@drawable/ic_power_50" android:id="@id/turn_on_wifi" android:title="TURN_THIS_ON" />
+</menu>

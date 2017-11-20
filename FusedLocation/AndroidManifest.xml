@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" coreApp="true" package="com.android.location.fused">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.INSTALL_LOCATION_PROVIDER"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <application android:label="@string/app_label" android:process="system">
+        <uses-library android:name="com.android.location.provider"/>
+        <service android:exported="true" android:name="com.android.location.fused.FusedLocationService" android:permission="android.permission.WRITE_SECURE_SETTINGS">
+            <intent-filter>
+                <action android:name="com.android.location.service.FusedLocationProvider"/>
+            </intent-filter>
+            <meta-data android:name="serviceVersion" android:value="0"/>
+            <meta-data android:name="serviceIsMultiuser" android:value="true"/>
+        </service>
+    </application>
+</manifest>

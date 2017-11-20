@@ -1,0 +1,8 @@
+attribute vec4 pos;
+varying vec2 vTexCoord;
+uniform vec2 maxTexCoord;
+
+void main() {
+  vTexCoord = vec2(0.5 * (pos.x + 1.0), 0.5 * (1.0 - pos.y)) * maxTexCoord;
+  gl_Position = pos;
+}

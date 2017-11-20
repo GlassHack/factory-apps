@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/auth_google_settings_header_title" />
+    <PreferenceScreen android:title="@string/auth_maps_settings_title" android:key="key1">
+        <intent android:action="com.google.android.apps.maps.LOCATION_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_search_settings_title" android:key="key2">
+        <intent android:action="com.google.android.googlequicksearchbox.action.PRIVACY_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_location_settings_title" android:key="key3">
+        <intent android:action="com.google.android.gsf.GOOGLE_LOCATION_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_fitness_settings_title" android:key="key6">
+        <intent android:action="com.google.android.gms.fitness.settings.GOOGLE_FITNESS_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_plus_settings_title" android:key="key4">
+        <intent android:action="com.google.android.apps.plus.PRIVACY_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/auth_ads_settings_title" android:key="key5">
+        <intent android:action="com.google.android.gms.settings.ADS_PRIVACY" />
+    </PreferenceScreen>
+</PreferenceScreen>

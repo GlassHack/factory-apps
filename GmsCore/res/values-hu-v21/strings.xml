@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Súgó és visszajelzés</string>
+    <string name="plus_app_settings_all_apps_label">Az összes alkalmazás</string>
+    <string name="plus_app_settings_apps_page_label">Kapcsolt alkalmazások</string>
+    <string name="plus_list_apps_empty_message">Nincsen kapcsolódó alkalmazás</string>
+    <string name="plus_manage_app_pacl_label">Kik láthatják az alkalmazástevékenységeidet a Google rendszerében</string>
+    <string name="plus_manage_app_scopes_label">Az alkalmazás a következőkhöz férhet hozzá:</string>
+</resources>

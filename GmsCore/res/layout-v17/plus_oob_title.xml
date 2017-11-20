@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="bottom" android:background="@drawable/plus_top_background_gray" android:paddingLeft="@dimen/plus_oob_layout_margin_side" android:paddingRight="@dimen/plus_oob_layout_margin_side" android:layout_width="fill_parent" android:layout_height="@dimen/plus_oob_title_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/title_icon" android:layout_width="@dimen/plus_oob_title_icon_size" android:layout_height="@dimen/plus_oob_title_icon_size" android:src="@drawable/plus_iconic_ic_gplus_color_48" android:scaleType="fitCenter" />
+    <TextView android:gravity="bottom" android:layout_gravity="center_vertical" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/plus_unified_setup_activity_title" android:layout_marginStart="@dimen/plus_oob_title_text_margin_left" style="@style/plus_oob_Title" />
+</LinearLayout>

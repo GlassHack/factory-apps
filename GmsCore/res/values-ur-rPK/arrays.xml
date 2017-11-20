@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>بار</item>
+        <item>کیفے</item>
+        <item>گیس اسٹیشن</item>
+        <item>مووی تھیٹر</item>
+        <item>لاجنگ</item>
+        <item>نائٹ کلب</item>
+        <item>عجائب گھر</item>
+        <item>ریسٹورنٹ</item>
+        <item>شاپنگ سنٹر</item>
+        <item>اسٹور</item>
+        <item>گروسری سٹور یا سپر مارکیٹ</item>
+        <item>دیگر</item>
+    </string-array>
+</resources>

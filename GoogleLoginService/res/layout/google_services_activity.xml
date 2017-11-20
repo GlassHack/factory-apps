@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.google.android.gsf.login.ProportionalOuterFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="bottom" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setup_wizard_services_activity_title" style="@style/setup_wizard_title" />
+        <View android:id="@id/top_divider" android:layout_below="@id/title" style="@style/setup_wizard_top_divider" />
+    </RelativeLayout>
+    <include android:id="@id/buttons" layout="@layout/arrow_buttons" />
+    <com.google.android.gsf.login.BottomScrollView android:id="@id/bottom_scroll_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/setup_wizard_content_margin_sides" android:layout_marginRight="@dimen/setup_wizard_content_margin_sides" android:layout_above="@id/buttons" android:layout_below="@id/title_area">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:id="@id/backup_restore_section" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/setup_wizard_heading_vmargins">
+                <ImageView android:id="@id/backup_restore_icon" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:src="?ic_backup" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:contentDescription="@string/setup_wizard_services_backup_restore_heading" />
+                <TextView android:id="@id/backup_restore_heading" android:layout_marginTop="8.0dip" android:text="@string/setup_wizard_services_backup_restore_heading" android:layout_toRightOf="@id/backup_restore_icon" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_marginStart="6.0dip" style="@style/setup_wizard_services_heading_text" />
+                <LinearLayout android:id="@id/backup_restore_consent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/backup_restore_heading" android:layout_alignParentLeft="true" android:layout_marginStart="@dimen/setup_wizard_services_margin_start">
+                    <CheckBox android:id="@id/agree_backup_restore" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/setup_wizard_checkbox" />
+                    <TextView android:id="@id/agree_backup_restore_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setup_wizard_services_backup_restore" style="@style/setup_wizard_checkbox_text" />
+                </LinearLayout>
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/setup_wizard_services_backup_restore_footnote" android:layout_below="@id/backup_restore_consent" android:layout_alignParentLeft="true" style="@style/setup_wizard_services_footnote" />
+            </RelativeLayout>
+            <RelativeLayout android:orientation="vertical" android:id="@id/communication_section" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <ImageView android:id="@id/communication_icon" android:focusable="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="5.0dip" android:src="?ic_communication" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:contentDescription="@string/setup_wizard_services_communication_heading" />
+                <TextView android:id="@id/communication_heading" android:layout_marginTop="8.0dip" android:text="@string/setup_wizard_services_communication_heading" android:layout_toRightOf="@id/communication_icon" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_marginStart="6.0dip" style="@style/setup_wizard_services_heading_text" />
+                <LinearLayout android:id="@id/google_play_consent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/communication_heading" android:layout_alignParentLeft="true" android:layout_marginStart="@dimen/setup_wizard_services_margin_start">
+                    <CheckBox android:id="@id/google_play_opt_in" android:layout_width="wrap_content" android:layout_height="wrap_content" android:checked="true" style="@style/setup_wizard_checkbox" />
+                    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/setup_wizard_services_play" style="@style/setup_wizard_checkbox_text" />
+                </LinearLayout>
+            </RelativeLayout>
+        </LinearLayout>
+    </com.google.android.gsf.login.BottomScrollView>
+</view>

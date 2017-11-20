@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/main_view" android:paddingLeft="6.0dip" android:paddingTop="5.0dip" android:paddingRight="6.0dip" android:paddingBottom="5.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="16.0dip" android:layout_marginRight="16.0dip">
+        <LinearLayout android:orientation="horizontal" android:paddingTop="-1.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="true">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/total_size_prefix" android:paddingTop="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/wearable_storage_managment_total_size_label" android:maxLines="1" />
+            <ImageView android:layout_gravity="bottom" android:layout_width="0.0dip" android:layout_height="1.0px" android:layout_marginLeft="1.0dip" android:layout_marginRight="1.0dip" android:layout_marginBottom="4.0dip" android:src="@drawable/dotted_line_480px" android:scaleType="center" android:layout_weight="1.0" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/total_size_text" android:paddingTop="6.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" />
+        </LinearLayout>
+        <TextView android:layout_marginTop="8.0dip" android:text="@string/wearable_storage_managment_usage_label" style="?android:attr/listSeparatorTextViewStyle" />
+        <ListView android:id="@id/apps_list" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <Button android:layout_gravity="right" android:id="@id/reclaim_button" android:paddingLeft="32.0dip" android:paddingRight="32.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/wearable_storage_managment_reclaim_button_label" android:onClick="onClick" />
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center" android:id="@id/wearable_progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" style="?indeterminateProgressStyle" />
+</FrameLayout>

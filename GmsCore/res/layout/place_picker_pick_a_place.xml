@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/place_picker_pick_a_place" android:nextFocusDown="@id/place_picker_search_fragment" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/place_picker_content_wrapper" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/place_picker_content_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.0" />
+        <View android:background="@color/google_gray" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    </LinearLayout>
+    <FrameLayout android:id="@id/place_picker_search_fragment" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

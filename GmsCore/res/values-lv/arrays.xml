@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bārs</item>
+        <item>Kafejnīca</item>
+        <item>DUS</item>
+        <item>Kinoteātris</item>
+        <item>Apmešanās vieta</item>
+        <item>Naktsklubs</item>
+        <item>Muzejs</item>
+        <item>Restorāns</item>
+        <item>Tirdzniecības centrs</item>
+        <item>Veikals</item>
+        <item>Pārtika vai lielveikals</item>
+        <item>Cits</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>nedroša</item>
+        <item>vidēja</item>
+        <item>laba</item>
+        <item>droša</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>TDLS</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>Z</item>
+        <item>ZA</item>
+        <item>A</item>
+        <item>DA</item>
+        <item>D</item>
+        <item>DR</item>
+        <item>R</item>
+        <item>ZR</item>
+    </string-array>
+    <array name="maps_full_compass_directions" />
+    <string-array name="auth_gls_security_questions">
+        <item>Izvēlēties drošības jautājumu</item>
+        <item>Kāds ir jūsu pirmais tālruņa numurs?</item>
+        <item>Kāds ir jūsu bērnības labākā drauga vārds?</item>
+        <item>Kāds ir jūsu pirmā skolotāja vārds un uzvārds?</item>
+        <item>Kāds ir vadītāja vārds un uzvārds jūsu pirmajā darba vietā?</item>
+        <item>Kāds ir jūsu transportlīdzekļa reģistrācijas numurs?</item>
+    </string-array>
+</resources>

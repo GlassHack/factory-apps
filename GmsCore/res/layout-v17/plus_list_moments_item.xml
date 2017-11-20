@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/icon" android:padding="8.0dip" android:layout_width="48.0dip" android:layout_height="48.0dip" android:layout_alignParentTop="true" android:contentDescription="@string/plus_manage_moment_image_desc" style="@style/plus_ManageButton" />
+    <RelativeLayout android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toEndOf="@id/icon">
+        <TextView android:textSize="18.0sp" android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" />
+        <TextView android:textSize="18.0sp" android:id="@id/time_acl" android:layout_width="fill_parent" android:layout_height="wrap_content" android:singleLine="true" android:layout_below="@id/title" style="@style/plus_AppsTextSecondary" />
+    </RelativeLayout>
+</RelativeLayout>

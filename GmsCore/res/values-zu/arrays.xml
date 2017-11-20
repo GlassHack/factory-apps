@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Ibha</item>
+        <item>Ikhefi</item>
+        <item>Igalaji lophethilolu</item>
+        <item>Itiyetha ye-Movie</item>
+        <item>Indawo yokuhlala eqashwayo</item>
+        <item>Iklabhu yasebusuku</item>
+        <item>Imyuziyamu</item>
+        <item>Indawo yokudlela</item>
+        <item>Isikhungo sokuthenga</item>
+        <item>Isitolo</item>
+        <item>Isitolo segrosa noma isuphamakethe</item>
+        <item>Okunye</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>akukuhle</item>
+        <item>kulungile</item>
+        <item>kuhle</item>
+        <item>kunamandla</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>I-NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>I-Bluetooth</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Khetha umbuzo wokuphepha</item>
+        <item>Inombolo yokuqala yefoni?</item>
+        <item>Igama lomngani wakho omkhulu wasebuntwaneni?</item>
+        <item>Igama lothisha wokuqala?</item>
+        <item>Igama lomphathi kumsebenzi wokuqala?</item>
+        <item>Inamapuleti yemoto?</item>
+    </string-array>
+</resources>

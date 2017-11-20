@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">seadme %1$s brauserist asukohas %2$s vähem kui %3$s minuti eest</item>
+        <item quantity="one">seadme %1$s brauserist asukohas %2$s vähem kui %3$s minuti eest</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">vähem kui %1$s minuti eest seadmest, mis on asukohas %2$s</item>
+        <item quantity="one">vähem kui %1$s minuti eest seadmest, mis on asukohas %2$s</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d tundi jäänud</item>
+        <item quantity="one">1 tund jäänud</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d päeva</item>
+        <item quantity="one">%d päev</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d tundi</item>
+        <item quantity="one">%d tund</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s inimest</item>
+        <item quantity="one">%1$s inimene</item>
+        <item quantity="two">%1$s inimest</item>
+        <item quantity="few">%1$s inimest</item>
+        <item quantity="many">%1$s inimest</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Taaskäivitamine %d sekundi pärast installimiseks ...</item>
+        <item quantity="one">Taaskäivitamine 1 sekundi pärast installimiseks ...</item>
+    </plurals>
+</resources>

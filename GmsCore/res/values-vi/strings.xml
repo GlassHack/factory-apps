@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Điều hướng lên trên</string>
+    <string name="abc_action_menu_overflow_description">Thêm tùy chọn</string>
+    <string name="abc_action_mode_done">Xong</string>
+    <string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+    <string name="abc_activitychooserview_choose_application">Chọn một ứng dụng</string>
+    <string name="abc_searchview_description_clear">Xóa truy vấn</string>
+    <string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+    <string name="abc_searchview_description_search">Tìm kiếm</string>
+    <string name="abc_searchview_description_submit">Gửi truy vấn</string>
+    <string name="abc_searchview_description_voice">Tìm kiếm bằng giọng nói</string>
+    <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
+    <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
+    <string name="account_level_title">T.vụ tài khoản là b.buộc</string>
+    <string name="activity_recognition_permission_description">Cho phép ứng dụng nhận thông tin cập nhật định kỳ về mức hoạt động của bạn từ Google, chẳng hạn như nếu bạn đang đi bộ, lái xe, đạp xe hoặc đứng yên.</string>
+    <string name="activity_recognition_permission_label">nhận dạng hoạt động</string>
+    <string name="add_a_place_add">Thêm</string>
+    <string name="add_a_place_call_to_action">Thêm địa điểm</string>
+    <string name="add_a_place_call_to_drag">Kéo bản đồ để xác định vị trí điểm đánh dấu</string>
+    <string name="add_a_place_cancel">Hủy</string>
+    <string name="add_a_place_next">Tiếp theo</string>
+    <string name="agree">Đồng ý</string>
+    <string name="app_label">Vị trí Mạng</string>
+    <string name="app_level_title">Yêu cầu đăng nhập</string>
+    <string name="app_level_title_secondary">Yêu cầu đăng nhập bằng %s</string>
+    <string name="auth_accept_access">Đồng ý</string>
+    <string name="auth_account_already_has_gmail">Tài khoản đã có Gmail.</string>
+    <string name="auth_account_setup_title">Tài khoản Google</string>
+    <string name="auth_ads_settings_title">Quảng cáo</string>
+    <string name="auth_allow_external_site_access">Hiện có quyền truy cập vào dữ liệu của bạn tại %s</string>
+    <string name="auth_app_label">Trình quản lý tài khoản Google</string>
+    <string name="auth_app_permission_footnote">%s và Google sẽ sử dụng thông tin này theo điều khoản dịch vụ và chính sách bảo mật tương ứng của mình.</string>
+    <string name="auth_app_permission_label">ỨNG DỤNG NÀY MUỐN</string>
+    <string name="auth_app_permission_ok_footnote">Bằng cách tiếp tục, bạn cho phép ứng dụng này và Google sử dụng thông tin của bạn theo điều khoản dịch vụ và chính sách bảo mật tương ứng.</string>
+    <string name="auth_app_permission_sign_in_footnote">Bằng cách chạm vào Đăng nhập, bạn cho phép ứng dụng này và Google sử dụng thông tin của bạn theo điều khoản dịch vụ và chính sách bảo mật tương ứng.</string>
+    <string name="auth_app_permission_title">Hãy đăng nhập %s bằng Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Cho phép đăng nhập</string>
+    <string name="auth_authzen_action_approved_toast_text">Đã phê duyệt tác vụ</string>
+    <string name="auth_authzen_action_canceled_toast_text">Đã hủy tác vụ</string>
+    <string name="auth_authzen_allow_reset_button_text">Được đặt lại mật khẩu</string>
+    <string name="auth_authzen_cancel_button_label">Hủy</string>
+    <string name="auth_authzen_close_button_text">Đóng</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Cho phép</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Hủy</string>
+    <string name="auth_authzen_default_confirmation_description">Cho phép đăng nhập vào tài khoản của bạn từ %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Chúng tôi cần xác nhận của bạn</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Số đã chọn không chính xác. Yêu cầu của bạn đã bị hủy.</string>
+    <string name="auth_authzen_default_request_description">chi tiết yêu cầu không xác định</string>
+    <string name="auth_authzen_generic_error_text">Đã xảy ra lỗi. Vui lòng thử lại.</string>
+    <string name="auth_authzen_google_logo_label">Biểu trưng Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Đã phê duyệt đăng nhập</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Đã hủy đăng nhập</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Cho phép đăng nhập</string>
+    <string name="auth_authzen_login_challenge_desc_text">Bạn có thử đăng nhập từ %s không?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google đã chặn hành vi đăng nhập.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Số không đúng</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Chạm vào số được hiển thị trên màn hình khác. Thao tác này sẽ giúp bạn đăng nhập vào máy tính.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Ai đó vừa cố đăng nhập vào tài khoản Google của bạn bằng mật khẩu của bạn. Google đã chặn nỗ lực đăng nhập.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Chặn đăng nhập</string>
+    <string name="auth_authzen_login_challenge_title_text">Cố gắng đăng nhập?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Để phê duyệt đăng nhập trên máy tính của bạn, bạn sẽ cần xác minh danh tính của mình</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">yêu cầu đăng nhập từ máy tính bằng %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Tôi không đưa ra yêu cầu này</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Cảm ơn bạn đã cho chúng tôi biết, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Chúng tôi đã lưu ý hoạt động này, vì vậy chúng tôi có thể tiếp tục đảm bảo an toàn cho tài khoản của bạn.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Đăng nhập</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Hủy</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Nhập PIN tài khoản Google</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">Đồng ý, tiếp tục</string>
+    <string name="auth_authzen_no_button_text">Không</string>
+    <string name="auth_authzen_notify_google_default_text">Google sẽ được thông báo rằng có người đã cố gắng truy cập vào tài khoản của bạn.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google đã nhận được yêu cầu thay đổi mật khẩu của bạn. Do yêu cầu đó không được gửi từ bạn nên yêu cầu đã bị hủy. Không có thay đổi nào được thực hiện đối với tài khoản của bạn.</string>
+    <string name="auth_authzen_ok_button_text">OK</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Chạm vào số được hiển thị trên màn hình khác. Thao tác này sẽ giúp bạn đăng nhập vào máy tính.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Cho phép đăng nhập</string>
+    <string name="auth_authzen_profile_picture_label">Ảnh tiểu sử</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Bạn vừa cố gắng đăng nhập vào Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Đã phê duyệt đặt lại mật khẩu</string>
+    <string name="auth_authzen_recovery_canceled_text">Đã hủy đặt lại mật khẩu</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Cho phép đặt lại mật khẩu từ %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Chúng tôi cần xác nhận của bạn</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google đã chặn hành vi đặt lại mật khẩu.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Số không chính xác</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Chạm vào số hiển thị trên màn hình khác. Thao tác này sẽ đặt lại mật khẩu của bạn.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Cho phép đặt lại mật khẩu</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Một người nào đó đã yêu cầu đặt lại mật khẩu tài khoản Google của bạn. Google đã chặn hành vi đặt lại mật khẩu này.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Đã chặn đặt lại mật khẩu</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Bạn đã yêu cầu đặt lại mật khẩu của mình từ %s phải không?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Bạn đã cố gắng đặt lại mật khẩu của mình phải không?</string>
+    <string name="auth_authzen_secure_account_button_text">Bảo vệ t.khoản</string>
+    <string name="auth_authzen_sending_reply_failed_text">Không thể gửi thư trả lời tới máy chủ.</string>
+    <string name="auth_authzen_sending_reply_text">Đang gửi trả lời cho máy chủ</string>
+    <string name="auth_authzen_time_display_text">chưa đầy %s phút trước</string>
+    <string name="auth_authzen_time_just_now_text">Vừa xong</string>
+    <string name="auth_authzen_wait_text">Vui lòng đợi...</string>
+    <string name="auth_authzen_workflow_title">Lời nhắc ủy quyền của Google</string>
+    <string name="auth_authzen_yes_button_text">Có</string>
+    <string name="auth_back_button_label">Quay lại</string>
+    <string name="auth_bad_name_title">Sử dụng tên này?</string>
+    <string name="auth_bluetooth_lure_button">Thêm làm thiết bị đáng tin cậy</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Xác nhận màn hình khóa của bạn</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Đã ghép nối thiết bị bluetooth mới.
+Thêm %s làm thiết bị đáng tin cậy để bỏ qua khóa màn hình khi được kết nối."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Đã ghép nối thiết bị bluetooth mới.</string>
+    <string name="auth_bluetooth_lure_title">Mở khóa cá nhân</string>
+    <string name="auth_cancel_button_label">Hủy</string>
+    <string name="auth_captcha_instructions">Nhập văn bản bạn thấy ở đây:</string>
+    <string name="auth_captcha_title">Cần nhập HÌNH ẢNH XÁC THỰC</string>
+    <string name="auth_communicating_message">Thiết bị của bạn đang kết nối với Google để lưu thông tin vào tài khoản của bạn. Quá trình này có thể mất tới 5 phút.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Trạng thái thông tin đăng nhập</string>
+    <string name="auth_d2d_source_bt_notice">Bluetooth sẽ được sử dụng.</string>
+    <string name="auth_d2d_source_lock_notice">Thiết bị của bạn sẽ tự khóa và phải được mở khóa lại để tiếp tục.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Không thể Nhấn và Khôi phục vì không có tài khoản trên thiết bị này.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Không thể Nhấn và Khôi phục vì Bluetooth không khả dụng trên thiết bị này.</string>
+    <string name="auth_d2d_source_notification_text">"Một ^1 mới đã được thiết lập vào ^2 sử dụng thiết bị này, bao gồm một lần chuyển các tài khoản Google sau: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Thiết lập thiết bị mới đã xong</string>
+    <string name="auth_d2d_source_progress_message">Đang sao chép dữ liệu sang thiết bị mới...</string>
+    <string name="auth_d2d_source_question">Sao chép tài khoản và dữ liệu từ thiết bị này?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Không thể sử dụng tính năng Nhấn và khôi phục từ hồ sơ người dùng bị hạn chế.</string>
+    <string name="auth_d2d_source_title">Khôi phục tài khoản</string>
+    <string name="auth_d2d_source_unknown_device_name">Thiết bị không xác định</string>
+    <string name="auth_d2d_target_adding_accounts_message">Đang thêm tài khoản...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Kết nối với thiết bị khác của bạn...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Đã mất kết nối</string>
+    <string name="auth_d2d_target_description">"Sao chép nhanh mọi tài khoản Google, dữ liệu và ứng dụng đã sao lưu từ thiết bị Android hiện có của bạn. Để sao chép: 
+
+1. Đảm bảo rằng thiết bị khác của bạn đã được bật và mở khóa. 
+
+2. Đặt nhanh mặt sau của hai thiết bị cạnh nhau, sau đó đặt sang bên."</string>
+    <string name="auth_d2d_target_skip_button">Bỏ qua</string>
+    <string name="auth_d2d_target_sorry_alert">Rất tiếc, đã xảy ra lỗi</string>
+    <string name="auth_d2d_target_tap_progress_message">Để tiếp tục, hãy chạm vào OK trên thiết bị còn lại của bạn</string>
+    <string name="auth_d2d_target_title">Chạm và tiếp tục</string>
+    <string name="auth_d2d_target_try_again_button">Thử lại</string>
+    <string name="auth_d2d_target_unlock_progress_message">Mở khóa thiết bị còn lại của bạn</string>
+    <string name="auth_d2d_target_wait_progress_message">Đang sao chép tài khoản và dữ liệu...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Miền của bạn yêu cầu quản lý thiết bị di động. Hãy cài đặt ứng dụng \"Chính sách thiết bị của Google Apps\" để thực thi những chính sách bảo mật do tài khoản "<b>^1</b> yêu cầu.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> không sử dụng Gmail.</string>
+    <string name="auth_error_account_disabled">"Tài khoản này đã bị vô hiệu hóa. 
+
+(Để biết chi tiết, truy cập http://google.com/accounts bằng trình duyệt web)."</string>
+    <string name="auth_error_account_not_verified">"Tài khoản này chưa được xác minh. Hãy kiểm tra email của bạn và nhấp vào liên kết được gửi kèm để xác minh tài khoản này. 
+
+(Để khôi phục thông tin tài khoản của bạn, hãy truy cập http://www.google.com/accounts/recovery trên máy tính của bạn)."</string>
+    <string name="auth_error_bad_password">Mật khẩu quá yếu hoặc chứa các ký tự không hợp lệ. Hãy thử lại.</string>
+    <string name="auth_error_bad_username">Tên người dùng không hợp lệ.</string>
+    <string name="auth_error_invalid_second_factor">Sử dụng mật khẩu dành riêng cho ứng dụng thay vì mật khẩu tài khoản thông thường của bạn.</string>
+    <string name="auth_error_login_failed">"Tên người dùng và mật khẩu của bạn không khớp. Thử lại.
+
+Để khôi phục thông tin tài khoản của bạn, truy cập google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Để truy cập vào tài khoản, bạn phải đăng nhập trên web. Chạm vào Tiếp theo để bắt đầu đăng nhập Trình duyệt.</string>
+    <string name="auth_error_not_logged_in">Người dùng chưa đăng nhập.</string>
+    <string name="auth_error_username_unavailable">Tên người dùng không khả dụng.</string>
+    <string name="auth_existing_account_error_text">Đã có một tài khoản ^1 trên thiết bị Android này.</string>
+    <string name="auth_existing_account_error_title">Tài khoản đã tồn tại</string>
+    <string name="auth_exit_menu_item">Thoát đăng nhập trình duyệt</string>
+    <string name="auth_facl_scope_details_dialog_title">Ứng dụng này có thể xem những gì</string>
+    <string name="auth_facl_with_warning_label">Thay đổi những người ứng dụng này có thể xem</string>
+    <string name="auth_field_cant_be_blank">Trường không được để trống.</string>
+    <string name="auth_fitness_settings_title">Thể dục</string>
+    <string name="auth_gls_account_creation_tos">Bằng cách tiếp tục, bạn đồng ý với <annotation id="tos">Điều khoản dịch vụ</annotation>, <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google và <annotation id="play_tos">Điều khoản dịch vụ của Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Bằng cách tiếp tục, bạn đồng ý với <annotation id="tos">Điều khoản dịch vụ</annotation> và <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google, <annotation id="chrome_tos">Điều khoản dịch vụ</annotation> và <annotation id="chrome_privacy">Thông báo bảo mật</annotation> của Chrome và <annotation id="play_tos">Điều khoản dịch vụ</annotation> của Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">Không bao giờ bị mất dữ liệu của bạn nữa. Tài khoản Google giúp lưu trữ mọi dữ liệu an toàn.</string>
+    <string name="auth_gls_account_intro_learn_more">Tìm hiểu thêm</string>
+    <string name="auth_gls_account_intro_recommended_title">Đặt làm Google</string>
+    <string name="auth_gls_account_intro_required_title">Được cung cấp bởi Google</string>
+    <string name="auth_gls_account_intro_simple_message">Bạn có muốn thêm tài khoản hiện tại hoặc tạo tài khoản mới không?</string>
+    <string name="auth_gls_account_intro_title">Tài khoản Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Bạn có tài khoản Google không?
+
+Nếu bạn sử dụng Gmail hoặc Google Apps, hãy trả lời Có."</string>
+    <string name="auth_gls_account_pre_intro_no">Không</string>
+    <string name="auth_gls_account_pre_intro_title">Bạn đã có tài khoản Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Có</string>
+    <string name="auth_gls_account_recovery_info">Nếu bạn mất mật khẩu, bạn có thể trả lời câu hỏi bảo mật và nhận liên kết đặt lại mật khẩu được gửi qua email tới một địa chỉ khác.</string>
+    <string name="auth_gls_account_tos_plus_title">Hoàn tất gia nhập Google+</string>
+    <string name="auth_gls_account_tos_title">Hoàn tất quá trình thiết lập tài khoản</string>
+    <string name="auth_gls_add_a_google_account">Thêm tài khoản Google</string>
+    <string name="auth_gls_alternatives_list_title">Tên người dùng được đề xuất</string>
+    <string name="auth_gls_answer">" "<b>Trả lời</b></string>
+    <string name="auth_gls_backup_consent_message">"Sử dụng tài khoản Google của bạn để sao lưu ứng dụng, cài đặt (chẳng hạn như dấu trang và mật khẩu Wi-Fi) và dữ liệu khác của bạn. Nếu trước đây bạn đã sao lưu tài khoản của mình thì bây giờ bạn có thể khôi phục tài khoản đó tới điện thoại này.
+
+Bạn có thể thay đổi cài đặt sao lưu của mình bất kỳ lúc nào trong Cài đặt."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Sử dụng tài khoản Google của bạn để sao lưu ứng dụng, cài đặt (chẳng hạn như dấu trang và mật khẩu Wi-Fi) và dữ liệu khác của bạn.
+
+Bạn có thể thay đổi cài đặt sao lưu của mình bất kỳ lúc nào trong Cài đặt."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Luôn sao lưu điện thoại này bằng tài khoản Google của tôi</string>
+    <string name="auth_gls_cant_be_blank">Trường không được để trống.</string>
+    <string name="auth_gls_checking_account">Đang kiểm tra tính khả dụng…</string>
+    <string name="auth_gls_checking_username_message">"Điện thoại của bạn đang kết nối với Google để xem tên người dùng mà bạn mong muốn có khả dụng hay không.
+
+Quá trình này có thể mất một vài phút."</string>
+    <string name="auth_gls_choose_a_password">Mật khẩu</string>
+    <string name="auth_gls_circles_subtitle">Vòng kết nối</string>
+    <string name="auth_gls_circles_text">Cách dễ nhất để chia sẻ trực tuyến những gì quan trọng nhất.</string>
+    <string name="auth_gls_confirm_password">Nhập lại mật khẩu</string>
+    <string name="auth_gls_create_button_label">Nhận tài khoản</string>
+    <string name="auth_gls_create_google_account">Chọn tên người dùng</string>
+    <string name="auth_gls_create_google_account_text">Tài khoản Google của bạn đi cùng với Gmail, email từ Google. Tài khoản hoạt động trên mọi thiết bị, chặn spam và nhiều hơn nữa.</string>
+    <string name="auth_gls_creating_account_title">Đang lưu tài khoản...</string>
+    <string name="auth_gls_creating_profile">Đang tạo tiểu sử của bạn...</string>
+    <string name="auth_gls_crop_failure">Không thể cắt ảnh.</string>
+    <string name="auth_gls_dasher_warning">Quản trị viên tại %s sở hữu và quản lý tất cả các dữ liệu của bạn trên Google+ và có thể xóa hoặc sửa đổi tiểu sử của bạn bất cứ lúc nào mà không cần sự cho phép của bạn.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Miền của bạn yêu cầu quản lý thiết bị di động. Hãy kích hoạt ứng dụng \"Chính sách thiết bị của Google Apps\" để thực thi những chính sách bảo mật do tài khoản "<b>^1</b> yêu cầu.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Kích hoạt</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Miền của bạn yêu cầu quản lý thiết bị di động. Hãy cài đặt ứng dụng \"Chính sách thiết bị của Google Apps\" để thực thi những chính sách bảo mật do tài khoản "<b>^1</b> yêu cầu.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Tải xuống</string>
+    <string name="auth_gls_edit_text_help">Chạm vào bất kỳ hộp văn bản nào để bắt đầu nhập</string>
+    <string name="auth_gls_eight_chars_min">tối thiểu 8 ký tự</string>
+    <string name="auth_gls_enable_web_history">Bật lịch sử web</string>
+    <string name="auth_gls_error_bad_password">Mật khẩu quá yếu hoặc chứa các ký tự không hợp lệ. Hãy thử lại.</string>
+    <string name="auth_gls_error_login_failed">"Tên người dùng và mật khẩu của bạn không khớp. Thử lại.
+
+Để khôi phục thông tin tài khoản của bạn, truy cập google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Để truy cập vào tài khoản, bạn phải đăng nhập trên web. Chạm vào Tiếp theo để bắt đầu đăng nhập vào Trình duyệt.</string>
+    <string name="auth_gls_existing_account_error_text">Đã có một tài khoản ^1 trên thiết bị Android này.</string>
+    <string name="auth_gls_existing_account_error_title">Tài khoản đã tồn tại</string>
+    <string name="auth_gls_existing_button_label">Hiện có</string>
+    <string name="auth_gls_google_play_opt_in">Liên tục cập nhật cho tôi tin tức và các khuyến mãi từ Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" chỉ có thể chứa các chữ cái,
+số và dấu chấm câu."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> không chứa bất kỳ chữ cái nào.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> chứa ít hơn 6 hoặc nhiều hơn 30 ký tự.</string>
+    <string name="auth_gls_huddle_text">Nhắn tin theo nhóm cho tất cả mọi người trong vòng kết nối của bạn.</string>
+    <string name="auth_gls_invalid_email">"Địa chỉ email bạn đã nhập không hợp lệ.
+ Ví dụ: joe@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Địa chỉ khôi phục không được giống địa chỉ bạn đang tạo.</string>
+    <string name="auth_gls_is_not_available">Tên người dùng <b>^1</b> không khả dụng.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Tài khoản Google cho phép bạn:
+
+"<li><ul>Xem và sắp xếp tất cả thông tin của bạn từ mọi nơi.</ul></li>"
+
+"<li><ul>Tự động sao lưu dữ liệu của bạn, như email, danh bạ, nhạc và hình ảnh.</ul></li>" 
+
+"<li><ul>Sử dụng các dịch vụ của Google một cách dễ dàng từ mọi nơi—bao gồm Danh bạ, Lịch, Bản đồ và hơn thế nữa.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Giới thiệu về tài khoản Google</string>
+    <string name="auth_gls_learn_more_web_history">"Lịch sử web điều chỉnh kết quả tìm kiếm dựa trên những gì bạn đã tìm kiếm và các trang web mà bạn đã truy cập, cung cấp trải nghiệm Google được cá nhân hóa. 
+
+Để xem và quản lý lịch sử web của bạn, bao gồm cả cách tắt hoặc bật, hãy xem http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Giới thiệu về lịch sử web</string>
+    <string name="auth_gls_name_checking_info_title">Đang kiểm tra thông tin…</string>
+    <string name="auth_gls_name_progress_title">Hãy đợi giây lát…</string>
+    <string name="auth_gls_name_text">Tên của bạn được sử dụng để cá nhân hóa điện thoại của bạn và các dịch vụ của Google.</string>
+    <string name="auth_gls_name_text_local">Điện thoại sử dụng tên của bạn để cá nhân hóa một số ứng dụng.</string>
+    <string name="auth_gls_name_title_local">Điện thoại này thuộc về...</string>
+    <string name="auth_gls_name_title_plus">Tên trên Google+ của bạn</string>
+    <string name="auth_gls_network_unreliable">Không thể thiết lập kết nối đáng tin cậy tới máy chủ.</string>
+    <string name="auth_gls_network_unreliable_help">Đây có thể là sự cố tạm thời hoặc có thể thiết bị Android của bạn không được cấp quyền cho dịch vụ dữ liệu. Nếu sự cố vẫn tiếp diễn, hãy gọi Trung tâm chăm sóc khách hàng.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Đây có thể là sự cố tạm thời. Hãy thử lại hoặc kết nối với một mạng Wi-Fi khác.</string>
+    <string name="auth_gls_new_button_label">Mới</string>
+    <string name="auth_gls_no_network">Bạn không có kết nối mạng nào.</string>
+    <string name="auth_gls_no_network_help">Đây có thể là sự cố tạm thời hoặc thiết bị Android của bạn có thể không được cấp quyền đối với dịch vụ dữ liệu. Hãy thử lại khi được kết nối với mạng di động hoặc kết nối với mạng Wi-Fi.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Đây có thể là sự cố tạm thời. Hãy thử lại hoặc kết nối với một mạng Wi-Fi khác.</string>
+    <string name="auth_gls_not_now_button_label">Không phải bây giờ</string>
+    <string name="auth_gls_password_mismatch">Mật khẩu không khớp. Hãy thử lại.</string>
+    <string name="auth_gls_password_title">Tạo mật khẩu</string>
+    <string name="auth_gls_photo_button_label">Chụp ảnh</string>
+    <string name="auth_gls_photo_description">Ảnh của bạn</string>
+    <string name="auth_gls_photo_failure">Không thể chạy máy ảnh.</string>
+    <string name="auth_gls_photo_text">Ảnh này sẽ được sử dụng trong hồ sơ liên hệ của bạn. Bạn có thể thay đổi ảnh sau này trong ứng dụng Liên hệ.</string>
+    <string name="auth_gls_photo_text_es">Chụp ảnh để bạn bè của bạn thấy trên Google+. Bạn có thể chọn một ảnh mới sau đó.</string>
+    <string name="auth_gls_photo_title">Ảnh của bạn</string>
+    <string name="auth_gls_plus_accepted_button_label">Tham gia Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Không phải bây giờ</string>
+    <string name="auth_gls_plus_failure_new_account_text">Tài khoản Google của bạn đã được tạo nhưng yêu cầu tham gia Google+ của bạn chưa được chấp thuận. Hãy thử lại sau từ bất kỳ trình duyệt web nào tại plus.google.com.</string>
+    <string name="auth_gls_plus_failure_text">Yêu cầu tham gia Google+ của bạn chưa được chấp thuận. Hãy thử lại sau từ bất kỳ trình duyệt web nào tại plus.google.com.</string>
+    <string name="auth_gls_plus_failure_title">Tham gia Google+ sau</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Trên Google+, bạn sẽ có tiểu sử công khai để giúp bạn bè của bạn tìm thấy bạn trực tuyến. Bất kỳ ai biết địa chỉ email của bạn cũng có thể tìm thấy và xem tiểu sử của bạn.
+
+Bạn có thể sử dụng nút +1 trên toàn bộ web để đề xuất các nội dung với mọi người. Tiểu sử và +1 của bạn sẽ xuất hiện công khai trong tìm kiếm, trên quảng cáo và trên web.
+
+Từ bây giờ, tiểu sử của bạn sẽ chỉ hiển thị tên bạn (%s %s). Bạn có thể thêm ảnh, tiểu sử và các chi tiết khác sau khi bạn bắt đầu sử dụng Google+."</string>
+    <string name="auth_gls_plus_name_check_text">Quá trình này có thể diễn ra trong vài phút.</string>
+    <string name="auth_gls_plus_name_check_title">Đang kết nối với Google+...</string>
+    <string name="auth_gls_plus_query_text">Google+ giúp chia sẻ trên web giống với chia sẻ trong cuộc sống thực hơn.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Không phải là %s?</string>
+    <string name="auth_gls_provisioned_welcome">Xin chào %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Nhập mật khẩu của bạn cho:
+%s"</string>
+    <string name="auth_gls_recovery_title">Thông tin khôi phục</string>
+    <string name="auth_gls_restore_consent_yes_agree">Khôi phục dữ liệu từ tài khoản Google của tôi sang điện thoại này</string>
+    <string name="auth_gls_restoring_message">Điện thoại của bạn đang kết nối với Google để khôi phục tài khoản của bạn. Quá trình này có thể mất một khoảng thời gian.</string>
+    <string name="auth_gls_restoring_title">Đang khôi phục…</string>
+    <string name="auth_gls_retake_photo_button_label">Chụp lại ảnh</string>
+    <string name="auth_gls_secondary_email_label">Địa chỉ email khôi phục</string>
+    <string name="auth_gls_security_questions_title">Câu hỏi bảo mật</string>
+    <string name="auth_gls_server_error">Đã xảy ra sự cố khi giao tiếp với máy chủ Google.</string>
+    <string name="auth_gls_server_error_help">Thử lại sau.</string>
+    <string name="auth_gls_sign_in_agreement">Bằng cách đăng nhập, bạn đồng ý với <annotation id="tos">Điều khoản dịch vụ</annotation>, <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google và <annotation id="play_tos">Điều khoản dịch vụ của Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Bằng cách đăng nhập, bạn đồng ý với "<annotation id="tos">Điều khoản dịch vụ</annotation>, <annotation id="google_privacy">Chính sách bảo mật </annotation> của Google và <annotation id="play_tos">Điều khoản dịch vụ của Google Play </annotation>". 
+
+Hãy nhớ: Mọi người dùng khác đều có thể chấp nhận quyền của ứng dụng được cập nhật nhân danh bạn. Giống như với bất kỳ máy tính nào, bạn chỉ nên chia sẻ máy tính bảng này với người bạn tin tưởng."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Bằng cách đăng nhập, bạn đồng ý với "<annotation id="tos">Điều khoản dịch vụ</annotation> và <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google, <annotation id="chrome_tos">Điều khoản dịch vụ</annotation> và <annotation id="chrome_privacy">Thông báo bảo mật</annotation> của Chrome và <annotation id="play_tos">Điều khoản dịch vụ</annotation> của Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Bằng cách đăng nhập, bạn đồng ý với "<annotation id="tos">Điều khoản dịch vụ</annotation> và <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google, <annotation id="chrome_tos">Điều khoản dịch vụ</annotation> và <annotation id="chrome_privacy">Thông báo bảo mật</annotation> của Chrome và <annotation id="play_tos">Điều khoản dịch vụ</annotation>" của Google Play. 
+
+Hãy nhớ: Mọi người dùng khác đều có thể chấp nhận quyền của ứng dụng được cập nhật nhân danh bạn. Giống như với bất kỳ máy tính nào, bạn chỉ nên chia sẻ máy tính bảng này với người bạn tin tưởng."</string>
+    <string name="auth_gls_submission_title">Rất tiếc…</string>
+    <string name="auth_gls_suggest_username_next_button_label">Thay đổi tên người dùng</string>
+    <string name="auth_gls_suggestions_hint">Chạm để xem các đề xuất</string>
+    <string name="auth_gls_sync_intro_activity_title">Đăng nhập vào tài khoản thành công</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Sao lưu và khôi phục</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Sao lưu</string>
+    <string name="auth_gls_sync_intro_title">Đồng bộ hóa tài khoản</string>
+    <string name="auth_gls_sync_item_title">Đồng bộ hóa %s</string>
+    <string name="auth_gls_too_short">Quá ngắn</string>
+    <string name="auth_gls_ui_activity_authenticating">Đang xác thực…</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Đang chuẩn bị…</string>
+    <string name="auth_gls_uploads_subtitle">Tải lên tức thì</string>
+    <string name="auth_gls_uploads_text">Dễ dàng đồng bộ hóa tất cả ảnh của bạn từ tất cả các thiết bị.</string>
+    <string name="auth_gls_verify_your_profile">Xác minh tiểu sử của bạn</string>
+    <string name="auth_gls_wait_for_device_country_msg">Đang thu thập thông tin về điện thoại của bạn. Quá trình này có thể mất tối đa 30 giây.</string>
+    <string name="auth_gls_wait_for_device_country_title">Thiết lập tài khoản</string>
+    <string name="auth_google_settings_header_title">Bảo mật</string>
+    <string name="auth_google_title_logo">Biểu trưng Google</string>
+    <string name="auth_google_trust_agent_title">Mở khóa cá nhân</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Đăng nhập bằng Google+</string>
+    <string name="auth_gsf_notification_login_error">Chạm để đăng nhập vào tài khoản của bạn.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Đã yêu cầu quyền
+cho tài khoản %s"</string>
+    <string name="auth_invalid_login_character">Ký tự không hợp lệ. Chỉ cho phép 0-9, a-z, A-Z và dấu chấm câu.</string>
+    <string name="auth_invalid_password_character">Ký tự mật khẩu không hợp lệ.</string>
+    <string name="auth_invalid_scope">Phạm vi không hợp lệ được sử dụng trong quá trình yêu cầu xác thực.</string>
+    <string name="auth_invalid_username">Nội dung bạn đã nhập không phải là tên người dùng hợp lệ.</string>
+    <string name="auth_learn_more_title">Tìm hiểu thêm</string>
+    <string name="auth_location_neighborhood_level">Cho phép gửi dữ liệu vị trí ẩn danh cho Google. Đồng thời cho phép các ứng dụng được phép sử dụng dữ liệu từ nguồn như Wi-Fi và mạng di động để xác định vị trí gần đúng của bạn.</string>
+    <string name="auth_location_network_based">Dịch vụ vị trí của Google</string>
+    <string name="auth_location_settings_title">Cài đặt vị trí</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Bạn đã nhập mật khẩu không đúng hoặc tài khoản của bạn đã thay đổi. Hãy nhập lại mật khẩu của bạn. Nếu bạn quên mật khẩu của mình và cần khôi phục tài khoản, hãy nhấp vào <annotation id="help_url">đây</annotation>.</string>
+    <string name="auth_login_activity_task_title">Đang đăng nhập…</string>
+    <string name="auth_login_activity_title">Đăng nhập</string>
+    <string name="auth_login_task_title">Đang đăng nhập</string>
+    <string name="auth_login_title">Nhập email và mật khẩu</string>
+    <string name="auth_maps_settings_title">Maps và Latitude</string>
+    <string name="auth_minutemaid_title">Thiết lập tài khoản Google</string>
+    <string name="auth_name_title">Tên của bạn</string>
+    <string name="auth_network_unreliable">Không thể thiết lập kết nối đáng tin cậy với máy chủ.</string>
+    <string name="auth_network_unreliable_help">Đây có thể là sự cố tạm thời hoặc có thể thiết bị Android của bạn không được cấp quyền cho dịch vụ dữ liệu. Nếu sự cố vẫn tiếp diễn, hãy gọi Trung tâm chăm sóc khách hàng.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Đây có thể là sự cố tạm thời. Hãy thử lại hoặc kết nối với một mạng Wi-Fi khác.</string>
+    <string name="auth_next_button_label">Tiếp theo</string>
+    <string name="auth_nfc_caution">Hãy bảo vệ thẻ này. Kẻ tấn công có thể sao chép thẻ.</string>
+    <string name="auth_nfc_tag_exists">%1$s đã được thêm vào</string>
+    <string name="auth_nfc_tag_not_supported">Thiết bị NFC được cung cấp không được hỗ trợ</string>
+    <string name="auth_no_network">Bạn không có kết nối mạng nào.</string>
+    <string name="auth_no_network_help">Đây có thể là sự cố tạm thời hoặc thiết bị Android của bạn có thể không được cấp quyền đối với dịch vụ dữ liệu. Hãy thử lại khi được kết nối với mạng di động hoặc kết nối với mạng Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Đây có thể là sự cố tạm thời. Hãy thử lại hoặc kết nối với một mạng Wi-Fi khác.</string>
+    <string name="auth_ok_button_label">OK</string>
+    <string name="auth_only_you_acl">Chỉ bạn</string>
+    <string name="auth_otp_dialog_title">Mã xác minh</string>
+    <string name="auth_otp_done_button">Xong</string>
+    <string name="auth_otp_error">Đã xảy ra sự cố khi tạo mã xác minh.</string>
+    <string name="auth_otp_instruction">Chỉ sử dụng mã này để đăng nhập vào Google.</string>
+    <string name="auth_otp_no_accounts_available_message">Không có tài khoản nào được định cấu hình trên thiết bị này.</string>
+    <string name="auth_otp_progress_dialog_message">Tạo mã xác minh.</string>
+    <string name="auth_otp_select_account_message">Chọn tài khoản</string>
+    <string name="auth_pacl_scope_details_dialog_title">Google có thể xem những gì</string>
+    <string name="auth_password">Mật khẩu</string>
+    <string name="auth_personal_unlocking_name">Mở khóa cá nhân</string>
+    <string name="auth_personal_unlocking_service_name">Mở khóa cá nhân (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Tài khoản Google của bạn đã được tạo nhưng yêu cầu tạo tiểu sử trên Google+ của bạn chưa được chấp thuận. Hãy thử lại sau từ bất kỳ trình duyệt web nào tại plus.google.com.</string>
+    <string name="auth_plus_failure_text">Yêu cầu tham gia Google+ của bạn chưa được chấp thuận. Hãy thử lại sau từ bất kỳ trình duyệt web nào tại plus.google.com.</string>
+    <string name="auth_plus_failure_title">Tạo tiểu sử trên Google+ sau</string>
+    <string name="auth_plus_faq_title">Chào mừng bạn đến với Google+!</string>
+    <string name="auth_plus_name_check_text">Quá trình này có thể diễn ra trong vài phút.</string>
+    <string name="auth_plus_query_title">Tạo tiểu sử trên Google+</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Xin chào %s!</string>
+    <string name="auth_provisioned_welcome_2">"Nhập mật khẩu của bạn cho:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Thiết bị Chrome đã bị khóa.</string>
+    <string name="auth_proximity_auth_device_locked_title">Mở khóa dễ dàng</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Thiết bị Chrome đã được mở khóa.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Mở khóa dễ dàng</string>
+    <string name="auth_proximity_auth_setup_completed_content">Điện thoại này có thể mở khóa các thiết bị Chrome của bạn.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Mở khóa dễ dàng đang bật</string>
+    <string name="auth_proximity_auth_setup_failed_content">Hãy thử lại trên thiết bị Chrome của bạn.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Đã xảy ra lỗi khi thiết lập Mở khóa dễ dàng</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Đã tìm thấy điện thoại. Hãy tiếp tục trên thiết bị Chrome.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Thiết lập Mở khóa dễ dàng</string>
+    <string name="auth_recovery_loading">Đang tải...</string>
+    <string name="auth_recovery_sending">Đang gửi…</string>
+    <string name="auth_relogin_activity_title">Nhập lại mật khẩu</string>
+    <string name="auth_scope_acl_edit_desc">Chỉnh sửa</string>
+    <string name="auth_scope_details_dialog_title">Thông tin khác</string>
+    <string name="auth_scope_icon_desc">Biểu tượng</string>
+    <string name="auth_scope_info_desc">Thông tin</string>
+    <string name="auth_scope_warning_desc">Cảnh báo</string>
+    <string name="auth_search_settings_title">Tìm kiếm</string>
+    <string name="auth_server_error">Đã xảy ra sự cố khi giao tiếp với máy chủ Google.</string>
+    <string name="auth_server_error_help">Thử lại sau.</string>
+    <string name="auth_setup_wizard_back_button_label">Quay lại</string>
+    <string name="auth_setup_wizard_next_button_label">Tiếp theo</string>
+    <string name="auth_setup_wizard_services_activity_title">Các dịch vụ của Google</string>
+    <string name="auth_setup_wizard_services_backup"><b>Sao lưu thiết bị của bạn lên Google</b> để bạn có thể dễ dàng khôi phục các ứng dụng, dữ liệu ứng dụng, cài đặt hệ thống và mật khẩu Wi‑Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Sao lưu ứng dụng và dữ liệu của bạn</b> vào Google Drive để bạn có thể dễ dàng khôi phục thiết bị. Dữ liệu bao gồm các ứng dụng, dữ liệu ứng dụng, cài đặt hệ thống và mật khẩu Wi‑Fi. Các bản sao lưu sẽ không ảnh hưởng đến giới hạn bộ nhớ của bạn.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Dữ liệu bao gồm ứng dụng, cài đặt ứng dụng, cài đặt hệ thống và mật khẩu Wi-Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Sao lưu và khôi phục</string>
+    <string name="auth_setup_wizard_services_communication_heading">Liên lạc</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Giúp cải thiện trải nghiệm Android</b>, hiệu suất pin, xếp hạng Cửa hàng Play và nhiều tính năng khác bằng cách tự động gửi dữ liệu sử dụng và chẩn đoán của thiết bị này tới Google.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Dữ liệu bao gồm thông tin về phần cứng và mạng, mức sử dụng ứng dụng và điện thoại cùng với báo cáo sự cố.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Giúp cải thiện trải nghiệm Android</b>, hiệu suất pin, xếp hạng Cửa hàng Play và nhiều tính năng khác bằng cách tự động gửi dữ liệu sử dụng và chẩn đoán của thiết bị này tới Google. <annotation id="learn_more">Tìm hiểu thêm.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">Dịch vụ vị trí của Google sử dụng Wi-Fi và các tín hiệu khác để xác định vị trí chính xác và nhanh hơn, thường sử dụng ít năng lượng hơn GPS. Một số dữ liệu có thể được lưu trữ trên thiết bị của bạn. Dữ liệu có thể được thu thập ngay cả khi không có ứng dụng nào đang chạy.</string>
+    <string name="auth_setup_wizard_services_location_heading">Vị trí</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Sử dụng dịch vụ vị trí của Google</b> để giúp các ứng dụng xác định vị trí tốt hơn. Dữ liệu vị trí ẩn danh từ thiết bị của bạn sẽ được gửi tới Google.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Giúp cải thiện dịch vụ vị trí</b> bằng cách cho phép ứng dụng và dịch vụ quét tìm mạng ngay cả khi Wi‑Fi đang tắt.</string>
+    <string name="auth_setup_wizard_services_play">Liên tục cập nhật cho tôi tin tức và các khuyến mãi từ Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">Thiết bị này có thể nhận bản cập nhật và ứng dụng từ Google, nhà cung cấp dịch vụ và nhà sản xuất thiết bị của bạn.</string>
+    <string name="auth_setup_wizard_title">Trình hướng dẫn thiết lập</string>
+    <string name="auth_show_error_activity_title">Không thể đăng nhập</string>
+    <string name="auth_show_error_title">Lỗi</string>
+    <string name="auth_sign_in_agreement">Bằng cách đăng nhập, bạn đồng ý với Chính sách bảo mật của <annotation id="google_privacy">Google</annotation> và Chính sách bảo mật <annotation id="android_privacy">bổ sung</annotation>.</string>
+    <string name="auth_sign_in_agreement_multi_user">Bằng cách đăng nhập, bạn đồng ý với <annotation id="tos">Điều khoản dịch vụ</annotation>, <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google và <annotation id="play_tos">Điều khoản dịch vụ của Google Play</annotation>". 
+
+Hãy nhớ: Mọi người dùng khác đều có thể chấp nhận quyền của ứng dụng được cập nhật nhân danh bạn. Giống như với bất kỳ máy tính nào, bạn chỉ nên chia sẻ máy tính bảng này với người bạn tin tưởng."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Bằng cách đăng nhập, bạn đồng ý với <annotation id="tos">Điều khoản dịch vụ</annotation> và <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google, <annotation id="chrome_tos">Điều khoản dịch vụ</annotation> và <annotation id="chrome_privacy">Thông báo bảo mật</annotation> của Chrome và <annotation id="play_tos">Điều khoản dịch vụ</annotation> của Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Bằng cách đăng nhập, bạn đồng ý với <annotation id="tos">Điều khoản dịch vụ</annotation> và <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google, <annotation id="chrome_tos">Điều khoản dịch vụ</annotation> và <annotation id="chrome_privacy">Thông báo bảo mật</annotation> của Chrome và <annotation id="play_tos">Điều khoản dịch vụ</annotation>" của Google Play. 
+
+Hãy nhớ: Mọi người dùng khác đều có thể chấp nhận quyền của ứng dụng được cập nhật nhân danh bạn. Giống như với bất kỳ máy tính nào, bạn chỉ nên chia sẻ máy tính bảng này với người bạn tin tưởng."</string>
+    <string name="auth_sign_in_browser">Đăng nhập trình duyệt</string>
+    <string name="auth_sign_in_button_label">Đăng nhập</string>
+    <string name="auth_sign_in_with_google_account_short">Đăng nhập bằng tài khoản Google của bạn:</string>
+    <string name="auth_skip_button_label">Bỏ qua</string>
+    <string name="auth_submission_error_text">Đã xảy ra lỗi. Hãy thử lại.</string>
+    <string name="auth_submission_title">Rất tiếc…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Để thiết lập, hãy nhấn vào thiết bị hoặc thẻ NFC trên thiết bị này.</string>
+    <string name="auth_trust_agent_add_nfc_title">Thêm NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Thêm thiết bị đáng tin cậy</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Thêm địa điểm đáng tin cậy</string>
+    <string name="auth_trust_agent_button_nfc_settings">Cài đặt NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Được kết nối an toàn với thiết bị Bluetooth %s</string>
+    <string name="auth_trust_agent_dpm_disabled">Bị tắt bởi quản trị viên</string>
+    <string name="auth_trust_agent_enable_nfc">Bật NFC để thêm thiết bị NFC</string>
+    <string name="auth_trust_agent_first_use_notification_button">OK</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">trong khi kết nối với %s mà bạn đã đặt làm thiết bị đáng tin cậy.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Để buộc thiết bị của bạn khóa, hãy tắt rồi bật màn hình và chạm vào biểu tượng khóa.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">trong khi ở %s mà bạn đã đặt làm địa điểm đáng tin cậy.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Thiết bị của bạn đã được mở khóa</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Tên</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"Đã tìm thấy NFC
+Hãy nhập tên cho thẻ đó."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Đã tắt</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Đã bật</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Cải tiến khớp khuôn mặt</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Hủy</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Thiết bị này sẽ không nhận dạng được khuôn mặt bạn nữa và tính năng khuôn mặt đáng tin cậy sẽ bị tắt.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Đặt lại</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Đặt lại khuôn mặt đáng tin cậy?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Đặt lại khuôn mặt đáng tin cậy</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Khuôn mặt đáng tin cậy</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Đã kết nối</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Không có</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Chưa kết nối</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Thiết bị tin cậy</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Không có</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Màn hình chính</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Không xác định</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Địa điểm tin cậy</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Cơ quan</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Không ghép nối được. Vui lòng thử lại.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Không thể th.lập t.bị NFC</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Thêm thiết bị Bluetooth đáng tin cậy để thiết bị này luôn mở khóa khi được kết nối. 
+
+Ví dụ:
+
+- Đồng hồ Bluetooth của bạn
+- Hệ thống Bluetooth trên xe ô tô của bạn"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth đã tắt)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Thêm thiết bị tin cậy</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth đã tắt.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Hủy</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Chọn thiết bị</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Thêm thiết bị đáng tin cậy để thiết bị này luôn mở khóa khi được kết nối. 
+
+Ví dụ:
+
+- Đồng hồ Bluetooth của bạn
+- Hệ thống Bluetooth trên xe ô tô của bạn 
+- Nhãn dán NFC trên đế sạc điện thoại trong xe ô tô của bạn."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Xóa thiết bị này khỏi các thiết bị tin cậy?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Thiết bị không xác định.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Thêm thiết bị NFC đáng tin cậy để mở khóa thiết bị này bằng một lần chạm. 
+
+Ví dụ:
+
+- Nhãn dán NFC trên đế sạc điện thoại trong xe ô tô của bạn."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Hãy thêm tài khoản để truy xuất địa chỉ nhà riêng và cơ quan.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Hủy</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Thêm địa điểm tin cậy để giữ thiết bị này mở khóa khi vào địa điểm. 
+
+Vị trí:
+
+- Nhà bạn
+- Văn phòng bạn"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Xóa</string>
+    <string name="auth_trust_agent_trusted_places_rename">Đổi tên</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Chọn tài khoản</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Không xác định</string>
+    <string name="auth_trust_devices_not_available">Không có tính năng thiết bị tin cậy để sử dụng.</string>
+    <string name="auth_trust_places_not_available">Không có tính năng địa điểm tin cậy để sử dụng.</string>
+    <string name="auth_try_again_button_label">Thử lại</string>
+    <string name="auth_ui_activity_authenticating">Đang xác thực…</string>
+    <string name="auth_ui_activity_title">Đăng nhập Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Đăng nhập</string>
+    <string name="auth_ui_add_account_title">Thiết lập tài khoản</string>
+    <string name="auth_unexpected_acl_error">Đã xảy ra sự cố khi cấp quyền.</string>
+    <string name="auth_use_location_summary">Cho phép Google sử dụng vị trí của bạn để cải tiến kết quả tìm kiếm và các dịch vụ khác</string>
+    <string name="auth_use_location_title">Vị trí và Google Tìm kiếm</string>
+    <string name="auth_username">Email</string>
+    <string name="auth_visible_actions_title">Chia sẻ với…</string>
+    <string name="authorization_dialog">Hộp thoại ủy quyền</string>
+    <string name="cancel">Hủy</string>
+    <string name="circle_button_add_to_circles">Thêm vào vòng kết nối</string>
+    <string name="circle_button_circles">%d vòng kết nối</string>
+    <string name="circle_button_follow">Theo dõi</string>
+    <string name="circle_button_following_circle">Theo dõi</string>
+    <string name="circle_button_medium_add_to_circles">Thêm</string>
+    <string name="circle_button_profile_blocked">Đã chặn</string>
+    <string name="common_accessibility_audience_view_editable">Chỉnh sửa đối tượng</string>
+    <string name="common_add_account_button_label">Thêm tài khoản</string>
+    <string name="common_add_account_label">Thêm tài khoản</string>
+    <string name="common_ads_settings_title">Quảng cáo</string>
+    <string name="common_android_wear_notification_needs_update_text">Ứng dụng yêu cầu cập nhật lên ứng dụng Android Wear.</string>
+    <string name="common_android_wear_update_text">Ứng dụng này chỉ chạy khi bạn cập nhật ứng dụng Android Wear.</string>
+    <string name="common_android_wear_update_title">Cập nhật Android Wear</string>
+    <string name="common_app_name">Dịch vụ của Google Play</string>
+    <string name="common_cannot_start_hangouts_exception">Không thể bắt đầu Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Không thể bắt đầu Hangouts (lỗi quyền).</string>
+    <string name="common_car_permission_desc">Truy cập vào dịch vụ xe hơi.</string>
+    <string name="common_car_permission_label">Dịch vụ xe hơi</string>
+    <string name="common_chips_label_empty_circles">Không có vòng kết nối</string>
+    <string name="common_chips_label_extended_circles">Vòng kết nối mở rộng</string>
+    <string name="common_chips_label_only_you">Chỉ bạn</string>
+    <string name="common_chips_label_public">Công khai</string>
+    <string name="common_chips_label_your_circles">Vòng kết nối của bạn</string>
+    <string name="common_choose_account_label">Chọn tài khoản</string>
+    <string name="common_clear_app_data_menu_item">Xóa dữ liệu ứng dụng</string>
+    <string name="common_connected_apps_settings_title">Ứng dụng đã kết nối</string>
+    <string name="common_fitness_settings_title">Thể dục</string>
+    <string name="common_games_settings_title">Chơi trò chơi</string>
+    <string name="common_get_verification_code_menu_item">Nhận mã xác minh</string>
+    <string name="common_google_play_services_enable_button">Bật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_enable_text">Ứng dụng này sẽ không hoạt động trừ khi bạn bật dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_enable_title">Bật dịch vụ của Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Lỗi</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Được yêu cầu bởi %1$s</string>
+    <string name="common_google_play_services_install_button">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Ứng dụng này sẽ không chạy nếu không có dịch vụ của Google Play. Điện thoại của bạn bị thiếu dịch vụ này.</string>
+    <string name="common_google_play_services_install_text_tablet">Ứng dụng này sẽ không chạy nếu không có dịch vụ của Google Play. Máy tính bảng của bạn bị thiếu dịch vụ này.</string>
+    <string name="common_google_play_services_install_title">Cài đặt dịch vụ của Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Tài khoản đã chỉ định không tồn tại trên thiết bị này. Vui lòng chọn một tài khoản khác.</string>
+    <string name="common_google_play_services_invalid_account_title">Tài khoản không hợp lệ</string>
+    <string name="common_google_play_services_needs_enabling_title">Một ứng dụng yêu cầu bật các dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_network_error_text">Cần có kết nối dữ liệu để kết nối với các dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Lỗi mạng</string>
+    <string name="common_google_play_services_no_restricted_profiles">Ứng dụng này không hỗ trợ tài khoản cho các tiểu sử bị hạn chế</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Một ứng dụng yêu cầu cài đặt các dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Một ứng dụng yêu cầu cập nhật đối với các dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">Lỗi dịch vụ của Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Sự cố không xác định với dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">Các dịch vụ của Google Play mà một số ứng dụng của bạn dựa vào không được thiết bị của bạn hỗ trợ. Vui lòng liên hệ với nhà sản xuất để được hỗ trợ.</string>
+    <string name="common_google_play_services_unsupported_title">Dịch vụ của Google Play</string>
+    <string name="common_google_play_services_update_button">Cập nhật</string>
+    <string name="common_google_play_services_update_text">Ứng dụng này sẽ không chạy trừ khi bạn cập nhật dịch vụ của Google Play.</string>
+    <string name="common_google_play_services_update_title">Cập nhật dịch vụ của Google Play</string>
+    <string name="common_google_settings">Cài đặt Google</string>
+    <string name="common_list_apps_menu_help">Trợ giúp</string>
+    <string name="common_list_apps_menu_help_and_feedback">Trợ giúp và phản hồi</string>
+    <string name="common_location_settings_title">Vị trí</string>
+    <string name="common_maps_settings_title">Maps và Latitude</string>
+    <string name="common_mdm_feature_name">Trình Quản Lý Thiết Bị Android</string>
+    <string name="common_network_load_failed">Không khả dụng do thiết bị không thể kết nối với mạng</string>
+    <string name="common_no_network">Không khả dụng do thiết bị ở chế độ ngoại tuyến</string>
+    <string name="common_open_on_phone">Mở trên điện thoại</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Không có tài khoản nào để chọn</string>
+    <string name="common_search_and_now_settings_title">Tìm kiếm và Hiện hành</string>
+    <string name="common_search_settings_title">Tìm kiếm</string>
+    <string name="common_security_settings_title">Xác minh các ứng dụng</string>
+    <string name="common_signin_button_text">Đăng nhập</string>
+    <string name="common_signin_button_text_long">Đăng nhập bằng Google</string>
+    <string name="common_storage_settings_title">Bộ nhớ dịch vụ của Google Play</string>
+    <string name="common_ui_confirm_deleting_button">Xóa</string>
+    <string name="common_ui_confirm_deleting_checkbox">Tôi hiểu và muốn xóa</string>
+    <string name="common_url_load_unsuccessful_message">Thiết bị Android của bạn chưa kết nối với dịch vụ dữ liệu. Để xem thông tin này ngay bây giờ, hãy truy cập %s bằng trình duyệt web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Thiết bị Android của bạn hiện không kết nối với mạng Wi-Fi. Để xem thông tin này ngay bây giờ, hãy truy cập %s bằng trình duyệt web.</string>
+    <string name="common_url_login_notice">Đăng nhập bằng %1$s</string>
+    <string name="common_usage_and_diagnostics">Sử dụng và chẩn đoán</string>
+    <string name="country_invalid">Quốc gia này không được phép</string>
+    <string name="device_location_acl_no_one">Không ai cả</string>
+    <string name="device_location_best_acl_picker_title">Hiển thị vị trí chính xác</string>
+    <string name="device_location_city_acl_picker_title">Hiển thị vị trí thành phố</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s và người khác</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> và %d người khác</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Bạn phải có kết nối dữ liệu để xem cài đặt chia sẻ thông tin vị trí. Vui lòng kiểm tra kết nối của bạn hoặc thử lại sau.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Mở cài đặt vị trí</string>
+    <string name="device_location_reporting_reminder_dialog_summary">Tắt tính năng Chia sẻ thông tin vị trí không ảnh hưởng đến Báo cáo Vị trí hoặc Lịch sử vị trí. Các dịch vụ khác của Goolge mà bạn đã chọn tham gia trước đó, như Google Hiện hành, có thể cần thông tin vị trí của bạn. Bạn luôn có thể kiểm soát Lịch sử và Báo cáo Vị trí từ Cài đặt vị trí.</string>
+    <string name="device_location_reporting_reminder_dialog_title">Báo cáo Vị trí</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> và &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> và &lt;b>%s&lt;/b></string>
+    <string name="disagree">Không đồng ý</string>
+    <string name="enable_location_reporting_error">Chúng tôi không thể bật Lịch sử và Báo cáo Vị trí cho %s. Để bật Lịch sử Vị trí và Báo cáo Vị trí, hãy đi tới cài đặt Vị trí.</string>
+    <string name="enable_location_reporting_error_title">Đã xảy ra lỗi</string>
+    <string name="enable_location_reporting_title">Báo cáo Vị trí</string>
+    <string name="friend_locations_enable_reporting_auto_body">Tính năng Báo cáo Vị trí cho phép bất kỳ sản phẩm nào của Google sử dụng tính năng này lưu trữ và sử dụng dữ liệu vị trí gần đây nhất trên thiết bị của bạn. Tính năng Chia sẻ thông tin vị trí yêu cầu phải bật Báo cáo Vị trí.&lt;br/>&lt;br/>Lịch sử Vị trí cho phép Google lưu trữ lịch sử dữ liệu vị trí của bạn từ các thiết bị bạn đã bật Báo cáo Vị trí. &lt;a href=\"%2$s\"> Tìm hiểu thêm&lt;/a>.&lt;br/>&lt;br/>Bật Lịch sử và Báo cáo Vị trí cho %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">Tính năng Báo cáo Vị trí cho phép bất kỳ sản phẩm nào của Google sử dụng tính năng này lưu trữ và sử dụng dữ liệu vị trí gần đây nhất trên thiết bị của bạn. Tính năng Chia sẻ thông tin vị trí yêu cầu phải bật Báo cáo Vị trí.&lt;br/>&lt;br/>Trong cài đặt Vị trí của Google Maps, đảm bảo đặt \"Báo cáo Vị trí\" thành \"Phát hiện vị trí của bạn\" và chọn \"Báo cáo từ thiết bị này\". &lt;a href=\"%s\">Tìm hiểu thêm&lt;/a>.</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">Tính năng Báo cáo Vị trí cho phép bất kỳ sản phẩm nào của Google sử dụng tính năng này lưu trữ và sử dụng dữ liệu vị trí gần đây nhất trên thiết bị của bạn. Tính năng Chia sẻ thông tin vị trí yêu cầu phải bật Báo cáo Vị trí.&lt;br/>&lt;br/>Đăng nhập vào Google Maps bằng %1$s và trong cài đặt Vị trí, đảm bảo đặt \"Báo cáo Vị trí\" thành \"Phát hiện vị trí của bạn\" và chọn \"Báo cáo từ thiết bị này\". &lt;a href=\"%2$s\">Tìm hiểu thêm&lt;/a>.</string>
+    <string name="loading">Đang tải…</string>
+    <string name="location_settings_allow_access_summary">Hãy để các ứng dụng của Google sử dụng vị trí của thiết bị này bất cứ khi nào thiết bị được bật</string>
+    <string name="location_settings_allow_access_title">Truy cập thông tin vị trí</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Bạn sẽ không thể khôi phục lại Lịch sử vị trí của mình. 
+
+Google Hiện hành và các ứng dụng khác sử dụng Lịch sử vị trí của bạn có thể ngừng hoạt động."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Bạn muốn xóa vĩnh viễn?</string>
+    <string name="location_settings_delete_auth_error">Tên người dùng hoặc mật khẩu không đúng</string>
+    <string name="location_settings_delete_io_error">Thiết bị không thể kết nối với mạng</string>
+    <string name="location_settings_delete_location_history">XÓA LỊCH SỬ VỊ TRÍ</string>
+    <string name="location_settings_delete_location_history_in_progress">ĐANG XÓA...</string>
+    <string name="location_settings_delete_offline_error">Thiết bị đang ở chế độ ngoại tuyến</string>
+    <string name="location_settings_expiration_both_one">Còn 1 giờ và 1 phút</string>
+    <string name="location_settings_expiration_both_other" formatted="false">Còn %d giờ và %d phút</string>
+    <string name="location_settings_expiration_hours_one">Còn 1 giờ và %d phút</string>
+    <string name="location_settings_expiration_minutes">Còn %d phút</string>
+    <string name="location_settings_expiration_minutes_one">Còn %d giờ và 1 phút</string>
+    <string name="location_settings_expiration_soon">Còn chưa đầy 15 phút</string>
+    <string name="location_settings_info_title">Thông tin</string>
+    <string name="location_settings_location_history_activity_title">Lịch sử vị trí</string>
+    <string name="location_settings_location_history_summary_full">"Cài đặt này cho phép Google lưu trữ lịch sử dữ liệu vị trí của bạn từ các thiết bị bạn đã bật Báo cáo vị trí cho tài khoản này. Lịch sử vị trí giúp bạn khai thác Google nhiều hơn—ví dụ: Google Hiện hành có thể sử dụng lịch sử vị trí để thông báo cho bạn về giao thông trên đường bạn đi làm. 
+
+Bạn có thể xem và quản lý Lịch sử vị trí của mình tại maps.google.com/locationhistory. Bạn có thể tắt Lịch sử vị trí vào mọi thời điểm nhưng làm như vậy sẽ không xóa các mục nhập hiện tại của bạn. Nút bên dưới sẽ xóa mọi mục nhập Lịch sử vị trí hiện tại cho tài khoản của bạn."</string>
+    <string name="location_settings_location_reporting_activity_title">Báo cáo vị trí</string>
+    <string name="location_settings_location_reporting_summary_full">"Google sử dụng tính năng này trong các sản phẩm như Google Hiện hành và Google Maps. 
+
+Bật Báo cáo vị trí cho phép mọi sản phẩm Google sử dụng tính năng này lưu trữ và sử dụng dữ liệu vị trí gần đây nhất trên thiết bị này liên quan đến tài khoản Google của bạn."</string>
+    <string name="location_settings_no_network_alert">Bạn phải có kết nối dữ liệu để xem cài đặt chia sẻ thông tin vị trí. Vui lòng kiểm tra kết nối của bạn hoặc thử lại sau.</string>
+    <string name="location_settings_not_available_summary">Bạn không có tài khoản Google.</string>
+    <string name="location_settings_not_available_title">Thêm tài khoản</string>
+    <string name="location_settings_reporting_summary_off">Tắt cho thiết bị này</string>
+    <string name="location_settings_reporting_summary_on">Bật cho thiết bị này</string>
+    <string name="location_settings_save_error">Không thể lưu cài đặt.</string>
+    <string name="location_settings_saving">Đang lưu cài đặt...</string>
+    <string name="location_settings_screen_title">Cài đặt vị trí Google</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Cài đặt này chỉ kiểm soát quyền truy cập vị trí đối với các ứng dụng của Google. 
+
+Để kiểm soát quyền truy cập vị trí cho tất cả các ứng dụng, hãy đi tới Cài đặt > Truy cập thông tin vị trí."</string>
+    <string name="location_settings_temporary_sharing_title">Chia sẻ tạm thời với</string>
+    <string name="location_settings_ulr_summary_ambiguous">Không thể xác định cài đặt trước. Cài đặt này đã bị tắt.</string>
+    <string name="location_settings_ulr_summary_auth_error">Không khả dụng vì tên người dùng hoặc mật khẩu không đúng</string>
+    <string name="location_settings_ulr_summary_error">Không thể truy cập máy chủ để truy xuất cài đặt. Hãy thử lại sau.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Đã tắt</string>
+    <string name="location_settings_ulr_summary_loading">Đang truy xuất…</string>
+    <string name="location_settings_ulr_summary_off">Tắt</string>
+    <string name="location_settings_ulr_summary_offline">Không khả dụng do thiết bị ở chế độ ngoại tuyến</string>
+    <string name="location_settings_ulr_summary_on">Bật</string>
+    <string name="location_settings_ulr_summary_restricted">Đã tắt</string>
+    <string name="location_settings_ulr_summary_unknown">Không xác định</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Không khả dụng ở %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Không khả dụng ở vùng này</string>
+    <string name="location_settings_view_all">Xem tất cả</string>
+    <string name="location_sharing_settings_acl_title">Chia sẻ với %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Chọn người để chia sẻ</string>
+    <string name="location_sharing_settings_city_description">Sử dụng tính năng chia sẻ thông tin vị trí cấp thành phố để cho phép bạn bè và gia đình của bạn nhìn thấy thành phố của bạn.</string>
+    <string name="location_sharing_settings_city_example">Ví dụ: San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_city_title">Vị trí thành phố</string>
+    <string name="location_sharing_settings_description">Tính năng Chia sẻ thông tin vị trí cho phép bạn chia sẻ vị trí hiện tại của mình từ Báo cáo Vị trí trên thiết bị với những người mà bạn chọn.&lt;br/>&lt;br/> Những người mà bạn chia sẻ thông tin vị trí có thể thấy vị trí hiện tại của bạn trên các sản phẩm của Google, bao gồm Google+ và Google Hiện hành. Họ cũng có thể thấy các địa điểm của bạn chẳng hạn như nhà riêng và cơ quan. &lt;a href=\"%s\">Tìm hiểu thêm&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">Tính năng Chia sẻ thông tin vị trí cho phép bạn chia sẻ vị trí hiện tại của mình từ &lt;a href=\"%1$s\">Báo cáo Vị trí&lt;/a> trên thiết bị của bạn với những người bạn chọn.&lt;br/>&lt;br/>Những người mà bạn chia sẻ thông tin vị trí có thể thấy vị trí hiện tại của bạn trên các sản phẩm của Google bao gồm Google+ và Google Hiện hành. Họ cũng có thể thấy địa điểm của bạn, chẳng hạn như nhà riêng và cơ quan. &lt;a href=\"%2$s\">Tìm hiểu thêm&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Thay đổi</string>
+    <string name="location_sharing_settings_pinpoint_description">Sử dụng tính năng chia sẻ thông tin vị trí xác định để cho phép những người thân yêu của bạn nhìn thấy vị trí hiện tại, chính xác của bạn.</string>
+    <string name="location_sharing_settings_pinpoint_example">Ví dụ: 123 Main St, San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_pinpoint_title">Vị trí chính xác</string>
+    <string name="location_sharing_settings_title">Chia sẻ thông tin vị trí</string>
+    <string name="location_ulr_ambiguous_setting_text">Không thể xác định cài đặt trước. Bật ngay bây giờ?</string>
+    <string name="location_ulr_setting_google_location_disabled">Không khả dụng vì các ứng dụng của Google không có quyền truy cập vào thông tin vị trí</string>
+    <string name="location_ulr_setting_label">Báo cáo vị trí của Google</string>
+    <string name="location_ulr_setting_location_disabled">Không khả dụng vì Vị trí đã bị tắt</string>
+    <string name="location_ulr_setting_no_account">Tắt, không có tài khoản</string>
+    <string name="location_ulr_setting_reporting_only">Sử dụng thông tin vị trí cuối cùng</string>
+    <string name="location_warning_do_not_show_again">Không hiển thị nữa</string>
+    <string name="location_warning_message">Cho phép Google giúp ứng dụng xác định vị trí. Điều này có nghĩa là gửi dữ liệu vị trí ẩn danh cho Google, ngay cả khi không chạy ứng dụng nào.</string>
+    <string name="location_warning_title">Sử dụng dịch vụ vị trí của Google?</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Vị trí của tôi 
+Chính xác tới {0} mét"</string>
+    <string name="maps_API_OUTDATED_WARNING">Ứng dụng này sử dụng một phiên bản Bản đồ đã lỗi thời. Ứng có thể hoạt động không chính xác.</string>
+    <string name="maps_BACK_TO_LIST">Quay lại danh sách</string>
+    <string name="maps_CLOSE_SOFTKEY">Đóng</string>
+    <string name="maps_COMPASS_ALT_TEXT">La bàn</string>
+    <string name="maps_LEVEL_ALT_TEXT">Tầng {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Vị trí của tôi</string>
+    <string name="maps_YOUR_LOCATION">Vị trí hiện tại của bạn</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Phóng to</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Thu nhỏ</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Hình ảnh ©%2$d %3$s, Dữ liệu bản đồ ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Hình ảnh ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Dữ liệu bản đồ ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Dữ liệu toàn cảnh không hợp lệ.</string>
+    <string name="maps_network_unavailable">Chương trình này yêu cầu kết nối dữ liệu và sẽ tự động thử lại. Hãy kiểm tra cường độ tín hiệu. Chế độ trên máy bay có đang bật không? Dữ liệu chuyển vùng có đang bị vô hiệu hóa không?</string>
+    <string name="maps_no_panorama_data">Chưa đặt dữ liệu toàn cảnh nào.</string>
+    <string name="maps_panorama_disabled">Không còn ảnh nữa</string>
+    <string name="maps_service_unavailable">Không có dịch vụ Chế độ xem Phố.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Mất kết nối dữ liệu, đang thử lại…</string>
+    <string name="mr_media_route_button_content_description">Truyền</string>
+    <string name="mr_media_route_chooser_searching">Đang tìm kiếm thiết bị…</string>
+    <string name="mr_media_route_chooser_title">Kết nối với thiết bị</string>
+    <string name="mr_media_route_controller_disconnect">Ngắt kết nối</string>
+    <string name="mr_system_route_name">Hệ thống</string>
+    <string name="mr_user_route_category_name">Thiết bị</string>
+    <string name="notification_ticker">Quyền truy cập được yêu cầu</string>
+    <string name="off">Tắt</string>
+    <string name="ok">OK</string>
+    <string name="on">Bật</string>
+    <string name="open_location_settings">Mở cài đặt vị trí</string>
+    <string name="phone_number_hint">Số điện thoại</string>
+    <string name="phone_number_invalid">Số điện thoại không hợp lệ</string>
+    <string name="phone_number_invalid_character">Ký tự không hợp lệ trong số điện thoại</string>
+    <string name="place_address_hint">Địa chỉ</string>
+    <string name="place_address_title">Địa chỉ</string>
+    <string name="place_address_update_hint">Cập nhật</string>
+    <string name="place_category_hint">Chọn danh mục</string>
+    <string name="place_category_title">Danh mục</string>
+    <string name="place_name_hint">Tên địa điểm</string>
+    <string name="place_name_title">Tên</string>
+    <string name="place_phone_hint">Số điện thoại chính</string>
+    <string name="place_phone_title">Điện thoại</string>
+    <string name="place_picker_adding_a_place">Đang gửi báo cáo...</string>
+    <string name="place_picker_cancel">Hủy</string>
+    <string name="place_picker_cant_add_place">Không thể thêm địa điểm.</string>
+    <string name="place_picker_label">Chọn địa điểm</string>
+    <string name="place_picker_location_off_message">Để chọn vị trí, trước tiên bạn cần bật Truy cập vị trí trong Cài đặt.</string>
+    <string name="place_picker_nearby_places">Địa điểm lân cận</string>
+    <string name="place_picker_no_search_results">Không có địa điểm phù hợp.</string>
+    <string name="place_picker_search_error">Không thể tải kết quả tìm kiếm.</string>
+    <string name="place_picker_search_hint">Tìm kiếm</string>
+    <string name="place_picker_searching_label">Đang tìm kiếm...</string>
+    <string name="place_picker_select_a_location_label">Chọn một vị trí để biết thêm thông tin</string>
+    <string name="place_picker_select_this_location">Chọn vị trí này</string>
+    <string name="place_picker_settings">Cài đặt</string>
+    <string name="place_picker_updating_location_label">Đang cập nhật vị trí của bạn...</string>
+    <string name="place_picker_updating_nearby_label">Đang cập nhật các địa điểm lân cận...</string>
+    <string name="place_website_hint">Trang web chính thức</string>
+    <string name="place_website_title">Trang web</string>
+    <string name="plus_accessibility_acl_selection">Chọn người xem</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Vòng kết nối</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Thêm vào vòng kết nối mới</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Hình đại diện</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Vòng kết nối</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Tìm kiếm người hoặc vòng k.nối</string>
+    <string name="plus_accessibility_circle_selection">Chọn vòng kết nối</string>
+    <string name="plus_accessibility_comment_avatar">Vòng kết nối</string>
+    <string name="plus_accessibility_facl_selection">Chọn các thành viên trong vòng kết nối mà các ứng dụng được phép xem</string>
+    <string name="plus_accessibility_update_circles">Cập nhật vòng kết nối</string>
+    <string name="plus_actionbar_up_button_description">Điều hướng lên trên</string>
+    <string name="plus_add_to_circle_progress">Đang thêm...</string>
+    <string name="plus_add_to_circles_title_default">Thêm vào vòng kết nối</string>
+    <string name="plus_add_to_circles_title_with_user_name">Thêm %1$s</string>
+    <string name="plus_add_to_following_circle_progress">Đang theo dõi...</string>
+    <string name="plus_add_to_new_circle_progress_message">Đang thêm...</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">TÀI KHOẢN</string>
+    <string name="plus_app_settings_activity_label">Ứng dụng đã kết nối</string>
+    <string name="plus_app_settings_activity_log_label">Nhật ký hoạt động</string>
+    <string name="plus_app_settings_activity_log_page_label">Nhật ký hoạt động</string>
+    <string name="plus_app_settings_all_apps_label">Tất cả ứng dụng và t.bị</string>
+    <string name="plus_app_settings_apps_page_label">Ứng dụng đã kết nối</string>
+    <string name="plus_app_settings_fitness_apps_label">T.bị &amp; ứng dụng thể dục</string>
+    <string name="plus_app_settings_sign_in_apps_label">Đăng nhập bằng Google+</string>
+    <string name="plus_article_preview_image_description">Hình ảnh xem trước của bài viết</string>
+    <string name="plus_audience_edit_button_label">Chỉnh sửa</string>
+    <string name="plus_audience_selection_cancel">Hủy</string>
+    <string name="plus_audience_selection_contacts">Tất cả liên hệ</string>
+    <string name="plus_audience_selection_contacts_description">Bao gồm các liên hệ được tạo trong tương lai</string>
+    <string name="plus_audience_selection_description_acl">CHIA SẺ VỚI</string>
+    <string name="plus_audience_selection_done">Xong</string>
+    <string name="plus_audience_selection_everyone">Tất cả các vòng kết nối</string>
+    <string name="plus_audience_selection_everyone_description">Bao gồm vòng kết nối được tạo trong tương lai</string>
+    <string name="plus_audience_selection_header_circles">VÒNG KẾT NỐI</string>
+    <string name="plus_audience_selection_header_people">MỌI NGƯỜI</string>
+    <string name="plus_audience_selection_header_search">ĐÃ TÌM KIẾM</string>
+    <string name="plus_audience_selection_header_suggested">ĐƯỢC ĐỀ XUẤT</string>
+    <string name="plus_audience_selection_hidden_circle">Những người trong vòng kết nối này không được công khai trên hồ sơ của bạn</string>
+    <string name="plus_audience_selection_loading">Đang tải…</string>
+    <string name="plus_audience_selection_new_circle">Thêm vào vòng kết nối mới</string>
+    <string name="plus_audience_selection_public_circle">mọi người trên web</string>
+    <string name="plus_audience_selection_search_device_results">TỪ THIẾT BỊ CỦA BẠN</string>
+    <string name="plus_audience_selection_search_google_results">TỪ GOOGLE</string>
+    <string name="plus_audience_selection_title">Đối tượng</string>
+    <string name="plus_audience_selection_title_acl">Chia sẻ với...</string>
+    <string name="plus_audience_selection_title_search">Tìm kiếm...</string>
+    <string name="plus_audience_selection_title_update_circles">Thêm vào vòng kết nối</string>
+    <string name="plus_auth_audience_view_default_description">%s sẽ gửi thông tin về hoạt động của bạn từ ứng dụng này tới Google. Bạn có thể chọn những người khác có thể xem những hoạt động này trên Google.</string>
+    <string name="plus_auth_audience_view_footnote">Google sẽ sử dụng thông tin này theo <annotation id="tos">Điều khoản dịch vụ</annotation> và <annotation id="google_privacy">Chính sách bảo mật</annotation> của Google</string>
+    <string name="plus_auth_hide_circles_label">Ẩn tất cả vòng kết nối</string>
+    <string name="plus_auth_info_fragment_app_name">%s muốn:</string>
+    <string name="plus_auth_see_circles_label">Xem tất cả vòng kết nối</string>
+    <string name="plus_avatar_image_description">Hình đại diện của người dùng</string>
+    <string name="plus_bad_name_agree_button_label">Gửi</string>
+    <string name="plus_bad_name_decline_button_label">Thay đổi tên</string>
+    <string name="plus_bad_name_skip_button_label">Bỏ qua Google+</string>
+    <string name="plus_checking_gplus_signup_state">Đang kết nối...</string>
+    <string name="plus_choose_facl_title">Thông tin cơ bản %s sẽ nhận</string>
+    <string name="plus_circle_creation_circle_name_hint">Tên vòng kết nối</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Không tạo vòng kết nối được, hãy thử lại sau.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Tạo</string>
+    <string name="plus_circle_creation_title_default">Tạo vòng kết nối</string>
+    <string name="plus_circle_creation_title_with_user_name">Thêm %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Nút đóng hộp thoại</string>
+    <string name="plus_close_button_label">Đóng</string>
+    <string name="plus_create_button_description">Nút thêm vào vòng kết nối mới</string>
+    <string name="plus_cross_client_auth_toast_text">Chào mừng bạn quay trở lại %1$s. Bạn đã đăng nhập vào Google với tên %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Hoạt động này hiển thị với:</string>
+    <string name="plus_delete_moment_failed_dialog_message">Sự cố khi xóa các hoạt động, hãy thử lại sau.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Đang xóa...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Đồng thời xóa tất cả hoạt động %s của bạn trên Google</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s sẽ không còn quyền truy cập vào tài khoản Google mà bạn đã cấp hoặc gửi hoạt động ứng dụng của bạn tới Google nữa. Thao tác này có thể mất tối đa một giờ để hoàn tất.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Hủy</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Ngắt kết nối</string>
+    <string name="plus_disconnect_source_dialog_title">Ngắt kết nối?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Không thể ngắt kết nối %s.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Bạn có muốn ngắt kết nối ứng dụng này khỏi Google không?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Đang ngắt kết nối %s…</string>
+    <string name="plus_domain_default">miền của bạn</string>
+    <string name="plus_domain_restricted_choice_body">Ngăn bài đăng bị chia sẻ ra bên ngoài %s</string>
+    <string name="plus_domain_restricted_choice_title">Giới hạn trong %s</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">Tên đầy đủ, ảnh hồ sơ, id trên Google+, độ tuổi, ngôn ngữ và danh sách những người trong vòng kết nối được chọn bên dưới. DS này có hồ sơ công khai nhưng không có tên vòng kết nối bạn đã thêm vào.</string>
+    <string name="plus_first_name">Đầu tiên</string>
+    <string name="plus_gender_prompt">Chọn giới tính</string>
+    <string name="plus_install_app_dialog_checkbox_text">Đừng hỏi lại.</string>
+    <string name="plus_install_app_dialog_message">Cài đặt ứng dụng Google+ để xem bài đăng mà bạn vừa chia sẻ?</string>
+    <string name="plus_install_app_dialog_negative_button">Không phải bây giờ</string>
+    <string name="plus_install_app_dialog_positive_button">Cài đặt</string>
+    <string name="plus_install_app_dialog_title">Cài đặt Google+</string>
+    <string name="plus_internal_error">Đã xảy ra lỗi nội bộ.</string>
+    <string name="plus_invalid_account">Tài khoản không hợp lệ</string>
+    <string name="plus_last_name">Họ</string>
+    <string name="plus_list_apps_aspen_empty_message">"Bạn chưa kết nối với bất kỳ ứng dụng nào sử dụng Đăng nhập bằng Google+.
+
+"<annotation id="learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="plus_list_apps_disabled_error">Không thể tải Ứng dụng đã kết nối tại thời điểm này. <annotation id="learn_more">Tìm hiểu thêm</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Không ứng dụng nào được kết nối với tài khoản Google của bạn</string>
+    <string name="plus_list_apps_error">Không thể tải ứng dụng. Vui lòng thử lại sau.</string>
+    <string name="plus_list_apps_error_aspen">"Không thể tải ứng dụng.
+
+"<annotation id="learn_more">Tìm hiểu thêm</annotation> về ứng dụng với Đăng nhập bằng Google+.</string>
+    <string name="plus_list_apps_error_fitness">"Không thể tải ứng dụng hoặc thiết bị.
+
+"<annotation id="learn_more">Tìm hiểu thêm</annotation> về thiết bị và ứng dụng Thể dục.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Bạn chưa kết nối bất kỳ ứng dụng hoặc thiết bị nào với Google Fit
+
+"<annotation id="learn_more">Tìm hiểu thêm</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Không có tài khoản.</string>
+    <string name="plus_list_moments_disabled_error">Không thể tải Nhật ký hoạt động của bạn tại thời điểm này. <annotation id="learn_more">Tìm hiểu thêm</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Bạn không có hoạt động nào</string>
+    <string name="plus_list_moments_error">Không thể tải các hoạt động. Vui lòng thử lại sau.</string>
+    <string name="plus_list_moments_filter_empty_message">Bạn không có hoạt động nào thuộc loại này</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Không thể xem hoạt động này từ Nhật ký hoạt động của bạn. Hãy truy cập trực tiếp ứng dụng này.</string>
+    <string name="plus_loading">Đang tải…</string>
+    <string name="plus_manage_app_acl_description_label">Các hoạt động mà ứng dụng này chia sẻ với Google</string>
+    <string name="plus_manage_app_acl_error">Không thể cập nhật ứng dụng.</string>
+    <string name="plus_manage_app_all_circles_label">Tất cả vòng kết nối</string>
+    <string name="plus_manage_app_app_icon_desc">Biểu tượng</string>
+    <string name="plus_manage_app_disabled_error">Không thể tải ứng dụng đã kết nối của bạn tại thời điểm này. <annotation id="learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Ngắt kết nối</string>
+    <string name="plus_manage_app_domain_label">Miền</string>
+    <string name="plus_manage_app_extended_circles_label">Vòng kết nối mở rộng</string>
+    <string name="plus_manage_app_facl_label">Ứng dụng này có thể nhìn thấy những người này</string>
+    <string name="plus_manage_app_label">Ứng dụng đã kết nối</string>
+    <string name="plus_manage_app_limited_label">Được chia sẻ riêng tư</string>
+    <string name="plus_manage_app_no_acl_description">Bạn sử dụng ứng dụng này</string>
+    <string name="plus_manage_app_no_circles_label">Không có</string>
+    <string name="plus_manage_app_only_you_label">Chỉ bạn</string>
+    <string name="plus_manage_app_pacl_label">Những người có thể thấy các hoạt động ứng dụng trên Google</string>
+    <string name="plus_manage_app_pacl_sub_label">Các lựa chọn bạn thực hiện ở đây không thay đổi chế độ hiển thị của bất kỳ hoạt động hiện có nào trong Nhật ký hoạt động của bạn nhưng áp dụng cho hoạt động trò chơi.</string>
+    <string name="plus_manage_app_public_label">Công khai</string>
+    <string name="plus_manage_app_scopes_label">Ứng dụng này có thể truy cập:</string>
+    <string name="plus_manage_app_updating_acl">Đang cập nhật…</string>
+    <string name="plus_manage_aspen_app_label">Ứng dụng với Đăng nhập bằng Google+</string>
+    <string name="plus_manage_device_disconnect_label">Ngắt kết nối</string>
+    <string name="plus_manage_device_label">Thiết bị được kết nối</string>
+    <string name="plus_manage_moment_acl">"Hiển thị với:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Không thể tải một số chi tiết, vui lòng thử lại sau</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Xóa</string>
+    <string name="plus_manage_moment_delete_label">XÓA</string>
+    <string name="plus_manage_moment_image_desc">Xem hoạt động</string>
+    <string name="plus_manage_moment_label">Hoạt động</string>
+    <string name="plus_manage_moment_no_in_app_delete">Không thể quản lý hoạt động này. <annotation id="learn_more">Tìm hiểu thêm</annotation></string>
+    <string name="plus_ok_button_description">Nút OK</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Giới thiệu mục này trên Google</string>
+    <string name="plus_one_annotation_none_short">Đề xuất mục này</string>
+    <string name="plus_one_app">Từ &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">10K+</string>
+    <string name="plus_one_description">Chạm để thêm cộng một của bạn vào %1$s hiện có</string>
+    <string name="plus_one_description_remove">Chạm để xóa cộng một của bạn khỏi %1$s hiện có</string>
+    <string name="plus_one_description_standard">Chạm để cộng một.</string>
+    <string name="plus_one_error">Đã xảy ra sự cố tạm thời với +1 của bạn. Vui lòng thử lại.</string>
+    <string name="plus_one_public">Công khai</string>
+    <string name="plus_one_self">+1 bởi %1$s</string>
+    <string name="plus_one_self_removed">+1 của bạn đã bị xóa.</string>
+    <string name="plus_one_share">Chia sẻ</string>
+    <string name="plus_one_social_annotation_prefix">bao gồm %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">bao gồm %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s đã +1 mục này</string>
+    <string name="plus_one_social_annotation_user">Bạn</string>
+    <string name="plus_one_title">Bạn đã công khai +1 url này với tên</string>
+    <string name="plus_one_undo">Hoàn tác</string>
+    <string name="plus_oob_3p_promo">Khai thác thêm các tính năng của %1$s với hồ sơ công khai trên Google+.</string>
+    <string name="plus_oob_cancel_button_label">Hủy</string>
+    <string name="plus_oob_default_promo">Khai thác thêm các tính năng của Google với hồ sơ công khai trên Google+.</string>
+    <string name="plus_oob_done_button_label">Xong</string>
+    <string name="plus_oob_edit_name_warning">Thay đổi tên hồ sơ trên Google+ của bạn sẽ thay đổi tên hồ sơ trên tất cả các sản phẩm của Google.</string>
+    <string name="plus_oob_failure_text">Rất tiếc, Google+ không thể thiết lập hồ sơ của bạn. Thử lại sau.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Tên</string>
+    <string name="plus_oob_first_name_content_description">Tên</string>
+    <string name="plus_oob_gender_content_description">Giới tính</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Không phải bây giờ</string>
+    <string name="plus_oob_interstitial_loading">Đang liên hệ với Google+…</string>
+    <string name="plus_oob_interstitial_loading_body">Quá trình này có thể mất vài phút.</string>
+    <string name="plus_oob_interstitial_sending">Đang gửi…</string>
+    <string name="plus_oob_interstitial_sending_body">Quá trình này có thể mất vài phút.</string>
+    <string name="plus_oob_join">Tạo</string>
+    <string name="plus_oob_last_name_content_description">Họ</string>
+    <string name="plus_oob_loading">Đang tải…</string>
+    <string name="plus_oob_next">Tiếp theo</string>
+    <string name="plus_oob_next_content_description">Nút Tiếp theo</string>
+    <string name="plus_oob_no_connection_message">Không thể kết nối với máy chủ.</string>
+    <string name="plus_oob_no_connection_title">Không có kết nối nào</string>
+    <string name="plus_oob_pronoun_content_description">Vui lòng xem tôi là</string>
+    <string name="plus_oob_sending">Đang gửi…</string>
+    <string name="plus_oob_title_tos">Hồ sơ trên Google+</string>
+    <string name="plus_oob_tos_accept">Chấp nhận</string>
+    <string name="plus_photo_preview_image_description">Hình ảnh xem trước của ảnh</string>
+    <string name="plus_plus_icon_image_description">Hình ảnh biểu tượng Google cộng</string>
+    <string name="plus_posted_just_now">Ngay bây giờ</string>
+    <string name="plus_pronoun_prompt">Chọn</string>
+    <string name="plus_remove_from_circle_progress">Đang xóa…</string>
+    <string name="plus_replybox_button_description">Trả lời</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Hủy câu trả lời này?</string>
+    <string name="plus_replybox_hint_text">Thêm trả lời</string>
+    <string name="plus_replybox_internal_error">Không thể trả lời.</string>
+    <string name="plus_replybox_no_network_connection">Không thể tạo trả lời. Vui lòng thử lại.</string>
+    <string name="plus_replybox_post_error_message">Không thể đăng trả lời.</string>
+    <string name="plus_replybox_post_success">Trả lời của bạn đã được đăng.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Vòng kết nối mở rộng của bạn</string>
+    <string name="plus_scope_fragment_mixed_label">Vòng kết nối được chọn</string>
+    <string name="plus_scope_fragment_only_you_label">Chỉ bạn</string>
+    <string name="plus_scope_fragment_public_label">Bất kỳ ai trên web</string>
+    <string name="plus_scope_fragment_your_circles_label">Vòng kết nối</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Trình hướng dẫn thiết lập</string>
+    <string name="plus_share_button_description">Nút chia sẻ</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Xong</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Chọn người nhận</string>
+    <string name="plus_sharebox_audience_to_text">Tới:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Đối tượng</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Vòng kết nối mới</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Không thể thêm người vào vòng kết nối</string>
+    <string name="plus_sharebox_circles_button">Xong</string>
+    <string name="plus_sharebox_circles_checkbox_label">Thêm %1$s vào vòng kết nối:</string>
+    <string name="plus_sharebox_circles_create_failed">Không thể tạo vòng kết nối</string>
+    <string name="plus_sharebox_circles_create_option">Tạo vòng kết nối mới</string>
+    <string name="plus_sharebox_circles_following_circle">Đang theo dõi</string>
+    <string name="plus_sharebox_circles_friends_circle">Bạn bè</string>
+    <string name="plus_sharebox_circles_name_length_warning">Tên vòng kết nối này quá dài.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Tên vòng kết nối này đã được sử dụng.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Thêm vào vòng kết nối</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Hủy bài đăng này?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Không thể chia sẻ.</string>
+    <string name="plus_sharebox_load_error">Đã xảy ra sự cố tạm thời khi tải hộp thoại chia sẻ. Vui lòng thử lại.</string>
+    <string name="plus_sharebox_next">TIẾP THEO</string>
+    <string name="plus_sharebox_no_network_connection">Không thể tạo bài đăng. Vui lòng thử lại.</string>
+    <string name="plus_sharebox_post_body_hint">Chia sẻ suy nghĩ…</string>
+    <string name="plus_sharebox_post_body_icon">Hình ảnh hồ sơ</string>
+    <string name="plus_sharebox_post_error_message">Không thể tạo bài đăng. Vui lòng thử lại.</string>
+    <string name="plus_sharebox_post_error_title">Lưu ý</string>
+    <string name="plus_sharebox_post_pending">Đang gửi…</string>
+    <string name="plus_sharebox_post_success">Bài đăng của bạn đã được chia sẻ.</string>
+    <string name="plus_sharebox_preview_loading">Đang tải…</string>
+    <string name="plus_sharebox_search_hint">Nhập tên, email hoặc vòng kết nối</string>
+    <string name="plus_sharebox_share">CHIA SẺ</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Đồng thời chia sẻ trên Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Chia sẻ qua Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Khi bạn chia sẻ công khai, những người mà bạn chưa thêm vào vòng kết nối sẽ có thể xem bài đăng của bạn và có thể nhận xét.</string>
+    <string name="plus_sharebox_under_age_warning_title">Chia sẻ công khai</string>
+    <string name="plus_undo_button_description">Nút hoàn tác</string>
+    <string name="plus_unified_setup_activity_title">Tạo hồ sơ</string>
+    <string name="plus_unknown_app_name">Ứng dụng</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Không thể cập nhật vòng kết nối, hãy thử lại sau.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Bạn không thể thêm người dùng này vào vòng kết nối.</string>
+    <string name="plus_update_circles_not_allowed_message">Bạn không thể thêm %1$s vào vòng kết nối.</string>
+    <string name="plus_update_circles_progress">Đang cập nhật vòng kết nối...</string>
+    <string name="plus_video_preview_image_description">Hình ảnh xem trước của video</string>
+    <string name="recovery_done_button_label">Xong</string>
+    <string name="recovery_input_screen_message">Cho Google biết cách liên hệ với bạn trong trường hợp bạn quên mật khẩu cho %s.</string>
+    <string name="recovery_message_set">"Mật khẩu dễ bị quên.
+
+Hãy cung cấp số điện thoại hoặc địa chỉ email dự phòng của bạn ngay bây giờ. Việc này giúp bạn khôi phục quyền truy cập nội dung của mình trên Google và Google Play. "<annotation id="help_url">Tìm hiểu thêm</annotation></string>
+    <string name="recovery_message_verify">"Mật khẩu dễ bị quên.
+
+Hãy xác nhận số điện thoại hoặc địa chỉ email dự phòng của bạn ngay bây giờ. Việc này giúp bạn khôi phục quyền truy cập nội dung của mình trên Google và Google Play. "<annotation id="help_url">Tìm hiểu thêm</annotation></string>
+    <string name="recovery_notification_ticker">Tài khoản cần chú ý</string>
+    <string name="recovery_notification_title">Lời nhắc khôi phục mật khẩu</string>
+    <string name="recovery_server_error">Lỗi khi kết nối với máy chủ. Vui lòng thử lại sau giây lát.</string>
+    <string name="recovery_title">Khôi phục mật khẩu trên Google</string>
+    <string name="recovery_yes_button_label">Thiết lập tùy chọn khôi phục</string>
+    <string name="recovery_yes_button_label_verify">Xác nhận tùy chọn khôi phục</string>
+    <string name="retry_call_to_action">Thử lại</string>
+    <string name="secondary_email_hint">Email dự phòng</string>
+    <string name="secondary_email_invalid">Địa chỉ email không hợp lệ</string>
+    <string name="secondary_email_same_as_primary">Không được giống với email chính</string>
+    <string name="selected_location_unknown">Không xác định</string>
+    <string name="sharedUserLabel">Dịch vụ của Google</string>
+    <string name="sid_lsid_grant_detail">Giống như một mật khẩu, các cookie Xác định phiên (SID) và Xác định phiên cục bộ (LSID) liên kết danh tính của bạn với một loạt các yêu cầu từ trình duyệt. Chúng cho phép truy cập đầy đủ vào tất cả các dữ liệu tài khoản của bạn. Chỉ trình duyệt mới có quyền sử dụng hợp pháp các cookie này.</string>
+    <string name="sid_lsid_grant_label">Sử dụng các cookie SID và LSID để giành quyền truy cập vào tất cả các dữ liệu tài khoản Google của bạn.</string>
+    <string name="storage_management_drive_clear_failure">Đã có lỗi khi xóa dữ liệu Drive. Vui lòng thử lại sau.</string>
+    <string name="storage_management_drive_clear_label">Xóa</string>
+    <string name="storage_management_drive_clear_success">Dữ liệu Drive đã bị xóa.</string>
+    <string name="storage_management_drive_clearing">Đang xóa...</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Tất cả dữ liệu Drive cục bộ cho các ứng dụng hỗ trợ Drive sẽ bị xóa vĩnh viễn. Dữ liệu này có thể bao gồm các thay đổi đang chờ xử lý và chưa được tải lên máy chủ Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Xóa tất cả dữ liệu?</string>
+    <string name="storage_management_drive_descriptive_text">Các ứng dụng hỗ trợ Drive lưu trữ các tệp trên thiết bị của bạn để cải thiện hiệu suất và cho phép truy cập ngoại tuyến.</string>
+    <string name="storage_management_drive_get_storage_failure">Đã có lỗi khi tính mức sử dụng bộ nhớ Drive. Vui lòng thử lại sau.</string>
+    <string name="storage_management_drive_size_label">Bộ nhớ Drive cục bộ</string>
+    <string name="storage_management_wear_descriptive_text">Các ứng dụng sử dụng bộ nhớ của thiết bị để sao chép dữ liệu vào bộ nhớ đeo trên người.</string>
+    <string name="storage_management_wear_manage_size_label">Quản lý bộ nhớ đeo trên người</string>
+    <string name="storage_management_wear_size_label">Bộ nhớ đeo trên người</string>
+    <string name="storage_managment_all_storage_descriptive_text">Tổng số dữ liệu được các dịch vụ Google Play sử dụng, bao gồm cả công cụ tìm kiếm và các dữ liệu khác.</string>
+    <string name="storage_managment_clear_all_data">Xóa tất cả dữ liệu</string>
+    <string name="storage_managment_computing_size">Đang tính toán…</string>
+    <string name="storage_managment_icing_size_label">Bộ nhớ của công cụ tìm kiếm</string>
+    <string name="storage_managment_manage_icing_button">Quản lý bộ nhớ tìm kiếm</string>
+    <string name="storage_managment_search_index_descriptive_text">Chúng tôi tăng tốc tìm kiếm trên điện thoại của bạn bằng cách cung cấp công cụ tìm kiếm để Ứng dụng của bạn sử dụng.</string>
+    <string name="storage_managment_title">Bộ nhớ cho các dịch vụ của Google Play</string>
+    <string name="storage_managment_total_size_label">Tổng bộ nhớ</string>
+    <string name="system_update_activity_battery_low_charging_text">Pin quá yếu để có thể cài đặt bản cập nhật hệ thống. Hãy đợi pin sạc đầy.</string>
+    <string name="system_update_activity_battery_low_text">Pin quá yếu để có thể cài đặt bản cập nhật hệ thống. Hãy kết nối bộ sạc để tiếp tục.</string>
+    <string name="system_update_activity_name">Bản cập nhật hệ thống</string>
+    <string name="system_update_activity_roaming_text">Không thể tải xuống bản cập nhật hệ thống trong khi chuyển vùng.</string>
+    <string name="system_update_activity_title">Bản cập nhật hệ thống</string>
+    <string name="system_update_check_now_button_text">Kiểm tra ngay</string>
+    <string name="system_update_complete_label">Bản cập nhật hệ thống</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Kết nối với Wi-Fi</string>
+    <string name="system_update_connection_lost_text">Mất kết nối mạng.</string>
+    <string name="system_update_countdown_cancel_button">Hủy cài đặt</string>
+    <string name="system_update_countdown_complete">Khởi động lại ngay bây giờ…</string>
+    <string name="system_update_download_button_text">Tải xuống</string>
+    <string name="system_update_download_failed_no_space_status_text">Không đủ bộ nhớ để tải xuống</string>
+    <string name="system_update_download_failed_status_text">Không thể tải xuống</string>
+    <string name="system_update_download_retry_button_text">Thử lại tải xuống</string>
+    <string name="system_update_download_waiting_status_text">Đang đợi tải xuống</string>
+    <string name="system_update_downloading_required_update_text">"Quá trình này có thể mất tối đa ^1 phút.
+
+Sau đó, thiết bị sẽ tự động khởi động lại."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Quá trình này có thể mất tối đa ^1 phút.
+
+Sau đó, máy tính bảng sẽ tự động khởi động lại."</string>
+    <string name="system_update_downloading_required_update_title">Đang tải xuống bản cập nhật…</string>
+    <string name="system_update_downloading_status_text">Đang tải xuống</string>
+    <string name="system_update_downloading_wifi_status2_text">Chỉ qua Wi-Fi cho tới ^1</string>
+    <string name="system_update_install_button_text">Khởi động lại và cài đặt</string>
+    <string name="system_update_installing_update_text">"Quá trình này có thể mất tối đa 5 phút.
+
+Sau đó, bạn sẽ có thể hoàn tất quá trình thiết lập điện thoại của mình."</string>
+    <string name="system_update_installing_update_title">Đang cài đặt bản cập nhật…</string>
+    <string name="system_update_last_checkin">Kiểm tra cập nhật lần cuối ^1.</string>
+    <string name="system_update_no_update_content_text">Hệ thống của bạn đã được cập nhật.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Tải xuống không thành công. Hãy thử lại.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Không thể tải xuống bản cập nhật hệ thống</string>
+    <string name="system_update_not_owner_text">Hiện đã có bản cập nhật phần mềm hệ thống nhưng chỉ chủ sở hữu mới có thể cài đặt bản cập nhật này.</string>
+    <string name="system_update_notification_action_download">Tải xuống</string>
+    <string name="system_update_notification_action_install">Cài đặt</string>
+    <string name="system_update_notification_action_snooze">Sau</string>
+    <string name="system_update_required_update_restart_text">Thiết bị sẽ khởi động lại để có thể cài đặt bản cập nhật hệ thống của bạn.</string>
+    <string name="system_update_required_update_restart_text_tablet">Máy tính bảng sẽ khởi động lại để có thể cài đặt bản cập nhật hệ thống của bạn.</string>
+    <string name="system_update_required_update_restart_title">Chuẩn bị khởi động lại</string>
+    <string name="system_update_requires_restart_status_text">Yêu cầu khởi động lại</string>
+    <string name="system_update_restart_button_text">Khởi động lại (^1)</string>
+    <string name="system_update_update_available_notification_title">Hiện đã có bản cập nhật hệ thống</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Không đủ bộ nhớ để tải xuống bản cập nhật hệ thống.</string>
+    <string name="system_update_update_downloaded_notification_title">Đã tải xuống bản cập nhật hệ thống</string>
+    <string name="system_update_verification_failed_text">Xác minh không thành công</string>
+    <string name="system_update_verified_status_text">Đã tải xuống và xác minh</string>
+    <string name="system_update_verifying_status_text">Đang xác minh</string>
+    <string name="temporary_sharing_description">Những người mà bạn đang chia sẻ vị trí chính xác của mình trên các sản phẩm của Google trong khoảng thời gian giới hạn.</string>
+    <string name="temporary_sharing_title">Chia sẻ tạm thời</string>
+    <string name="turn_on_location_reporting_auto_button">Bật</string>
+    <string name="usage_and_diagnostics_consent_message">Giúp cải thiện trải nghiệm Android của bạn bằng cách tự động gửi dữ liệu chẩn đoán và sử dụng tới Google. Thông tin này không được sử dụng để nhận dạng bạn và sẽ giúp các nhóm nghiên cứu về tuổi thọ pin, hiệu suất ứng dụng và các tính năng mới của Google.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Tìm hiểu thêm&lt;/font></string>
+    <string name="usage_reporting_off">Tắt</string>
+    <string name="usage_reporting_on">Bật</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Đã kết nối</string>
+    <string name="wearable_status_connecting">Đang kết nối…</string>
+    <string name="wearable_status_disconnected">Ngắt kết nối</string>
+    <string name="wearable_status_starting">Đang khởi động…</string>
+    <string name="wearable_status_wire_protocol_mismatch">Thiết bị có thể đeo không tương thích, vui lòng áp dụng bản cập nhật bất kỳ.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Xóa ngay bây giờ</string>
+    <string name="wearable_storage_managment_title">Bộ nhớ của thiết bị có thể đeo</string>
+    <string name="wearable_storage_managment_total_size_label">Bộ nhớ của thiết bị có thể đeo</string>
+    <string name="wearable_storage_managment_usage_label">Mức sử dụng dung lượng của ứng dụng</string>
+</resources>

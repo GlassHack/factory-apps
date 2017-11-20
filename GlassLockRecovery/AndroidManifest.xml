@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.glass.lockrecovery">
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="com.google.glass.entity.permission.ENTITY_PROVIDER"/>
+    <uses-permission android:name="com.google.glass.logging.permission.USER_EVENT_SERVICE"/>
+    <uses-permission android:name="com.google.glass.sync.permission.TIMELINE_PROVIDER"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="com.google.android.glass.permission.MANAGE_LOCKSCREEN"/>
+    <permission android:description="@string/store_recovery_code_perm_desc" android:name="com.google.glass.lockrecovery.permission.STORE_RECOVERY_CODE" android:protectionLevel="signatureOrSystem"/>
+    <application android:label="@string/app_name" android:name="com.google.glass.lockrecovery.LockRecoveryApplication" android:theme="@style/GlassTheme">
+        <uses-library android:name="com.google.android.glass" android:required="true"/>
+        <activity android:exported="false" android:name="com.google.glass.lockrecovery.RecoveryScanActivity" android:theme="@style/GlassTheme"/>
+        <activity android:name="com.google.glass.lockrecovery.FetchCodeActivity" android:theme="@style/ContextualDialogTheme">
+            <intent-filter>
+                <action android:name="com.google.glass.action.FETCH_RECOVERY_CODE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:name="com.google.glass.lockrecovery.TutorialActivity" android:theme="@style/GlassTheme"/>
+        <receiver android:name="com.google.glass.lockrecovery.RecoveryCodeReceiver" android:permission="com.google.glass.lockrecovery.permission.STORE_RECOVERY_CODE">
+            <intent-filter>
+                <action android:name="com.google.glass.action.STORE_RECOVERY_CODE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.lockrecovery.RecoveryCodeReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.EMERGENCY_UNLOCK"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    </application>
+</manifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.common.ui.widget.SwitchBar android:theme="@style/common.Widget.SwitchBar" android:enabled="true" android:gravity="center_vertical" android:background="@drawable/common_switch_bar_background" android:layout_width="fill_parent" android:layout_height="?android:actionBarSize"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="@android:style/Widget.GenericQuickContactBadge" android:textColor="?android:textColorPrimary" android:id="@id/switch_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/common_switch_bar_margin_start" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/switch_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/common_switch_bar_margin_end" />
+</com.google.android.gms.common.ui.widget.SwitchBar>

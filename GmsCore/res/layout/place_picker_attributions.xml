@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:indeterminate="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/attributions_padding" android:background="@color/google_gray" android:layout_width="fill_parent" android:layout_height="8.0dip" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="@color/text_dark_gray" android:gravity="center" android:linksClickable="true" android:id="@id/attributions_text" android:background="@color/google_gray" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

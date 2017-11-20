@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navegar para a página inicial</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navegar para cima</string>
+    <string name="abc_action_menu_overflow_description">Mais opções</string>
+    <string name="abc_action_mode_done">Concluído</string>
+    <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
+    <string name="abc_activitychooserview_choose_application">Selecione um aplicativo</string>
+    <string name="abc_searchview_description_clear">Limpar consulta</string>
+    <string name="abc_searchview_description_query">Consulta de pesquisa</string>
+    <string name="abc_searchview_description_search">Pesquisar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Pesquisa por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
+    <string name="account_level_title">Ação necessária na conta</string>
+    <string name="activity_recognition_permission_description">Permite que o aplicativo receba atualizações periódicas do Google sobre seu nível de atividade, por exemplo, se está caminhando, dirigindo, andando de bicicleta ou parado.</string>
+    <string name="activity_recognition_permission_label">reconhecimento de atividade</string>
+    <string name="add_a_place_add">Adicionar</string>
+    <string name="add_a_place_call_to_action">Adicionar um lugar</string>
+    <string name="add_a_place_call_to_drag">Arraste o mapa para posicionar o marcador</string>
+    <string name="add_a_place_cancel">Cancelar</string>
+    <string name="add_a_place_next">Próximo</string>
+    <string name="agree">Concordo</string>
+    <string name="app_label">Local da rede</string>
+    <string name="app_level_title">Solicitação de login</string>
+    <string name="app_level_title_secondary">Solicitação de login de %s</string>
+    <string name="auth_accept_access">Aceitar</string>
+    <string name="auth_account_already_has_gmail">A conta já tem um e-mail do Gmail.</string>
+    <string name="auth_account_setup_title">Conta do Google</string>
+    <string name="auth_ads_settings_title">Anúncios</string>
+    <string name="auth_allow_external_site_access">Obter acesso contínuo aos seus dados em %s</string>
+    <string name="auth_app_label">Gerente de Contas do Google</string>
+    <string name="auth_app_permission_footnote">O %s e o Google utilizarão essas informações em conformidade com seus respectivos Termos de Serviço e Políticas de Privacidade.</string>
+    <string name="auth_app_permission_label">ESTE APLICATIVO DESEJA</string>
+    <string name="auth_app_permission_ok_footnote">Ao continuar, você permite que este aplicativo e o Google utilizem suas informações de acordo com os respectivos termos de serviço e políticas de privacidade.</string>
+    <string name="auth_app_permission_sign_in_footnote">Ao tocar em \"Fazer login\", você permite que este aplicativo e o Google utilizem suas informações de acordo com os respectivos termos de serviço e políticas de privacidade.</string>
+    <string name="auth_app_permission_title">Fazer login no %s com o Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Permitir login</string>
+    <string name="auth_authzen_action_approved_toast_text">Ação aprovada</string>
+    <string name="auth_authzen_action_canceled_toast_text">Ação cancelada</string>
+    <string name="auth_authzen_allow_reset_button_text">Permit. redef. senha</string>
+    <string name="auth_authzen_cancel_button_label">Cancelar</string>
+    <string name="auth_authzen_close_button_text">Fechar</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Permitir</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Cancelar</string>
+    <string name="auth_authzen_default_confirmation_description">Permitir login em sua conta a partir de %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Precisamos de sua confirmação</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Número incorreto selecionado. A solicitação foi cancelada.</string>
+    <string name="auth_authzen_default_request_description">detalhes da solicitação desconhecidos</string>
+    <string name="auth_authzen_generic_error_text">Ocorreu um erro. Tente novamente.</string>
+    <string name="auth_authzen_google_logo_label">Logotipo do Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Login aprovado</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Login cancelado</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Permitir login</string>
+    <string name="auth_authzen_login_challenge_desc_text">Você está tentando fazer login a partir de %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">O Google interrompeu a tentativa de login.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Número incorreto</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Toque no número exibido na outra tela. Isto fará login em seu computador.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Alguém tentou fazer login em sua Conta do Google usando sua senha. O Google interrompeu a tentativa de login.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Login impedido</string>
+    <string name="auth_authzen_login_challenge_title_text">Tentando fazer login?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Para aprovar o login em seu computador, é necessário verificar sua identidade.</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">solicitação de login de um computador em %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Não solicitei isso</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Agradecemos a informação, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Registramos a atividade para continuarmos a manter sua conta segura.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Fazer login</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Cancelar</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Inser. PIN da Conta do Google</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">Ok, continuar</string>
+    <string name="auth_authzen_no_button_text">Não</string>
+    <string name="auth_authzen_notify_google_default_text">O Google será notificado de que alguém tentou acessar sua conta.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">O Google recebeu uma solicitação para alteração de sua senha. Como a solicitação não foi feita por você, foi cancelada. Nenhuma alteração foi aplicada à conta.</string>
+    <string name="auth_authzen_ok_button_text">Ok</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Toque no número exibido na outra tela. Isto fará login em seu computador.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Permitir login</string>
+    <string name="auth_authzen_profile_picture_label">Imagem do perfil</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Você tentou fazer login no Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Redefinição de senha aprovada</string>
+    <string name="auth_authzen_recovery_canceled_text">Redefinição de senha cancelada</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Permitir a redefinição de senha a partir de %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Precisamos de sua confirmação</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">O Google interrompeu a tentativa de redefinição de senha.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Número incorreto</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Toque no número exibido na outra tela. Isso redefinirá sua senha.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Permitir redefinição de senha</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Alguém solicitou para redefinir sua senha da Conta do Google. O Google interrompeu a tentativa de redefinição de senha.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Redefinição de senha impedida</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Você solicitou a redefinição de sua senha a partir de %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Tentou redefinir sua senha?</string>
+    <string name="auth_authzen_secure_account_button_text">Proteger conta</string>
+    <string name="auth_authzen_sending_reply_failed_text">Não foi possível enviar a resposta ao servidor.</string>
+    <string name="auth_authzen_sending_reply_text">Enviando resposta ao servidor</string>
+    <string name="auth_authzen_time_display_text">há menos de %s minuto</string>
+    <string name="auth_authzen_time_just_now_text">Agora</string>
+    <string name="auth_authzen_wait_text">Aguarde…</string>
+    <string name="auth_authzen_workflow_title">Prompt de autorização do Google</string>
+    <string name="auth_authzen_yes_button_text">Sim</string>
+    <string name="auth_back_button_label">Voltar</string>
+    <string name="auth_bad_name_title">Deseja utilizar esse nome?</string>
+    <string name="auth_bluetooth_lure_button">Adicionar como disp. confiável</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Confirmar tela de bloqueio</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Novo dispositivo Bluetooth pareado.
+Adicionar%s como um dispositivo confiável para ignorar o bloqueio de tela quando conectado."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Novo dispositivo Bluetooth pareado.</string>
+    <string name="auth_bluetooth_lure_title">Desbloqueio pessoal</string>
+    <string name="auth_cancel_button_label">Cancelar</string>
+    <string name="auth_captcha_instructions">Digite aqui o texto que você vê:</string>
+    <string name="auth_captcha_title">É necessário inserir CAPTCHA</string>
+    <string name="auth_communicating_message">O dispositivo está em contato com o Google para salvar informações na conta. Essa ação pode levar até cinco minutos.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Estado das credenciais</string>
+    <string name="auth_d2d_source_bt_notice">O Bluetooth será usado.</string>
+    <string name="auth_d2d_source_lock_notice">O dispositivo será bloqueado automaticamente e precisará ser desbloqueado novamente para continuar.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Não foi possível usar \"Conectar e restaurar\" porque não há contas neste dispositivo.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Não foi possível usar \"Conectar e restaurar\" porque o Bluetooth não está disponível em seu dispositivo.</string>
+    <string name="auth_d2d_source_notification_text">"Um novo ^1 foi configurado em ^2 usando este dispositivo, incluindo uma tentativa de transferir as seguintes Contas do Google: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Conf. de novo disp. concluída</string>
+    <string name="auth_d2d_source_progress_message">Copiando dados para o novo dispositivo...</string>
+    <string name="auth_d2d_source_question">Copiar contas e dados deste dispositivo?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Não é possível usar \"Conectar e restaurar\" a partir de um perfil de usuário restrito.</string>
+    <string name="auth_d2d_source_title">Restaurar contas</string>
+    <string name="auth_d2d_source_unknown_device_name">Dispositivo desconhecido</string>
+    <string name="auth_d2d_target_adding_accounts_message">Adicionando contas...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Conectando ao outro dispositivo...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Conexão perdida</string>
+    <string name="auth_d2d_target_description">"Copie rapidamente qualquer Conta do Google, apps salvos em backup e dados de seu dispositivo Android existente. Para copiar: 
+
+1. Certifique-se de que o outro dispositivo esteja ligado e desbloqueado. 
+
+2. Coloque os dois dispositivos de costas um para o outro por alguns segundo e, em seguida, separe-os."</string>
+    <string name="auth_d2d_target_more_info">Esse recurso usa NFC para transferir dados da conta. Se o dispositivo suportar NFC, verifique se essa opção está ativada em Configurações > Redes sem fio e outras > Mais.</string>
+    <string name="auth_d2d_target_more_info_close">Entendi</string>
+    <string name="auth_d2d_target_more_info_link">Saiba mais</string>
+    <string name="auth_d2d_target_skip_button">Ignorar</string>
+    <string name="auth_d2d_target_sorry_alert">Algo deu errado</string>
+    <string name="auth_d2d_target_tap_progress_message">Para continuar, toque em \"OK\" no outro dispositivo</string>
+    <string name="auth_d2d_target_title">Toque e vá</string>
+    <string name="auth_d2d_target_try_again_button">Tentar novamente</string>
+    <string name="auth_d2d_target_unlock_progress_message">Desbloqueie o outro dispositivo</string>
+    <string name="auth_d2d_target_wait_progress_message">Copiando contas e dados...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Seu domínio requer o gerenciamento de dispositivos móveis. Instale o aplicativo Google Apps Device Policy para aplicar as políticas de segurança exigidas pela conta "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> não usa o Gmail.</string>
+    <string name="auth_error_account_disabled">"Esta conta foi desativada. 
+
+Para obter mais detalhes, acesse http://google.com/accounts em um navegador da Web."</string>
+    <string name="auth_error_account_not_verified">"Esta conta não foi confirmada. Verifique seu e-mail e acesse o link fornecido para confirmá-la. 
+
+Para recuperar as informações de sua conta, acesse http://www.google.com/accounts/recovery no computador."</string>
+    <string name="auth_error_bad_password">A senha é muito fraca ou contém caracteres inválidos. Tente novamente.</string>
+    <string name="auth_error_bad_username">Nome de usuário inválido.</string>
+    <string name="auth_error_invalid_second_factor">Use uma senha específica do aplicativo em vez de usar a senha normal de sua conta.</string>
+    <string name="auth_error_login_failed">"Seu nome de usuário e sua senha são inválidos. Tente novamente.
+
+Para recuperar as informações de sua conta, acesse google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Para acessar sua conta, você deve fazer login na Web. Toque em \"Próximo\" para iniciar o login no navegador.</string>
+    <string name="auth_error_not_logged_in">O usuário não está conectado.</string>
+    <string name="auth_error_username_unavailable">O nome de usuário não está disponível.</string>
+    <string name="auth_existing_account_error_text">Já existe uma conta ^1 neste dispositivo Android.</string>
+    <string name="auth_existing_account_error_title">A conta já existe</string>
+    <string name="auth_exit_menu_item">Cancelar login no navegador</string>
+    <string name="auth_facl_scope_details_dialog_title">O que este aplicativo pode ver</string>
+    <string name="auth_facl_with_warning_label">Alterar quem este aplicativo pode ver</string>
+    <string name="auth_field_cant_be_blank">O campo não pode ficar em branco.</string>
+    <string name="auth_fitness_settings_title">Condicionamento físico</string>
+    <string name="auth_gls_account_creation_tos">Ao continuar, você concorda com os <annotation id="tos">Termos de Serviço</annotation> do Google, a <annotation id="google_privacy">Política de Privacidade</annotation> e os <annotation id="play_tos">Termos de Serviço do Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Ao continuar, você concorda com os <annotation id="tos">Termos de Serviço</annotation> e a <annotation id="google_privacy">Política de Privacidade</annotation> do Google, os <annotation id="chrome_tos">Termos de Serviço</annotation> e o <annotation id="chrome_privacy">Aviso de Privacidade</annotation> do Chrome e os <annotation id="play_tos">Termos de Serviço</annotation> do Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">Nunca mais perca suas coisas. A Conta do Google mantém tudo a salvo.</string>
+    <string name="auth_gls_account_intro_learn_more">Saiba mais</string>
+    <string name="auth_gls_account_intro_recommended_title">Configurar o Google</string>
+    <string name="auth_gls_account_intro_required_title">Powered by Google</string>
+    <string name="auth_gls_account_intro_simple_message">Deseja adicionar uma conta existente ou criar uma nova conta?</string>
+    <string name="auth_gls_account_intro_title">Conta do Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Você tem uma Conta do Google?
+
+Se utiliza o Gmail ou o Google Apps, responda \"Sim\"."</string>
+    <string name="auth_gls_account_pre_intro_no">Não</string>
+    <string name="auth_gls_account_pre_intro_title">Já tem uma Conta do Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Sim</string>
+    <string name="auth_gls_account_recovery_info">Se você perder sua senha, poderá responder a uma pergunta de segurança e receber um link de redefinição por e-mail em um endereço diferente.</string>
+    <string name="auth_gls_account_tos_plus_title">Concluir a inscrição no Google+</string>
+    <string name="auth_gls_account_tos_title">Finalizar conta</string>
+    <string name="auth_gls_add_a_google_account">Adicionar uma Conta do Google</string>
+    <string name="auth_gls_alternatives_list_title">Nomes de usuário sugeridos</string>
+    <string name="auth_gls_answer">" "<b>Resposta</b></string>
+    <string name="auth_gls_backup_consent_message">"Use sua Conta do Google para fazer backup de aplicativos, configurações (como favoritos e senhas de Wi-Fi) e outros dados. Se já tiver feito backup de sua conta, você poderá restaurá-la neste telefone agora.
+
+Você pode alterar as configurações de backup a qualquer momento em \"Configurações\"."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Use sua Conta do Google para fazer backup de aplicativos, configurações (como favoritos e senhas de Wi-Fi) e outros dados.
+
+Você pode alterar as configurações de backup a qualquer momento em \"Configurações\"."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Manter backup deste telefone com minha Conta do Google</string>
+    <string name="auth_gls_cant_be_blank">O campo não pode ficar em branco.</string>
+    <string name="auth_gls_checking_account">Verificando disponibilidade...</string>
+    <string name="auth_gls_checking_username_message">"Seu telefone está em contato com o Google para verificar se o nome de usuário que você deseja está disponível.
+
+Isso pode levar alguns minutos."</string>
+    <string name="auth_gls_choose_a_password">Senha</string>
+    <string name="auth_gls_circles_subtitle">Círculos</string>
+    <string name="auth_gls_circles_text">A maneira mais fácil de compartilhar on-line o que é mais importante.</string>
+    <string name="auth_gls_confirm_password">Digite a senha novamente</string>
+    <string name="auth_gls_create_button_label">Criar uma conta</string>
+    <string name="auth_gls_create_google_account">Escolha um nome de usuário</string>
+    <string name="auth_gls_create_google_account_text">Sua Conta do Google inclui o Gmail, o e-mail do Google. Funciona em qualquer dispositivo, bloqueia o spam e muito mais.</string>
+    <string name="auth_gls_creating_account_title">Salvando conta...</string>
+    <string name="auth_gls_creating_profile">Criar seu perfil?</string>
+    <string name="auth_gls_crop_failure">Não foi possível recortar a foto.</string>
+    <string name="auth_gls_dasher_warning">O administrador de %s possui e gerencia todos os seus dados no Google+. Ele pode excluir ou modificar seu perfil a qualquer momento sem sua permissão.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Seu domínio requer o gerenciamento de dispositivos móveis. Ative o aplicativo \"Política de dispositivos do Google Apps\" para aplicar as políticas de segurança exigidas pela conta de "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Ativar</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Seu domínio requer o gerenciamento de dispositivos móveis. Instale o aplicativo Google Apps Device Policy para aplicar as políticas de segurança exigidas pela conta "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Fazer download</string>
+    <string name="auth_gls_edit_text_help">Toque em qualquer caixa de texto para começar a digitar</string>
+    <string name="auth_gls_eight_chars_min">No mínimo oito caracteres</string>
+    <string name="auth_gls_enable_web_history">Ativar o histórico da Web</string>
+    <string name="auth_gls_error_bad_password">A senha é muito fraca ou contém caracteres inválidos. Tente novamente.</string>
+    <string name="auth_gls_error_login_failed">"Seu nome de usuário e sua senha são inválidos. Tente novamente.
+
+Para recuperar as informações de sua conta, acesse google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Para acessar sua conta, você deve fazer login na Web. Toque em \"Avançar\" para iniciar o login no navegador.</string>
+    <string name="auth_gls_existing_account_error_text">Já existe uma conta ^1 neste dispositivo Android.</string>
+    <string name="auth_gls_existing_account_error_title">A conta já existe</string>
+    <string name="auth_gls_existing_button_label">Existente</string>
+    <string name="auth_gls_google_play_opt_in">Quero ser informado sobre as novidades e ofertas do Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" pode conter somente letras,
+números e pontos."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> não contém letras.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> contém menos de seis ou mais de 30 caracteres.</string>
+    <string name="auth_gls_huddle_text">Mensagem em grupo para todas as pessoas em seus círculos.</string>
+    <string name="auth_gls_invalid_email">"O endereço de e-mail que você digitou não é válido.
+ Exemplo: csambastar@umexemploaqui.com"</string>
+    <string name="auth_gls_invalid_email_primary">O endereço de recuperação não pode ser o mesmo que você está criando.</string>
+    <string name="auth_gls_is_not_available">O nome de usuário <b>^</b> não está disponível.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Saiba mais</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Uma Conta do Google permite que você:
+
+"<li><ul>Veja e organize todas as suas informações em qualquer lugar.</ul></li>"
+
+"<li><ul>Faça backup automático de seus dados, como e-mails, contatos, músicas e fotos.</ul></li>"
+
+"<li><ul>Use os serviços do Google facilmente em qualquer lugar, incluindo os Contatos do Google, o Google Agenda, o Google Maps e muito mais.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Sobre as Contas do Google</string>
+    <string name="auth_gls_learn_more_web_history">"O Histórico da Web ajusta os resultados de pesquisa com base no que você pesquisou e nos sites visitados, oferecendo uma experiência personalizada no Google.
+
+Para visualizar e gerenciar seu Histórico da Web, incluindo a opção de ativá-lo ou desativá-lo, acesse http://www.google.com.br/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Sobre o Histórico da Web</string>
+    <string name="auth_gls_name_checking_info_title">Verif. dados…</string>
+    <string name="auth_gls_name_progress_title">Só um segundo...</string>
+    <string name="auth_gls_name_text">Seu nome é usado para personalizar seu telefone e os serviços do Google.</string>
+    <string name="auth_gls_name_text_local">O telefone utiliza seu nome para personalizar alguns aplicativos.</string>
+    <string name="auth_gls_name_title_local">Este telefone pertence a...</string>
+    <string name="auth_gls_name_title_plus">Seu nome no Google+</string>
+    <string name="auth_gls_network_unreliable">Não é possível estabelecer uma conexão confiável com o servidor.</string>
+    <string name="auth_gls_network_unreliable_help">Pode ser um problema temporário ou talvez seu dispositivo Android não esteja habilitado para serviços de dados. Se o problema continuar, entre em contato com o serviço de atendimento ao cliente.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Este pode ser um problema temporário. Tente novamente ou conecte-se a outra rede Wi-Fi.</string>
+    <string name="auth_gls_new_button_label">Novo</string>
+    <string name="auth_gls_no_network">Você não tem uma conexão de rede.</string>
+    <string name="auth_gls_no_network_help">Este problema pode ser temporário ou talvez seu dispositivo Android não esteja habilitado para serviços de dados. Tente novamente quando estiver conectado a uma rede móvel ou conecte-se a uma rede Wi-Fi.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Este pode ser um problema temporário. Tente novamente ou conecte-se a outra rede Wi-Fi.</string>
+    <string name="auth_gls_not_now_button_label">Agora não</string>
+    <string name="auth_gls_password_mismatch">As senhas não conferem. Tente novamente.</string>
+    <string name="auth_gls_password_title">Criar senha</string>
+    <string name="auth_gls_photo_button_label">Tirar foto</string>
+    <string name="auth_gls_photo_description">Sua foto</string>
+    <string name="auth_gls_photo_failure">Não foi possível iniciar a câmera.</string>
+    <string name="auth_gls_photo_text">Essa foto será utilizada em seu registro de contato. Você poderá alterá-la posteriormente no aplicativo Pessoas.</string>
+    <string name="auth_gls_photo_text_es">Tire uma foto que seus amigos verão no Google+. É possível escolher uma nova imagem posteriormente.</string>
+    <string name="auth_gls_photo_title">Sua foto</string>
+    <string name="auth_gls_plus_accepted_button_label">Participar do Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Agora não</string>
+    <string name="auth_gls_plus_failure_new_account_text">Sua Conta do Google foi criada, mas sua solicitação para se inscrever no Google+ não foi enviada. Tente novamente mais tarde usando qualquer navegador da Web em plus.google.com.</string>
+    <string name="auth_gls_plus_failure_text">Sua solicitação para se inscrever no Google+ não foi enviada. Tente novamente mais tarde usando qualquer navegador da Web em plus.google.com.</string>
+    <string name="auth_gls_plus_failure_title">Participar do Google+ mais tarde</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"No Google+, você terá um perfil público para ajudar seus amigos encontrá-lo on-line. Qualquer pessoa que saiba seu endereço de e-mail pode encontrar e visualizar seu perfil.
+
+Você pode usar os botões +1 em toda a Web para recomendar coisas para o mundo. Seu perfil e suas marcações com +1 serão exibidos publicamente na pesquisa, em anúncios e em toda a Web.
+
+Por enquanto, seu perfil exibirá somente seu nome (%s %s). Você poderá adicionar uma foto, uma biografia e outros detalhes mais tarde, quando começar a usar o Google+."</string>
+    <string name="auth_gls_plus_name_check_text">Isso pode levar alguns minutos.</string>
+    <string name="auth_gls_plus_name_check_title">Entrando em contato com o Google+...</string>
+    <string name="auth_gls_plus_query_text">O Google+ torna o compartilhamento na Web mais parecido com o compartilhamento na vida real.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Não é %s?</string>
+    <string name="auth_gls_provisioned_welcome">Oi, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Digite sua senha para:
+%s"</string>
+    <string name="auth_gls_recovery_title">Informações de recuperação</string>
+    <string name="auth_gls_restore_consent_yes_agree">Restaurar minha Conta do Google neste telefone</string>
+    <string name="auth_gls_restoring_message">Seu telefone está entrando em contato com o Google para restaurar sua conta. Isso pode demorar um pouco.</string>
+    <string name="auth_gls_restoring_title">Restaurando...</string>
+    <string name="auth_gls_retake_photo_button_label">Tirar foto novamente</string>
+    <string name="auth_gls_secondary_email_label">Endereço de e-mail para recuperação</string>
+    <string name="auth_gls_security_questions_title">Perguntas de segurança</string>
+    <string name="auth_gls_server_error">Ocorreu um problema de comunicação com os servidores do Google.</string>
+    <string name="auth_gls_server_error_help">Tente novamente mais tarde.</string>
+    <string name="auth_gls_sign_in_agreement">Ao fazer login, você concorda com os <annotation id="tos">Termos de Serviço</annotation> do Google, a <annotation id="google_privacy">Política de Privacidade</annotation> e os <annotation id="play_tos">Termos de Serviço do Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Ao fazer login, você concorda com os "<annotation id="tos">Termos de Serviço</annotation> e a <annotation id="google_privacy">Política de Privacidade</annotation> do Google e os <annotation id="play_tos">Termos de Serviço do Google Play</annotation>". 
+
+Lembre-se: qualquer outro usuário pode aceitar permissões atualizadas para o aplicativo em seu nome. Como qualquer computador, este tablet deve ser compartilhado somente com pessoas nas quais você confia."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Ao assinar, você concorda com os "<annotation id="tos">Termos de Serviço</annotation> e a <annotation id="google_privacy">Política de Privacidade</annotation> do Google, os <annotation id="chrome_tos"> Termos de Serviço </annotation> e o <annotation id="chrome_privacy"> Aviso de Privacidade</annotation> do Chrome e os <annotation id="play_tos">Termos de Serviço</annotation> do Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Ao fazer login, você concorda com os "<annotation id="tos">Termos de Serviço</annotation> e a <annotation id="google_privacy">Política de Privacidade</annotation> do Google, os <annotation id="chrome_tos">Termos de Serviço</annotation> e o <annotation id="chrome_privacy">Aviso de Privacidade</annotation> do Chrome e os <annotation id="play_tos">Termos de Serviço</annotation>" do Google Play. 
+
+Lembre-se: qualquer outro usuário poderá aceitar permissões atualizadas para o aplicativo em seu nome. Como qualquer computador, este tablet deve ser compartilhado somente com pessoas nas quais você confia."</string>
+    <string name="auth_gls_submission_title">Desculpe.</string>
+    <string name="auth_gls_suggest_username_next_button_label">Alterar nome de usuário</string>
+    <string name="auth_gls_suggestions_hint">Toque para ver sugestões</string>
+    <string name="auth_gls_sync_intro_activity_title">Login bem-sucedido</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Fazer backup e restaurar</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Backup</string>
+    <string name="auth_gls_sync_intro_title">Sincronização da conta</string>
+    <string name="auth_gls_sync_item_title">Sincronizar %s</string>
+    <string name="auth_gls_too_short">Muito curta</string>
+    <string name="auth_gls_ui_activity_authenticating">Autenticando…</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Preparando...</string>
+    <string name="auth_gls_uploads_subtitle">Backup automático</string>
+    <string name="auth_gls_uploads_text">Sincronize facilmente todas as fotos de todos os seus dispositivos.</string>
+    <string name="auth_gls_verify_your_profile">Confirme seu perfil</string>
+    <string name="auth_gls_wait_for_device_country_msg">Obtendo informações sobre seu telefone. Essa ação pode levar até 30 segundos.</string>
+    <string name="auth_gls_wait_for_device_country_title">Configuração da conta</string>
+    <string name="auth_google_settings_header_title">Privacidade</string>
+    <string name="auth_google_title_logo">Logotipo do Google</string>
+    <string name="auth_google_trust_agent_title">Desbloqueio pessoal</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Fazer login com o Google+</string>
+    <string name="auth_gsf_notification_login_error">Toque para fazer login em sua conta.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Permissão solicitada
+para a conta %s"</string>
+    <string name="auth_invalid_login_character">Caractere inválido. São permitidos somente os caracteres 0-9, a-z, A-Z e pontos.</string>
+    <string name="auth_invalid_password_character">Caractere de senha inválido.</string>
+    <string name="auth_invalid_scope">Escopo inválido usado durante a solicitação de autenticação.</string>
+    <string name="auth_invalid_username">O texto digitado não é um nome de usuário válido.</string>
+    <string name="auth_learn_more_title">Saiba mais</string>
+    <string name="auth_location_neighborhood_level">Permitir o envio de dados de localização anônimos ao Google e que aplicativos autorizados usem dados de fontes (como Wi-Fi e redes móveis) para determinar sua localização aproximada.</string>
+    <string name="auth_location_network_based">Serviço de localiz. do Google</string>
+    <string name="auth_location_settings_title">Configurações de local</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Você digitou uma senha incorreta ou sua conta foi alterada. Digite novamente a senha. Se você esqueceu sua senha e precisa recuperar sua conta, clique <annotation id="help_url">aqui</annotation>.</string>
+    <string name="auth_login_activity_task_title">Fazendo login...</string>
+    <string name="auth_login_activity_title">Login</string>
+    <string name="auth_login_task_title">Fazendo login</string>
+    <string name="auth_login_title">Digite o e-mail e a senha</string>
+    <string name="auth_maps_settings_title">Mapas e latitude</string>
+    <string name="auth_minutemaid_title">Configurar uma Conta do Google</string>
+    <string name="auth_name_title">Seu nome</string>
+    <string name="auth_network_unreliable">Não é possível estabelecer uma conexão confiável com o servidor.</string>
+    <string name="auth_network_unreliable_help">Pode ser um problema temporário ou talvez seu dispositivo Android não esteja habilitado para serviços de dados. Se o problema continuar, entre em contato com o serviço de atendimento ao cliente.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Este pode ser um problema temporário. Tente novamente ou conecte-se a outra rede Wi-Fi.</string>
+    <string name="auth_next_button_label">Próximo</string>
+    <string name="auth_nfc_caution">Proteja esta etiqueta. Um invasor poderá copiá-la.</string>
+    <string name="auth_nfc_tag_exists">%1$s já foi adicionado</string>
+    <string name="auth_nfc_tag_not_supported">O dispositivo NFC fornecido não é compatível</string>
+    <string name="auth_no_network">Você não tem uma conexão de rede.</string>
+    <string name="auth_no_network_help">Este problema pode ser temporário ou talvez seu dispositivo Android não esteja habilitado para serviços de dados. Tente novamente quando estiver conectado a uma rede móvel ou conecte-se a uma rede Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Este pode ser um problema temporário. Tente novamente ou conecte-se a outra rede Wi-Fi.</string>
+    <string name="auth_ok_button_label">Ok</string>
+    <string name="auth_only_you_acl">Somente você</string>
+    <string name="auth_otp_dialog_title">Código de verificação</string>
+    <string name="auth_otp_done_button">Concluído</string>
+    <string name="auth_otp_error">Ocorreu um problema ao gerar o código de verificação.</string>
+    <string name="auth_otp_instruction">Usar este código somente para fazer login no Google</string>
+    <string name="auth_otp_no_accounts_available_message">Nenhuma conta configurada no dispositivo.</string>
+    <string name="auth_otp_progress_dialog_message">Gerando um código de verificação.</string>
+    <string name="auth_otp_select_account_message">Selecione uma conta</string>
+    <string name="auth_pacl_scope_details_dialog_title">O que o Google pode ver</string>
+    <string name="auth_password">Senha</string>
+    <string name="auth_personal_unlocking_name">Desbloqueio pessoal</string>
+    <string name="auth_personal_unlocking_service_name">Desbloqueio pessoal (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Sua Conta do Google foi criada, mas sua solicitação para criar um perfil do Google+ não foi enviada. Tente novamente mais tarde usando qualquer navegador da Web em plus.google.com.</string>
+    <string name="auth_plus_failure_text">Sua solicitação para inscrição no Google+ não foi enviada. Tente novamente mais tarde usando qualquer navegador da Web em plus.google.com.</string>
+    <string name="auth_plus_failure_title">Criar um perfil do Google+ mais tarde</string>
+    <string name="auth_plus_faq_title">Bem-vindo ao Google+!</string>
+    <string name="auth_plus_name_check_text">Isso pode levar alguns minutos.</string>
+    <string name="auth_plus_query_title">Criar um perfil do Google+</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Oi, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Digite sua senha para:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Dispositivo Chrome bloqueado.</string>
+    <string name="auth_proximity_auth_device_locked_title">Desbloqueio facilitado</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Dispositivo Chrome desbloqueado.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Desbloqueio facilitado</string>
+    <string name="auth_proximity_auth_setup_completed_content">Este smartphone pode desbloquear seus dispositivos Chrome.</string>
+    <string name="auth_proximity_auth_setup_completed_title">O Desbloqueio facilitado está ativo</string>
+    <string name="auth_proximity_auth_setup_failed_content">Tente novamente em seu dispositivo Chrome.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Erro ao configurar Desbloqueio facilitado</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Smartphone encontrado. Continuar no dispositivo Chrome.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Configuração do Desbloqueio facilitado</string>
+    <string name="auth_recovery_loading">Carregando…</string>
+    <string name="auth_recovery_sending">Enviando…</string>
+    <string name="auth_relogin_activity_title">Digite a senha novamente</string>
+    <string name="auth_scope_acl_edit_desc">Editar</string>
+    <string name="auth_scope_details_dialog_title">Mais informações</string>
+    <string name="auth_scope_icon_desc">Ícone</string>
+    <string name="auth_scope_info_desc">Informações</string>
+    <string name="auth_scope_warning_desc">Aviso</string>
+    <string name="auth_search_settings_title">Pesquisa</string>
+    <string name="auth_server_error">Ocorreu um problema de comunicação com os servidores do Google.</string>
+    <string name="auth_server_error_help">Tente novamente mais tarde.</string>
+    <string name="auth_setup_wizard_back_button_label">Voltar</string>
+    <string name="auth_setup_wizard_next_button_label">Próximo</string>
+    <string name="auth_setup_wizard_services_activity_title">Serviços do Google</string>
+    <string name="auth_setup_wizard_services_backup"><b>Faça backup de seu dispositivo no Google</b> para que você possa restaurar facilmente apps, dados de apps, configurações de sistema e senhas de Wi-Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Faça backup de seus apps e dados</b> no Google Drive para que você possa restaurar um dispositivo facilmente. Os dados incluem apps, dados de apps, configurações do sistema e senhas de Wi-Fi. Os backups não afetarão seu limite de armazenamento.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Os dados incluem apps, configurações de apps, configurações do sistema e senhas de redes Wi-Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Backup e restauração</string>
+    <string name="auth_setup_wizard_services_communication_heading">Comunicação</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Ajude a melhorar sua experiência com o Android</b>, o desempenho da bateria, as classificações da Play Store e muito mais enviando automaticamente diagnósticos e dados de uso sobre este dispositivo ao Google.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Os dados incluem informações de hardware e de rede, uso de apps e do smartphone e relatórios de erros.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Ajude a melhorar sua experiência com o Android</b>, o desempenho da bateria, as classificações da Play Store e muito mais enviando automaticamente diagnósticos e dados de uso sobre este dispositivo para o Google. <annotation id="learn_more">Saiba mais.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">O serviço de localização do Google utiliza o Wi-Fi e outros sinais para determinar a localização com maior precisão e rapidez, com consumo de energia frequentemente inferior ao do GPS. Alguns dados podem ser armazenados no dispositivo. Os dados podem ser coletados mesmo que nenhum app esteja em execução.</string>
+    <string name="auth_setup_wizard_services_location_heading">Local</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Use o serviço de localização do Google</b> para ajudar os apps a determinar a localização com maior precisão. Os dados de localização anônimos do dispositivo serão enviados ao Google.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Ajude a melhorar os serviços de localização</b> permitindo que apps e serviços verifiquem redes, mesmo que o Wi-Fi esteja desligado.</string>
+    <string name="auth_setup_wizard_services_play">Quero ser informado sobre as novidades e ofertas do Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">Este dispositivo pode receber atualizações e apps do Google, da operadora e do fabricante do dispositivo.</string>
+    <string name="auth_setup_wizard_title">Assistente de configuração</string>
+    <string name="auth_show_error_activity_title">Não foi possível fazer login</string>
+    <string name="auth_show_error_title">Erro</string>
+    <string name="auth_sign_in_agreement">Ao fazer login, você aceita a Política de Privacidade do <annotation id="google_privacy">Google</annotation> e <annotation id="android_privacy">outras</annotation> políticas de privacidade.</string>
+    <string name="auth_sign_in_agreement_multi_user">Ao fazer login, você concorda com os <annotation id="tos">Termos de Serviço do Google</annotation>, a <annotation id="google_privacy">Política de Privacidade</annotation>, e os <annotation id="play_tos">Termos de Serviço do Google Play</annotation>". 
+
+Lembre-se: qualquer outro usuário poderá aceitar permissões atualizadas para o aplicativo em seu nome. Como qualquer computador, este tablet deve ser compartilhado somente com pessoas nas quais você confia."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Ao assinar, você concorda com os <annotation id="tos">Termos de Serviço</annotation> e a <annotation id="google_privacy">Política de Privacidade</annotation> do Google, os <annotation id="chrome_tos"> Termos de Serviço </annotation> e o <annotation id="chrome_privacy"> Aviso de Privacidade</annotation> do Chrome e os <annotation id="play_tos">Termos de Serviço</annotation> do Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Ao fazer login, você concorda com os <annotation id="tos">Termos de Serviço</annotation> e a <annotation id="google_privacy">Política de Privacidade</annotation> do Google, os <annotation id="chrome_tos">Termos de Serviço</annotation> e o <annotation id="chrome_privacy">Aviso de Privacidade</annotation> do Chrome e os <annotation id="play_tos">Termos de Serviço</annotation>" do Google Play. 
+
+Lembre-se: qualquer outro usuário poderá aceitar permissões atualizadas para o aplicativo em seu nome. Como qualquer computador, este tablet deve ser compartilhado somente com pessoas nas quais você confia."</string>
+    <string name="auth_sign_in_browser">Login do navegador</string>
+    <string name="auth_sign_in_button_label">Fazer login</string>
+    <string name="auth_sign_in_with_google_account_short">Faça login com sua Conta do Google:</string>
+    <string name="auth_skip_button_label">Ignorar</string>
+    <string name="auth_submission_error_text">Ocorreu um erro. Tente novamente.</string>
+    <string name="auth_submission_title">Desculpe…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Para configurar, conecte o dispositivo a uma etiqueta ou disp. NFC.</string>
+    <string name="auth_trust_agent_add_nfc_title">Adicionar NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Adicionar dispositivo confiável</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Adicionar lugar confiável</string>
+    <string name="auth_trust_agent_button_nfc_settings">Configurações da NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Conexão segura com o dispositivo Bluetooth %s</string>
+    <string name="auth_trust_agent_dpm_disabled">Desativado pelo administrador</string>
+    <string name="auth_trust_agent_enable_nfc">Ativar NFC para adicionar um dispositivo NFC</string>
+    <string name="auth_trust_agent_first_use_notification_button">ENTENDI</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">enquanto estiver conectado com %s, definido como um dispositivo confiável.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Para forçar o bloqueio do dispositivo, desligue a tela. Em seguida, ligue-a novamente e toque no ícone de cadeado.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">enquanto estiver em %s, definido como um lugar confiável.</string>
+    <string name="auth_trust_agent_first_use_notification_title">O dispositivo estará desbloqueado</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Nome</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC encontrada
+Digite um nome para ela."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Desativado</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Ativado</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Melhorar a correspondência de rosto</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Cancelar</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Este dispositivo não reconhecerá mais seu rosto, e o recurso Rosto de confiança será desativado.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Redefinir</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Redefinir o rosto de confiança?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Redefinir rosto de confiança</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Rosto de confiança</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Conectado</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Nenhum</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Não conectado</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Dispositivos confiáveis</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Nenhum</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Início</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Desconhecido</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Lugares confiáveis</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Trabalho</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Falha no pareamento. Tente novamente.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Erro ao config. disp. NFC</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Adicione um dispositivo Bluetooth confiável para manter esse dispositivo desbloqueado quando conectado. 
+
+Exemplos:
+
+- Seu relógio Bluetooth
+- O sistema Bluetooth do seu carro"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth desligado)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Adicionar dispositivo confiável</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth desligado.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Cancelar</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Escolher dispositivo</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Adicione um dispositivo confiável para manter esse dispositivo desbloqueado quando conectado. 
+
+Exemplos:
+
+- Seu relógio Bluetooth
+- O sistema Bluetooth do seu carro 
+- Um adesivo NFC na base de telefone em seu carro."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Remover este dispositivo de dispositivos confiáveis?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Dispositivo desconhecido.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Adicione um dispositivo NFC confiável para destravar esse dispositivo com um toque. 
+
+Exemplos:
+
+- Um adesivo NFC na base do telefone em seu carro."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Adicione uma conta para acessar o endereço de casa e trabalho.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Cancelar</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Ao adicionar um local confiável, você mantém este dispositivo desbloqueado quando estiver lá. 
+
+Exemplos:
+
+- Casa
+- Escritório"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Remover</string>
+    <string name="auth_trust_agent_trusted_places_rename">Renomear</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Selecionar conta</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Desconhecido</string>
+    <string name="auth_trust_devices_not_available">O recurso de dispositivos confiáveis está indisponível para uso.</string>
+    <string name="auth_trust_places_not_available">O recurso de lugares confiáveis está indisponível para uso.</string>
+    <string name="auth_try_again_button_label">Tentar novamente</string>
+    <string name="auth_ui_activity_authenticating">Autenticando...</string>
+    <string name="auth_ui_activity_title">Login do Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Fazer login</string>
+    <string name="auth_ui_add_account_title">Configuração da conta</string>
+    <string name="auth_unexpected_acl_error">Ocorreu um problema ao conceder permissões.</string>
+    <string name="auth_use_location_summary">Permitir que o Google use sua localização para melhorar os resultados de pesquisa e outros serviços</string>
+    <string name="auth_use_location_title">Localiz. e pesquisa do Google</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_visible_actions_title">Compartilhar com...</string>
+    <string name="authorization_dialog">Diálogo de autorização</string>
+    <string name="cancel">Cancelar</string>
+    <string name="circle_button_add_to_circles">Adicionar a círculos</string>
+    <string name="circle_button_circles">%d círculos</string>
+    <string name="circle_button_follow">Seguir</string>
+    <string name="circle_button_following_circle">Seguindo</string>
+    <string name="circle_button_medium_add_to_circles">Adicionar</string>
+    <string name="circle_button_profile_blocked">Bloqueado</string>
+    <string name="common_accessibility_audience_view_editable">Editar público</string>
+    <string name="common_add_account_button_label">Adicionar conta</string>
+    <string name="common_add_account_label">Adicione uma conta</string>
+    <string name="common_ads_settings_title">Anúncios</string>
+    <string name="common_android_wear_notification_needs_update_text">Um aplicativo exige uma atualização do app Android Wear.</string>
+    <string name="common_android_wear_update_text">Este app só funciona com uma versão atualizada do app Android Wear.</string>
+    <string name="common_android_wear_update_title">Atualizar o Android Wear</string>
+    <string name="common_app_name">Google Play Services</string>
+    <string name="common_cannot_start_hangouts_exception">Não é possível iniciar o Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Não é possível iniciar o Hangouts (erro de permissão).</string>
+    <string name="common_car_permission_desc">Acesso ao serviço de carro.</string>
+    <string name="common_car_permission_label">Serviço de carro</string>
+    <string name="common_chips_label_empty_circles">Sem círculos</string>
+    <string name="common_chips_label_extended_circles">Círculos estendidos</string>
+    <string name="common_chips_label_only_you">Somente você</string>
+    <string name="common_chips_label_public">Público</string>
+    <string name="common_chips_label_your_circles">Seus círculos</string>
+    <string name="common_choose_account_label">Escolha uma conta</string>
+    <string name="common_clear_app_data_menu_item">Limpar dados de aplicativos</string>
+    <string name="common_connected_apps_settings_title">Aplicativos conectados</string>
+    <string name="common_fitness_settings_title">Condicionamento físico</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_verification_code_menu_item">Receber código de verificação</string>
+    <string name="common_google_play_services_enable_button">Ativar o Google Play Services</string>
+    <string name="common_google_play_services_enable_text">Este aplicativo só funciona com o Google Play Services ativado.</string>
+    <string name="common_google_play_services_enable_title">Ative o Google Play Services</string>
+    <string name="common_google_play_services_error_dialog_title">Erro</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitado por %1$s</string>
+    <string name="common_google_play_services_install_button">Instalar o Google Play Services</string>
+    <string name="common_google_play_services_install_text_phone">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu telefone.</string>
+    <string name="common_google_play_services_install_text_tablet">Este aplicativo não funciona sem o Google Play Services, que não está instalado em seu tablet.</string>
+    <string name="common_google_play_services_install_title">Instale o Google Play Services</string>
+    <string name="common_google_play_services_invalid_account_text">A conta especificada não existe no dispositivo. Escolha outra conta.</string>
+    <string name="common_google_play_services_invalid_account_title">Conta inválida</string>
+    <string name="common_google_play_services_needs_enabling_title">Um aplicativo requer a ativação do Google Play Services.</string>
+    <string name="common_google_play_services_network_error_text">É necessária uma conexão de dados para conectar ao Google Play Services.</string>
+    <string name="common_google_play_services_network_error_title">Erro na rede</string>
+    <string name="common_google_play_services_no_restricted_profiles">Este aplicativo não suporta contas para perfis restritos</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Um aplicativo requer a instalação do Google Play Services.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Um aplicativo requer a atualização do Google Play Services.</string>
+    <string name="common_google_play_services_notification_ticker">Erro do Google Play Services</string>
+    <string name="common_google_play_services_unknown_issue">Problema desconhecido com o Google Play Services.</string>
+    <string name="common_google_play_services_unsupported_text">O Google Play Services, necessário para alguns dos aplicativos, não é compatível com seu dispositivo. Entre em contato com o fabricante para obter assistência.</string>
+    <string name="common_google_play_services_unsupported_title">Play Services</string>
+    <string name="common_google_play_services_update_button">Atualizar</string>
+    <string name="common_google_play_services_update_text">Este aplicativo só funciona com uma versão atualizada do Google Play Services.</string>
+    <string name="common_google_play_services_update_title">Atualize o Google Play Services</string>
+    <string name="common_google_settings">Config. Google</string>
+    <string name="common_list_apps_menu_help">Ajuda</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ajuda e feedback</string>
+    <string name="common_location_settings_title">Local</string>
+    <string name="common_maps_settings_title">Mapas e latitude</string>
+    <string name="common_mdm_feature_name">Gerenciador de disp. Android</string>
+    <string name="common_network_load_failed">Não disponível pois o dispositivo não pôde conectar a uma rede</string>
+    <string name="common_no_network">Não disponível pois o dispositivo está off-line</string>
+    <string name="common_open_on_phone">Abrir no smartphone</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Nenhuma conta para selecionar</string>
+    <string name="common_search_and_now_settings_title">Pesquisa e Now</string>
+    <string name="common_search_settings_title">Pesquisar</string>
+    <string name="common_security_settings_title">Verificar aplicativos</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="common_signin_button_text_long">Fazer login com o Google</string>
+    <string name="common_storage_settings_title">Armazenamento do Google Play Services</string>
+    <string name="common_ui_confirm_deleting_button">Excluir</string>
+    <string name="common_ui_confirm_deleting_checkbox">Compreendo e quero excluir</string>
+    <string name="common_url_load_unsuccessful_message">Seu dispositivo Android não está conectado a um serviço de dados. Para visualizar essas informações, acesse %s em um navegador da Web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Seu dispositivo Android não está conectado a uma rede Wi-Fi. Para visualizar essas informações agora, acesse %s em um navegador da Web.</string>
+    <string name="common_url_login_notice">Fazer login como %1$s</string>
+    <string name="common_usage_and_diagnostics">Uso e diagnósticos</string>
+    <string name="country_invalid">Este país não é permitido</string>
+    <string name="device_location_acl_no_one">Ninguém</string>
+    <string name="device_location_best_acl_picker_title">Visibilidade do local exato</string>
+    <string name="device_location_city_acl_picker_title">Visibilidade só da cidade</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s e outras pessoas</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> e %d outros</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Você precisa de uma conexão de dados para ver as configurações de compartilhamento de local. Verifique sua conexão ou tente novamente mais tarde.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Abrir configurações de localização</string>
+    <string name="device_location_reporting_reminder_dialog_summary">Desativar o compartilhamento de local não afeta o Relatório de Localização nem o Histórico de Localização. Outros serviços do Google ativados por você, como o Google Now, talvez precisem do seu local. É possível controlar o Relatório de Localização e o Histórico de Localização em \"Configurações de local\".</string>
+    <string name="device_location_reporting_reminder_dialog_title">Relatório de Localização</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> e &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> e &lt;b>%s&lt;/b></string>
+    <string name="disagree">Não concordo</string>
+    <string name="enable_location_reporting_error">Não foi possível ativar o Histórico e o Relatório de Localização para %s. Para ativar o Histórico e o Relatório de Localização, acesse \"Configurações de local\".</string>
+    <string name="enable_location_reporting_error_title">Ocorreu um erro</string>
+    <string name="enable_location_reporting_title">Relatório de Localização</string>
+    <string name="friend_locations_enable_reporting_auto_body">O Relatório de Localização permite que qualquer produto do Google que use o recurso armazene e use os dados de local mais recentes de seu dispositivo. O compartilhamento de local requer a ativação do Relatório de Localização.&lt;br/>&lt;br/>O Histórico de Localização permite que o Google armazene um histórico dos dados de local a partir dos dispositivos nos quais você ativou o Relatório de Localização. &lt;a href=\"%2$s\"> Saiba mais&lt;/a>.&lt;br/>&lt;br/>Deseja ativar o Histórico e o Relatório de Localização para %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">O Relatório de Localização permite que qualquer produto do Google que use o recurso armazene e use os dados de local mais recentes de seus dispositivos. O compartilhamento de local requer a ativação do Relatório de Localização.&lt;br/>&lt;br/>Em \"Configurações de local\" no Google Maps, verifique se \"Relatório de Localização\" está definido como \"Detectar seu local\" e se \"Informar por este dispositivo\" está selecionado. &lt;a href=\"%s\">Saiba mais&lt;/a>.</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">O Relatório de Localização permite que qualquer produto do Google que use o recurso armazene e use os dados de local mais recentes de seus dispositivos. O compartilhamento de local requer a ativação do Relatório de Localização.&lt;br/>&lt;br/>Faça login no Google Maps como %1$s e, em \"Configurações de local\", verifique se \"Relatório de Localização\" está definido como \"Detectar seu local\" e se \"Informar por este dispositivo\" está selecionado. &lt;a href=\"%2$s\">Saiba mais&lt;/a>.</string>
+    <string name="loading">Carregando…</string>
+    <string name="location_settings_allow_access_summary">Permitir que aplicativos do Google utilizem a localização do dispositivo sempre que estiver ligado</string>
+    <string name="location_settings_allow_access_title">Acessar local</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Não será possível recuperar o histórico de localização. 
+
+O Google Now e outros aplicativos que utilizam o histórico de localização podem deixar de funcionar."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Excluir permanentemente?</string>
+    <string name="location_settings_delete_auth_error">Nome de usuário ou senha incorretos</string>
+    <string name="location_settings_delete_io_error">O dispositivo não pôde conectar a uma rede</string>
+    <string name="location_settings_delete_location_history">EXCLUIR HISTÓRICO DE LOCALIZAÇÃO</string>
+    <string name="location_settings_delete_location_history_in_progress">EXCLUINDO...</string>
+    <string name="location_settings_delete_offline_error">O dispositivo está off-line</string>
+    <string name="location_settings_expiration_both_one">Uma hora e um minuto restantes</string>
+    <string name="location_settings_expiration_both_other" formatted="false">%d horas e %d minutos restantes</string>
+    <string name="location_settings_expiration_hours_one">Uma hora e %d minutos restantes</string>
+    <string name="location_settings_expiration_minutes">%d minutos restantes</string>
+    <string name="location_settings_expiration_minutes_one">%d horas e um minuto restantes</string>
+    <string name="location_settings_expiration_soon">Menos de 15 minutos restantes</string>
+    <string name="location_settings_info_title">Informações</string>
+    <string name="location_settings_location_history_activity_title">Histórico de localização</string>
+    <string name="location_settings_location_history_summary_full">"Esta opção permite que o Google armazene um histórico de seus dados de localização nos dispositivos em que você ativou o relatório de localização para a conta. O histórico de localização ajuda a aproveitar melhor o Google. Por exemplo, o Google Now pode usá-lo para mostrar notificações relacionadas ao trânsito para seu deslocamento diário. 
+
+Você pode visualizar e gerenciar seu histórico de localização em maps.google.com/locationhistory. O histórico de localização pode ser desativado a qualquer momento, mas isso não removerá os dados já existentes. O botão abaixo excluirá todos os dados do histórico de localização já existentes para sua conta."</string>
+    <string name="location_settings_location_reporting_activity_title">Relatório de localização</string>
+    <string name="location_settings_location_reporting_summary_full">"O Google utiliza este recurso em produtos como o Google Now e o Google Maps. 
+
+Ativar o relatório de localização permite que qualquer produto do Google que utiliza este recurso armazene e use os dados de localização mais recentes do dispositivo associados a sua Conta do Google."</string>
+    <string name="location_settings_no_network_alert">Você precisa de uma conexão de dados para ver as configurações de compartilhamento de local. Verifique sua conexão ou tente novamente mais tarde.</string>
+    <string name="location_settings_not_available_summary">Você não tem uma Conta do Google.</string>
+    <string name="location_settings_not_available_title">Adicione uma conta</string>
+    <string name="location_settings_reporting_summary_off">Desativado para o dispositivo</string>
+    <string name="location_settings_reporting_summary_on">Ativado para o dispositivo</string>
+    <string name="location_settings_save_error">Não foi possível salvar as configurações.</string>
+    <string name="location_settings_saving">Salvando configurações...</string>
+    <string name="location_settings_screen_title">Config. de local do Google</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Esta configuração controla apenas o acesso à localização para aplicativos do Google. 
+
+Para controlar o acesso à localização para todos os aplicativos, vá para \"Configurações > Acesso ao local\"."</string>
+    <string name="location_settings_temporary_sharing_title">Compartilhando temporariamente com</string>
+    <string name="location_settings_ulr_summary_ambiguous">Não foi possível determinar a configuração anterior. Desativado.</string>
+    <string name="location_settings_ulr_summary_auth_error">Disponível devido a nome de usuário ou senha incorretos</string>
+    <string name="location_settings_ulr_summary_error">Não foi possível alcançar o servidor. Tente novamente mais tarde.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Desativado</string>
+    <string name="location_settings_ulr_summary_loading">Recuperando...</string>
+    <string name="location_settings_ulr_summary_off">Desativado</string>
+    <string name="location_settings_ulr_summary_offline">Não disponível pois o dispositivo está off-line</string>
+    <string name="location_settings_ulr_summary_on">Ativado</string>
+    <string name="location_settings_ulr_summary_restricted">Desativado</string>
+    <string name="location_settings_ulr_summary_unknown">Desconhecido</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Não disponível em %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Não disponível nesta região</string>
+    <string name="location_settings_view_all">Ver tudo</string>
+    <string name="location_sharing_settings_acl_title">Compartilhando com %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Escolher com quem compartilhar</string>
+    <string name="location_sharing_settings_city_description">Use o compartilhamento da localização da cidade para que amigos e familiares saibam em que cidade você está.</string>
+    <string name="location_sharing_settings_city_example">Exemplo: Rio de Janeiro, RJ, Brasil</string>
+    <string name="location_sharing_settings_city_title">Localização da cidade</string>
+    <string name="location_sharing_settings_description">O compartilhamento de local permite mostrar sua localização para as pessoas que escolher (pelo local atual do Relatório de Localização do dispositivo).&lt;br/>&lt;br/> Essas pessoas poderão ver seu local atual nos produtos do Google, como no Google+ e no Google Now. Também poderão ver outros locais, como onde você mora e trabalha. &lt;a href=\"%s\">Saiba mais&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">"O compartilhamento de local permite que você mostre seu local atual do &lt;a href=\"%1$s\">Relatório de Localização&lt;/a> do seu dispositivo para as pessoas que escolher.&lt;br/>&lt;br/>Essas  pessoas podem ver seu local atual nos produtos do Google, como Google+ e Google Now. Elas também podem ver outros lugares, como onde você mora e trabalha. &lt;a href=\"%2$s\">Saiba mais&lt;/a>"</string>
+    <string name="location_sharing_settings_edit_acl_button">Alterar</string>
+    <string name="location_sharing_settings_pinpoint_description">Use o compartilhamento de local exato para permitir que as pessoas importantes para você vejam seu local atual com precisão.</string>
+    <string name="location_sharing_settings_pinpoint_example">Exemplo: Rua Dias da Cruz, 123, Rio de Janeiro, RJ, Brasil</string>
+    <string name="location_sharing_settings_pinpoint_title">Identificar local exato</string>
+    <string name="location_sharing_settings_title">Compartilhamento de local</string>
+    <string name="location_ulr_ambiguous_setting_text">Não foi possível determinar a configuração anterior. Ativar?</string>
+    <string name="location_ulr_setting_google_location_disabled">Não disponível porque os aplicativos do Google não têm acesso à localização</string>
+    <string name="location_ulr_setting_label">Relatório de localização do Google</string>
+    <string name="location_ulr_setting_location_disabled">Não disponível porque a localização está desativada</string>
+    <string name="location_ulr_setting_no_account">Desativado, nenhuma conta</string>
+    <string name="location_ulr_setting_reporting_only">Usando último local</string>
+    <string name="location_warning_do_not_show_again">Não mostrar novamente</string>
+    <string name="location_warning_message">Deixe o Google ajudar os apps a determinar locais. Isso significa enviar dados de localização anônimos para o Google, mesmo quando nenhum app estiver em execução.</string>
+    <string name="location_warning_title">Usar serviço de localização do Google?</string>
+    <string name="maps_BACK_TO_LIST">Voltar à lista</string>
+    <string name="maps_invalid_panorama_data">Panorama inválido.</string>
+    <string name="maps_network_unavailable">Este programa requer uma conexão de dados e tentará se conectar automaticamente. Verifique a intensidade do seu sinal. O modo de avião está ativado? Os dados de roaming estão desativados?</string>
+    <string name="maps_no_panorama_data">Nenhum dado de panorama configurado.</string>
+    <string name="maps_panorama_disabled">A imagem não está mais disponível</string>
+    <string name="maps_service_unavailable">O serviço do Street View não está disponível.</string>
+    <string name="maps_street_range_name_format">%2$s %1$s</string>
+    <string name="maps_waiting_for_network">Conexão de dados perdida. Tentando novamente...</string>
+    <string name="mr_media_route_button_content_description">Transmitir</string>
+    <string name="mr_media_route_chooser_searching">Procurando dispositivos…</string>
+    <string name="mr_media_route_chooser_title">Conectar ao dispositivo</string>
+    <string name="mr_media_route_controller_disconnect">Desconectar</string>
+    <string name="mr_system_route_name">Sistema</string>
+    <string name="mr_user_route_category_name">Dispositivos</string>
+    <string name="notification_ticker">Acesso solicitado</string>
+    <string name="off">Desativado</string>
+    <string name="ok">OK</string>
+    <string name="on">Ativado</string>
+    <string name="open_location_settings">Abrir config. de localização</string>
+    <string name="phone_number_hint">Telefone</string>
+    <string name="phone_number_invalid">Número de telefone inválido</string>
+    <string name="phone_number_invalid_character">Caracteres inválidos no núm. de telefone</string>
+    <string name="place_address_hint">Endereço</string>
+    <string name="place_address_title">Endereço</string>
+    <string name="place_address_update_hint">Atualizar</string>
+    <string name="place_category_hint">Selecione uma categoria</string>
+    <string name="place_category_title">Categoria</string>
+    <string name="place_name_hint">Nome do lugar</string>
+    <string name="place_name_title">Nome</string>
+    <string name="place_phone_hint">Número telefone principal</string>
+    <string name="place_phone_title">Smartphone</string>
+    <string name="place_picker_adding_a_place">Enviando relatório...</string>
+    <string name="place_picker_cancel">Cancelar</string>
+    <string name="place_picker_cant_add_place">Impossível adic.</string>
+    <string name="place_picker_label">Escolha um lugar</string>
+    <string name="place_picker_location_off_message">Para selecionar um local, ative o acesso à localização em \"Configurações\".</string>
+    <string name="place_picker_nearby_places">Lugares próximos</string>
+    <string name="place_picker_no_search_results">Nenhum lugar correspondente.</string>
+    <string name="place_picker_search_error">Impossível carregar.</string>
+    <string name="place_picker_search_hint">Pesquisar</string>
+    <string name="place_picker_searching_label">Pesquisando…</string>
+    <string name="place_picker_select_a_location_label">Selecione local para mais info.</string>
+    <string name="place_picker_select_this_location">Selecionar este local</string>
+    <string name="place_picker_settings">Configurações</string>
+    <string name="place_picker_updating_location_label">Atualizando seu local…</string>
+    <string name="place_picker_updating_nearby_label">Atual. lugares próximos…</string>
+    <string name="place_website_hint">Website oficial</string>
+    <string name="place_website_title">Website</string>
+    <string name="plus_accessibility_acl_selection">Escolher público</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Círculo</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Adicionar a novo círculo</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avatar</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Círculos</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Pesquisar pessoas ou círculos</string>
+    <string name="plus_accessibility_circle_selection">Escolher círculos</string>
+    <string name="plus_accessibility_comment_avatar">Círculos</string>
+    <string name="plus_accessibility_facl_selection">Selecionar membros do círculo que o aplicativo pode ver</string>
+    <string name="plus_accessibility_update_circles">Atualizar círculos</string>
+    <string name="plus_actionbar_up_button_description">Subir</string>
+    <string name="plus_add_to_circle_progress">Adicionando...</string>
+    <string name="plus_add_to_circles_title_default">Adicionar a círculos</string>
+    <string name="plus_add_to_circles_title_with_user_name">Adicionar %1$s</string>
+    <string name="plus_add_to_following_circle_progress">Seguindo…</string>
+    <string name="plus_add_to_new_circle_progress_message">Adicionando...</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">CONTA</string>
+    <string name="plus_app_settings_activity_label">Aplicativos conectados</string>
+    <string name="plus_app_settings_activity_log_label">Registro de atividades</string>
+    <string name="plus_app_settings_activity_log_page_label">Registro de atividades</string>
+    <string name="plus_app_settings_all_apps_label">Todos os apps+disposit.</string>
+    <string name="plus_app_settings_apps_page_label">Aplicativos conectados</string>
+    <string name="plus_app_settings_fitness_apps_label">Apps exercícios+disposit.</string>
+    <string name="plus_app_settings_sign_in_apps_label">Apps com Login do Google+</string>
+    <string name="plus_article_preview_image_description">Imagem de visualização de arquivo</string>
+    <string name="plus_audience_edit_button_label">Editar</string>
+    <string name="plus_audience_selection_cancel">Cancelar</string>
+    <string name="plus_audience_selection_contacts">Todos os contatos</string>
+    <string name="plus_audience_selection_contacts_description">Inclui contatos que serão criados no futuro</string>
+    <string name="plus_audience_selection_description_acl">COMPARTILHAR COM</string>
+    <string name="plus_audience_selection_done">Concluir</string>
+    <string name="plus_audience_selection_everyone">Todos os círculos</string>
+    <string name="plus_audience_selection_everyone_description">Inclui círculos criados no futuro</string>
+    <string name="plus_audience_selection_header_circles">CÍRCULOS</string>
+    <string name="plus_audience_selection_header_people">PESSOAS</string>
+    <string name="plus_audience_selection_header_search">PESQUISOU POR</string>
+    <string name="plus_audience_selection_header_suggested">SUGESTÕES</string>
+    <string name="plus_audience_selection_hidden_circle">As pessoas neste círculo não são públicas em seu perfil</string>
+    <string name="plus_audience_selection_loading">Carregando…</string>
+    <string name="plus_audience_selection_new_circle">Adicionar a novo círculo</string>
+    <string name="plus_audience_selection_public_circle">qualquer pessoa</string>
+    <string name="plus_audience_selection_search_device_results">DE SEU DISPOSITIVO</string>
+    <string name="plus_audience_selection_search_google_results">DO GOOGLE</string>
+    <string name="plus_audience_selection_title">Público</string>
+    <string name="plus_audience_selection_title_acl">Compartilhar com...</string>
+    <string name="plus_audience_selection_title_search">Pesquisar…</string>
+    <string name="plus_audience_selection_title_update_circles">Adicionar aos círculos</string>
+    <string name="plus_auth_audience_view_default_description">%s enviará informações sobre suas atividades a partir deste aplicativo para o Google. Você pode escolher quem mais pode ver essas atividades no Google.</string>
+    <string name="plus_auth_audience_view_footnote">O Google utilizará esta informação de acordo com os <annotation id="tos">Termos de Serviço</annotation> e a <annotation id="google_privacy">Política de Privacidade</annotation> do Google.</string>
+    <string name="plus_auth_hide_circles_label">Ocultar todos os círculos</string>
+    <string name="plus_auth_info_fragment_app_name">%s gostaria de:</string>
+    <string name="plus_auth_see_circles_label">Ver todos os círculos</string>
+    <string name="plus_avatar_image_description">Imagem de avatar de usuário</string>
+    <string name="plus_bad_name_agree_button_label">Enviar</string>
+    <string name="plus_bad_name_decline_button_label">Alterar nome</string>
+    <string name="plus_bad_name_skip_button_label">Pular Google+</string>
+    <string name="plus_checking_gplus_signup_state">Conectando…</string>
+    <string name="plus_choose_facl_title">O que o %s acessará</string>
+    <string name="plus_circle_creation_circle_name_hint">Nome do círculo</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Falha ao criar círculo, tente novamente mais tarde.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Criar</string>
+    <string name="plus_circle_creation_title_default">Criar um círculo</string>
+    <string name="plus_circle_creation_title_with_user_name">Adicionar %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Botão para fechar a caixa de diálogo</string>
+    <string name="plus_close_button_label">Fechar</string>
+    <string name="plus_create_button_description">Botão para adicionar um novo círculo</string>
+    <string name="plus_cross_client_auth_toast_text">Bem-vindo ao %1$s. Você está conectado ao Google como %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Esta atividade está visível para:</string>
+    <string name="plus_delete_moment_failed_dialog_message">A exclusão de atividades falhou, tente novamente mais tarde.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Excluindo…</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Excluir também todas as suas atividades do %s no Google</string>
+    <string name="plus_disconnect_source_dialog_message">O %1$s não terá mais o acesso que você concedeu a sua Conta do Google nem enviará as atividades do aplicativo ao Google. Esse processo poderá levar uma hora para ser concluído.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Cancelar</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Desconectar</string>
+    <string name="plus_disconnect_source_dialog_title">Desconectar?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Não foi possível desconectar o %s.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Deseja desconectar este aplicativo do Google?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Desconectando %s…</string>
+    <string name="plus_domain_default">seu domínio</string>
+    <string name="plus_domain_restricted_choice_body">Impedir compartilhamento da postagem fora de %s</string>
+    <string name="plus_domain_restricted_choice_title">Restrito a %s</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">Nome, foto do perfil, ID do Google+, faixa etária, idioma e nomes das pessoas nos círculos selecionados abaixo. A lista contém os perfis públicos delas, mas não os círculos onde você as colocou.</string>
+    <string name="plus_first_name">Nome</string>
+    <string name="plus_gender_prompt">Selecione o sexo</string>
+    <string name="plus_install_app_dialog_checkbox_text">Não perguntar novamente.</string>
+    <string name="plus_install_app_dialog_message">Quer instalar o aplicativo Google+ para visualizar a postagem que você compartilhou agora?</string>
+    <string name="plus_install_app_dialog_negative_button">Agora não</string>
+    <string name="plus_install_app_dialog_positive_button">Instalar</string>
+    <string name="plus_install_app_dialog_title">Participar do Google+</string>
+    <string name="plus_internal_error">Ocorreu um erro interno.</string>
+    <string name="plus_invalid_account">Conta inválida</string>
+    <string name="plus_last_name">Sobrenome</string>
+    <string name="plus_list_apps_aspen_empty_message">"Você não se conectou a aplicativos usando o login do Google+.
+
+"<annotation id="learn_more">Saiba mais</annotation></string>
+    <string name="plus_list_apps_disabled_error">Não foi possível carregar aplicativos conectados no momento. <annotation id="learn_more">Saiba mais</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Não há aplicativos conectados a sua Conta do Google</string>
+    <string name="plus_list_apps_error">Não foi possível carregar aplicativos. Tente novamente mais tarde.</string>
+    <string name="plus_list_apps_error_aspen">"Não foi possível carregar os aplicativos.
+
+"<annotation id="learn_more">Saiba mais</annotation> sobre aplicativos com o Login do Google+.</string>
+    <string name="plus_list_apps_error_fitness">"Não foi possível carregar aplicativos ou dispositivos.
+
+"<annotation id="learn_more">Saiba mais</annotation> sobre aplicativos e dispositivos de exercícios físicos.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Você não conectou aplicativos nem dispositivos ao Google Fit
+
+"<annotation id="learn_more">Saiba mais</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Nenhuma conta.</string>
+    <string name="plus_list_moments_disabled_error">Não foi possível carregar seu registro de atividades no momento. <annotation id="learn_more">Saiba mais</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Você não tem atividades</string>
+    <string name="plus_list_moments_error">Não foi possível carregar atividades. Tente novamente mais tarde.</string>
+    <string name="plus_list_moments_filter_empty_message">Você não tem atividades deste tipo.</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Não foi possível ver esta atividade em seu registro de atividades. Visite este aplicativo diretamente.</string>
+    <string name="plus_loading">Carregando…</string>
+    <string name="plus_manage_app_acl_description_label">Atividades que este aplicativo compartilha com o Google</string>
+    <string name="plus_manage_app_acl_error">Não foi possível atualizar o aplicativo.</string>
+    <string name="plus_manage_app_all_circles_label">Todos os círculos</string>
+    <string name="plus_manage_app_app_icon_desc">Ícone</string>
+    <string name="plus_manage_app_disabled_error">Não foi possível carregar o aplicativo conectado no momento. <annotation id="learn_more">Saiba mais</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Desconectar</string>
+    <string name="plus_manage_app_domain_label">Domínio</string>
+    <string name="plus_manage_app_extended_circles_label">Círculos estendidos</string>
+    <string name="plus_manage_app_facl_label">Este aplicativo vê estas pessoas</string>
+    <string name="plus_manage_app_label">Aplicativo conectado</string>
+    <string name="plus_manage_app_limited_label">Compartilhado de modo privado</string>
+    <string name="plus_manage_app_no_acl_description">Seu uso deste aplicativo</string>
+    <string name="plus_manage_app_no_circles_label">Nenhuma</string>
+    <string name="plus_manage_app_only_you_label">Somente você</string>
+    <string name="plus_manage_app_pacl_label">Quem pode ver as atividades do aplicativo no Google</string>
+    <string name="plus_manage_app_pacl_sub_label">Suas escolhas aqui não alteram a visibilidade de atividades existentes em seu registro de atividades, mas se aplicam a atividades de jogos.</string>
+    <string name="plus_manage_app_public_label">Público</string>
+    <string name="plus_manage_app_scopes_label">Este aplicativo pode acessar:</string>
+    <string name="plus_manage_app_updating_acl">Atualizando...</string>
+    <string name="plus_manage_aspen_app_label">App com Login do Google+</string>
+    <string name="plus_manage_device_disconnect_label">Desconectar</string>
+    <string name="plus_manage_device_label">Dispositivo conectado</string>
+    <string name="plus_manage_moment_acl">"Visível para:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Não foi possível carregar alguns detalhes, tente novamente mais tarde</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Excluir</string>
+    <string name="plus_manage_moment_delete_label">EXCLUIR</string>
+    <string name="plus_manage_moment_image_desc">Ver atividade</string>
+    <string name="plus_manage_moment_label">Atividade</string>
+    <string name="plus_manage_moment_no_in_app_delete">Não é possível gerenciar esta atividade. <annotation id="learn_more">Saiba mais</annotation></string>
+    <string name="plus_ok_button_description">Botão \"OK\"</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Recomendar isto no Google</string>
+    <string name="plus_one_annotation_none_short">Recomendar</string>
+    <string name="plus_one_app">De &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">>10.000</string>
+    <string name="plus_one_description">Toque para adicionar seu +1 ao %1$s existente</string>
+    <string name="plus_one_description_remove">Toque para remover seu +1 do %1$s existente</string>
+    <string name="plus_one_description_standard">Toque para marcar com +1.</string>
+    <string name="plus_one_error">Ocorreu um problema temporário com seu +1. Tente novamente.</string>
+    <string name="plus_one_public">Público</string>
+    <string name="plus_one_self">+1 de %1$s</string>
+    <string name="plus_one_self_removed">Seu +1 foi removido.</string>
+    <string name="plus_one_share">Compartilhar</string>
+    <string name="plus_one_social_annotation_prefix">incluindo %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">incluindo %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s marcou c +1</string>
+    <string name="plus_one_social_annotation_user">Você</string>
+    <string name="plus_one_title">Você marcou isto public. com +1 como</string>
+    <string name="plus_one_undo">Desfazer</string>
+    <string name="plus_oob_3p_promo">Aproveite melhor o %1$s com um perfil público do Google+.</string>
+    <string name="plus_oob_cancel_button_label">Cancelar</string>
+    <string name="plus_oob_default_promo">Aproveite melhor o Google com um perfil público do Google+.</string>
+    <string name="plus_oob_done_button_label">Concluído</string>
+    <string name="plus_oob_edit_name_warning">Se você alterar seu nome do perfil do Google+, ele será alterado em todos os produtos do Google.</string>
+    <string name="plus_oob_failure_text">O Google+ não conseguiu configurar seu perfil. Tente novamente mais tarde.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Nome</string>
+    <string name="plus_oob_first_name_content_description">Nome</string>
+    <string name="plus_oob_gender_content_description">Sexo</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Agora não</string>
+    <string name="plus_oob_interstitial_loading">Contato c/ Google+</string>
+    <string name="plus_oob_interstitial_loading_body">Pode demorar alguns minutos.</string>
+    <string name="plus_oob_interstitial_sending">Enviando...</string>
+    <string name="plus_oob_interstitial_sending_body">Pode demorar alguns minutos.</string>
+    <string name="plus_oob_join">Criar</string>
+    <string name="plus_oob_last_name_content_description">Sobrenome</string>
+    <string name="plus_oob_loading">Carregando…</string>
+    <string name="plus_oob_next">Próximo</string>
+    <string name="plus_oob_next_content_description">Botão \"Próximo\"</string>
+    <string name="plus_oob_no_connection_message">Não foi possível conectar-se ao servidor.</string>
+    <string name="plus_oob_no_connection_title">Sem conexão</string>
+    <string name="plus_oob_pronoun_content_description">Refira-se a mim como</string>
+    <string name="plus_oob_sending">Enviando...</string>
+    <string name="plus_oob_title_tos">Perfil do Google+</string>
+    <string name="plus_oob_tos_accept">Aceitar</string>
+    <string name="plus_photo_preview_image_description">Imagem de visualização de foto</string>
+    <string name="plus_plus_icon_image_description">Imagem do ícone do Google+</string>
+    <string name="plus_posted_just_now">Agora mesmo</string>
+    <string name="plus_pronoun_prompt">Selecione</string>
+    <string name="plus_remove_from_circle_progress">Removendo...</string>
+    <string name="plus_replybox_button_description">Responder</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Deseja descartar esta resposta?</string>
+    <string name="plus_replybox_hint_text">Adicionar uma resposta</string>
+    <string name="plus_replybox_internal_error">Não foi possível responder.</string>
+    <string name="plus_replybox_no_network_connection">Não foi possível criar a resposta. Tente novamente.</string>
+    <string name="plus_replybox_post_error_message">Não foi possível postar a resposta.</string>
+    <string name="plus_replybox_post_success">Sua resposta foi postada.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Seus círculos estendidos</string>
+    <string name="plus_scope_fragment_mixed_label">Círculos selecionados</string>
+    <string name="plus_scope_fragment_only_you_label">Somente você</string>
+    <string name="plus_scope_fragment_public_label">Qualquer pessoa na Web</string>
+    <string name="plus_scope_fragment_your_circles_label">Seus círculos</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Assistente de Configuração</string>
+    <string name="plus_share_button_description">Botão \"Compartilhar\"</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Concluído</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Escolher destinatários</string>
+    <string name="plus_sharebox_audience_to_text">Para:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Público</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Novo círculo</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Não foi possível adicionar ao círculo</string>
+    <string name="plus_sharebox_circles_button">Concluído</string>
+    <string name="plus_sharebox_circles_checkbox_label">Adicionar %1$s ao círculo:</string>
+    <string name="plus_sharebox_circles_create_failed">Não foi possível criar círculo</string>
+    <string name="plus_sharebox_circles_create_option">Criar um novo círculo</string>
+    <string name="plus_sharebox_circles_following_circle">Seguindo</string>
+    <string name="plus_sharebox_circles_friends_circle">Amigos</string>
+    <string name="plus_sharebox_circles_name_length_warning">O nome do círculo é muito grande.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Este nome de círculo já está em uso.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Adicionar ao círculo</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Deseja descartar esta postagem?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Não foi possível compartilhar.</string>
+    <string name="plus_sharebox_load_error">Ocorreu um problema ao carregar a caixa de diálogo de compartilhamento. Tente novamente.</string>
+    <string name="plus_sharebox_next">PRÓXIMO</string>
+    <string name="plus_sharebox_no_network_connection">Não foi possível criar a postagem. Tente novamente.</string>
+    <string name="plus_sharebox_post_body_hint">Compart. ideias</string>
+    <string name="plus_sharebox_post_body_icon">Imagem do perfil</string>
+    <string name="plus_sharebox_post_error_message">Não foi possível criar a postagem. Tente novamente.</string>
+    <string name="plus_sharebox_post_error_title">Atenção</string>
+    <string name="plus_sharebox_post_pending">Enviando...</string>
+    <string name="plus_sharebox_post_success">Sua postagem foi compartilhada.</string>
+    <string name="plus_sharebox_preview_loading">Carregando…</string>
+    <string name="plus_sharebox_search_hint">Digite um nome, e-mail ou círculo</string>
+    <string name="plus_sharebox_share">COMPARTILHAR</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Compartilhar também no Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Compartilhar com o Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Quando você compartilha uma postagem publicamente, pessoas que não estão em seus círculos podem vê-la e comentá-la.</string>
+    <string name="plus_sharebox_under_age_warning_title">Compartilhando publicamente</string>
+    <string name="plus_undo_button_description">Botão \"Desfazer\"</string>
+    <string name="plus_unified_setup_activity_title">Criar um perfil</string>
+    <string name="plus_unknown_app_name">Aplicativo</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Falha ao atualizar os círculos. Tente novamente mais tarde.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Não é possível adicionar este usuário a círculos.</string>
+    <string name="plus_update_circles_not_allowed_message">Não é possível adicionar %1$s a círculos.</string>
+    <string name="plus_update_circles_progress">Atualizando círculos...</string>
+    <string name="plus_video_preview_image_description">Imagem de visualização de vídeo</string>
+    <string name="recovery_done_button_label">Concluído</string>
+    <string name="recovery_input_screen_message">Forneça ao Google suas informações de contato para caso esqueça a senha do %s.</string>
+    <string name="recovery_message_set">"Senhas podem ser esquecidas.
+
+Forneça um número de telefone ou endereço de e-mail secundário agora. Isso ajudará a recuperar o acesso ao seu conteúdo do Google e do Google Play. "<annotation id="help_url">Saiba mais</annotation></string>
+    <string name="recovery_message_verify">"Senhas podem ser esquecidas.
+
+Confirme seu número de telefone ou endereço de e-mail secundário agora. Isso ajudará a recuperar o acesso ao seu conteúdo do Google e do Google Play. "<annotation id="help_url">Saiba mais</annotation></string>
+    <string name="recovery_notification_ticker">A conta requer sua atenção</string>
+    <string name="recovery_notification_title">Lembrete de recuper. de senha</string>
+    <string name="recovery_server_error">Erro ao comunicar com o servidor. Tente novamente mais tarde.</string>
+    <string name="recovery_title">Recuperação de senha do Google</string>
+    <string name="recovery_yes_button_label">Configurar opções de recuperação</string>
+    <string name="recovery_yes_button_label_verify">Confirmar opções de recuperação</string>
+    <string name="retry_call_to_action">Tentar novamente</string>
+    <string name="secondary_email_hint">E-mail secundário</string>
+    <string name="secondary_email_invalid">Endereço de e-mail inválido</string>
+    <string name="secondary_email_same_as_primary">Igual ao endereço primário</string>
+    <string name="selected_location_unknown">Desconhecido</string>
+    <string name="sharedUserLabel">Serviços do Google</string>
+    <string name="sid_lsid_grant_detail">Assim como uma senha, os cookies de identificação de sessão (SID) e identificação de sessão local (LSID) associam sua identidade a uma série de solicitações de um navegador e permitem o acesso completo a todos os dados de sua conta. Somente os navegadores podem utilizar esses cookies de forma legítima.</string>
+    <string name="sid_lsid_grant_label">Use os cookies SID e LSID para acessar todos os seus dados da Conta do Google.</string>
+    <string name="storage_management_drive_clear_failure">Ocorreu um erro ao limpar os dados do Drive. Tente novamente mais tarde.</string>
+    <string name="storage_management_drive_clear_label">Limpar</string>
+    <string name="storage_management_drive_clear_success">Os dados do drive foram removidos.</string>
+    <string name="storage_management_drive_clearing">Limpando…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Todos os dados locais do Drive para aplicativos compatíveis serão excluídos permanentemente. Isso pode incluir alterações pendentes ainda não enviadas para o servidor do Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Limpar todos os dados?</string>
+    <string name="storage_management_drive_descriptive_text">Os aplicativos compatíveis com o Drive armazenam arquivos no dispositivo para aprimorar o desempenho e permitir o acesso off-line.</string>
+    <string name="storage_management_drive_get_storage_failure">Ocorreu um erro ao calcular o uso do armazenamento do Drive. Tente novamente mais tarde.</string>
+    <string name="storage_management_drive_size_label">Armazenamento local do Drive</string>
+    <string name="storage_management_wear_descriptive_text">Os aplicativos replicam dados para dispositivos para vestir usando o armazenamento do dispositivo.</string>
+    <string name="storage_management_wear_manage_size_label">Gerenciar armazenam. de disp. p/ vestir</string>
+    <string name="storage_management_wear_size_label">Armazenamento para vestir</string>
+    <string name="storage_managment_all_storage_descriptive_text">Total de dados usados pelo Google Play Services, incluindo o mecanismo de pesquisa e outros dados.</string>
+    <string name="storage_managment_clear_all_data">Limpar todos os dados</string>
+    <string name="storage_managment_computing_size">Calculando…</string>
+    <string name="storage_managment_icing_size_label">Armazen. do mecanismo de pesq.</string>
+    <string name="storage_managment_manage_icing_button">Gerenciar armazen. de pesquisa</string>
+    <string name="storage_managment_search_index_descriptive_text">Aceleramos a pesquisa no telefone com um mecanismo de pesquisa para seu Apps usar.</string>
+    <string name="storage_managment_title">Armazenamento do Google Play Services</string>
+    <string name="storage_managment_total_size_label">Armazenamento total</string>
+    <string name="system_update_activity_battery_low_charging_text">Bateria muito fraca para instalar a atualização do sistema. Aguarde até que a bateria seja recarregada o suficiente.</string>
+    <string name="system_update_activity_battery_low_text">Bateria muito fraca para instalar a atualização do sistema. Conecte o carregador para continuar.</string>
+    <string name="system_update_activity_name">Atualizações do sistema</string>
+    <string name="system_update_activity_roaming_text">As atualizações do sistema não podem ser transferidas em roaming.</string>
+    <string name="system_update_activity_title">Atualizações do sistema</string>
+    <string name="system_update_check_now_button_text">Verificar agora</string>
+    <string name="system_update_complete_label">Atualização do sistema</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Conectar-se à rede Wi-Fi</string>
+    <string name="system_update_connection_lost_text">A conexão de rede foi perdida.</string>
+    <string name="system_update_countdown_cancel_button">Cancelar instalação</string>
+    <string name="system_update_countdown_complete">Reiniciando agora…</string>
+    <string name="system_update_download_button_text">Fazer o download</string>
+    <string name="system_update_download_failed_no_space_status_text">Espaço insuficiente para o download</string>
+    <string name="system_update_download_failed_status_text">Falha no download</string>
+    <string name="system_update_download_retry_button_text">Tentar novamente o download</string>
+    <string name="system_update_download_waiting_status_text">Aguardando o download</string>
+    <string name="system_update_downloading_required_update_text">"Isso pode levar até ^1 minutos.
+
+Em seguida, o dispositivo será reiniciado automaticamente."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Isso pode levar até ^1 minutos.
+
+Em seguida, o tablet será reiniciado automaticamente."</string>
+    <string name="system_update_downloading_required_update_title">Fazendo o download da atualização...</string>
+    <string name="system_update_downloading_status_text">Fazendo o download</string>
+    <string name="system_update_downloading_wifi_status2_text">Via Wi-Fi somente até ^1</string>
+    <string name="system_update_install_button_text">Reiniciar e instalar</string>
+    <string name="system_update_installing_update_text">"Isso pode levar até cinco minutos.
+
+Em seguida, você poderá terminar de configurar o smartphone."</string>
+    <string name="system_update_installing_update_title">Instalando a atualização...</string>
+    <string name="system_update_last_checkin">Última verificação de atualizações ^1.</string>
+    <string name="system_update_no_update_content_text">Seu sistema está atualizado.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Falha no download. Tente novamente.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Não foi possível fazer o download da atualização do sistema</string>
+    <string name="system_update_not_owner_text">Uma atualização de software do sistema está disponível, mas somente o proprietário pode instalá-la.</string>
+    <string name="system_update_notification_action_download">Fazer o download</string>
+    <string name="system_update_notification_action_install">Instalar</string>
+    <string name="system_update_notification_action_snooze">Mais tarde</string>
+    <string name="system_update_required_update_restart_text">O dispositivo será reiniciado para que a atualização do sistema seja instalada.</string>
+    <string name="system_update_required_update_restart_text_tablet">O tablet será reiniciado para que a atualização do sistema seja instalada.</string>
+    <string name="system_update_required_update_restart_title">Prestes a reiniciar</string>
+    <string name="system_update_requires_restart_status_text">Exige uma reinicialização</string>
+    <string name="system_update_restart_button_text">Reiniciar (^1)</string>
+    <string name="system_update_update_available_notification_title">Atualização do sistema disponível</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Espaço insuficiente para fazer o download da atualização do sistema.</string>
+    <string name="system_update_update_downloaded_notification_title">Download da atualização do sistema concluído</string>
+    <string name="system_update_verification_failed_text">Falha na verificação</string>
+    <string name="system_update_verified_status_text">Download concluído e verificado</string>
+    <string name="system_update_verifying_status_text">Verificando</string>
+    <string name="temporary_sharing_description">Pessoas com quem você está compartilhando seu local exato nos produtos do Google por um período limitado.</string>
+    <string name="temporary_sharing_title">Compartilhamento temporário</string>
+    <string name="turn_on_location_reporting_auto_button">Ativar</string>
+    <string name="usage_and_diagnostics_consent_message">Ajude a melhorar sua experiência no Android enviando automaticamente dados de diagnóstico e uso para o Google. Essas informações não serão usadas para identificar você e ajudarão as equipes que trabalham com aspectos relacionados a vida útil da bateria, desempenho de apps e novos recursos do Google.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Saiba mais&lt;/font></string>
+    <string name="usage_reporting_off">Desativado</string>
+    <string name="usage_reporting_on">Ativado</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Conectado</string>
+    <string name="wearable_status_connecting">Conectando...</string>
+    <string name="wearable_status_disconnected">Desconectado</string>
+    <string name="wearable_status_starting">Iniciando...</string>
+    <string name="wearable_status_wire_protocol_mismatch">Wearable incompatível. Faça todas as atualizações.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Limpar agora</string>
+    <string name="wearable_storage_managment_title">Armazenamento do wearable</string>
+    <string name="wearable_storage_managment_total_size_label">Armazenamento do wearable</string>
+    <string name="wearable_storage_managment_usage_label">Uso do espaço por aplicativo</string>
+</resources>

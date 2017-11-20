@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Palīdzība un atsauksmes</string>
+    <string name="plus_app_settings_all_apps_label">Visas lietotnes</string>
+    <string name="plus_app_settings_apps_page_label">Pievienotās lietotnes</string>
+    <string name="plus_list_apps_empty_message">Nav pievienota neviena lietotne</string>
+    <string name="plus_manage_app_pacl_label">Kas var redzēt Google lietotnēs veiktās darbības</string>
+    <string name="plus_manage_app_scopes_label">Šī lietotne var piekļūt:</string>
+</resources>

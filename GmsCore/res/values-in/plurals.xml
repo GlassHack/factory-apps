@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">dari browser %1$s di %2$s kurang dari %3$s menit yang lalu</item>
+        <item quantity="one">dari browser %1$s di %2$s kurang dari %3$s menit yang lalu</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">dari %1$s kurang dari %2$s menit yang lalu</item>
+        <item quantity="one">dari %1$s kurang dari %2$s menit yang lalu</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d jam lagi</item>
+        <item quantity="one">1 jam lagi</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d hari</item>
+        <item quantity="one">%d hari</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d jam</item>
+        <item quantity="one">%d jam</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d mnt</item>
+        <item quantity="one">%d mnt</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s orang</item>
+        <item quantity="one">%1$s orang</item>
+        <item quantity="two">%1$s orang</item>
+        <item quantity="few">%1$s orang</item>
+        <item quantity="many">%1$s orang</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Booting ulang untuk memasang dalam %d detik…</item>
+        <item quantity="one">Booting ulang untuk memasang dalam 1 detik...</item>
+    </plurals>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Stesen Minyak</item>
+        <item>Panggung Wayang</item>
+        <item>Penginapan</item>
+        <item>Kelab Malam</item>
+        <item>Muzium</item>
+        <item>Restoran</item>
+        <item>Pusat Beli-belah</item>
+        <item>Gedung</item>
+        <item>Kedai Runcit / Pasar Raya</item>
+        <item>Lain-lain</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>lemah</item>
+        <item>sederhana</item>
+        <item>bagus</item>
+        <item>kuat</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+</resources>

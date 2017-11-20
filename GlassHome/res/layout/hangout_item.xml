@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/active_parent" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:background="@color/background_dark_gray" android:layout_width="@dimen/lhs_width" android:layout_height="fill_parent">
+        <com.google.glass.mosaic.MosaicView android:id="@id/avatar_mosaic" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:visibility="visible" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_small" android:scaleType="centerCrop" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="30.0px" android:layout_marginTop="40.0px" android:layout_marginRight="40.0px" android:layout_marginBottom="24.0px">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+            <TextView android:id="@id/hangout_description" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/MediumOverlayText" />
+        </LinearLayout>
+        <include layout="@layout/timeline_item_footer" />
+    </LinearLayout>
+</LinearLayout>

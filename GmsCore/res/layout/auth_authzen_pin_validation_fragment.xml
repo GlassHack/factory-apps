@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/title" android:text="@string/auth_authzen_pin_validation_default_title_text" style="@style/AuthzenTitle" />
+    <TextView android:id="@id/description" android:text="@string/auth_authzen_pin_validation_default_desc_text" style="@style/AuthzenDescription" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/pin1" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AuthzenButton" />
+        <View android:layout_width="16.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/pin2" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AuthzenButton" />
+        <View android:layout_width="16.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+        <Button android:id="@id/pin3" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/AuthzenButton" />
+    </LinearLayout>
+    <Button android:layout_gravity="center" android:id="@id/cancel" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:text="@string/auth_authzen_confirmation_cancel_button_text" android:contentDescription="@string/auth_authzen_cancel_button_label" style="@style/AuthzenBorderlessButton" />
+</LinearLayout>

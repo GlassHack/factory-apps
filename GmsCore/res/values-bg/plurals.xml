@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">от браузъра на %1$s в/ъв %2$s преди по-малко от %3$s мин</item>
+        <item quantity="one">от браузъра на %1$s в/ъв %2$s преди по-малко от %3$s мин</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">от %1$s преди по-малко от %2$s мин</item>
+        <item quantity="one">от %1$s преди по-малко от %2$s мин</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Остават %d часа</item>
+        <item quantity="one">Остава 1 час</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d дни</item>
+        <item quantity="one">%d ден</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d часа</item>
+        <item quantity="one">%d час</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d мин</item>
+        <item quantity="one">%d мин</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s души</item>
+        <item quantity="one">%1$s човек</item>
+        <item quantity="two">%1$s души</item>
+        <item quantity="few">%1$s души</item>
+        <item quantity="many">%1$s души</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Рестартира се за инсталиране след %d секунди...</item>
+        <item quantity="one">Рестартира се за инсталиране след 1 секунда…</item>
+    </plurals>
+</resources>

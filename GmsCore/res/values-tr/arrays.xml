@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafe</item>
+        <item>Benzin İstasyonu</item>
+        <item>Sinema Salonu</item>
+        <item>Konaklama</item>
+        <item>Gece Kulübü</item>
+        <item>Müze</item>
+        <item>Restoran</item>
+        <item>Alışveriş Merkezi</item>
+        <item>Mağaza</item>
+        <item>Bakkal veya Süpermarket</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>yetersiz</item>
+        <item>yeterli</item>
+        <item>iyi</item>
+        <item>güçlü</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>K</item>
+        <item>KD</item>
+        <item>D</item>
+        <item>GD</item>
+        <item>G</item>
+        <item>GB</item>
+        <item>B</item>
+        <item>KB</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>kuzey</item>
+        <item>kuzeydoğu</item>
+        <item>doğu</item>
+        <item>güneydoğu</item>
+        <item>güney</item>
+        <item>güneybatı</item>
+        <item>batı</item>
+        <item>kuzeybatı</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Bir güvenlik sorusu seçin</item>
+        <item>İlk telefon numaranız?</item>
+        <item>En iyi çocukluk arkadaşınızın adı?</item>
+        <item>İlkokul öğretmeninizin adı?</item>
+        <item>İlk işinizdeki yöneticinin adı?</item>
+        <item>Araç ruhsat numarası?</item>
+    </string-array>
+</resources>

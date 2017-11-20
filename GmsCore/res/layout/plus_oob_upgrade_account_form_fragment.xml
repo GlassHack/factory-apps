@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/title_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <view android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" class="com.google.android.gms.common.ui.ScrollViewWithEvents">
+        <LinearLayout android:layout_gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/plus_oob_layout_margin_side" android:layout_marginRight="@dimen/plus_oob_layout_margin_side" android:layout_marginBottom="@dimen/plus_oob_scroll_margin_bottom">
+            <include layout="@layout/plus_oob_promo_view" />
+            <LinearLayout android:orientation="vertical" android:id="@id/form_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </view>
+    <FrameLayout android:id="@id/buttons_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

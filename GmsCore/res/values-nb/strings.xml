@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Gå til startsiden</string>
+    <string name="abc_action_bar_home_description_format">%1$s – %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s – %2$s – %3$s</string>
+    <string name="abc_action_bar_up_description">Gå opp</string>
+    <string name="abc_action_menu_overflow_description">Flere alternativer</string>
+    <string name="abc_action_mode_done">Ferdig</string>
+    <string name="abc_activity_chooser_view_see_all">Se alle</string>
+    <string name="abc_activitychooserview_choose_application">Velg en app</string>
+    <string name="abc_searchview_description_clear">Slett søket</string>
+    <string name="abc_searchview_description_query">Søkeord</string>
+    <string name="abc_searchview_description_search">Søk</string>
+    <string name="abc_searchview_description_submit">Utfør søket</string>
+    <string name="abc_searchview_description_voice">Talesøk</string>
+    <string name="abc_shareactionprovider_share_with">Del med</string>
+    <string name="abc_shareactionprovider_share_with_application">Del med %s</string>
+    <string name="account_level_title">Kontohandling er nødvendig</string>
+    <string name="activity_recognition_permission_description">Lar en app motta periodiske oppdateringer om aktivitetsnivået ditt fra Google. F.eks. om du går, kjører, sykler eller ikke beveger deg.</string>
+    <string name="activity_recognition_permission_label">aktivitetsgjenkjennelse</string>
+    <string name="add_a_place_add">Legg til</string>
+    <string name="add_a_place_call_to_action">Legg til et sted</string>
+    <string name="add_a_place_call_to_drag">Dra kartet for å plassere markøren</string>
+    <string name="add_a_place_cancel">Avbryt</string>
+    <string name="add_a_place_next">Neste</string>
+    <string name="agree">Godta</string>
+    <string name="app_label">Nettverksplassering</string>
+    <string name="app_level_title">Påloggingsforespørsel</string>
+    <string name="app_level_title_secondary">Påloggingsforespørsel fra %s</string>
+    <string name="auth_accept_access">Godta</string>
+    <string name="auth_account_already_has_gmail">Kontoen har allerede Gmail.</string>
+    <string name="auth_account_setup_title">Google-konto</string>
+    <string name="auth_ads_settings_title">Annonser</string>
+    <string name="auth_allow_external_site_access">Kan fortløpende bruke dataene dine på %s</string>
+    <string name="auth_app_label">Google-kontoadministrator</string>
+    <string name="auth_app_permission_footnote">%s og Google bruker denne informasjonen i samsvar med tilhørende vilkår og retningslinjer.</string>
+    <string name="auth_app_permission_label">DENNE APPEN BER OM Å KUNNE</string>
+    <string name="auth_app_permission_ok_footnote">Ved å fortsette tillater du at denne appen og Google bruker informasjonen din i henhold til respektive vilkår for bruk og personvernregler.</string>
+    <string name="auth_app_permission_sign_in_footnote">Ved å trykke på «Logg på» godtar du at denne appen og Google bruker informasjonen din i henhold til respektive vilkår for bruk og personvernregler.</string>
+    <string name="auth_app_permission_title">Logg på %s med Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Tillat pålogging</string>
+    <string name="auth_authzen_action_approved_toast_text">Handlingen er godkjent</string>
+    <string name="auth_authzen_action_canceled_toast_text">Handlingen er avbrutt</string>
+    <string name="auth_authzen_allow_reset_button_text">Tillat tilbakest. av passord</string>
+    <string name="auth_authzen_cancel_button_label">Avbryt</string>
+    <string name="auth_authzen_close_button_text">Lukk</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Tillat</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Avbryt</string>
+    <string name="auth_authzen_default_confirmation_description">Vil du tillate påloggingen til kontoen din fra %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Vi trenger din bekreftelse</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Du valgte feil nummer. Forespørselen din er avbrutt.</string>
+    <string name="auth_authzen_default_request_description">forespørselsdetaljene er ukjente</string>
+    <string name="auth_authzen_generic_error_text">Det oppsto en feil. Prøv på nytt.</string>
+    <string name="auth_authzen_google_logo_label">Google-logo</string>
+    <string name="auth_authzen_login_challenge_approved_text">Påloggingen er godkjent</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Påloggingen er avbrutt</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Tillat pålogging</string>
+    <string name="auth_authzen_login_challenge_desc_text">Prøver du å logge på fra %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google stoppet påloggingsforsøket.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Feil nummer</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Trykk på tallet som vises på den andre skjermen. Dette logger deg på datamaskinen din.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Noen prøvde akkurat å logge på Google-kontoen din ved hjelp av passordet ditt. Google stoppet påloggingsforsøket.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Påloggingen ble forhindret</string>
+    <string name="auth_authzen_login_challenge_title_text">Prøver du å logge på?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">For å godkjenne pålogging på datamaskinen din, må du bekrefte identiteten din</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">forespørsel om pålogging fra en datamaskin i %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Jeg har ikke bedt om dette</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Takk for at vi får beskjed om dette, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Vi har registrert denne aktiviteten så vi kan fortsette å holde kontoen din trygg.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Logg på</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Avbryt</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Angi PIN for Google-kontoen</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">Greit, fortsett</string>
+    <string name="auth_authzen_no_button_text">Nei</string>
+    <string name="auth_authzen_notify_google_default_text">Google blir varslet dersom andre prøver å få tilgang til kontoen din.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google har mottatt en forespørsel om å endre passordet ditt. Ettersom forespørselen ikke var fra deg, har den blitt kansellert. Ingen endringer er gjort i kontoen din.</string>
+    <string name="auth_authzen_ok_button_text">OK</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Trykk på tallet som vises på den andre skjermen. Dette logger deg på datamaskinen din.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Tillat pålogging</string>
+    <string name="auth_authzen_profile_picture_label">Profilbilde</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Prøvde du akkurat logge på Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Passordtilbakestillingen er godkjent</string>
+    <string name="auth_authzen_recovery_canceled_text">Passordtilbakestillingen er avbrutt</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Vil du tillate tilbakestillingen av passordet fra %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Vi trenger din bekreftelse</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google stoppet forsøket på tilbakestilling av passordet.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Feil nummer</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Trykk på nummeret som vises på den andre skjermen. Dette tilbakestiller passordet ditt.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Tillat tilbakestillingen av passordet</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Noen ba om å tilbakestille passordet for Google-kontoen din. Google stoppet forsøket på tilbakestilling av passordet.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Tilbakestillingen av passordet er forhindret</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Ba du om å tilbakestille passordet ditt fra %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Prøvde du å tilbakestille passordet ditt?</string>
+    <string name="auth_authzen_secure_account_button_text">Sikre kontoen din</string>
+    <string name="auth_authzen_sending_reply_failed_text">Kunne ikke sende svar til tjeneren.</string>
+    <string name="auth_authzen_sending_reply_text">Sender svar til tjeneren</string>
+    <string name="auth_authzen_time_display_text">for mindre enn %s minutter siden</string>
+    <string name="auth_authzen_time_just_now_text">Akkurat nå</string>
+    <string name="auth_authzen_wait_text">Vent litt …</string>
+    <string name="auth_authzen_workflow_title">Forespørsel om Google-autorisering</string>
+    <string name="auth_authzen_yes_button_text">Ja</string>
+    <string name="auth_back_button_label">Tilbake</string>
+    <string name="auth_bad_name_title">Vil du bruke dette navnet?</string>
+    <string name="auth_bluetooth_lure_button">Legg til som pålitelig enhet</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Bekreft låseskjermen</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"En ny Bluetooth-enhet er koblet til. 
+Legg den til %s som en pålitelig enhet for å hoppe over låseskjermen når du er tilkoblet."</string>
+    <string name="auth_bluetooth_lure_one_line_message">En ny Bluetooth-enhet er tilkoblet</string>
+    <string name="auth_bluetooth_lure_title">Personlig opplåsing</string>
+    <string name="auth_cancel_button_label">Avbryt</string>
+    <string name="auth_captcha_instructions">Skriv inn teksten du ser her:</string>
+    <string name="auth_captcha_title">Du må skrive inn CAPTCHA</string>
+    <string name="auth_communicating_message">Enheten din kontakter Google for å lagre informasjon i kontoen din. Dette kan ta opptil fem minutter.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Legitimasjonstatus</string>
+    <string name="auth_d2d_source_bt_notice">Bluetooth kommer til å brukes.</string>
+    <string name="auth_d2d_source_lock_notice">Enheten din kommer til å låse seg selv. Den må låses opp igjen for å fortsette.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Berør og gjenopprett er ikke tilgjengelig fordi det ikke er noen kontoer på denne enheten.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Berør og gjenopprett er ikke tilgjengelig fordi enheten din ikke har Bluetooth.</string>
+    <string name="auth_d2d_source_notification_text">"En ny ^1 ble konfigurert ^2 med denne enheten. Dette inkluderte et forsøk på å overføre følgende Google-kontoer: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Den nye enheten er konfigurert</string>
+    <string name="auth_d2d_source_progress_message">Kopierer data til den nye enheten din ...</string>
+    <string name="auth_d2d_source_question">Vil du kopiere kontoer og data fra denne enheten?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Kan ikke berøre og gjenopprette fra en begrenset brukerprofil.</string>
+    <string name="auth_d2d_source_title">Gjenopprett kontoene</string>
+    <string name="auth_d2d_source_unknown_device_name">Ukjent enhet</string>
+    <string name="auth_d2d_target_adding_accounts_message">Legger til kontoer …</string>
+    <string name="auth_d2d_target_connecting_progress_message">Kobler til enheten din …</string>
+    <string name="auth_d2d_target_connection_lost_alert">Tilkoblingen ble brutt</string>
+    <string name="auth_d2d_target_description">"Du kan raskt kopiere alle Google-kontoer, sikkerhetskopierte apper og informasjon fra den nåværende Android-enheten din. Sånn kopierer du: 
+
+1. Kontrollér at den andre enheten din er slått på og ulåst. 
+
+ 2. Plassér baksiden på enhetene mot hverandre et øyeblikk og legg dem vekk."</string>
+    <string name="auth_d2d_target_skip_button">Hopp over</string>
+    <string name="auth_d2d_target_sorry_alert">Beklager – noe gikk galt</string>
+    <string name="auth_d2d_target_tap_progress_message">Trykk på OK på den andre enheten for å fortsette.</string>
+    <string name="auth_d2d_target_title">Trykk og konfigurer</string>
+    <string name="auth_d2d_target_try_again_button">Prøv på nytt</string>
+    <string name="auth_d2d_target_unlock_progress_message">Lås opp den andre enheten</string>
+    <string name="auth_d2d_target_wait_progress_message">Kopierer kontoer og data ...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Domenet ditt krever administrasjon av mobil enhet. Installer Google Apps Device Policy-appen for å håndheve sikkerhetsretningslinjene for "<b>^1</b>-kontoen.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> bruker ikke Gmail.</string>
+    <string name="auth_error_account_disabled">"Denne kontoen er deaktivert. 
+
+(Du finner mer informasjon ved å åpne http://google.com/accounts i en nettleser.)"</string>
+    <string name="auth_error_account_not_verified">"Denne kontoen har ikke blitt bekreftet. Åpne e-postbekreftelsen, og følg linken for å bekrefte kontoen.
+
+(Du kan be om nytt passord ved å gå til http://www.google.com/accounts/recovery på datamaskinen din.)"</string>
+    <string name="auth_error_bad_password">Passordet er ikke tilstrekkelig sikkert eller inneholder ugyldige tegn. Prøv på nytt.</string>
+    <string name="auth_error_bad_username">Ugyldig brukernavn.</string>
+    <string name="auth_error_invalid_second_factor">Bruk et appspesifikt passord i stedet for det vanlige kontopassordet.</string>
+    <string name="auth_error_login_failed">"Brukernavnet og passordet samsvarer ikke. Prøv på nytt.
+
+Gå til google.com/accounts/recovery/ for å gjenopprette kontoinformasjonen."</string>
+    <string name="auth_error_needs_browser">For å få tilgang til kontoen din må du logge på nettet. Trykk på Neste for å starte nettleserpåloggingen.</string>
+    <string name="auth_error_not_logged_in">Brukeren er ikke pålogget.</string>
+    <string name="auth_error_username_unavailable">Brukernavnet er ikke tilgjengelig.</string>
+    <string name="auth_existing_account_error_text">Det finnes allerede en ^1-konto på Android-enheten.</string>
+    <string name="auth_existing_account_error_title">Kontoen finnes allerede</string>
+    <string name="auth_exit_menu_item">Avbryt påloggingen til nettleseren</string>
+    <string name="auth_facl_scope_details_dialog_title">Hva som er synlig for denne appen</string>
+    <string name="auth_facl_with_warning_label">Endre hvem som er synlig for denne appen</string>
+    <string name="auth_field_cant_be_blank">Feltet må fylles ut.</string>
+    <string name="auth_fitness_settings_title">Fitness</string>
+    <string name="auth_gls_account_creation_tos">Ved å fortsette godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation> samt <annotation id="play_tos"> vilkårene for Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Ved å fortsette godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome samt <annotation id="play_tos">vilkårene</annotation> for Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">Du trenger aldri å miste ting igjen. En Google-konto holder alt trygt.</string>
+    <string name="auth_gls_account_intro_learn_more">Mer informasjon</string>
+    <string name="auth_gls_account_intro_recommended_title">Gå for Google</string>
+    <string name="auth_gls_account_intro_required_title">Drevet av Google</string>
+    <string name="auth_gls_account_intro_simple_message">Vil du legge til en eksisterende konto, eller opprette en ny?</string>
+    <string name="auth_gls_account_intro_title">Google-konto</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Har du Google-konto?
+
+Hvis du bruker Gmail eller Google Apps, er svaret ja."</string>
+    <string name="auth_gls_account_pre_intro_no">Nei</string>
+    <string name="auth_gls_account_pre_intro_title">Er du på Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Ja</string>
+    <string name="auth_gls_account_recovery_info">Hvis du mister passordet ditt, kan du besvare et sikkerhetsspørsmål og få tilsendt en tilbakestillingskobling til en annen adresse.</string>
+    <string name="auth_gls_account_tos_plus_title">Fullfør registreringen på Google+</string>
+    <string name="auth_gls_account_tos_title">Fullfør kontoen</string>
+    <string name="auth_gls_add_a_google_account">Legg til et Google-dokument</string>
+    <string name="auth_gls_alternatives_list_title">Foreslåtte brukernavn</string>
+    <string name="auth_gls_answer">" "<b>Svar</b></string>
+    <string name="auth_gls_backup_consent_message">"Bruk Google-kontoen din til å ta sikkerhetskopier av appene og innstillingene dine (som for eksempel bokmerker og Wi-Fi-passord), samt andre data. Hvis du tidligere har sikkerhetskopiert kontoen din, kan du gjenopprette den til denne telefonen nå.
+
+Under Innstillinger kan du endre innstillingene dine for sikkerhetskopiering."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Bruk Google-kontoen din til å ta sikkerhetskopier av appene og innstillingene dine (som for eksempel bokmerker og Wi-Fi-passord) samt andre data.
+
+Under Innstillinger kan du til enhver tid endre innstillingene for sikkerhetskopiering."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Ta sikkerhetskopier av denne telefonen med Google-kontoen min</string>
+    <string name="auth_gls_cant_be_blank">Feltet må fylles ut.</string>
+    <string name="auth_gls_checking_account">Kontrollerer tilgjengelighet …</string>
+    <string name="auth_gls_checking_username_message">"Telefonen din kobles til Google for å se om brukernavnet du ønsker er tilgjengelig.
+
+Dette kan ta et par minutter."</string>
+    <string name="auth_gls_choose_a_password">Passord</string>
+    <string name="auth_gls_circles_subtitle">Kretser</string>
+    <string name="auth_gls_circles_text">Den enkleste måten å dele de viktigste tingene i livet på – på nettet.</string>
+    <string name="auth_gls_confirm_password">Skriv inn passordet på nytt</string>
+    <string name="auth_gls_create_button_label">Opprett en konto</string>
+    <string name="auth_gls_create_google_account">Velg brukernavn</string>
+    <string name="auth_gls_create_google_account_text">Med Google-kontoen din får du Gmail – Googles e-posttjeneste. Den fungerer på alle enheter, blokkerer nettsøppel og mer.</string>
+    <string name="auth_gls_creating_account_title">Lagrer konto …</string>
+    <string name="auth_gls_creating_profile">Oppretter profilen din</string>
+    <string name="auth_gls_crop_failure">Kunne ikke beskjære bildet.</string>
+    <string name="auth_gls_dasher_warning">Administratoren hos %s eier og forvalter alle dataene dine på Google+ og kan slette eller endre profilen din når som helst uten din tillatelse.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Domenet ditt krever administrasjon av mobil enhet. Installer Google Apps Device Policy-appen for å sikre at sikkerhetsretningslinjene for kontoen "<b>^1</b> overholdes.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Aktiver</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Domenet ditt krever administrasjon av mobil enhet. Installer Google Apps Device Policy-appen for å håndheve sikkerhetsretningslinjene for "<b>^1</b>-kontoen.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Last ned</string>
+    <string name="auth_gls_edit_text_help">Trykk i et tekstfelt for å begynne å skrive</string>
+    <string name="auth_gls_eight_chars_min">Må minimum ha 8 tegn</string>
+    <string name="auth_gls_enable_web_history">Slå på nettloggen</string>
+    <string name="auth_gls_error_bad_password">Passordet er ikke tilstrekkelig sikkert eller inneholder ugyldige tegn. Prøv på nytt.</string>
+    <string name="auth_gls_error_login_failed">"Brukernavnet og passordet samsvarer ikke. Prøv på nytt.
+
+Gå til google.com/accounts/recovery/ for å gjenopprette kontoinformasjonen."</string>
+    <string name="auth_gls_error_needs_browser">For å gå til kontoen din må du logge deg på nettet. Trykk på Neste for å starte nettleserpåloggingen.</string>
+    <string name="auth_gls_existing_account_error_text">Det finnes allerede en ^1-konto på Android-enheten.</string>
+    <string name="auth_gls_existing_account_error_title">Kontoen finnes allerede</string>
+    <string name="auth_gls_existing_button_label">Eksisterende</string>
+    <string name="auth_gls_google_play_opt_in">Hold meg oppdatert på nyheter og tilbud fra Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>"kan bare inneholde bokstaver,
+tall og punktum."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> inneholder ingen bokstaver.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> inneholder færre enn 6 tegn eller flere enn 30 tegn.</string>
+    <string name="auth_gls_huddle_text">Gruppemeldinger for alle folkene i kretsene dine.</string>
+    <string name="auth_gls_invalid_email">"E-postadressen du har skrevet inn er ikke gyldig.
+Eksempel: ole@eksempel.com"</string>
+    <string name="auth_gls_invalid_email_primary">Gjenopprettingsadressen kan ikke være den samme som den du oppretter.</string>
+    <string name="auth_gls_is_not_available">Brukernavnet <b>^1</b> er ikke tilgjengelig.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Finn ut mer</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Med en Google-konto kan du:
+
+"<li><ul>se og organisere all informasjonen din – uansett hvor du er.</ul></li>"
+
+"<li><ul>automatisk sikkerhetskopiere alle dataene dine, som for eksempel e-post, kontakter, musikk og bilder.</ul></li>" 
+
+"<li><ul>enkelt bruke Google-tjenester uansett hvor du befinner deg, herunder Kontakter, Kalender, Google Maps og flere til.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Om Google-kontoer</string>
+    <string name="auth_gls_learn_more_web_history">"Nettloggen justerer søkeresultatene ut fra hva du har søkt etter og hvilke sider du har besøkt. På denne måten får du en personlig tilpasset opplevelse på Google. 
+
+Du kan se og administrere nettloggen din, samt slå den av og på, ved å gå til http://www.google.com/history"</string>
+    <string name="auth_gls_learn_more_web_history_title">Om nettloggen</string>
+    <string name="auth_gls_name_checking_info_title">Sjekker info …</string>
+    <string name="auth_gls_name_progress_title">Vent litt.</string>
+    <string name="auth_gls_name_text">Navnet ditt brukes til å gi telefonen din og Google-tjenestene et personlig preg.</string>
+    <string name="auth_gls_name_text_local">Telefonen bruker navnet ditt til å personlig tilpasse enkelte apper.</string>
+    <string name="auth_gls_name_title_local">Denne telefonen tilhører</string>
+    <string name="auth_gls_name_title_plus">Google+-navnet ditt</string>
+    <string name="auth_gls_network_unreliable">Kan ikke opprette en pålitelig tilkobling til tjeneren.</string>
+    <string name="auth_gls_network_unreliable_help">Dette kan være et midlertidig problem, eller Android-enheten er kanskje ikke klargjort for datatjenester. Hvis problemet vedvarer, må du kontakte brukerstøtten.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Dette kan være et midlertidig problem. Prøv på nytt, eller koble til et annet Wi-Fi-nettverk.</string>
+    <string name="auth_gls_new_button_label">Ny</string>
+    <string name="auth_gls_no_network">Du har ikke nettverkstilkobling.</string>
+    <string name="auth_gls_no_network_help">Dette kan være et midlertidig problem, eller det kan hende at Android-enheten din ikke er klargjort for datatjenester. Prøv på nytt når du er koblet til et mobilnettverk, eller koble til et Wi-Fi-nettverk.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Dette kan være et midlertidig problem. Prøv på nytt, eller koble til et annet Wi-Fi-nettverk.</string>
+    <string name="auth_gls_not_now_button_label">Ikke nå</string>
+    <string name="auth_gls_password_mismatch">Passordene samsvarer ikke. Prøv på nytt.</string>
+    <string name="auth_gls_password_title">Opprett passord</string>
+    <string name="auth_gls_photo_button_label">Ta bilde</string>
+    <string name="auth_gls_photo_description">Bilde av deg</string>
+    <string name="auth_gls_photo_failure">Kunne ikke starte kameraet.</string>
+    <string name="auth_gls_photo_text">Dette bildet blir brukt i kontaktoppføringen din. Du kan endre det senere i Personer-appen.</string>
+    <string name="auth_gls_photo_text_es">Ta et bilde som vennene dine får se på Google+. Du kan velge et nytt bilde senere.</string>
+    <string name="auth_gls_photo_title">Bilde av deg</string>
+    <string name="auth_gls_plus_accepted_button_label">Bli med i Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Ikke nå</string>
+    <string name="auth_gls_plus_failure_new_account_text">Google-kontoen din er opprettet, men forespørselen om å bli med i Google+ gikk ikke gjennom. Prøv på nytt senere ved å gå til plus.google.com i hvilken som helst nettleser.</string>
+    <string name="auth_gls_plus_failure_text">Forespørselen om å bli med i Google+ gikk ikke gjennom. Prøv på nytt senere ved å gå til plus.google.com i hvilken som helst nettleser.</string>
+    <string name="auth_gls_plus_failure_title">Bli med i Google+ senere</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Du får en offentlig profil med Google+, og denne er nyttig for venner som vil finne deg på nettet. Alle som kjenner til e-postadressen din kan finne og se profilen din.
+
+Du kan bruke +1-knappene overalt på nettet for å dele anbefalingene dine med verden. Profilen din og +1 du har gitt vises offentlig i søk, i annonser og ellers på nettet.
+
+Til å begynne med viser profilen bare navnet ditt (%s %s). Du kan legge til bilde, informasjon om deg selv og andre opplysninger senere – når du begynner å ta i bruk Google+."</string>
+    <string name="auth_gls_plus_name_check_text">Dette kan ta noen minutter.</string>
+    <string name="auth_gls_plus_name_check_title">Kontakter Google+ …</string>
+    <string name="auth_gls_plus_query_text">Med Google+ blir deling på nettet nesten som deling i det virkelige liv.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Er du ikke %s?</string>
+    <string name="auth_gls_provisioned_welcome">Hei, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Skriv inn passordet ditt for:
+%s"</string>
+    <string name="auth_gls_recovery_title">Gjenopprettingsinformasjon</string>
+    <string name="auth_gls_restore_consent_yes_agree">Gjenopprett fra Google-kontoen min til denne telefonen</string>
+    <string name="auth_gls_restoring_message">Telefonen din kontakter Google for å gjenopprette kontoen din. Dette kan ta en stund.</string>
+    <string name="auth_gls_restoring_title">Gjenoppretter …</string>
+    <string name="auth_gls_retake_photo_button_label">Ta bilde på nytt</string>
+    <string name="auth_gls_secondary_email_label">Gjenopprettingsadresse</string>
+    <string name="auth_gls_security_questions_title">Sikkerhetsspørsmål</string>
+    <string name="auth_gls_server_error">Det oppsto et problem under kommunikasjonen med Google-tjenerne.</string>
+    <string name="auth_gls_server_error_help">Prøv på nytt senere.</string>
+    <string name="auth_gls_sign_in_agreement">Ved å logge deg på godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation> samt <annotation id="play_tos">vilkårene for Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Ved å logge deg på, godtar du Googles "<annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, i tillegg til <annotation id="play_tos">vilkårene for Google Play</annotation>". 
+
+Husk at andre brukere kan godta oppdaterte apptillatelser på dine vegne. Som med andre datamaskiner bør du bare dele dette nettbrettet med folk du stoler på."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Ved å logge deg på, godtar du Googles "<annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, samt <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome og <annotation id="play_tos">vilkårene</annotation> for Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Ved å logge deg på godtar du Googles "<annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome og <annotation id="play_tos">vilkårene</annotation>" for Google Play. 
+
+Husk at andre brukere kan godta oppdaterte apptillatelser på dine vegne. Som med andre datamaskiner bør du bare dele dette nettbrettet med folk du stoler på."</string>
+    <string name="auth_gls_submission_title">Beklager</string>
+    <string name="auth_gls_suggest_username_next_button_label">Endre brukernavn</string>
+    <string name="auth_gls_suggestions_hint">Trykk for å få forslag</string>
+    <string name="auth_gls_sync_intro_activity_title">Du er logget på kontoen</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Sikkerhetskopiering og gjenoppretting</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Sikkerhetskopi</string>
+    <string name="auth_gls_sync_intro_title">Kontosynkronisering</string>
+    <string name="auth_gls_sync_item_title">Synkroniser %s</string>
+    <string name="auth_gls_too_short">For kort</string>
+    <string name="auth_gls_ui_activity_authenticating">Autentiserer …</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Forbereder …</string>
+    <string name="auth_gls_uploads_subtitle">Direkteopplasting</string>
+    <string name="auth_gls_uploads_text">Det er enkelt å synkronisere alle bildene fra alle enhetene dine.</string>
+    <string name="auth_gls_verify_your_profile">Bekreft profilen din</string>
+    <string name="auth_gls_wait_for_device_country_msg">Innhenter informasjon om telefonen. Dette kan ta opptil 30 sekunder.</string>
+    <string name="auth_gls_wait_for_device_country_title">Konfigurering av kontoen</string>
+    <string name="auth_google_settings_header_title">Personvern</string>
+    <string name="auth_google_title_logo">Google-logo</string>
+    <string name="auth_google_trust_agent_title">Personlig opplåsing</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Logg på Google+</string>
+    <string name="auth_gsf_notification_login_error">Trykk for å logge på kontoen din.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Tillatelse forespurt
+for kontoen %s"</string>
+    <string name="auth_invalid_login_character">Ugyldig tegn. Bare 0–9, a–z, A–Z og mellomrom er tillatt.</string>
+    <string name="auth_invalid_password_character">Passordet inneholder et ugyldig tegn.</string>
+    <string name="auth_invalid_scope">Det ble brukt et ugyldig omfang under autentiseringsforespørselen.</string>
+    <string name="auth_invalid_username">Teksten du har skrevet inn er ikke et gyldig brukernavn.</string>
+    <string name="auth_learn_more_title">Finn ut mer</string>
+    <string name="auth_location_neighborhood_level">Tillat at posisjonsdata sendes til Google. La også tillatte apper bruke data fra kilder som Wi-Fi og mobilnettverk til å fastslå den omtrentlige posisjonen din.</string>
+    <string name="auth_location_network_based">Googles posisjonstjeneste</string>
+    <string name="auth_location_settings_title">Posisjonsinnstillinger</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Du har skrevet inn feil passord, eller kontoen din er endret. Skriv inn passordet på nytt. Hvis du har glemt passordet ditt og må gjenopprette kontoen din, klikker du <annotation id="help_url">her</annotation>.</string>
+    <string name="auth_login_activity_task_title">Pålogging</string>
+    <string name="auth_login_activity_title">Logg på</string>
+    <string name="auth_login_task_title">Logger på</string>
+    <string name="auth_login_title">Skriv inn e-postadresse og passord</string>
+    <string name="auth_maps_settings_title">Maps og Latitude</string>
+    <string name="auth_minutemaid_title">Konfigurer Google-kontoer</string>
+    <string name="auth_name_title">Navn</string>
+    <string name="auth_network_unreliable">Kan ikke opprette en pålitelig datatilkobling til tjeneren.</string>
+    <string name="auth_network_unreliable_help">Dette kan være et midlertidig problem, eller Android-enheten er kanskje ikke klargjort for datatjenester. Hvis problemet vedvarer, må du kontakte brukerstøtten.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Dette kan være et midlertidig problem. Prøv på nytt, eller koble til et annet Wi-Fi-nettverk.</string>
+    <string name="auth_next_button_label">Neste</string>
+    <string name="auth_nfc_caution">Beskytt denne koden. Angripere kan kanskje kopiere den.</string>
+    <string name="auth_nfc_tag_exists">%1$s er allerede lagt til</string>
+    <string name="auth_nfc_tag_not_supported">NFC-enheten du brukte støttes ikke</string>
+    <string name="auth_no_network">Du har ikke nettverksforbindelse.</string>
+    <string name="auth_no_network_help">Dette kan være et midlertidig problem, eller det kan hende at Android-enheten din ikke er klargjort for datatjenester. Prøv på nytt når du er koblet til et mobilnettverk, eller koble til et Wi-Fi-nettverk.</string>
+    <string name="auth_no_network_help_wifi_only">Dette kan være et midlertidig problem. Prøv på nytt, eller koble til et annet Wi-Fi-nettverk.</string>
+    <string name="auth_ok_button_label">OK</string>
+    <string name="auth_only_you_acl">Bare du</string>
+    <string name="auth_otp_dialog_title">Bekreftelseskode</string>
+    <string name="auth_otp_done_button">Ferdig</string>
+    <string name="auth_otp_error">Det oppsto et problem under generering av bekreftelseskoden.</string>
+    <string name="auth_otp_instruction">Bruk denne koden bare for å logge på Google.</string>
+    <string name="auth_otp_no_accounts_available_message">Ingen konto er konfigurert på denne enheten.</string>
+    <string name="auth_otp_progress_dialog_message">Genererer bekreftelseskode …</string>
+    <string name="auth_otp_select_account_message">Velg en konto</string>
+    <string name="auth_pacl_scope_details_dialog_title">Hva som er synlig for Google</string>
+    <string name="auth_password">Passord</string>
+    <string name="auth_personal_unlocking_name">Personlig opplåsing</string>
+    <string name="auth_personal_unlocking_service_name">Personlig opplåsing (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Google-kontoen er opprettet, men forespørselen om å opprette en Google+-profil gikk ikke gjennom. Prøv på nytt senere ved å gå til plus.google.com i en hvilken som helst nettleser.</string>
+    <string name="auth_plus_failure_text">Forespørselen om å bli med i Google+ gikk ikke gjennom. Prøv på nytt senere ved å gå til plus.google.com i en hvilken som helst nettleser.</string>
+    <string name="auth_plus_failure_title">Opprett en Google+-profil senere</string>
+    <string name="auth_plus_faq_title">Velkommen til Google+!</string>
+    <string name="auth_plus_name_check_text">Dette kan ta noen minutter.</string>
+    <string name="auth_plus_query_title">Opprett en Google+-profil</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Hei, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Skriv inn passordet ditt for:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Chrome-enhet låst.</string>
+    <string name="auth_proximity_auth_device_locked_title">Enkel opplåsing</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Chrome-enhet låst opp.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Enkel opplåsing</string>
+    <string name="auth_proximity_auth_setup_completed_content">Denne telefonen kan låse opp Chrome-enhetene dine.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Enkel opplåsing er på</string>
+    <string name="auth_proximity_auth_setup_failed_content">Prøv på nytt på Chrome-enheten din.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Det oppsto en feil under konfigurering av Enkel opplåsing</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Telefon funnet. Fortsett på Chrome-enheten.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Konfigurering av Enkel opplåsing</string>
+    <string name="auth_recovery_loading">Laster inn …</string>
+    <string name="auth_recovery_sending">Sender ...</string>
+    <string name="auth_relogin_activity_title">Skriv inn passordet på nytt</string>
+    <string name="auth_scope_acl_edit_desc">Rediger</string>
+    <string name="auth_scope_details_dialog_title">Mer informasjon</string>
+    <string name="auth_scope_icon_desc">Ikon</string>
+    <string name="auth_scope_info_desc">Informasjon</string>
+    <string name="auth_scope_warning_desc">Advarsel</string>
+    <string name="auth_search_settings_title">Søk</string>
+    <string name="auth_server_error">Det oppsto et problem under kommuniseringen med Google-tjenerne.</string>
+    <string name="auth_server_error_help">Prøv på nytt senere.</string>
+    <string name="auth_setup_wizard_back_button_label">Tilbake</string>
+    <string name="auth_setup_wizard_next_button_label">Neste</string>
+    <string name="auth_setup_wizard_services_activity_title">Google-tjenester</string>
+    <string name="auth_setup_wizard_services_backup"><b>Sikkerhetskopiér enheten din på Google</b> slik at du enkelt kan gjenopprette apper, appdata, systeminnstillinger og Wi-Fi-passord.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Sikkerhetskopiér appene og dataene dine</b> til Google Disk, slik at du enkelt kan gjenopprette enheten. Dataene inkluderer apper, appdata, systeminnstillinger og Wi-Fi-passord. Sikkerhetskopier påvirker ikke lagringsgrensen.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Dataene inkluderer apper, appinnstillinger, systeminnstillinger og Wi-Fi-passord.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Sikkerhetskopiér og gjenopprett</string>
+    <string name="auth_setup_wizard_services_communication_heading">Kommunikasjon</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Bidra til å forbedre Android-opplevelsen din</b>, batteriytelsen, Play Butikk-rangeringer og mer ved å sende diagnostikk- og bruksdata for denne enheten til Google automatisk.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Dataene omfatter maskinvare- og nettverksinformasjon, app- og telefonbruk og krasjrapporter.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Bidra til å forbedre Android-opplevelsen din</b>, batteriytelsen, Play Butikk-rangeringer og mer ved å sende diagnostikk- og bruksdata for denne enheten til Google automatisk. <annotation id="learn_more">Finn ut mer.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">Googles posisjonstjeneste bruker Wi-Fi og andre signaler for å finne posisjoner raskere og mer presist, ofte med lavere strømforbruk enn GPS. Noen data kan lagres på enheten din. Data kan samles inn selv når ingen apper kjører.</string>
+    <string name="auth_setup_wizard_services_location_heading">Posisjon</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Bruk Googles posisjonstjeneste</b> for å hjelpe apper å fastslå posisjon bedre. Anonyme posisjonsdata fra enheten blir sendt til Google.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Hjelp med å forbedre posisjonstjenester</b> ved at apper og tjenester søker etter nettverk selv når Wi-Fi er avslått.</string>
+    <string name="auth_setup_wizard_services_play">Hold meg oppdatert på nyheter og tilbud fra Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">Denne enheten kan motta oppdateringer og apper fra Google, operatøren din og produsenten av enheten.</string>
+    <string name="auth_setup_wizard_title">Oppsettsveiviser</string>
+    <string name="auth_show_error_activity_title">Kunne ikke logge på</string>
+    <string name="auth_show_error_title">Feil</string>
+    <string name="auth_sign_in_agreement">Ved å logge deg på godtar du <annotation id="google_privacy">Googles</annotation> samt <annotation id="android_privacy">ytterligere</annotation> personvernregler.</string>
+    <string name="auth_sign_in_agreement_multi_user">Ved å logge deg på godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, i tillegg til <annotation id="play_tos">vilkårene for Google Play</annotation>". 
+
+Husk at andre brukere kan godta oppdaterte apptillatelser på dine vegne. Som med andre datamaskiner bør du bare dele dette nettbrettet med folk du stoler på."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Ved å logge deg på, godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, samt <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome og <annotation id="play_tos">vilkårene</annotation> for Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Ved å logge deg på godtar du Googles <annotation id="tos">vilkår</annotation> og <annotation id="google_privacy">personvernregler</annotation>, <annotation id="chrome_tos">vilkårene</annotation> og <annotation id="chrome_privacy">personvernreglene</annotation> for Chrome og <annotation id="play_tos">vilkårene</annotation>" for Google Play. 
+
+Husk at andre brukere kan godta oppdaterte apptillatelser på dine vegne. Som med andre datamaskiner bør du bare dele dette nettbrettet med folk du stoler på."</string>
+    <string name="auth_sign_in_browser">Nettleserpålogging</string>
+    <string name="auth_sign_in_button_label">Logg på</string>
+    <string name="auth_sign_in_with_google_account_short">Logg på med Google-kontoen</string>
+    <string name="auth_skip_button_label">Hopp over</string>
+    <string name="auth_submission_error_text">Det oppsto en feil. Prøv på nytt.</string>
+    <string name="auth_submission_title">Beklager</string>
+    <string name="auth_trust_agent_add_nfc_prompt">For å konfigurere, må du holde denne enheten inntil en NFC-brikke eller -enhet.</string>
+    <string name="auth_trust_agent_add_nfc_title">Legg til NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Legg til en pålitelig enhet</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Legg til et pålitelig sted</string>
+    <string name="auth_trust_agent_button_nfc_settings">NFC-innstillinger</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Trygt koblet til Bluetooth-enheten %s</string>
+    <string name="auth_trust_agent_dpm_disabled">Deaktivert av administratoren</string>
+    <string name="auth_trust_agent_enable_nfc">Aktiver NFC for å legge til en NFC-enhet</string>
+    <string name="auth_trust_agent_first_use_notification_button">SKJØNNER</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">mens du er koblet til %s, som du anga som en pålitelig enhet.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Hvis du vil tvinge enheten til å låse seg, må du slå av skjermen og deretter slå den på igjen og trykke på låsikonet.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">mens du er på %s, som du anga som et pålitelig sted.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Enheten er låst opp</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Navn</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC funnet
+Gi den et navn."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Deaktivert</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Aktivert</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Forbedre ansiktssamsvar</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Avbryt</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Enheten kommer ikke til å gjenkjenne ansiktet ditt lenger, og pålitelig ansikt-tjenesten slås av.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Tilbakestill</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Vil du tilbakestille pålitelig ansikt?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Tilbakestill pålitelig ansikt</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Pålitelig ansikt</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Tilkoblet</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Ingen</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Ikke tilkoblet</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Pålitelige enheter</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Ingen</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Hjemme</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Ukjent</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Pålitelige steder</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Jobb</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Sammenkoblingen mislyktes. Prøv på nytt.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Kan ikke konfigurere NFC-enheten</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Legg til en pålitelig Bluetooth-enhet for å holde denne enheten opplåst når den er tilkoblet. 
+
+Eksempler:
+
+– Bluetooth-klokken din
+– Bilens Bluetooth-system"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth er slått av)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Legg til en pålitelig enhet</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth er slått av.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Avbryt</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Velg enhet</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Legg til en pålitelig enhet for å holde denne enheten opplåst når den er tilkoblet. 
+
+Eksempler:
+
+– Bluetooth-klokken din
+– Bilens Bluetooth-system 
+– Et NFC-klistremerke på telefondokken i bilen."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Vil du fjerne denne enheten fra pålitelige enheter?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Ukjent enhet.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Legg til en pålitelig NFC-enhet for å låse opp denne enheten med et trykk. 
+
+Eksempler:
+
+– Et NFC-klistremerke på telefondokken i bilen."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Legg til konto for å hente hjemme- og jobbadressen.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Avbryt</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Legg til en pålitelig posisjon for å holde denne enheten opplåst når du befinner deg der. 
+
+Eksempler:
+
+– boligen din 
+– kontoret ditt"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Fjern</string>
+    <string name="auth_trust_agent_trusted_places_rename">Endre navn</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Velg konto</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Ukjent</string>
+    <string name="auth_trust_devices_not_available">Funksjonen for pålitelige enheter er ikke tilgjengelig for bruk.</string>
+    <string name="auth_trust_places_not_available">Funksjonen for pålitelige steder er ikke tilgjengelig for bruk.</string>
+    <string name="auth_try_again_button_label">Prøv på nytt</string>
+    <string name="auth_ui_activity_authenticating">Autentiserer …</string>
+    <string name="auth_ui_activity_title">Logg på Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Logg på</string>
+    <string name="auth_ui_add_account_title">Konfigurering av kontoen</string>
+    <string name="auth_unexpected_acl_error">Det oppsto et problem under tildelingen av tillatelser.</string>
+    <string name="auth_use_location_summary">La Google bruke posisjonen din til å forbedre søkeresultatene og andre tjenester</string>
+    <string name="auth_use_location_title">Posisjon og Google-søk</string>
+    <string name="auth_username">E-post</string>
+    <string name="auth_visible_actions_title">Del med</string>
+    <string name="authorization_dialog">Autoriseringsdialog</string>
+    <string name="cancel">Avbryt</string>
+    <string name="circle_button_add_to_circles">Legg til i kretser</string>
+    <string name="circle_button_circles">%d kretser</string>
+    <string name="circle_button_follow">Følg</string>
+    <string name="circle_button_following_circle">Følger</string>
+    <string name="circle_button_medium_add_to_circles">Legg til</string>
+    <string name="circle_button_profile_blocked">Blokkert</string>
+    <string name="common_accessibility_audience_view_editable">Rediger publikum</string>
+    <string name="common_add_account_button_label">Legg til konto</string>
+    <string name="common_add_account_label">Legg til konto</string>
+    <string name="common_ads_settings_title">Annonser</string>
+    <string name="common_android_wear_notification_needs_update_text">En app krever en oppdatering av Android Wear-appen.</string>
+    <string name="common_android_wear_update_text">Denne appen kjører ikke med mindre du oppdaterer Android Wear-appen.</string>
+    <string name="common_android_wear_update_title">Oppdater Android Wear</string>
+    <string name="common_app_name">Google Play-tjenester</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts kan ikke startes.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kan ikke startes (tillatelsesfeil).</string>
+    <string name="common_car_permission_desc">Tilgang til biltjenesten.</string>
+    <string name="common_car_permission_label">Biltjeneste</string>
+    <string name="common_chips_label_empty_circles">Ingen kretser</string>
+    <string name="common_chips_label_extended_circles">Utvidede kretser</string>
+    <string name="common_chips_label_only_you">Bare du</string>
+    <string name="common_chips_label_public">Offentlig</string>
+    <string name="common_chips_label_your_circles">Kretsene dine</string>
+    <string name="common_choose_account_label">Velg en konto</string>
+    <string name="common_clear_app_data_menu_item">Slett appdata</string>
+    <string name="common_connected_apps_settings_title">Tilkoblede apper</string>
+    <string name="common_fitness_settings_title">Fitness</string>
+    <string name="common_games_settings_title">Play Spill</string>
+    <string name="common_get_verification_code_menu_item">Få bekreftelseskode</string>
+    <string name="common_google_play_services_enable_button">Aktiver Google Play Tjenester</string>
+    <string name="common_google_play_services_enable_text">Denne appen fungerer ikke med mindre du aktiverer Google Play Tjenester.</string>
+    <string name="common_google_play_services_enable_title">Aktiver Google Play Tjenester</string>
+    <string name="common_google_play_services_error_dialog_title">Feil</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Forespurt av %1$s</string>
+    <string name="common_google_play_services_install_button">Installer Google Play Tjenester</string>
+    <string name="common_google_play_services_install_text_phone">Denne appen kan ikke kjøres uten Google Play Tjenester, som ikke er installert på telefonen din.</string>
+    <string name="common_google_play_services_install_text_tablet">Denne appen kan ikke kjøres uten Google Play Tjenester, som ikke er installert på nettbrettet ditt.</string>
+    <string name="common_google_play_services_install_title">Installer Google Play Tjenester</string>
+    <string name="common_google_play_services_invalid_account_text">Den angitte kontoen finnes ikke på enheten. Velg en annen konto.</string>
+    <string name="common_google_play_services_invalid_account_title">Ugyldig konto</string>
+    <string name="common_google_play_services_needs_enabling_title">En app krever Google Play Tjenester for å aktiveres.</string>
+    <string name="common_google_play_services_network_error_text">Du må ha datatilkobling for å koble deg til Google Play-tjenester.</string>
+    <string name="common_google_play_services_network_error_title">Nettverksfeil</string>
+    <string name="common_google_play_services_no_restricted_profiles">Denne appen støtter ikke kontoer for begrensede profiler</string>
+    <string name="common_google_play_services_notification_needs_installation_title">En app krever installasjon av Google Play Tjenester.</string>
+    <string name="common_google_play_services_notification_needs_update_title">En app krever at Google Play Tjenester oppdateres.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
+    <string name="common_google_play_services_unknown_issue">Det oppsto et ukjent problem med Google Play Tjenester.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play Tjenester, som noen av appene er avhengige av, støttes ikke av enheten. Ta kontakt med produsenten for å få hjelp.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-tjenester</string>
+    <string name="common_google_play_services_update_button">Oppdater</string>
+    <string name="common_google_play_services_update_text">Denne appen kan ikke kjøres før du oppdaterer Google Play Tjenester.</string>
+    <string name="common_google_play_services_update_title">Oppdater Google Play Tjenester</string>
+    <string name="common_google_settings">Google Innstillinger</string>
+    <string name="common_list_apps_menu_help">Brukerstøtte</string>
+    <string name="common_list_apps_menu_help_and_feedback">Hjelp og tilbakemeldinger</string>
+    <string name="common_location_settings_title">Posisjon</string>
+    <string name="common_maps_settings_title">Maps og Latitude</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_network_load_failed">Utilgjengelig fordi enheten ikke kunne koble til noe nettverk</string>
+    <string name="common_no_network">Utilgjengelig fordi enheten ikke har Internett-tilkobling</string>
+    <string name="common_open_on_phone">Åpne på telefonen</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Det finnes ingen kontoer som kan velges</string>
+    <string name="common_search_and_now_settings_title">Søk og Nå</string>
+    <string name="common_search_settings_title">Søk</string>
+    <string name="common_security_settings_title">Bekreft apper</string>
+    <string name="common_signin_button_text">Logg på</string>
+    <string name="common_signin_button_text_long">Logg inn med Google</string>
+    <string name="common_storage_settings_title">Play Tjenester-lagring</string>
+    <string name="common_ui_confirm_deleting_button">Slett</string>
+    <string name="common_ui_confirm_deleting_checkbox">Jeg forstår, og ønsker å slette</string>
+    <string name="common_url_load_unsuccessful_message">Android-enheten er ikke koblet til noen datatjeneste. Hvis du vil se denne informasjonen nå, kan du åpne %s i en nettleser.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android-enheten din er ikke tilkoblet noe Wi-Fi-nettverk. Gå til %s i en nettleser for å se informasjonen om dette.</string>
+    <string name="common_url_login_notice">Logg på som %1$s</string>
+    <string name="common_usage_and_diagnostics">Bruk og diagnostikk</string>
+    <string name="country_invalid">Dette landet er ikke tillatt</string>
+    <string name="device_location_acl_no_one">Ingen</string>
+    <string name="device_location_best_acl_picker_title">Synlighet for nøyaktig posisjon</string>
+    <string name="device_location_city_acl_picker_title">Synlighet for posisjon på bynivå</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s og andre</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> og %d til</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Du må ha en datatilkobling for å kunne se innstillingene for posisjonsdeling. Sjekk tilkoblingen din, eller prøv på nytt senere.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Åpne posisjonsinnstillingene</string>
+    <string name="device_location_reporting_reminder_dialog_summary">Hvis du slår av posisjonsdeling, får det ikke innvirkning på posisjonsrapporteringen eller posisjonsloggen din. Andre Google-tjenester du tidligere har valgt, for eksempel Google Nå, kan komme til å trenge posisjonen din. Du kan når som helst styre posisjonsrapporteringen og -loggen via Posisjonsinnstillinger.</string>
+    <string name="device_location_reporting_reminder_dialog_title">Posisjonsrapportering</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> og &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> og &lt;b>%s&lt;/b></string>
+    <string name="disagree">Avslå</string>
+    <string name="enable_location_reporting_error">Vi kunne ikke slå på posisjonsrapporteringen og -loggen for %s. Hvis du vil slå på posisjonsrapporteringen og -loggen, kan du gå til Posisjonsinnstillinger.</string>
+    <string name="enable_location_reporting_error_title">Det oppsto en feil</string>
+    <string name="enable_location_reporting_title">Posisjonsrapportering</string>
+    <string name="friend_locations_enable_reporting_auto_body">Med Posisjonsrapportering kan alle Google-produktene som bruker funksjonen, oppbevare og bruke de nyeste posisjonsdataene for enheten din. Posisjonsdeling krever at Posisjonsrapportering er slått på.&lt;br/>&lt;br/>Med posisjonsloggen kan Google lagre en logg over posisjonsdataene dine fra enheter der du har aktivert Posisjonsrapportering. &lt;a href=\"%2$s\"> Finn ut mer&lt;/a>.&lt;br/>&lt;br/>Vil du slå på posisjonsrapporteringen og -loggen for %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">Med Posisjonsrapportering kan alle Google-produktene som bruker funksjonen, oppbevare og bruke de nyeste posisjonsdataene for enhetene dine. Posisjonsdeling krever at Posisjonsrapportering er slått på.&lt;br/>&lt;br/>Under Posisjonsinnstillinger i Google Maps bør du forsikre deg om at Posisjonsrapportering er satt til «Finn posisjonen din» og at det er merket av for «Fra denne enheten». &lt;a href=\"%s\">Finn ut mer&lt;/a>.</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">Med Posisjonsrapportering kan alle Google-produktene som bruker funksjonen, oppbevare og bruke de nyeste posisjonsdataene for enheten din. Posisjonsdeling krever at Posisjonsrapportering er slått på.&lt;br/>&lt;br/>Logg på Google Maps som %1$s, gå til Posisjonsinnstillinger og sjekk at Posisjonsrapportering er satt til «Finn posisjonen din», og at det er merket av for «Fra denne enheten». &lt;a href=\"%2$s\">Finn ut mer&lt;/a>.</string>
+    <string name="loading">Laster inn …</string>
+    <string name="location_settings_allow_access_summary">Lar Google-apper bruke enhetens posisjon når den er påslått</string>
+    <string name="location_settings_allow_access_title">Posisjonstilgang</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Du kan ikke hente tilbake posisjonsloggen din. 
+
+Google Nå og andre apper som bruker posisjonsloggen din kan slutte å fungere."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Vil du slette permanent?</string>
+    <string name="location_settings_delete_auth_error">Feil brukernavn eller passord</string>
+    <string name="location_settings_delete_io_error">Enheten kunne ikke koble til noe nettverk</string>
+    <string name="location_settings_delete_location_history">SLETT POSISJONSLOGGEN</string>
+    <string name="location_settings_delete_location_history_in_progress">SLETTER …</string>
+    <string name="location_settings_delete_offline_error">Enheten har ikke nettilkobling</string>
+    <string name="location_settings_expiration_both_one">1 time og 1 minutt igjen</string>
+    <string name="location_settings_expiration_both_other" formatted="false">%d timer og %d minutter igjen</string>
+    <string name="location_settings_expiration_hours_one">1 time og %d minutter igjen</string>
+    <string name="location_settings_expiration_minutes">%d minutter igjen</string>
+    <string name="location_settings_expiration_minutes_one">%d timer og 1 minutt igjen</string>
+    <string name="location_settings_expiration_soon">Under 15 minutter igjen</string>
+    <string name="location_settings_info_title">Info</string>
+    <string name="location_settings_location_history_activity_title">Posisjonslogg</string>
+    <string name="location_settings_location_history_summary_full">"Denne innstillingen lar Google lagre en logg for posisjonsdataene dine fra enheter der du har aktivert posisjonsrapportering for denne kontoen. Posisjonsloggen gjør at du får mer ut av Google, f.eks. kan Google Nå bruke den for å varsle deg om trafikken på vei til jobb.
+
+Du kan se og administrere posisjonsloggen din på maps.google.com/locationhistory Du kan når som helst slå av posisjonsloggen, men dette sletter ikke eksisterende oppføringer. Knappen nedenfor sletter alle eksisterende oppføringer for denne kontoen."</string>
+    <string name="location_settings_location_reporting_activity_title">Posisjonsrapportering</string>
+    <string name="location_settings_location_reporting_summary_full">"Google bruker denne funksjonen i produkter som Google Nå og Google Maps. 
+
+Ved å slå på posisjonsrapportering, lar du Google-produkter som bruker denne tjenesten lagre og bruke enhetens nyligste posisjonsdata i tilknytning til Google-kontoen din."</string>
+    <string name="location_settings_no_network_alert">Du må ha en datatilkobling for å kunne se innstillingene for posisjonsdeling. Sjekk tilkoblingen din, eller prøv på nytt senere.</string>
+    <string name="location_settings_not_available_summary">Du har ikke Google-konto.</string>
+    <string name="location_settings_not_available_title">Legg til en konto</string>
+    <string name="location_settings_reporting_summary_off">Slått av for denne enheten</string>
+    <string name="location_settings_reporting_summary_on">Slått på for denne enheten</string>
+    <string name="location_settings_save_error">Kan ikke lagre innstillingene.</string>
+    <string name="location_settings_saving">Lagrer innstillingene ...</string>
+    <string name="location_settings_screen_title">Google posisjonsinnstillinger</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Denne innstillingen styrer bare posisjonstilgangen for Google-apper.
+
+For å styre posisjonstilgangen for alle apper, går du til  Innstillinger > Posisjonstilgang."</string>
+    <string name="location_settings_temporary_sharing_title">Midlertidig deling med</string>
+    <string name="location_settings_ulr_summary_ambiguous">Kunne ikke fastslå forrige innstilling. Den er slått av.</string>
+    <string name="location_settings_ulr_summary_auth_error">Utilgjengelig på grunn av feil brukernavn eller passord</string>
+    <string name="location_settings_ulr_summary_error">Kunne ikke kontakte tjeneren for å hente innstillingene. Prøv på nytt senere.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Deaktivert</string>
+    <string name="location_settings_ulr_summary_loading">Henter ...</string>
+    <string name="location_settings_ulr_summary_off">Av</string>
+    <string name="location_settings_ulr_summary_offline">Utilgjengelig fordi enheten ikke har Internett-tilkobling</string>
+    <string name="location_settings_ulr_summary_on">På</string>
+    <string name="location_settings_ulr_summary_restricted">Deaktivert</string>
+    <string name="location_settings_ulr_summary_unknown">Ukjent</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Ikke tilgjengelig i %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Ikke tilgjengelig i dette området</string>
+    <string name="location_settings_view_all">Se alle</string>
+    <string name="location_sharing_settings_acl_title">Deler med %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Velg folk du vil dele med</string>
+    <string name="location_sharing_settings_city_description">Bruk deling av posisjon på bynivå for å la venner og familie se hvilken by du befinner deg i.</string>
+    <string name="location_sharing_settings_city_example">Eksempel: San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_city_title">Posisjon på bynivå</string>
+    <string name="location_sharing_settings_description">Med posisjonsdeling kan du dele den nåværende posisjonen din med hvem du vil, via Posisjonsrapportering på enheten din.&lt;br/>&lt;br/> Folk du deler posisjonen din med, kan se den nåværende posisjonen din i Google-produkter som for eksempel Google+ og Google Nå. De kan også se stedene dine, som for eksempel hjemme og arbeid. &lt;a href=\"%s\">Finn ut mer&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">Med posisjonsdeling kan du dele den nåværende posisjonen din med hvem du vil, via &lt;a href=\"%1$s\">Posisjonsrapportering&lt;/a> på enheten din.&lt;br/>&lt;br/>Folk du deler posisjonen din med, kan se den nåværende posisjonen din i Google-produkter som for eksempel Google+ og Google Nå. De kan også se stedene dine, for eksempel hjemme og arbeid. &lt;a href=\"%2$s\">Finn ut mer&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Endre</string>
+    <string name="location_sharing_settings_pinpoint_description">Bruk deling av nøyaktig posisjon for å vise dine nærmeste nøyaktig hvor du befinner deg på kartet akkurat nå.</string>
+    <string name="location_sharing_settings_pinpoint_example">Eksempel: 123 Main St, San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_pinpoint_title">Nøyaktig posisjon</string>
+    <string name="location_sharing_settings_title">Posisjonsdeling</string>
+    <string name="location_ulr_ambiguous_setting_text">Kunne ikke fastslå forrige innstilling. Vil du slå den på nå?</string>
+    <string name="location_ulr_setting_google_location_disabled">Utilgjengelig fordi Google-apper ikke har posisjonstilgang</string>
+    <string name="location_ulr_setting_label">Google Posisjonsrapportering</string>
+    <string name="location_ulr_setting_location_disabled">Utilgjengelig fordi Posisjon er slått av</string>
+    <string name="location_ulr_setting_no_account">Av, ingen kontoer</string>
+    <string name="location_ulr_setting_reporting_only">Bruker siste posisjon</string>
+    <string name="location_warning_do_not_show_again">Ikke vis igjen</string>
+    <string name="location_warning_message">La Google hjelpe apper å fastslå posisjoner. Dette betyr å sende anonyme posisjonsdata til Google, selv når ingen apper kjører.</string>
+    <string name="location_warning_title">Vil du bruke Googles posisjonstjeneste?</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Min posisjon 
+Nøyaktig ned til {0} meter"</string>
+    <string name="maps_API_OUTDATED_WARNING">Denne appen bruker en utdatert versjon av Maps. Det vil kanskje ikke fungere.</string>
+    <string name="maps_CLOSE_SOFTKEY">Lukk</string>
+    <string name="maps_COMPASS_ALT_TEXT">Kompass</string>
+    <string name="maps_LEVEL_ALT_TEXT">Nivå {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Min posisjon</string>
+    <string name="maps_YOUR_LOCATION">Din nåværende posisjon</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Zoom inn</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Zoom ut</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google – Bilder ©%2$d %3$s, Kartdata ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google – Bilder ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google – Kartdata ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Ugyldig panorama.</string>
+    <string name="maps_network_unavailable">Dette programmet krever en datatilkobling og vil forsøke å koble til på nytt. Kontroller signalstyrken. Er flymodus aktivert? Er roamingdata deaktivert?</string>
+    <string name="maps_no_panorama_data">Panoramadata er ikke bestemt.</string>
+    <string name="maps_panorama_disabled">Bildet er ikke lenger tilgjengelig.</string>
+    <string name="maps_service_unavailable">Street View-tjenesten er ikke tilgjengelig.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Mistet datatilkobling, prøver på nytt …</string>
+    <string name="mr_media_route_button_content_description">Cast</string>
+    <string name="mr_media_route_chooser_searching">Søker etter enheter …</string>
+    <string name="mr_media_route_chooser_title">Koble til enheten</string>
+    <string name="mr_media_route_controller_disconnect">Koble fra</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Enheter</string>
+    <string name="notification_ticker">Tilgang forespurt</string>
+    <string name="off">Av</string>
+    <string name="ok">OK</string>
+    <string name="on">På</string>
+    <string name="open_location_settings">Åpne posisjonsinnstillingene</string>
+    <string name="phone_number_hint">Telefonnummer</string>
+    <string name="phone_number_invalid">Ugyldig telefonnummer</string>
+    <string name="phone_number_invalid_character">Ugyldige tegn i telefonnummer</string>
+    <string name="place_address_hint">Adresse</string>
+    <string name="place_address_title">Adresse</string>
+    <string name="place_address_update_hint">Oppdater</string>
+    <string name="place_category_hint">Velg en kategori</string>
+    <string name="place_category_title">Kategori</string>
+    <string name="place_name_hint">Stedsnavn</string>
+    <string name="place_name_title">Navn</string>
+    <string name="place_phone_hint">Primært telefonnummer</string>
+    <string name="place_phone_title">Telefon</string>
+    <string name="place_picker_adding_a_place">Sender rapporten …</string>
+    <string name="place_picker_cancel">Avbryt</string>
+    <string name="place_picker_cant_add_place">Kan ikke legge til sted.</string>
+    <string name="place_picker_label">Velg et sted</string>
+    <string name="place_picker_location_off_message">Hvis du vil velge en posisjon, må du først slå på posisjonstilgang i innstillingene.</string>
+    <string name="place_picker_nearby_places">Steder i nærheten</string>
+    <string name="place_picker_no_search_results">Fant ingen samsvarende steder.</string>
+    <string name="place_picker_search_error">Kan ikke laste inn søkeresultater.</string>
+    <string name="place_picker_search_hint">Søk</string>
+    <string name="place_picker_searching_label">Søker …</string>
+    <string name="place_picker_select_a_location_label">Velg et sted for mer info</string>
+    <string name="place_picker_select_this_location">Velg denne posisjonen</string>
+    <string name="place_picker_settings">Innstillinger</string>
+    <string name="place_picker_updating_location_label">Oppdaterer stedet ...</string>
+    <string name="place_picker_updating_nearby_label">Oppdaterer steder i nærheten ...</string>
+    <string name="place_website_hint">Offisielt nettsted</string>
+    <string name="place_website_title">Nettsted</string>
+    <string name="plus_accessibility_acl_selection">Velg hvem du vil dele med</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Sirkel</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Legg til i en ny krets</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Brukerbilde</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Kretser</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Søk etter folk eller kretser</string>
+    <string name="plus_accessibility_circle_selection">Velg kretser</string>
+    <string name="plus_accessibility_comment_avatar">Kretser</string>
+    <string name="plus_accessibility_facl_selection">Velg hvilke kretsmedlemmer som skal være synlige for appen</string>
+    <string name="plus_accessibility_update_circles">Oppdater kretsene</string>
+    <string name="plus_actionbar_up_button_description">Naviger oppover</string>
+    <string name="plus_add_to_circle_progress">Legger til …</string>
+    <string name="plus_add_to_circles_title_default">Legg til i kretser</string>
+    <string name="plus_add_to_circles_title_with_user_name">Legg til %1$s</string>
+    <string name="plus_add_to_following_circle_progress">Følger …</string>
+    <string name="plus_add_to_new_circle_progress_message">Legger til …</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">KONTO</string>
+    <string name="plus_app_settings_activity_label">Tilkoblede apper</string>
+    <string name="plus_app_settings_activity_log_label">Aktivitetslogg</string>
+    <string name="plus_app_settings_activity_log_page_label">Aktivitetslogg</string>
+    <string name="plus_app_settings_all_apps_label">Alle apper og enheter</string>
+    <string name="plus_app_settings_apps_page_label">Tilkoblede apper</string>
+    <string name="plus_app_settings_fitness_apps_label">Fitness-apper og -enheter</string>
+    <string name="plus_app_settings_sign_in_apps_label">Apper m/Google+-pålogging</string>
+    <string name="plus_article_preview_image_description">Bilde med forhåndsvisning av artikkelen</string>
+    <string name="plus_audience_edit_button_label">Rediger</string>
+    <string name="plus_audience_selection_cancel">Avbryt</string>
+    <string name="plus_audience_selection_contacts">Alle kontakter</string>
+    <string name="plus_audience_selection_contacts_description">Tar med kontakter du oppretter senere</string>
+    <string name="plus_audience_selection_description_acl">DEL MED</string>
+    <string name="plus_audience_selection_done">Fullført</string>
+    <string name="plus_audience_selection_everyone">Alle kretsene</string>
+    <string name="plus_audience_selection_everyone_description">Tar med kretser du lager senere</string>
+    <string name="plus_audience_selection_header_circles">KRETSER</string>
+    <string name="plus_audience_selection_header_people">FOLK</string>
+    <string name="plus_audience_selection_header_search">SØKTE ETTER</string>
+    <string name="plus_audience_selection_header_suggested">FORESLÅTT</string>
+    <string name="plus_audience_selection_hidden_circle">Folk i denne kretsen vises ikke offentlig på profilen din</string>
+    <string name="plus_audience_selection_loading">Laster inn ...</string>
+    <string name="plus_audience_selection_new_circle">Legg til i en ny krets</string>
+    <string name="plus_audience_selection_public_circle">alle på nettet</string>
+    <string name="plus_audience_selection_search_device_results">FRA ENHETEN DIN</string>
+    <string name="plus_audience_selection_search_google_results">FRA GOOGLE</string>
+    <string name="plus_audience_selection_title">Målgruppe</string>
+    <string name="plus_audience_selection_title_acl">Del med</string>
+    <string name="plus_audience_selection_title_search">Søk</string>
+    <string name="plus_audience_selection_title_update_circles">Legg til i kretser</string>
+    <string name="plus_auth_audience_view_default_description">%s kommer til å sende informasjon om aktivitetene dine fra denne appen til Google. Du kan velge hvilke andre som skal kunne se disse aktivitetene på Google.</string>
+    <string name="plus_auth_audience_view_footnote">Google kommer til å bruke denne informasjonen i henhold til Googles <annotation id="tos">vilkår for bruk</annotation> og <annotation id="google_privacy">personvernregler</annotation></string>
+    <string name="plus_auth_hide_circles_label">Skjul alle kretser</string>
+    <string name="plus_auth_info_fragment_app_name">Forespørsel fra %s om å:</string>
+    <string name="plus_auth_see_circles_label">Se alle kretser</string>
+    <string name="plus_avatar_image_description">Brukerbilde</string>
+    <string name="plus_bad_name_agree_button_label">Send</string>
+    <string name="plus_bad_name_decline_button_label">Endre navn</string>
+    <string name="plus_bad_name_skip_button_label">Hopp over Google+</string>
+    <string name="plus_checking_gplus_signup_state">Kobler til …</string>
+    <string name="plus_choose_facl_title">Grunninfo som %s henter inn</string>
+    <string name="plus_circle_creation_circle_name_hint">Kretsnavn</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Kunne ikke opprette kretsen. Prøv på nytt senere.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Opprett</string>
+    <string name="plus_circle_creation_title_default">Opprett en krets</string>
+    <string name="plus_circle_creation_title_with_user_name">Legg til %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Knapp for lukking av dialogboksen</string>
+    <string name="plus_close_button_label">Lukk</string>
+    <string name="plus_create_button_description">Knapp for tilføying til en ny krets</string>
+    <string name="plus_cross_client_auth_toast_text">Velkommen tilbake til %1$s. Du har logget deg inn med Google som %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Denne aktiviteten er synlig for:</string>
+    <string name="plus_delete_moment_failed_dialog_message">Kan ikke slette aktivitetene – prøv igjen senere.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Sletter ...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Slett også alle %s-aktivitetene dine på Google</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s kommer til å miste tilgangen du har gitt til Google-kontoen din, og slutte å sende appaktivitetene dine til Google. Det kan ta opptil en time før dette er fullført.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Avbryt</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Koble fra</string>
+    <string name="plus_disconnect_source_dialog_title">Vil du koble fra?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Kunne ikke koble fra %s.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Vil du koble denne appen fra Google?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Kobler fra %s …</string>
+    <string name="plus_domain_default">domenet ditt</string>
+    <string name="plus_domain_restricted_choice_body">Hindre at innlegget blir delt utenfor %s</string>
+    <string name="plus_domain_restricted_choice_title">Begrens til %s</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">Fullt navn, profilbilde, Google+-ID, aldersgruppe, språk og en liste over folk i de valgte kretsene under. Listen inneholder offentlige profiler, men ikke navnene på kretsene du har lagt dem til i.</string>
+    <string name="plus_first_name">Fornavn</string>
+    <string name="plus_gender_prompt">Velg kjønn</string>
+    <string name="plus_install_app_dialog_checkbox_text">Ikke spør igjen.</string>
+    <string name="plus_install_app_dialog_message">Vil du skaffe deg Google+-appen for å se innlegget du nettopp delte?</string>
+    <string name="plus_install_app_dialog_negative_button">Ikke nå</string>
+    <string name="plus_install_app_dialog_positive_button">Installer</string>
+    <string name="plus_install_app_dialog_title">Skaff deg Google+</string>
+    <string name="plus_internal_error">Det oppsto en intern feil.</string>
+    <string name="plus_invalid_account">Ugyldig konto</string>
+    <string name="plus_last_name">Etternavn</string>
+    <string name="plus_list_apps_aspen_empty_message">"Du har ikke koblet til noen apper ved hjelp av Google+ Innlogging.
+
+"<annotation id="learn_more">Finn ut mer</annotation></string>
+    <string name="plus_list_apps_disabled_error">Kan ikke laste inn tilkoblede apper akkurat nå. <annotation id="learn_more">Mer informasjon</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Ingen apper er koblet til Google-kontoen din</string>
+    <string name="plus_list_apps_error">Kan ikke laste inn apper. Prøv på nytt senere.</string>
+    <string name="plus_list_apps_error_aspen">"Kan ikke laste inn appene.
+
+"<annotation id="learn_more">Mer informasjon</annotation> om apper med Google+ Innlogging.</string>
+    <string name="plus_list_apps_error_fitness">"Kunne ikke laste inn appene eller enhetene.
+
+"<annotation id="learn_more">Finn ut mer</annotation> om Fitness-apper og -enheter.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Du har ikke koblet noen apper eller enheter til Google Fit
+
+"<annotation id="learn_more">Finn ut mer</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Ingen kontoer.</string>
+    <string name="plus_list_moments_disabled_error">Kan ikke laste inn aktivitetsloggen din akkurat nå. <annotation id="learn_more">Mer informasjon</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Du har ingen aktiviteter</string>
+    <string name="plus_list_moments_error">Kan ikke laste inn aktiviteter. Prøv på nytt senere.</string>
+    <string name="plus_list_moments_filter_empty_message">Du har ingen aktiviteter av denne typen</string>
+    <string name="plus_list_moments_time_acl_format">%1$s – %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Kan ikke vise denne aktiviteten fra aktivitetsloggen din. Gå direkte til denne appen.</string>
+    <string name="plus_loading">Laster inn ...</string>
+    <string name="plus_manage_app_acl_description_label">Aktiviteter denne appen deler med Google</string>
+    <string name="plus_manage_app_acl_error">Kunne ikke oppdatere appen.</string>
+    <string name="plus_manage_app_all_circles_label">Alle kretser</string>
+    <string name="plus_manage_app_app_icon_desc">Ikon</string>
+    <string name="plus_manage_app_disabled_error">Kan ikke laste inn den tilkoblede appen din akkurat nå. <annotation id="learn_more">Mer informasjon</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Koble fra</string>
+    <string name="plus_manage_app_domain_label">Domene</string>
+    <string name="plus_manage_app_extended_circles_label">Utvidede kretser</string>
+    <string name="plus_manage_app_facl_label">Denne appen kan se disse folkene</string>
+    <string name="plus_manage_app_label">Tilkoblet app</string>
+    <string name="plus_manage_app_limited_label">Delt privat</string>
+    <string name="plus_manage_app_no_acl_description">Bruken din av denne appen</string>
+    <string name="plus_manage_app_no_circles_label">Ingen</string>
+    <string name="plus_manage_app_only_you_label">Bare deg</string>
+    <string name="plus_manage_app_pacl_label">Hvem kan se appaktivitetene dine på Google?</string>
+    <string name="plus_manage_app_pacl_sub_label">Valgene du tar her, fører ikke til endringer i synligheten for eksisterende aktiviteter i aktivitetsloggen din, men de får innvirkning på spillaktivitetene dine.</string>
+    <string name="plus_manage_app_public_label">Offentlig</string>
+    <string name="plus_manage_app_scopes_label">Denne appen har tilgang til:</string>
+    <string name="plus_manage_app_updating_acl">Oppdaterer ...</string>
+    <string name="plus_manage_aspen_app_label">App med Google+ Logg på</string>
+    <string name="plus_manage_device_disconnect_label">Koble fra</string>
+    <string name="plus_manage_device_label">Tilkoblet enhet</string>
+    <string name="plus_manage_moment_acl">"Synlig for:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Enkelte detaljer kunne ikke lastes inn. Prøv på nytt senere</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Slett</string>
+    <string name="plus_manage_moment_delete_label">SLETT</string>
+    <string name="plus_manage_moment_image_desc">Se aktiviteten</string>
+    <string name="plus_manage_moment_label">Aktivitet</string>
+    <string name="plus_manage_moment_no_in_app_delete">Kan ikke administrere denne aktiviteten. <annotation id="learn_more">Mer informasjon</annotation></string>
+    <string name="plus_ok_button_description">OK-knapp</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Anbefal på Google</string>
+    <string name="plus_one_annotation_none_short">Anbefal dette</string>
+    <string name="plus_one_app">Fra &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">mange</string>
+    <string name="plus_one_description">Trykk for å gi pluss én til eksisterende %1$s</string>
+    <string name="plus_one_description_remove">Trykk for å fjerne pluss én fra eksisterende %1$s</string>
+    <string name="plus_one_description_standard">Trykk for å gi pluss én.</string>
+    <string name="plus_one_error">Det oppstod et midlertidig problem med å gi +1. Prøv på nytt.</string>
+    <string name="plus_one_public">Offentlig</string>
+    <string name="plus_one_self">+1 fra %1$s</string>
+    <string name="plus_one_self_removed">Din +1 er fjernet.</string>
+    <string name="plus_one_share">Del</string>
+    <string name="plus_one_social_annotation_prefix">deriblant %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">blant annet %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s ga +1</string>
+    <string name="plus_one_social_annotation_user">Du</string>
+    <string name="plus_one_title">Du har gitt +1 offentlig som</string>
+    <string name="plus_one_undo">Angre</string>
+    <string name="plus_oob_3p_promo">Få mer ut av %1$s med en offentlig Google+-profil.</string>
+    <string name="plus_oob_cancel_button_label">Avbryt</string>
+    <string name="plus_oob_default_promo">Få mer ut av Google med en offentlig Google+-profil.</string>
+    <string name="plus_oob_done_button_label">Fullført</string>
+    <string name="plus_oob_edit_name_warning">Hvis du endrer Google+-profilnavnet ditt, endres det i alle Google-produktene.</string>
+    <string name="plus_oob_failure_text">Google+ kunne dessverre ikke konfigurere profilen din. Prøv på nytt senere.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Navn</string>
+    <string name="plus_oob_first_name_content_description">Fornavn</string>
+    <string name="plus_oob_gender_content_description">Kjønn</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Ikke nå</string>
+    <string name="plus_oob_interstitial_loading">Kontakter Google+ …</string>
+    <string name="plus_oob_interstitial_loading_body">Dette kan ta noen minutter.</string>
+    <string name="plus_oob_interstitial_sending">Sender …</string>
+    <string name="plus_oob_interstitial_sending_body">Dette kan ta noen minutter.</string>
+    <string name="plus_oob_join">Opprett</string>
+    <string name="plus_oob_last_name_content_description">Etternavn</string>
+    <string name="plus_oob_loading">Laster inn …</string>
+    <string name="plus_oob_next">Neste</string>
+    <string name="plus_oob_next_content_description">Neste-knapp</string>
+    <string name="plus_oob_no_connection_message">Kan ikke koble til tjeneren.</string>
+    <string name="plus_oob_no_connection_title">Ingen tilkobling</string>
+    <string name="plus_oob_pronoun_content_description">Omtal meg som</string>
+    <string name="plus_oob_sending">Sender …</string>
+    <string name="plus_oob_title_tos">Google+-profil</string>
+    <string name="plus_oob_tos_accept">Godta</string>
+    <string name="plus_photo_preview_image_description">Forhåndsvisning av bildet</string>
+    <string name="plus_plus_icon_image_description">Google pluss-ikonbilde</string>
+    <string name="plus_posted_just_now">Akkurat nå</string>
+    <string name="plus_pronoun_prompt">Velg</string>
+    <string name="plus_remove_from_circle_progress">Fjerner …</string>
+    <string name="plus_replybox_button_description">Svar</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Vil du forkaste dette svaret?</string>
+    <string name="plus_replybox_hint_text">Legg til et svar</string>
+    <string name="plus_replybox_internal_error">Kunne ikke svare.</string>
+    <string name="plus_replybox_no_network_connection">Kunne ikke opprette svaret. Prøv på nytt.</string>
+    <string name="plus_replybox_post_error_message">Kunne ikke legge ut svaret.</string>
+    <string name="plus_replybox_post_success">Svaret ditt er lagt ut.</string>
+    <string name="plus_scope_fragment_extended_circles_label">De utvidede kretsene dine</string>
+    <string name="plus_scope_fragment_mixed_label">Valgte kretser</string>
+    <string name="plus_scope_fragment_only_you_label">Bare du</string>
+    <string name="plus_scope_fragment_public_label">Alle på nettet</string>
+    <string name="plus_scope_fragment_your_circles_label">Kretsene dine</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Konfigurasjonsveiviser</string>
+    <string name="plus_share_button_description">Delingsknapp</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Fullført</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Velg mottakere</string>
+    <string name="plus_sharebox_audience_to_text">Til:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Publikum</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Ny krets</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Kunne ikke legge til folk i kretsen</string>
+    <string name="plus_sharebox_circles_button">Fullført</string>
+    <string name="plus_sharebox_circles_checkbox_label">Legg til %1$s i kretsen:</string>
+    <string name="plus_sharebox_circles_create_failed">Kunne ikke opprette kretsen</string>
+    <string name="plus_sharebox_circles_create_option">Opprett en ny krets</string>
+    <string name="plus_sharebox_circles_following_circle">Følger</string>
+    <string name="plus_sharebox_circles_friends_circle">Venner</string>
+    <string name="plus_sharebox_circles_name_length_warning">Dette kretsnavnet er for langt.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Dette kretsnavnet er allerede i bruk.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Legg til i en krets</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Vil du forkaste dette innlegget?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Delingen mislyktes.</string>
+    <string name="plus_sharebox_load_error">Det oppsto et midlertidig problem da del-boksen skulle lastes inn. Prøv på nytt.</string>
+    <string name="plus_sharebox_next">NESTE</string>
+    <string name="plus_sharebox_no_network_connection">Kunne ikke opprette innlegget. Prøv igjen.</string>
+    <string name="plus_sharebox_post_body_hint">Skriv noe her …</string>
+    <string name="plus_sharebox_post_body_icon">Profilbilde</string>
+    <string name="plus_sharebox_post_error_message">Kunne ikke opprette innlegget. Prøv igjen.</string>
+    <string name="plus_sharebox_post_error_title">Merk</string>
+    <string name="plus_sharebox_post_pending">Sender ...</string>
+    <string name="plus_sharebox_post_success">Innlegget er delt med andre.</string>
+    <string name="plus_sharebox_preview_loading">Laster inn …</string>
+    <string name="plus_sharebox_search_hint">Angi navn, e-postadresse eller krets</string>
+    <string name="plus_sharebox_share">DEL</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Del også på Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Del via Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Når du deler offentlig, kan folk du ikke har lagt til i kretsene dine, se innlegget ditt og kanskje også kommentere det.</string>
+    <string name="plus_sharebox_under_age_warning_title">Deler offentlig</string>
+    <string name="plus_undo_button_description">Angreknapp</string>
+    <string name="plus_unified_setup_activity_title">Opprett en profil</string>
+    <string name="plus_unknown_app_name">App</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Kunne ikke oppdatere kretsene. Prøv på nytt senere.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Du kan ikke legge til denne brukeren i kretser.</string>
+    <string name="plus_update_circles_not_allowed_message">Du kan ikke legge til %1$s i kretser.</string>
+    <string name="plus_update_circles_progress">Oppdaterer kretsene ...</string>
+    <string name="plus_video_preview_image_description">Bilde med forhåndsvisning av video</string>
+    <string name="recovery_done_button_label">Ferdig</string>
+    <string name="recovery_input_screen_message">Fortell Google hvordan du kan kontaktes hvis du glemmer passordet for %s.</string>
+    <string name="recovery_message_set">"Det er fort gjort å glemme passord.
+
+Oppgi et telefonnummer eller en gjenopprettingsadresse nå. Det gjør det enklere å gjenopprette tilgangen til innholdet ditt på Google og Google Play. "<annotation id="help_url">Finn ut mer</annotation></string>
+    <string name="recovery_message_verify">"Det er fort gjort å glemme passord.
+
+Bekreft telefonnummeret eller gjenopprettingsadressen din nå. Det gjør det enklere å gjenopprette tilgangen til innholdet ditt på Google og Google Play. "<annotation id="help_url">Finn ut mer</annotation></string>
+    <string name="recovery_notification_ticker">Du må se over kontoen</string>
+    <string name="recovery_notification_title">Påminnelse om gjenoppretting av passord</string>
+    <string name="recovery_server_error">Feil i kommunikasjonen med tjeneren. Prøv på nytt etter en stund.</string>
+    <string name="recovery_title">Gjenoppretting av passord for Google</string>
+    <string name="recovery_yes_button_label">Konfigurer gjenopprettingsalternativer</string>
+    <string name="recovery_yes_button_label_verify">Bekreft gjenopprettingsalternativene</string>
+    <string name="retry_call_to_action">Prøv på nytt</string>
+    <string name="secondary_email_hint">Reserve-e-post</string>
+    <string name="secondary_email_invalid">Ugyldig e-postadresse</string>
+    <string name="secondary_email_same_as_primary">Kan ikke være det samme som primær e-postadresse</string>
+    <string name="selected_location_unknown">Ukjent</string>
+    <string name="sharedUserLabel">Google-tjenester</string>
+    <string name="sid_lsid_grant_detail">I likhet med et passord knytter informasjonskapsler av typen øktidentifikasjon (SID) og lokal øktidentifikasjon (LSID) identiteten din til en rekke forespørsler fra en nettleser. De tillater full tilgang til alle kontodataene dine. Bare nettlesere kan legitimt bruke disse informasjonskapslene.</string>
+    <string name="sid_lsid_grant_label">Bruk SID- og LSID-informasjonskapsler for å få tilgang til alle Google-kontodataene dine.</string>
+    <string name="storage_management_drive_clear_failure">Det oppsto en feil under fjerningen av Disk-data. Prøv på nytt senere.</string>
+    <string name="storage_management_drive_clear_label">Fjern</string>
+    <string name="storage_management_drive_clear_success">Disk-dataene er tømt.</string>
+    <string name="storage_management_drive_clearing">Sletter …</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Alle de lokallagrede Disk-dataene for Disk-kompatible apper slettes permenant. Dette kan omfatte ventende endringer som ikke er lastet opp til Google Disk-tjeneren.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Vil du fjerne alle dataene?</string>
+    <string name="storage_management_drive_descriptive_text">Disk-kompatible apper lagrer filer på enheten din for å gi bedre ytelse og muliggjøre tilgang uten nett.</string>
+    <string name="storage_management_drive_get_storage_failure">Det oppsto en feil under beregningen av lagringsplassbruken for Disk. Prøv på nytt senere.</string>
+    <string name="storage_management_drive_size_label">Lokal Disk-lagringsplass</string>
+    <string name="storage_management_wear_descriptive_text">Apper bruker enhetenslagringen din til å kopiere data til en kroppsnær enhet.</string>
+    <string name="storage_management_wear_manage_size_label">Administrer kroppsnær lagring</string>
+    <string name="storage_management_wear_size_label">Kroppsnær lagring</string>
+    <string name="storage_managment_all_storage_descriptive_text">Total datamengde brukt av Google Play Tjenester, inkludert søkemotoren og andre data.</string>
+    <string name="storage_managment_clear_all_data">Fjern alle data</string>
+    <string name="storage_managment_computing_size">Beregner …</string>
+    <string name="storage_managment_icing_size_label">Lagring av søkemotor</string>
+    <string name="storage_managment_manage_icing_button">Administrer lagring av søk</string>
+    <string name="storage_managment_search_index_descriptive_text">Vi akselererer søk på telefonen din ved å levere en søkemotor appene dine kan bruke.</string>
+    <string name="storage_managment_title">Lagring av Google Play Tjenester</string>
+    <string name="storage_managment_total_size_label">Lagret totalt</string>
+    <string name="system_update_activity_battery_low_charging_text">Batterinivået er for lavt til å installere systemoppdateringen. Vent til batteriet er tilstrekkelig ladet.</string>
+    <string name="system_update_activity_battery_low_text">Batterinivået er for lavt til å installere systemoppdateringen. Koble til en lader for å fortsette.</string>
+    <string name="system_update_activity_name">Systemoppdateringer</string>
+    <string name="system_update_activity_roaming_text">Systemoppdateringer kan ikke lastes ned under roaming.</string>
+    <string name="system_update_activity_title">Systemoppdateringer</string>
+    <string name="system_update_check_now_button_text">Se etter oppdatering</string>
+    <string name="system_update_complete_label">Systemoppdatering</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Koble til Wi-Fi</string>
+    <string name="system_update_connection_lost_text">Nettverkstilkoblingen ble brutt.</string>
+    <string name="system_update_countdown_cancel_button">Avbryt installasjonen</string>
+    <string name="system_update_countdown_complete">Starter på nytt nå …</string>
+    <string name="system_update_download_button_text">Last ned</string>
+    <string name="system_update_download_failed_no_space_status_text">Det er ikke nok tilgjengelig plass for denne nedlastingen</string>
+    <string name="system_update_download_failed_status_text">Kan ikke laste ned</string>
+    <string name="system_update_download_retry_button_text">Start nedlastingen på nytt</string>
+    <string name="system_update_download_waiting_status_text">Venter på nedlasting</string>
+    <string name="system_update_downloading_required_update_text">"Dette kan ta opptil ^1 minutter.
+
+Etterpå blir enheten automatisk startet på nytt."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Dette kan ta opptil ^1 minutter.
+
+Etterpå blir nettbrettet automatisk startet på nytt."</string>
+    <string name="system_update_downloading_required_update_title">Laster ned oppdatering …</string>
+    <string name="system_update_downloading_status_text">Laster ned</string>
+    <string name="system_update_downloading_wifi_status2_text">Bare via Wi-Fi inntil ^1</string>
+    <string name="system_update_install_button_text">Start på nytt og installer</string>
+    <string name="system_update_installing_update_text">"Dette kan ta opptil 5 minutter.
+
+Etterpå kan du fullføre konfigureringen av telefonen din."</string>
+    <string name="system_update_installing_update_title">Installerer oppdateringen …</string>
+    <string name="system_update_last_checkin">Sist sjekket for oppdateringer ^1.</string>
+    <string name="system_update_no_update_content_text">Systemet er oppdatert.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Nedlastingen mislyktes. Prøv på nytt.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Kunne ikke laste ned systemoppdateringen</string>
+    <string name="system_update_not_owner_text">En oppdatering for systemprogramvaren er tilgjengelig, men bare eieren kan installere den.</string>
+    <string name="system_update_notification_action_download">Last ned</string>
+    <string name="system_update_notification_action_install">Installer</string>
+    <string name="system_update_notification_action_snooze">Senere</string>
+    <string name="system_update_required_update_restart_text">Enheten startes på nytt sånn at systemoppdateringen kan installeres.</string>
+    <string name="system_update_required_update_restart_text_tablet">Nettbrettet startes på nytt, sånn at systemoppdateringen kan installeres.</string>
+    <string name="system_update_required_update_restart_title">I ferd med å starte på nytt</string>
+    <string name="system_update_requires_restart_status_text">Krever omstart</string>
+    <string name="system_update_restart_button_text">Start på nytt (^1)</string>
+    <string name="system_update_update_available_notification_title">En systemoppdatering er tilgjengelig</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Det er ikke nok tilgjengelig plass til å laste ned systemoppdateringen.</string>
+    <string name="system_update_update_downloaded_notification_title">En systemoppdatering er lastet ned</string>
+    <string name="system_update_verification_failed_text">Bekreftelsen mislyktes</string>
+    <string name="system_update_verified_status_text">Nedlastet og bekreftet</string>
+    <string name="system_update_verifying_status_text">Bekrefter</string>
+    <string name="temporary_sharing_description">Folk du deler den nøyaktige posisjonen din med via alle Google-produktene i et begrenset tidsrom.</string>
+    <string name="temporary_sharing_title">Midlertidig deling</string>
+    <string name="turn_on_location_reporting_auto_button">Slå på</string>
+    <string name="usage_and_diagnostics_consent_message">Bidra til å forbedre Android-opplevelsen din ved å sende diagnostikk og bruksdata automatisk til Google. Denne informasjonen brukes ikke til å identifisere deg, men gir en hjelpende hånd til teamene som jobber med ting som batterilevetid, appytelse og nye Google-funksjoner.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Finn ut mer&lt;/font></string>
+    <string name="usage_reporting_off">Av</string>
+    <string name="usage_reporting_on">På</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Tilkoblet</string>
+    <string name="wearable_status_connecting">Kobler til …</string>
+    <string name="wearable_status_disconnected">Frakoblet</string>
+    <string name="wearable_status_starting">Starter …</string>
+    <string name="wearable_status_wire_protocol_mismatch">Den kroppsnære enheten er ikke kompatibel. Installer eventuelle oppdateringer.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Fjern nå</string>
+    <string name="wearable_storage_managment_title">Kroppsnær lagring</string>
+    <string name="wearable_storage_managment_total_size_label">Kroppsnær lagring</string>
+    <string name="wearable_storage_managment_usage_label">Lagring brukt av appen</string>
+</resources>

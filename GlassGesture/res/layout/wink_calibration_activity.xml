@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:orientation="horizontal" android:id="@id/wink_calibration_card" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <VideoView android:id="@id/wink_background_video_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/wink_alpha_animation" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:id="@id/wink_calibration_hint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/generic_card_padding" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/TipsViewText" />
+</RelativeLayout>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.pano.widget.ScrollAdapterView android:enabled="true" android:id="@id/column" android:paddingLeft="@dimen/picker_column_horizontal_padding" android:paddingRight="@dimen/picker_column_horizontal_padding" android:focusable="true" android:visibility="visible" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="@dimen/picker_column_height" android:requiresFadingEdge="vertical" pano:orientation="vertical" pano:scrollCenterStrategy="fixedPercent" pano:scrollCenterOffsetPercent="50" pano:navigateOutAllowed="false" pano:navigateOutOfOffAxisAllowed="true"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pano="http://schemas.android.com/apk/res-auto" />

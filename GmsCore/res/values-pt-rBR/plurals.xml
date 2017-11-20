@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Reiniciando para instalar em %d segundos…</item>
+        <item quantity="one">Reiniciando para instalar em 1 segundo…</item>
+    </plurals>
+</resources>

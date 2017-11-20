@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/title_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <ScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginLeft="@dimen/plus_oob_layout_margin_side" android:layout_marginRight="@dimen/plus_oob_layout_margin_side" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:id="@id/text_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_oob_scroll_margin_top" />
+    </ScrollView>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_oob_vertical_margin" android:showDividers="beginning" style="?android:attr/buttonBarStyle">
+        <Button android:id="@id/back_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="50.0dip" android:text="@string/plus_oob_done_button_label" style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+</LinearLayout>

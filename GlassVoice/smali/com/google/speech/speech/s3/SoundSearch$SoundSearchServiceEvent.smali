@@ -1,0 +1,297 @@
+.class public final Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+.super Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;
+.source "SoundSearch.java"
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/google/speech/speech/s3/SoundSearch;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x19
+    name = "SoundSearchServiceEvent"
+.end annotation
+
+
+# static fields
+.field private static volatile _emptyArray:[Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+
+# instance fields
+.field public resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 168
+    invoke-direct {p0}, Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;-><init>()V
+
+    .line 169
+    invoke-virtual {p0}, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->clear()Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    .line 170
+    return-void
+.end method
+
+.method public static emptyArray()[Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+    .locals 2
+
+    .prologue
+    .line 154
+    sget-object v0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->_emptyArray:[Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    if-nez v0, :cond_1
+
+    .line 155
+    sget-object v1, Lcom/google/glass/speechlib/com/google/protobuf/nano/InternalNano;->LAZY_INIT_LOCK:Ljava/lang/Object;
+
+    monitor-enter v1
+
+    .line 157
+    :try_start_0
+    sget-object v0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->_emptyArray:[Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    if-nez v0, :cond_0
+
+    .line 158
+    const/4 v0, 0x0
+
+    new-array v0, v0, [Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    sput-object v0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->_emptyArray:[Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    .line 160
+    :cond_0
+    monitor-exit v1
+    :try_end_0
+    .catchall {:try_start_0 .. :try_end_0} :catchall_0
+
+    .line 162
+    :cond_1
+    sget-object v0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->_emptyArray:[Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    return-object v0
+
+    .line 160
+    :catchall_0
+    move-exception v0
+
+    :try_start_1
+    monitor-exit v1
+    :try_end_1
+    .catchall {:try_start_1 .. :try_end_1} :catchall_0
+
+    throw v0
+.end method
+
+.method public static parseFrom(Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;)Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+    .locals 1
+    .param p0, "input"    # Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Ljava/io/IOException;
+        }
+    .end annotation
+
+    .prologue
+    .line 231
+    new-instance v0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    invoke-direct {v0}, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;-><init>()V
+
+    invoke-virtual {v0, p0}, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->mergeFrom(Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;)Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method public static parseFrom([B)Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+    .locals 1
+    .param p0, "data"    # [B
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Lcom/google/glass/speechlib/com/google/protobuf/nano/InvalidProtocolBufferNanoException;
+        }
+    .end annotation
+
+    .prologue
+    .line 225
+    new-instance v0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    invoke-direct {v0}, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;-><init>()V
+
+    invoke-static {v0, p0}, Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;->mergeFrom(Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;[B)Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;
+
+    move-result-object v0
+
+    check-cast v0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    return-object v0
+.end method
+
+
+# virtual methods
+.method public clear()Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+    .locals 1
+
+    .prologue
+    .line 173
+    const/4 v0, 0x0
+
+    iput-object v0, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    .line 174
+    const/4 v0, -0x1
+
+    iput v0, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->cachedSize:I
+
+    .line 175
+    return-object p0
+.end method
+
+.method public getSerializedSize()I
+    .locals 3
+
+    .prologue
+    .line 188
+    invoke-super {p0}, Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;->getSerializedSize()I
+
+    move-result v0
+
+    .line 189
+    .local v0, "size":I
+    iget-object v1, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    if-eqz v1, :cond_0
+
+    .line 190
+    const/4 v1, 0x1
+
+    iget-object v2, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    invoke-static {v1, v2}, Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedOutputByteBufferNano;->computeMessageSize(ILcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;)I
+
+    move-result v1
+
+    add-int/2addr v0, v1
+
+    .line 193
+    :cond_0
+    iput v0, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->cachedSize:I
+
+    .line 194
+    return v0
+.end method
+
+.method public bridge synthetic mergeFrom(Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;)Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;
+    .locals 1
+    .param p1, "x0"    # Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Ljava/io/IOException;
+        }
+    .end annotation
+
+    .prologue
+    .line 148
+    invoke-virtual {p0, p1}, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->mergeFrom(Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;)Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method public mergeFrom(Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;)Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;
+    .locals 2
+    .param p1, "input"    # Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Ljava/io/IOException;
+        }
+    .end annotation
+
+    .prologue
+    .line 202
+    :cond_0
+    :goto_0
+    invoke-virtual {p1}, Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;->readTag()I
+
+    move-result v0
+
+    .line 203
+    .local v0, "tag":I
+    sparse-switch v0, :sswitch_data_0
+
+    .line 207
+    invoke-static {p1, v0}, Lcom/google/glass/speechlib/com/google/protobuf/nano/WireFormatNano;->parseUnknownField(Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;I)Z
+
+    move-result v1
+
+    if-nez v1, :cond_0
+
+    .line 208
+    :sswitch_0
+    return-object p0
+
+    .line 213
+    :sswitch_1
+    iget-object v1, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    if-nez v1, :cond_1
+
+    .line 214
+    new-instance v1, Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    invoke-direct {v1}, Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;-><init>()V
+
+    iput-object v1, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    .line 216
+    :cond_1
+    iget-object v1, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    invoke-virtual {p1, v1}, Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedInputByteBufferNano;->readMessage(Lcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;)V
+
+    goto :goto_0
+
+    .line 203
+    nop
+
+    :sswitch_data_0
+    .sparse-switch
+        0x0 -> :sswitch_0
+        0xa -> :sswitch_1
+    .end sparse-switch
+.end method
+
+.method public writeTo(Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedOutputByteBufferNano;)V
+    .locals 2
+    .param p1, "output"    # Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedOutputByteBufferNano;
+    .annotation system Ldalvik/annotation/Throws;
+        value = {
+            Ljava/io/IOException;
+        }
+    .end annotation
+
+    .prologue
+    .line 181
+    iget-object v0, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    if-eqz v0, :cond_0
+
+    .line 182
+    const/4 v0, 0x1
+
+    iget-object v1, p0, Lcom/google/speech/speech/s3/SoundSearch$SoundSearchServiceEvent;->resultsResponse:Lcom/google/audio/ears/proto/EarsService$EarsResultsResponse;
+
+    invoke-virtual {p1, v0, v1}, Lcom/google/glass/speechlib/com/google/protobuf/nano/CodedOutputByteBufferNano;->writeMessage(ILcom/google/glass/speechlib/com/google/protobuf/nano/MessageNano;)V
+
+    .line 184
+    :cond_0
+    return-void
+.end method

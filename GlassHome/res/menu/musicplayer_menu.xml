@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_play_50" android:id="@id/musicplayer_menu_play" android:title="@string/musicplayer_menu_play" />
+    <item android:icon="@drawable/ic_pause_50" android:id="@id/musicplayer_menu_pause" android:title="@string/musicplayer_menu_pause" />
+    <item android:icon="@drawable/ic_music_next_50" android:id="@id/musicplayer_menu_next" android:title="@string/musicplayer_menu_next" />
+    <item android:icon="@drawable/ic_music_previous_50" android:id="@id/musicplayer_menu_previous" android:title="@string/musicplayer_menu_previous" />
+    <item android:icon="@drawable/ic_music_radio_50" android:id="@id/musicplayer_menu_radio" android:title="@string/musicplayer_menu_radio" />
+    <item android:icon="@drawable/ic_music_radio_50" android:id="@id/musicplayer_menu_instant_mix" android:title="@string/musicplayer_menu_instant_mix" />
+    <item android:icon="@drawable/ic_no_50" android:id="@id/musicplayer_menu_stop" android:title="@string/musicplayer_menu_stop" />
+</menu>

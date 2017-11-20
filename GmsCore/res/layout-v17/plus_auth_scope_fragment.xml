@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/scope_fragment_layout" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/common_SelectableItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingTop="@dimen/plus_auth_scope_fragment_padding" android:paddingBottom="@dimen/plus_auth_scope_fragment_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/plus_auth_scope_fragment_left_padding" android:paddingEnd="@dimen/plus_auth_scope_fragment_right_padding">
+        <ImageView android:id="@id/scope_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/plus_icn_scope_icon_default" android:layout_marginEnd="@dimen/plus_auth_scope_fragment_icon_margin" android:layout_alignParentStart="true" style="@style/plus_authImage" />
+        <TextView android:id="@id/scope_description_label" android:layout_toStartOf="@id/scope_details_icon" android:layout_toEndOf="@id/scope_icon" style="@style/plus_ScopeText" />
+        <ImageView android:id="@id/scope_details_icon" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/auth_ic_pencil" android:layout_marginStart="@dimen/plus_auth_scope_fragment_details_icon_margin" android:layout_alignParentEnd="true" style="@style/plus_authImage" />
+        <TextView android:id="@id/pacl_visible_circles" android:visibility="gone" android:layout_marginTop="@dimen/plus_auth_scope_pacl_circles_margin_top" android:layout_below="@id/scope_description_label" android:layout_toStartOf="@id/scope_details_icon" android:layout_toEndOf="@id/scope_icon" style="@style/plus_ScopeText" />
+        <TextView android:id="@id/warning" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_auth_scope_warning_margin_top" android:layout_below="@id/scope_description_label" android:layout_toStartOf="@id/scope_details_icon" android:layout_toEndOf="@id/scope_icon" style="@style/GrantCredentialsTextWarning" />
+    </RelativeLayout>
+</LinearLayout>

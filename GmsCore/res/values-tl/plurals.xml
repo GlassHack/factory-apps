@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">mula sa isang browser ng %1$s sa %2$s nang wala pang %3$s (na) minuto ang nakalipas</item>
+        <item quantity="one">mula sa isang browser ng %1$s sa %2$s nang wala pang %3$s (na) minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">mula sa %1$s nang wala pang %2$s (na) minuto ang nakalipas</item>
+        <item quantity="one">mula sa %1$s nang wala pang %2$s (na) minuto ang nakalipas</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d (na) oras ang nalalabi</item>
+        <item quantity="one">1 oras ang nalalabi</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d (na) araw</item>
+        <item quantity="one">%d araw</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d (na) oras</item>
+        <item quantity="one">%d (na) oras</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d (na) minuto</item>
+        <item quantity="one">%d (na) minuto</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s (na) tao</item>
+        <item quantity="one">%1$s (na) tao</item>
+        <item quantity="two">%1$s (na) tao</item>
+        <item quantity="few">%1$s (na) tao</item>
+        <item quantity="many">%1$s (na) tao</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Nagre-reboot upang mag-install sa loob ng %d (na) segundo…</item>
+        <item quantity="one">Nagre-reboot upang mag-install sa loob ng 1 segundo…</item>
+    </plurals>
+</resources>

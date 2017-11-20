@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_thumb_up_white_64px" android:id="@id/menu_permissions_accept" android:title="@string/permissions_accept" />
+    <item android:icon="@drawable/ic_delete_white_64px" android:id="@id/menu_permissions_decline" android:title="@string/permissions_decline" />
+</menu>

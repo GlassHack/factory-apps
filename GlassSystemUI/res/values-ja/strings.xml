@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_old_pattern">前のパターンを入力してください</string>
+    <string name="prompt_incorrect_pattern">間違っています</string>
+    <string name="prompt_back">戻るには下にスワイプ</string>
+    <string name="prompt_gestures">新しいパターンを入力するにはタップまたはスワイプ</string>
+    <string name="prompt_recorded">パターンの記録完了</string>
+    <string name="prompt_confirm">確認のためパターンを再入力</string>
+    <string name="prompt_done">新しいパターン</string>
+    <string name="app_label">GlassシステムUI</string>
+    <string name="usb_main_message">このPCを信頼しますか</string>
+    <string name="usb_secondary_message">このPCからのUSBデバッグを許可するにはタップ</string>
+    <string name="allow_always">常に許可</string>
+    <string name="allow_once">今回のみ可</string>
+    <string name="not_now">後で行う</string>
+    <string name="notification_monitor">通知リスナーサービス</string>
+</resources>

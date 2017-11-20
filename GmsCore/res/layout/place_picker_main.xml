@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/place_picker_main" android:background="#99000000" android:nextFocusDown="@id/place_picker_content_area" android:descendantFocusability="beforeDescendants" android:layout_width="fill_parent" android:layout_height="fill_parent" android:onClick="onClickOutsideDialog"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:id="@id/place_picker_inset" android:background="@color/google_gray" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/place_picker_map_area" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="noHideDescendants">
+            <fragment android:name="com.google.android.location.places.ui.MarkerMapFragment" android:id="@id/place_picker_map_fragment" android:layout_width="fill_parent" android:layout_height="fill_parent" map:uiRotateGestures="false" map:uiTiltGestures="false" xmlns:map="http://schemas.android.com/apk/res-auto" />
+            <ImageView android:layout_gravity="center" android:id="@id/place_picker_map_center_drop" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="18.0dip" android:src="@drawable/spotlight_poi" />
+            <ImageView android:layout_gravity="center" android:id="@id/place_picker_map_center_cross" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_qu_close_grey" />
+            <ImageView android:layout_gravity="bottom|right|center" android:id="@id/place_picker_map_my_location_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0dip" android:src="@drawable/ic_qu_fab_circle" android:alpha="0.5" />
+            <ProgressBar android:layout_gravity="center" android:id="@id/place_picker_map_progress_bar" android:background="@color/google_gray" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:indeterminate="true" android:alpha="0.8" />
+        </FrameLayout>
+        <FrameLayout android:id="@id/place_picker_content_area" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </FrameLayout>
+</FrameLayout>

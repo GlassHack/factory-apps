@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <FrameLayout android:id="@id/title_area" android:background="@drawable/auth_illustration_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+            <TextView android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/auth_setup_wizard_title" style="@style/auth_setup_wizard_header_title" />
+        </FrameLayout>
+        <com.google.android.setupwizard.util.BottomScrollView android:id="@id/bottom_scroll_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:fillViewport="true" android:layout_below="@id/title_area" android:layout_alignParentBottom="true">
+            <FrameLayout android:id="@id/setup_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <include layout="@layout/system_update_activity_setup_wizard_content" />
+            </FrameLayout>
+        </com.google.android.setupwizard.util.BottomScrollView>
+    </RelativeLayout>
+</LinearLayout>

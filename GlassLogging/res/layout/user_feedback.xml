@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/feedback_layout" android:background="@color/background_black_semitransparent" android:paddingTop="40.0px" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/email_included" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="40.0px" android:layout_marginRight="40.0px" android:layout_weight="0.0">
+        <ImageView android:id="@id/email_included_image" android:layout_width="25.0px" android:layout_height="25.0px" />
+        <TextView android:ellipsize="end" android:id="@id/email_included_text" android:paddingLeft="10.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/feedback_email_address_included" android:maxLines="1" android:singleLine="true" style="@style/SmallOverlayText" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/logs_included" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="40.0px" android:layout_marginTop="5.0px" android:layout_marginRight="40.0px" android:layout_marginBottom="20.0px" android:layout_weight="0.0">
+        <ImageView android:id="@id/logs_included_image" android:layout_width="25.0px" android:layout_height="25.0px" />
+        <TextView android:id="@id/logs_included_text" android:paddingLeft="10.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/feedback_system_log_included" style="@style/SmallOverlayText" />
+    </LinearLayout>
+    <com.google.glass.widget.DynamicSizeTextView android:id="@id/description" android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_marginLeft="40.0px" android:layout_marginRight="40.0px" android:layout_weight="1.0" style="@style/LargeOverlayText" />
+    <com.google.glass.widget.TipsView android:gravity="center_horizontal" android:id="@id/tap" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="40.0px" android:layout_marginRight="40.0px" android:layout_marginBottom="40.0px" android:text="@string/feedback_tap_for_options" android:layout_weight="0.0" style="@style/TipsViewText" />
+</LinearLayout>

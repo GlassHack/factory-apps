@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger command="LISTEN_TO">
+    <constraints network="true" />
+    <input prompt="@string/voice_music_on_speak_now" noTouch="true" />
+</trigger>

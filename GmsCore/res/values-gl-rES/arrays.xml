@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Gasolineira</item>
+        <item>Sala de cine</item>
+        <item>Aloxamento</item>
+        <item>Sala de festas</item>
+        <item>Museo</item>
+        <item>Restaurante</item>
+        <item>Centro comercial</item>
+        <item>Tenda</item>
+        <item>Tenda comida/supermercado</item>
+        <item>Outros</item>
+    </string-array>
+</resources>

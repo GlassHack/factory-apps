@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Μπαρ</item>
+        <item>Καφετέρια</item>
+        <item>Πρατήριο βενζίνης</item>
+        <item>Κινηματογράφος</item>
+        <item>Διαμονή</item>
+        <item>Κλαμπ</item>
+        <item>Μουσείο</item>
+        <item>Εστιατόριο</item>
+        <item>Εμπορικό κέντρο</item>
+        <item>Κατάστημα</item>
+        <item>Παντοπωλείο/Σουπερμάρκετ</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>αδύναμο</item>
+        <item>ικανοποιητικό</item>
+        <item>καλό</item>
+        <item>ισχυρό</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>Β</item>
+        <item>ΒΑ</item>
+        <item>Α</item>
+        <item>ΝΑ</item>
+        <item>Ν</item>
+        <item>ΝΔ</item>
+        <item>Δ</item>
+        <item>ΒΔ</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>βόρεια</item>
+        <item>βορειοανατολικά</item>
+        <item>ανατολικά</item>
+        <item>νοτιοανατολικά</item>
+        <item>νότια</item>
+        <item>νοτιοδυτικά</item>
+        <item>δυτικά</item>
+        <item>βορειοδυτικά</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Επιλέξτε μια ερώτηση ασφαλείας</item>
+        <item>Πρώτος τηλεφωνικός αριθμός;</item>
+        <item>Το όνομα του καλύτερου παιδικού φίλου;</item>
+        <item>Το όνομα του πρώτου δασκάλου;</item>
+        <item>Το όνομα του διευθυντή στην πρώτη εργασία;</item>
+        <item>Ο αριθμός μητρώου οχήματος;</item>
+    </string-array>
+</resources>

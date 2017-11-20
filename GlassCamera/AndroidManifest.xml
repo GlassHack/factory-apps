@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.glass.camera">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.entity.permission.ENTITY_PROVIDER"/>
+    <uses-permission android:name="com.google.glass.logging.permission.USER_EVENT_SERVICE"/>
+    <uses-permission android:name="com.google.glass.sync.permission.TIMELINE_PROVIDER"/>
+    <uses-permission android:name="com.google.android.glass.permission.ACCESS_PRIVATE_CACHE"/>
+    <uses-permission android:name="com.google.android.glass.permission.DEVELOPMENT"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="com.google.glass.sync.permission.ACCESS_ATTACHMENT_SERVICE"/>
+    <uses-permission android:name="android.permission.READ_FRAME_BUFFER"/>
+    <application android:label="@string/app_name" android:largeHeap="true" android:name="com.google.glass.camera.CameraApplication" android:persistent="true" android:theme="@style/GlassTheme">
+        <uses-library android:name="com.google.android.glass.gcamservice.lib"/>
+        <activity android:immersive="true" android:launchMode="singleTop" android:name="com.google.glass.camera.ApiTakePictureActivity" android:theme="@style/GlassTheme.Translucent.FadeIn">
+            <intent-filter>
+                <action android:name="android.media.action.STILL_IMAGE_CAMERA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.IMAGE_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:immersive="true" android:launchMode="singleTop" android:name="com.google.glass.camera.ApiRecordVideoActivity" android:theme="@style/GlassTheme.Translucent.FadeIn">
+            <intent-filter>
+                <action android:name="android.media.action.VIDEO_CAMERA"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.media.action.VIDEO_CAPTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:icon="@drawable/ic_camera_50" android:immersive="true" android:launchMode="singleTask" android:name="com.google.glass.camera.TakePictureActivity" android:theme="@style/GlassTheme.Translucent.FadeIn">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.VOICE_TRIGGER"/>
+                <action android:name="com.google.glass.action.TAKE_PICTURE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="com.google.android.glass.VoiceTrigger" android:resource="@xml/take_a_picture_trigger"/>
+        </activity>
+        <activity android:icon="@drawable/ic_camera_50" android:immersive="true" android:launchMode="singleTask" android:name="com.google.glass.camera.ViewfinderActivity" android:theme="@style/GlassTheme.Translucent.FadeIn">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.VOICE_TRIGGER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="com.google.android.glass.VoiceTrigger" android:resource="@xml/show_the_viewfinder_trigger"/>
+        </activity>
+        <activity android:immersive="true" android:name="com.google.glass.camera.ScreenOffTakePictureActivity" android:theme="@style/GlassTheme.NoneIn">
+            <intent-filter>
+                <action android:name="com.google.glass.action.TAKE_PICTURE_FROM_SCREEN_OFF"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:icon="@drawable/ic_video_50" android:immersive="true" android:launchMode="singleTask" android:name="com.google.glass.camera.RecordVideoActivity">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.VOICE_TRIGGER"/>
+                <action android:name="com.google.glass.action.RECORD_VIDEO"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <meta-data android:name="com.google.android.glass.VoiceTrigger" android:resource="@xml/record_a_video_trigger"/>
+        </activity>
+        <receiver android:name="com.google.glass.camera.StartCameraReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.gesture.EyeGestureReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.EYE_GESTURE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.camera.CameraButtonBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.CAMERA_BUTTON"/>
+                <action android:name="com.google.android.glass.action.CAMERA_BUTTON_DOWN"/>
+                <action android:name="com.google.android.glass.action.VIEWFINDER"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.camera.PhotoItemDeletedBroadcastReceiver">
+            <intent-filter>
+                <action android:name="com.google.glass.camera.PHOTO_DELETED"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.google.glass.camera.photosync" android:name="com.google.glass.camera.photosync.PhotoSyncProvider"/>
+        <receiver android:name="com.google.glass.camera.photosync.PhotoSyncReceiver">
+            <intent-filter>
+                <action android:name="com.google.glass.camera.photosync.ACTION_NOTIFY_PHOTO_DELETION"/>
+                <action android:name="com.google.glass.camera.photosync.ACTION_TRIGGER_PHOTO_SYNC"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.glass.camera.RecordingService">
+            <intent-filter>
+                <action android:name="com.google.glass.camera.STOP_RECORDING"/>
+            </intent-filter>
+        </service>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    </application>
+</manifest>

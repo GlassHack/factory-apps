@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"המיקום שלי 
+מדויק עד ל-{0} מטרים"</string>
+    <string name="maps_API_OUTDATED_WARNING">אפליקציה זו משתמשת בגרסה ישנה של מפות Google. ייתכן שהיא לא תעבוד כמו שצריך.</string>
+    <string name="maps_CLOSE_SOFTKEY">סגור</string>
+    <string name="maps_COMPASS_ALT_TEXT">מצפן</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">המיקום שלי</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">התקרב</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">התרחק</string>
+</resources>

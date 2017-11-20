@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d ordu gelditzen dira</item>
+        <item quantity="one">Ordubete gelditzen da</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d egun</item>
+        <item quantity="one">%d egun</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ordu</item>
+        <item quantity="one">%d ordu</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s pertsona</item>
+        <item quantity="one">%1$s pertsona</item>
+        <item quantity="two">%1$s pertsona</item>
+        <item quantity="few">%1$s pertsona</item>
+        <item quantity="many">%1$s pertsona</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Instalatzeko berrabiaraziko da %d segundo barru…</item>
+        <item quantity="one">Instalatzeko berrabiaraziko da 1 segundo barru…</item>
+    </plurals>
+</resources>

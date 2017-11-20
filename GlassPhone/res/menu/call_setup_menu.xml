@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_phone_in_50" android:id="@id/incoming_call_answer" android:title="ANSWER_CALL" />
+    <item android:icon="@drawable/ic_phone_hang_50" android:id="@id/incoming_call_decline" android:title="DECLINE_CALL" />
+</menu>

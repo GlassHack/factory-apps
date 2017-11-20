@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.pano.widget.FrameLayoutWithShadows android:id="@id/shadow_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" pano:defaultShadow="@drawable/APKTOOL_DUMMY_0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pano="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:paddingLeft="@dimen/content_fragment_left_padding" android:paddingRight="@dimen/content_fragment_delimiter_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:ellipsize="end" android:gravity="right" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true" style="@style/Canvas.Text.Dialog.Content.Title" />
+        <ProgressBar android:id="@id/progress" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:layout_marginTop="6.5dip" android:layout_marginBottom="6.5px" android:indeterminate="true" android:layout_below="@id/title" android:layout_alignParentRight="true" style="?android:attr/progressBarStyleHorizontal" />
+        <TextView android:textAppearance="@style/systemUpdateStatus" android:gravity="right" android:id="@id/size" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/progress" android:layout_alignParentRight="true" />
+        <TextView android:textAppearance="@style/systemUpdateStatus" android:gravity="right" android:id="@id/status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/size" android:layout_below="@id/progress" />
+        <TextView android:textAppearance="@style/systemUpdateStatus" android:gravity="right" android:id="@id/status2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/status" android:layout_alignParentRight="true" />
+        <TextView android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/status2" android:layout_alignParentRight="true" android:layout_alignWithParentIfMissing="true" style="@style/Canvas.Text.Dialog.Content.Description" />
+    </RelativeLayout>
+</com.google.android.pano.widget.FrameLayoutWithShadows>

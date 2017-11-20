@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafe</item>
+        <item>Gas Station</item>
+        <item>Movie Theater</item>
+        <item>Lodging</item>
+        <item>Night Club</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Shopping Center</item>
+        <item>Store</item>
+        <item>Grocery Store or Supermarket</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="add_a_place_placetypes">
+        <item>bar</item>
+        <item>cafe</item>
+        <item>gas_station</item>
+        <item>movie_theater</item>
+        <item>lodging</item>
+        <item>night_club</item>
+        <item>museum</item>
+        <item>restaurant</item>
+        <item>shopping_mall</item>
+        <item>store</item>
+        <item>grocery_or_supermarket</item>
+        <item>other</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>poor</item>
+        <item>fair</item>
+        <item>good</item>
+        <item>strong</item>
+    </string-array>
+    <array name="auth_gls_passwordStrengthColor">
+        <item>#ffff0000</item>
+        <item>#ffffec18</item>
+        <item>#ff6699ff</item>
+        <item>#ff99cc00</item>
+    </array>
+    <string-array name="auth_google_play_email_opt_in">
+        <item>be</item>
+        <item>bg</item>
+        <item>cz</item>
+        <item>dk</item>
+        <item>de</item>
+        <item>ee</item>
+        <item>ie</item>
+        <item>el</item>
+        <item>es</item>
+        <item>fr</item>
+        <item>it</item>
+        <item>cy</item>
+        <item>lv</item>
+        <item>lt</item>
+        <item>lu</item>
+        <item>hu</item>
+        <item>mt</item>
+        <item>nl</item>
+        <item>at</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>si</item>
+        <item>sk</item>
+        <item>fi</item>
+        <item>se</item>
+        <item>hr</item>
+        <item>mk</item>
+        <item>me</item>
+        <item>rs</item>
+        <item>tr</item>
+        <item>au</item>
+        <item>ca</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="category_names">
+        <item>airport</item>
+        <item>atm</item>
+        <item>bank</item>
+        <item>bar</item>
+        <item>bus_station</item>
+        <item>cafe</item>
+        <item>campground</item>
+        <item>cemetery</item>
+        <item>church</item>
+        <item>city_hall</item>
+        <item>establishment</item>
+        <item>gas_station</item>
+        <item>grocery_or_supermarket</item>
+        <item>hindu_temple</item>
+        <item>hospital</item>
+        <item>library</item>
+        <item>lodging</item>
+        <item>mosque</item>
+        <item>movie_theater</item>
+        <item>museum</item>
+        <item>park</item>
+        <item>parking</item>
+        <item>place_of_worship</item>
+        <item>police</item>
+        <item>post_office</item>
+        <item>restaurant</item>
+        <item>school</item>
+        <item>store</item>
+        <item>subway_station</item>
+        <item>synagogue</item>
+        <item>train_station</item>
+        <item>transit_station</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>north</item>
+        <item>northeast</item>
+        <item>east</item>
+        <item>southeast</item>
+        <item>south</item>
+        <item>southwest</item>
+        <item>west</item>
+        <item>northwest</item>
+    </string-array>
+</resources>

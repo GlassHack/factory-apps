@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gsf.login.ProportionalOuterFrame android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/LoginActivityOuterFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.gsf.login.BottomScrollView android:id="@id/bottom_scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_above="@id/button_row">
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <RelativeLayout android:gravity="bottom" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+                <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minHeight="@dimen/setup_wizard_title_height" android:text="@string/account_tos_title" android:layout_alignParentTop="true" style="@style/setup_wizard_title" />
+                <View android:id="@id/top_divider" android:layout_below="@id/title" style="@style/setup_wizard_top_divider" />
+            </RelativeLayout>
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/title_area">
+                <TextView android:textAppearance="@style/setup_wizard_description_text" android:textColorLink="?android:textColorPrimary" android:id="@id/terms" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/input_field_vmargins" android:text="@string/account_creation_tos" />
+            </LinearLayout>
+        </RelativeLayout>
+    </com.google.android.gsf.login.BottomScrollView>
+    <LinearLayout android:id="@id/buttons" style="@style/StackedButtons">
+        <Button android:id="@id/yes_button" android:layout_width="fill_parent" android:text="@string/i_accept" style="@style/setup_wizard_button" />
+        <Button android:id="@id/no_button" android:layout_width="fill_parent" android:text="@string/i_decline" style="@style/setup_wizard_button" />
+    </LinearLayout>
+</com.google.android.gsf.login.ProportionalOuterFrame>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_transit_50" android:id="@id/show_steps" android:title="@string/menu_show_steps" />
+    <item android:icon="@drawable/ic_location_50" android:id="@id/show_route" android:title="@string/menu_show_route" />
+    <item android:icon="@drawable/ic_no_50" android:id="@id/stop" android:title="@string/menu_stop" />
+    <item android:icon="@drawable/ic_world_50" android:id="@id/agency_website" android:title="@string/menu_agency_website" />
+    <item android:icon="@drawable/ic_phone_out_50" android:id="@id/call_agency" android:title="@string/menu_call_agency" />
+    <item android:icon="@drawable/ic_alt_route" android:id="@id/change_route" android:title="@string/menu_change_route" />
+    <item android:icon="@drawable/ic_drive_50" android:id="@id/drive" android:title="@string/menu_drive" />
+    <item android:icon="@drawable/ic_transit_50" android:id="@id/transit" android:title="@string/menu_transit" />
+    <item android:icon="@drawable/ic_walk_50" android:id="@id/walk" android:title="@string/menu_walk" />
+    <item android:icon="@drawable/ic_bike_50" android:id="@id/bike" android:title="@string/menu_bike" />
+</menu>

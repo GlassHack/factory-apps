@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">說明與意見回饋</string>
+    <string name="plus_app_settings_all_apps_label">所有應用程式</string>
+    <string name="plus_app_settings_apps_page_label">已連結的應用程式</string>
+    <string name="plus_list_apps_empty_message">沒有已連結的應用程式</string>
+    <string name="plus_manage_app_pacl_label">可以在 Google 上看到應用程式動態的人</string>
+    <string name="plus_manage_app_scopes_label">此應用程式可存取：</string>
+</resources>

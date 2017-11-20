@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AlertThemeSelector" parent="@android:style/TextAppearance.Holo.CalendarViewWeekDayView" />
+    <style name="Base.TextAppearance.AppCompat" parent="@android:style/Widget.ExpandableListView.White" />
+    <style name="Base.TextAppearance.AppCompat.Body1" parent="@android:style/Widget.DeviceDefault.Light.Spinner.DropDown" />
+    <style name="Base.TextAppearance.AppCompat.Body2" parent="@android:style/Widget.DeviceDefault.Light.NumberPicker" />
+    <style name="Base.TextAppearance.AppCompat.Caption" parent="@android:style/Widget.DeviceDefault.Light.TextView.ListSeparator" />
+    <style name="Base.TextAppearance.AppCompat.Display1" parent="@android:style/Widget.DeviceDefault.Light.Gallery" />
+    <style name="Base.TextAppearance.AppCompat.Display2" parent="@android:style/Widget.DeviceDefault.Light.ExpandableListView.White" />
+    <style name="Base.TextAppearance.AppCompat.Display3" parent="@android:style/Widget.DeviceDefault.Light.DatePicker" />
+    <style name="Base.TextAppearance.AppCompat.Display4" parent="@android:style/Widget.DeviceDefault.Light.Button.Borderless" />
+    <style name="Base.TextAppearance.AppCompat.Headline" parent="@android:style/Widget.DeviceDefault.Light.GestureOverlayView" />
+    <style name="Base.TextAppearance.AppCompat.Inverse" parent="@android:style/Widget.TimePicker" />
+    <style name="Base.TextAppearance.AppCompat.Large" parent="@android:style/Widget.HorizontalScrollView" />
+    <style name="Base.TextAppearance.AppCompat.Large.Inverse" parent="@android:style/Widget.WebTextView" />
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Large" parent="@android:style/Preference.PreferenceScreen" />
+    <style name="Base.TextAppearance.AppCompat.Light.Widget.PopupMenu.Small" parent="@android:style/Preference.DialogPreference" />
+    <style name="Base.TextAppearance.AppCompat.Medium" parent="@android:style/Widget.GenericQuickContactBadge" />
+    <style name="Base.TextAppearance.AppCompat.Medium.Inverse" parent="@android:style/Widget.QuickContactBadge" />
+    <style name="Base.TextAppearance.AppCompat.Menu" parent="@android:style/Widget.DeviceDefault.Light.TimePicker" />
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Subtitle" parent="@android:style/Widget.QuickContactBadgeSmall" />
+    <style name="Base.TextAppearance.AppCompat.SearchResult.Title" parent="@android:style/Widget.QuickContactBadge.WindowSmall" />
+    <style name="Base.TextAppearance.AppCompat.Small" parent="@android:style/Widget.QuickContactBadge.WindowMedium" />
+    <style name="Base.TextAppearance.AppCompat.Small.Inverse" parent="@android:style/Widget.QuickContactBadge.WindowLarge" />
+    <style name="Base.TextAppearance.AppCompat.Subhead" parent="@android:style/Widget.DeviceDefault.Light.ListView.White" />
+    <style name="Base.TextAppearance.AppCompat.Title" parent="@android:style/Widget.DeviceDefault.Light.ImageWell" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Menu" parent="@android:style/Widget.QuickContactBadgeSmall.WindowLarge" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle" parent="@android:style/Widget.CompoundButton.Switch" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Subtitle.Inverse" parent="@android:style/TextAppearance.Theme.Dialog.AppError" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title" parent="@android:style/TextAppearance.SlidingTabNormal" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionBar.Title.Inverse" parent="@android:style/TextAppearance.SlidingTabActive" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Subtitle" parent="@android:style/TextAppearance.SearchResult" />
+    <style name="Base.TextAppearance.AppCompat.Widget.ActionMode.Title" parent="@android:style/TextAppearance.Toast" />
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Large" parent="@android:style/Preference.PreferenceScreen" />
+    <style name="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="@android:style/Preference.DialogPreference" />
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Subtitle" parent="@android:style/Widget.CompoundButton.Switch" />
+    <style name="Base.TextAppearance.Widget.AppCompat.Toolbar.Title" parent="@android:style/TextAppearance.SlidingTabNormal" />
+    <style name="Base.Theme.AppCompat" parent="@style/Base.V21.Theme.AppCompat" />
+    <style name="Base.Theme.AppCompat.Dialog" parent="@style/Base.V21.Theme.AppCompat.Dialog" />
+    <style name="Base.Theme.AppCompat.Light" parent="@style/Base.V21.Theme.AppCompat.Light" />
+    <style name="Base.Theme.AppCompat.Light.Dialog" parent="@style/Base.V21.Theme.AppCompat.Light.Dialog" />
+    <style name="Base.ThemeOverlay.AppCompat" parent="@android:style/TextAppearance.Holo.Light.Large" />
+    <style name="Base.ThemeOverlay.AppCompat.ActionBar" parent="@android:style/TextAppearance.Holo.Light.Medium" />
+    <style name="Base.ThemeOverlay.AppCompat.Dark" parent="@android:style/TextAppearance.Holo.Light.Large.Inverse">
+        <item name="isLightTheme">false</item>
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Dark.ActionBar" parent="@android:style/TextAppearance.Holo.Light.Medium.Inverse">
+        <item name="isLightTheme">false</item>
+        <item name="searchViewStyle">@style/Widget.AppCompat.SearchView</item>
+    </style>
+    <style name="Base.ThemeOverlay.AppCompat.Light" parent="@android:style/TextAppearance.Holo.Light.Small">
+        <item name="isLightTheme">true</item>
+        <item name="searchViewStyle">@style/Widget.AppCompat.Light.SearchView</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ActionBar.TabText" parent="@android:style/TextAppearance.Holo.Light.Widget" />
+    <style name="Base.Widget.AppCompat.ActionBar.TabView" parent="@android:style/TextAppearance.Holo.Light.Widget.Button" />
+    <style name="Base.Widget.AppCompat.ActionButton" parent="@android:style/TextAppearance.Holo.Light.Widget.EditText" />
+    <style name="Base.Widget.AppCompat.ActionButton.CloseMode" parent="@android:style/TextAppearance.Holo.Light.Widget.PopupMenu" />
+    <style name="Base.Widget.AppCompat.ActionButton.Overflow" parent="@android:style/TextAppearance.Holo.Light.Widget.PopupMenu.Large" />
+    <style name="Base.Widget.AppCompat.ActivityChooserView" parent="">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/abc_ab_share_pack_holo_dark</item>
+        <item name="android:divider">?dividerVertical</item>
+        <item name="android:showDividers">middle</item>
+        <item name="android:dividerPadding">6.0dip</item>
+    </style>
+    <style name="Base.Widget.AppCompat.AutoCompleteTextView" parent="@android:style/TextAppearance.Holo.Light.Widget.DropDownHint" />
+    <style name="Base.Widget.AppCompat.DropDownItem.Spinner" parent="@android:style/Widget.Holo.GestureOverlayView" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText" parent="@android:style/Widget.Holo.Light.Spinner.DropDown.ActionBar" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabText.Inverse" parent="@android:style/Widget.Holo.Light.Spinner.DropDown.ActionBar" />
+    <style name="Base.Widget.AppCompat.Light.ActionBar.TabView" parent="@android:style/Widget.Holo.Light.KeyboardView" />
+    <style name="Base.Widget.AppCompat.Light.ActionButton" parent="@android:style/Widget.Holo.Light.QuickContactBadge.WindowSmall" />
+    <style name="Base.Widget.AppCompat.Light.ActionButton.CloseMode" parent="@android:style/Widget.Holo.Light.QuickContactBadge.WindowMedium" />
+    <style name="Base.Widget.AppCompat.Light.ActionButton.Overflow" parent="@android:style/Widget.Holo.Light.QuickContactBadge.WindowLarge" />
+    <style name="Base.Widget.AppCompat.Light.AutoCompleteTextView" parent="@android:style/TextAppearance.Holo.Light.Widget.DropDownHint" />
+    <style name="Base.Widget.AppCompat.Light.ListPopupWindow" parent="@android:style/Widget.DeviceDefault.Spinner.DropDown.ActionBar" />
+    <style name="Base.Widget.AppCompat.Light.ListView.DropDown" parent="@android:style/Widget.Holo.ProgressBar.Large.Inverse" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.DeviceDefault.Gallery" />
+    <style name="Base.Widget.AppCompat.Light.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.Light.PopupMenu">
+        <item name="android:dropDownHorizontalOffset">-4.0dip</item>
+        <item name="android:pointerIconArrow">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Light.Spinner" parent="@android:style/Widget.DeviceDefault.TextSelectHandle">
+        <item name="spinnerMode">dropdown</item>
+        <item name="popupPromptView">@layout/abc_simple_dropdown_hint</item>
+        <item name="disableChildrenWhenDisabled">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ListPopupWindow" parent="@android:style/Widget.Holo.ProgressBar.Inverse" />
+    <style name="Base.Widget.AppCompat.ListView.DropDown" parent="@android:style/Widget.Holo.ProgressBar.Large.Inverse" />
+    <style name="Base.Widget.AppCompat.ListView.Menu" parent="@android:style/Widget.ListView.Menu" />
+    <style name="Base.Widget.AppCompat.PopupMenu" parent="@android:style/Widget.Holo.Spinner.DropDown.ActionBar" />
+    <style name="Base.Widget.AppCompat.PopupMenu.Overflow" parent="@style/Base.Widget.AppCompat.PopupMenu">
+        <item name="android:dropDownHorizontalOffset">-4.0dip</item>
+        <item name="android:pointerIconArrow">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.ProgressBar" parent="@android:style/Widget.Holo.QuickContactBadge.WindowSmall" />
+    <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="@android:style/Widget.Holo.QuickContactBadge.WindowMedium" />
+    <style name="Base.Widget.AppCompat.Spinner" parent="@android:style/Widget.Holo.Light.TextSuggestionsPopupWindow">
+        <item name="spinnerMode">dropdown</item>
+        <item name="popupPromptView">@layout/abc_simple_dropdown_hint</item>
+        <item name="disableChildrenWhenDisabled">true</item>
+    </style>
+    <style name="Base.Widget.AppCompat.Toolbar.Button.Navigation" parent="@android:style/Widget.Holo.Light.TimePicker" />
+    <style name="BrowserTheme" parent="@style/auth_minutemaid_theme_material">
+        <item name="android:autoCompleteTextViewStyle">@style/AutoCompleteTextView</item>
+    </style>
+    <style name="CaptchaActivity" parent="@style/auth_minutemaid_theme_material">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+    </style>
+    <style name="LoginActivity" parent="@style/auth_minutemaid_theme_material">
+        <item name="android:windowSoftInputMode">adjustResize</item>
+        <item name="android:actionBarStyle">@style/AccountIntroActionBarStyle</item>
+    </style>
+    <style name="LoginActivityTask" parent="@style/auth_minutemaid_theme_material" />
+    <style name="NoTitleInXL" parent="@style/auth_minutemaid_theme_material" />
+    <style name="Platform.AppCompat" parent="@android:style/Preference.Holo.Information">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Platform.AppCompat.Dialog" parent="@android:style/Preference.Holo.Category">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Platform.AppCompat.Light" parent="@android:style/Animation.TextSelectHandle">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="Platform.AppCompat.Light.Dialog" parent="@android:style/Widget.ActionMode">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+    <style name="TrustAgentNotificationWithNoActionBar" parent="@android:style/Theme.DeviceDefault.Light.NoActionBar" />
+    <style name="common.Activity.Light.Dialog" parent="@style/Theme.AppCompat.Light.DialogWhenLarge">
+        <item name="windowActionBar">false</item>
+    </style>
+    <style name="common.Activity.Light.Dialog.SmallTitle" parent="@style/common.Theme.Base.NoAppCompat.Light.Dialog" />
+    <style name="common.Theme.Base.NoAppCompat.Dialog" parent="@android:style/Preference.Holo.Category">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.DialogWhenLarge" parent="@android:style/Preference.Holo.DialogPreference" />
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog" parent="@android:style/Widget.ActionMode">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.Base.NoAppCompat.Light.Dialog.MinWidth" parent="@android:style/TextAppearance.Widget.ActionBar.Title">
+        <item name="buttonBarStyle">?android:buttonBarStyle</item>
+        <item name="buttonBarButtonStyle">?android:buttonBarButtonStyle</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+    </style>
+    <style name="common.Theme.GoogleSettings" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="indeterminateProgressStyle">?android:indeterminateProgressStyle</item>
+        <item name="colorPrimary">@color/material_blue_grey_900</item>
+        <item name="colorPrimaryDark">@color/material_blue_grey_950</item>
+        <item name="colorAccent">@color/material_teal_500</item>
+    </style>
+    <style name="common.Widget.Base.Spinner.Form" parent="@android:style/TextAppearance.DeviceDefault.Light.Widget.Button" />
+    <style name="common.Widget.Base.SwitchBar" parent="@android:style/Preference.Holo.Information">
+        <item name="android:preserveIconSpacing">@color/common_switch_bar_switch</item>
+    </style>
+    <style name="completeDialogTheme" parent="@android:style/Preference.Holo.Category" />
+    <style name="plus.Activity.AppCompat.Moment" parent="@style/common.Theme.GoogleSettings">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="indeterminateProgressStyle">?android:indeterminateProgressStyle</item>
+    </style>
+    <style name="plus_AppsTextPrimary" parent="@android:style/Widget.DeviceDefault.Light.ListView.White">
+        <item name="android:textColor">@color/plus_apps_text_color</item>
+    </style>
+    <style name="plus_AppsTextSecondary" parent="@android:style/Widget.DeviceDefault.Light.Spinner.DropDown">
+        <item name="android:textColor">@color/plus_apps_secondary_text_color</item>
+    </style>
+    <style name="plus_AppsTextTitle" parent="@android:style/Widget.DeviceDefault.Light.ImageWell">
+        <item name="android:textColor">@color/plus_apps_text_color</item>
+    </style>
+    <style name="plus_authImage">
+        <item name="android:tint">#ccffffff</item>
+    </style>
+    <style name="plus_teal_text" parent="@android:style/Widget.DeviceDefault.Light.NumberPicker">
+        <item name="android:textColor">@color/plus_deep_teal_500</item>
+    </style>
+    <style name="systemUpdateActivityTheme" parent="@android:style/TextAppearance.Holo.SearchResult" />
+    <style name="systemUpdateActivityTheme.SetupWizard" parent="@style/auth_setup_wizard_theme_material" />
+    <style name="systemUpdateActivityTheme.SetupWizard.Light" parent="@style/auth_setup_wizard_theme_material.light" />
+    <style name="systemUpdateDescription.SetupWizard" parent="@android:style/Widget.DeviceDefault.Light.Spinner.DropDown">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColorHighlight">@color/system_update_highlight_color</item>
+        <item name="android:textColorLink">?android:preserveIconSpacing</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat" parent="@style/Base.V7.Theme.AppCompat">
+        <item name="android:multiChoiceItemLayout">?colorControlNormal</item>
+        <item name="android:singleChoiceItemLayout">?colorControlActivated</item>
+        <item name="android:progressLayout">?colorControlHighlight</item>
+        <item name="android:borderRight">?colorPrimary</item>
+        <item name="android:layout_removeBorders">?colorPrimaryDark</item>
+        <item name="android:preserveIconSpacing">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="actionModeShareDrawable">?android:layout_childType</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:snapMargin</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Dialog" parent="@style/Base.V11.Theme.AppCompat.Dialog">
+        <item name="android:multiChoiceItemLayout">?colorControlNormal</item>
+        <item name="android:singleChoiceItemLayout">?colorControlActivated</item>
+        <item name="android:progressLayout">?colorControlHighlight</item>
+        <item name="android:borderRight">?colorPrimary</item>
+        <item name="android:layout_removeBorders">?colorPrimaryDark</item>
+        <item name="android:preserveIconSpacing">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="actionModeShareDrawable">?android:layout_childType</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:snapMargin</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Light" parent="@style/Base.V7.Theme.AppCompat.Light">
+        <item name="android:multiChoiceItemLayout">?colorControlNormal</item>
+        <item name="android:singleChoiceItemLayout">?colorControlActivated</item>
+        <item name="android:progressLayout">?colorControlHighlight</item>
+        <item name="android:borderRight">?colorPrimary</item>
+        <item name="android:layout_removeBorders">?colorPrimaryDark</item>
+        <item name="android:preserveIconSpacing">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="actionModeShareDrawable">?android:layout_childType</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:snapMargin</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+    </style>
+    <style name="Base.V21.Theme.AppCompat.Light.Dialog" parent="@style/Base.V11.Theme.AppCompat.Light.Dialog">
+        <item name="android:multiChoiceItemLayout">?colorControlNormal</item>
+        <item name="android:singleChoiceItemLayout">?colorControlActivated</item>
+        <item name="android:progressLayout">?colorControlHighlight</item>
+        <item name="android:borderRight">?colorPrimary</item>
+        <item name="android:layout_removeBorders">?colorPrimaryDark</item>
+        <item name="android:preserveIconSpacing">?colorAccent</item>
+        <item name="actionOverflowButtonStyle">?android:actionOverflowButtonStyle</item>
+        <item name="actionBarSize">?android:actionBarSize</item>
+        <item name="actionBarDivider">?android:actionBarDivider</item>
+        <item name="actionBarItemBackground">?android:actionBarItemBackground</item>
+        <item name="actionMenuTextAppearance">?android:actionMenuTextAppearance</item>
+        <item name="actionMenuTextColor">?android:actionMenuTextColor</item>
+        <item name="actionModeBackground">?android:actionModeBackground</item>
+        <item name="actionModeCloseDrawable">?android:actionModeCloseDrawable</item>
+        <item name="actionModeShareDrawable">?android:layout_childType</item>
+        <item name="textAppearanceLargePopupMenu">?android:textAppearanceLargePopupMenu</item>
+        <item name="textAppearanceSmallPopupMenu">?android:textAppearanceSmallPopupMenu</item>
+        <item name="homeAsUpIndicator">?android:homeAsUpIndicator</item>
+        <item name="actionButtonStyle">?android:actionButtonStyle</item>
+        <item name="selectableItemBackground">?android:selectableItemBackground</item>
+        <item name="selectableItemBackgroundBorderless">?android:snapMargin</item>
+        <item name="dividerVertical">?android:dividerVertical</item>
+        <item name="dividerHorizontal">?android:dividerHorizontal</item>
+        <item name="editTextColor">?android:editTextColor</item>
+        <item name="editTextBackground">?android:editTextBackground</item>
+        <item name="listPreferredItemHeightSmall">?android:listPreferredItemHeightSmall</item>
+    </style>
+    <style name="TextAppearance.SetupWizardCardTitle" parent="@android:style/Widget.DeviceDefault.Light.Gallery">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="auth_minutemaid_theme_material" parent="@android:style/TextAppearance.Holo.SearchResult">
+        <item name="android:textColorSecondary">@color/auth_minutemaid_color_secondary_light</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:preserveIconSpacing">@color/auth_minutemaid_color_accent_light</item>
+        <item name="android:pointDrawable">@android:color/transparent</item>
+        <item name="android:glowRadius">@android:color/transparent</item>
+        <item name="auth_setup_wizard_divider_color">@color/auth_minutemaid_divider_color_light</item>
+        <item name="auth_setup_wizard_link_color">@color/auth_minutemaid_link_color_light</item>
+    </style>
+    <style name="auth_setup_wizard_body_text_secondary" parent="@android:attr/textAppearanceMedium">
+        <item name="android:textSize">@dimen/auth_setup_wizard_body_text_secondary_size</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColorHighlight">@color/auth_setup_wizard_highlight_color</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="auth_setup_wizard_card_title">
+        <item name="android:textAppearance">@style/TextAppearance.SetupWizardCardTitle</item>
+        <item name="android:paddingTop">@dimen/auth_setup_wizard_card_title_padding_top</item>
+        <item name="android:paddingBottom">@dimen/auth_setup_wizard_card_title_padding_bottom</item>
+        <item name="android:paddingStart">@dimen/auth_setup_wizard_card_title_padding_start</item>
+        <item name="android:paddingEnd">@dimen/auth_setup_wizard_card_title_padding_end</item>
+    </style>
+    <style name="auth_setup_wizard_content_frame">
+        <item name="android:paddingLeft">@dimen/auth_setup_wizard_margin_sides</item>
+        <item name="android:paddingTop">@dimen/auth_setup_wizard_content_frame_padding_top</item>
+        <item name="android:paddingRight">@dimen/auth_setup_wizard_margin_sides</item>
+        <item name="android:paddingBottom">@dimen/auth_setup_wizard_content_frame_padding_bottom</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="auth_setup_wizard_description" parent="@style/auth_setup_wizard_text">
+        <item name="android:textSize">@dimen/auth_setup_wizard_description_text_size</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/auth_setup_wizard_description_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/auth_setup_wizard_description_margin_bottom</item>
+        <item name="android:lineSpacingExtra">@dimen/auth_setup_wizard_description_line_spacing_extra</item>
+    </style>
+    <style name="auth_setup_wizard_header_title">
+        <item name="android:textSize">@dimen/auth_setup_wizard_header_title_size</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:paddingTop">@dimen/auth_setup_wizard_header_title_padding_top</item>
+        <item name="android:paddingBottom">@dimen/auth_setup_wizard_header_title_padding_bottom</item>
+        <item name="android:layout_marginBottom">@dimen/auth_setup_wizard_header_title_margin_bottom</item>
+        <item name="android:lineSpacingExtra">@dimen/auth_setup_wizard_header_title_line_spacing_extra</item>
+        <item name="android:layout_marginStart">@dimen/auth_setup_wizard_margin_sides</item>
+        <item name="android:layout_marginEnd">@dimen/auth_setup_wizard_margin_sides</item>
+    </style>
+    <style name="auth_setup_wizard_heading_text" parent="@style/auth_setup_wizard_text">
+        <item name="android:textSize">@dimen/auth_setup_wizard_heading_text_size</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/auth_setup_wizard_heading_margin_top</item>
+    </style>
+    <style name="auth_setup_wizard_link" parent="@style/auth_setup_wizard_text">
+        <item name="android:textSize">@dimen/auth_setup_wizard_description_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">?auth_setup_wizard_link_color</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_button_style" parent="@android:style/TextAppearance.Holo.Light.Widget.ActionMode.Subtitle">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">?auth_setup_wizard_navbar_text_color</item>
+        <item name="android:background">@drawable/auth_setup_wizard_navbar_btn_bg</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:minWidth">0.0dip</item>
+        <item name="android:drawablePadding">6.0dip</item>
+        <item name="android:layout_weight">0.0</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:paddingStart">10.0dip</item>
+        <item name="android:paddingEnd">10.0dip</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_style">
+        <item name="android:orientation">horizontal</item>
+        <item name="android:background">?auth_setup_wizard_navbar_bg_color</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">56.0dip</item>
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:paddingStart">24.0dip</item>
+        <item name="android:paddingEnd">24.0dip</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_theme_dark">
+        <item name="auth_setup_wizard_navbar_bg_color">@color/auth_setup_wizard_navbar_bg_dark</item>
+        <item name="auth_setup_wizard_navbar_text_color">@color/auth_setup_wizard_navbar_text_dark</item>
+    </style>
+    <style name="auth_setup_wizard_navbar_theme_light">
+        <item name="auth_setup_wizard_navbar_bg_color">@color/auth_setup_wizard_navbar_bg_light</item>
+        <item name="auth_setup_wizard_navbar_text_color">@color/auth_setup_wizard_navbar_text_light</item>
+    </style>
+    <style name="auth_setup_wizard_text">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorLink">?android:textColorPrimary</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="auth_setup_wizard_text_primary_small" parent="@android:attr/textAppearanceSmall">
+        <item name="android:textSize">@dimen/auth_setup_wizard_text_primary_small_size</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHighlight">@color/auth_setup_wizard_highlight_color</item>
+        <item name="android:textColorLink">?auth_setup_wizard_link_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="auth_setup_wizard_theme_material" parent="@android:style/Preference.Holo.RingtonePreference">
+        <item name="android:textColorSecondary">@color/auth_setup_wizard_color_secondary_dark</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:preserveIconSpacing">@color/auth_setup_wizard_color_accent_dark</item>
+        <item name="android:pointDrawable">@android:color/transparent</item>
+        <item name="android:glowRadius">@android:color/transparent</item>
+        <item name="auth_setup_wizard_divider_color">@color/auth_setup_wizard_divider_color_dark</item>
+        <item name="auth_setup_wizard_link_color">@color/auth_setup_wizard_link_color_dark</item>
+    </style>
+    <style name="auth_setup_wizard_theme_material.light" parent="@android:style/TextAppearance.Holo.SearchResult">
+        <item name="android:textColorSecondary">@color/auth_setup_wizard_color_secondary_light</item>
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:preserveIconSpacing">@color/auth_setup_wizard_color_accent_light</item>
+        <item name="android:pointDrawable">@android:color/transparent</item>
+        <item name="android:glowRadius">@android:color/transparent</item>
+        <item name="auth_setup_wizard_divider_color">@color/auth_setup_wizard_divider_color_light</item>
+        <item name="auth_setup_wizard_link_color">@color/auth_setup_wizard_link_color_light</item>
+    </style>
+    <style name="plus_AppsTextLightTitle" parent="@android:style/TextAppearance.SlidingTabActive">
+        <item name="android:textSize">20.0sp</item>
+    </style>
+    <style name="plus_authDivider">
+        <item name="android:visibility">gone</item>
+    </style>
+</resources>

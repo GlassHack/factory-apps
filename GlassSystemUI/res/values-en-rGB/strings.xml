@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_old_pattern">Enter your old pattern</string>
+    <string name="prompt_incorrect_pattern">Incorrect!</string>
+    <string name="prompt_back">Swipe down to go back</string>
+    <string name="prompt_gestures">Tap or swipe to enter your new pattern</string>
+    <string name="prompt_recorded">Pattern recorded</string>
+    <string name="prompt_confirm">Enter pattern again to confirm</string>
+    <string name="prompt_done">Your new pattern</string>
+    <string name="app_label">Glass System UI</string>
+    <string name="usb_main_message">Trust this computer?</string>
+    <string name="usb_secondary_message">Tap to allow USB debugging from this computer</string>
+    <string name="allow_always">Always allow</string>
+    <string name="allow_once">Allow once</string>
+    <string name="not_now">Not now</string>
+    <string name="notification_monitor">Notification listener service</string>
+</resources>

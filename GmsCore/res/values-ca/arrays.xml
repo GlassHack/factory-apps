@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafè</item>
+        <item>Gasolinera</item>
+        <item>Cinema</item>
+        <item>Allotjament</item>
+        <item>Sala de festes</item>
+        <item>Museu</item>
+        <item>Restaurant</item>
+        <item>Centre comercial</item>
+        <item>Botiga</item>
+        <item>Botiga o supermercat</item>
+        <item>Altres</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>baixa</item>
+        <item>normal</item>
+        <item>bona</item>
+        <item>segura</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>nord</item>
+        <item>nord-est</item>
+        <item>est</item>
+        <item>sud-est</item>
+        <item>sud</item>
+        <item>sud-oest</item>
+        <item>oest</item>
+        <item>nord-oest</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Tria una pregunta de seguretat</item>
+        <item>El teu primer número de telèfon?</item>
+        <item>"Com es diu el teu millor amic d'infantesa?"</item>
+        <item>Com es deia el teu primer mestre?</item>
+        <item>Com es deia el cap de la teva primera feina?</item>
+        <item>Quina és la matrícula del teu vehicle?</item>
+    </string-array>
+</resources>

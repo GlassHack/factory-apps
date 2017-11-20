@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">တပ်ဆင်ရန် %d စက္ကန့်အတွင်း ပြန်စတင်နေ…</item>
+        <item quantity="one">တပ်ဆင်ပေးရန် ၁ စက္ကန်အတွင်း ပြန်ဖွင့်မည်…</item>
+    </plurals>
+</resources>

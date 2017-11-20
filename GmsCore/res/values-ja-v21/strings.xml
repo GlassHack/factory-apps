@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">ヘルプとフィードバック</string>
+    <string name="plus_app_settings_all_apps_label">すべてのアプリ</string>
+    <string name="plus_app_settings_apps_page_label">接続済みのアプリ</string>
+    <string name="plus_list_apps_empty_message">接続したアプリはありません</string>
+    <string name="plus_manage_app_pacl_label">Googleでアプリのアクティビティを閲覧できるユーザー</string>
+    <string name="plus_manage_app_scopes_label">このアプリへのアクセス許可:</string>
+</resources>

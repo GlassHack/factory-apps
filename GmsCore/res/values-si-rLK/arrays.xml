@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>බීමහල</item>
+        <item>අවන්හල</item>
+        <item>ඉන්ධන පිරවුම් හල</item>
+        <item>චිත්‍රපට ශාලාව</item>
+        <item>නවාතැන</item>
+        <item>රාත්‍රී සමාජ ශාලාව</item>
+        <item>කෞතුකාගාරය</item>
+        <item>අවන්හල</item>
+        <item>වෙළඳ මධ්‍යස්ථානය</item>
+        <item>වෙළෙඳසැල</item>
+        <item>"සිල්ලර වෙළඳසැල හෝ  සුපිරි වෙළඳසැල"</item>
+        <item>වෙනත්</item>
+    </string-array>
+</resources>

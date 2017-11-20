@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.glass.mosaic.MosaicView android:id="@id/mosaic" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/overlay" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_medium" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="horizontal" android:background="@android:color/transparent" android:paddingBottom="@dimen/timeline_footer_height" android:layout_height="wrap_content" style="@style/AdjustedCardFooter">
+        <com.google.glass.widget.DynamicSizeTextView android:id="@id/text" android:layout_width="0.0dip" android:layout_height="78.0px" android:layout_weight="1.0" style="@style/OverlayText" />
+    </LinearLayout>
+</FrameLayout>

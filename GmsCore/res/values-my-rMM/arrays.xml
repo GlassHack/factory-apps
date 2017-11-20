@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ဘား</item>
+        <item>ကဖေး</item>
+        <item>ဓာတ်ဆီ ဆိုင်</item>
+        <item>ရုပ်ရှင် ရုံ</item>
+        <item>တည်းခိုခန်း</item>
+        <item>ည ကလပ်</item>
+        <item>ပြတိုက်</item>
+        <item>စားသောက်ဆိုင်</item>
+        <item>ဈေးရုံ</item>
+        <item>စတိုးဆိုင်</item>
+        <item>ကုန်စုံဆိုင် သို့မဟုတ် စူပါမားကက်</item>
+        <item>အခြား</item>
+    </string-array>
+</resources>

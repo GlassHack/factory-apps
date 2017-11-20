@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceLarge" android:textColor="#ff666666" android:gravity="center" android:id="@id/description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:text="@string/auth_authzen_recovery_verification_title_text" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ff666666" android:gravity="center" android:id="@id/location_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="16.0dip" android:layout_marginBottom="16.0dip">
+        <Button android:textSize="14.0sp" android:id="@id/no_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/auth_authzen_no_button_text" android:layout_weight="1.0" />
+        <Button android:textSize="14.0sp" android:id="@id/yes_button" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/auth_authzen_yes_button_text" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

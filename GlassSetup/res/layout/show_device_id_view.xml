@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.glass.widget.horizontalscroll.FrameLayoutCard android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res/com.google.glass.setup">
+    <TextView android:textColor="@color/state_green" android:layout_gravity="center" android:id="@id/device_id" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/LargeOverlayText" />
+    <TextView android:gravity="center" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0px" android:text="@string/this_is_your_glass_id" style="@style/SmallOverlayText" />
+</com.google.glass.widget.horizontalscroll.FrameLayoutCard>

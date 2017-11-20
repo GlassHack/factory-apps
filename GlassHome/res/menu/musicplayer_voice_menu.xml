@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/musicplayer_voice_menu_play_music" android:title="@string/musicplayer_voice_menu_play_music" />
+    <item android:id="@id/musicplayer_voice_menu_pause_music" android:title="@string/musicplayer_voice_menu_pause_music" />
+    <item android:id="@id/musicplayer_voice_menu_next_track" android:title="@string/musicplayer_voice_menu_next_track" />
+    <item android:id="@id/musicplayer_voice_menu_previous_track" android:title="@string/musicplayer_voice_menu_previous_track" />
+    <item android:id="@id/musicplayer_voice_menu_start_radio" android:title="@string/musicplayer_voice_menu_start_radio" />
+    <item android:id="@id/musicplayer_voice_menu_start_instant_mix" android:title="@string/musicplayer_voice_menu_start_instant_mix" />
+    <item android:id="@id/musicplayer_voice_menu_exit_music" android:title="@string/musicplayer_voice_menu_exit_music" />
+</menu>

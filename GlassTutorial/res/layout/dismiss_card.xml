@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/generic_card_padding" android:paddingTop="@dimen/generic_card_padding" android:paddingRight="@dimen/generic_card_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/action" android:paddingBottom="26.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/dimiss_action" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/SmallOverlayText" />
+    <TextView android:gravity="center" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/dimiss_message" android:maxLines="2" android:singleLine="false" android:layout_above="@id/action" android:layout_alignParentTop="true" style="@style/LargeOverlayText" />
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/bg_category" android:layout_centerInParent="true" />
+    <ImageView android:id="@id/gradient" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_large_strong" />
+    <ImageView android:id="@id/category_card_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    <TextView android:id="@id/category_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/generic_card_padding" android:singleLine="true" android:layout_alignParentBottom="true" style="@style/card_primary_text_large" />
+    <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/bundle_corner" android:layout_alignParentTop="true" android:layout_alignParentRight="true" />
+</RelativeLayout>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.media" android:sharedUserLabel="@string/uid_label" package="com.android.providers.media">
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_MTP"/>
+    <uses-permission android:name="android.permission.MANAGE_USERS"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <application android:label="@string/app_label" android:process="android.process.media" android:supportsRtl="true">
+        <provider android:authorities="media" android:exported="true" android:multiprocess="false" android:name="MediaProvider">
+            <grant-uri-permission android:pathPrefix="/external/"/>
+            <path-permission android:pathPrefix="/external/" android:readPermission="android.permission.READ_EXTERNAL_STORAGE" android:writePermission="android.permission.WRITE_EXTERNAL_STORAGE"/>
+        </provider>
+        <provider android:authorities="com.android.providers.media.documents" android:exported="true" android:grantUriPermissions="true" android:name="MediaDocumentsProvider" android:permission="android.permission.MANAGE_DOCUMENTS">
+            <intent-filter>
+                <action android:name="android.content.action.DOCUMENTS_PROVIDER"/>
+            </intent-filter>
+        </provider>
+        <receiver android:name="MediaUpgradeReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PRE_BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="MediaScannerReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_MOUNTED"/>
+                <data android:scheme="file"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_UNMOUNTED"/>
+                <data android:scheme="file"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_SCANNER_SCAN_FILE"/>
+                <data android:scheme="file"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="MediaScannerService">
+            <intent-filter>
+                <action android:name="android.media.IMediaScannerService"/>
+            </intent-filter>
+        </service>
+        <receiver android:name=".MtpReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.hardware.usb.action.USB_STATE"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="MtpService"/>
+        <activity android:excludeFromRecents="true" android:name="RingtonePickerActivity" android:theme="@android:style/Theme.Holo.Dialog.Alert">
+            <intent-filter>
+                <action android:name="android.intent.action.RINGTONE_PICKER"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

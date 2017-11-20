@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:textAppearance="?android:textAppearanceListItem" android:id="@id/text_input" android:focusable="true" android:layout_width="@dimen/edit_text_width_default" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:inputType="text" android:imeOptions="actionNext|flagNoExtractUi">
+        <requestFocus />
+    </EditText>
+    <TextView android:textAppearance="?android:textAppearanceListItem" android:id="@id/edit_suffix_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/text_input" android:layout_alignBottom="@id/text_input" />
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@color/plus_auth_info_fragment_bg" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:layout_gravity="center" android:orientation="horizontal" android:paddingBottom="@dimen/plus_auth_info_fragment_icon_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <com.google.android.gms.auth.login.CircleImageView android:id="@id/app_icon" android:layout_marginRight="@dimen/plus_auth_avatar_offset" style="@style/plus_AvatarIcon" />
+        <com.google.android.gms.auth.login.CircleImageView android:id="@id/user_icon" android:layout_marginLeft="@dimen/plus_auth_avatar_offset" style="@style/plus_AvatarIcon" />
+    </FrameLayout>
+    <TextView android:gravity="center" android:id="@id/app_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/plus_auth_info_fragment_app_name" style="@style/GrantCredentialsTextTitle" />
+</LinearLayout>

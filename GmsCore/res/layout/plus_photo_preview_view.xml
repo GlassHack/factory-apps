@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/share_preview" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/plus_preview_content_text_size" android:textStyle="bold" android:textColor="@color/plus_preview_title_text" android:id="@id/photo_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/plus_photo_title_margin" android:layout_alignParentTop="true" />
+        <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/plus_photo_image_margin">
+            <com.google.android.gms.plus.data.internal.PlusImageView android:id="@id/photo_image" android:layout_width="@dimen/plus_preview_image_dimension" android:layout_height="@dimen/plus_preview_image_dimension" android:layout_marginRight="@dimen/plus_preview_image_right_margin" android:src="@drawable/empty_thumbnail" android:scaleType="centerCrop" android:contentDescription="@string/plus_photo_preview_image_description" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

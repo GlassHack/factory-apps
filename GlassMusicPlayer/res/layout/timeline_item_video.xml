@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.glass.timeline.ui.VideoItemView android:background="@color/background_dark_gray" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextureView android:id="@id/video" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/non_video" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/placeholder" android:background="@color/background_dark_gray" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_placeholder_video_150" android:scaleType="center" />
+        <ImageView android:id="@id/thumbnail" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+        <ImageView android:layout_gravity="center" android:id="@id/overlay_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_video_overlay_150" />
+    </FrameLayout>
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_medium" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:background="@android:color/transparent" android:paddingBottom="@dimen/timeline_footer_height" android:layout_height="wrap_content" style="@style/AdjustedCardFooter">
+        <com.google.glass.widget.DynamicSizeTextView android:gravity="bottom" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="70.0px" android:layout_weight="0.0" style="@style/OverlayText" />
+    </LinearLayout>
+    <com.google.glass.widget.SliderView android:layout_gravity="bottom" android:id="@id/buffering_slider" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <com.google.glass.widget.TipsView android:layout_gravity="bottom|center" android:id="@id/tips" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="76.0px" style="@style/TipsViewText" />
+</com.google.glass.timeline.ui.VideoItemView>

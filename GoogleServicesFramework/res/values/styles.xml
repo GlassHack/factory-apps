@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="setup_wizard_theme" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
+        <item name="setup_wizard_back_button">@drawable/btn_dir_prev_dark</item>
+        <item name="setup_wizard_next_button">@drawable/btn_dir_next_dark</item>
+        <item name="setup_wizard_start_button">@drawable/btn_start_dark</item>
+        <item name="setup_wizard_divider_color">@color/setup_wizard_divider_color_dark</item>
+        <item name="ic_backup">@drawable/ic_settings_backup</item>
+        <item name="ic_communication">@drawable/ic_communication_dark</item>
+        <item name="ic_emergency_dial">@drawable/ic_emergency_dial_dark</item>
+        <item name="ic_location">@drawable/ic_settings_location</item>
+    </style>
+    <style name="setup_wizard_theme.light" parent="@android:style/Theme.Holo.Light.NoActionBar">
+        <item name="android:windowSoftInputMode">adjustPan</item>
+        <item name="android:preferencePanelStyle">@android:style/PreferencePanel.Dialog</item>
+        <item name="setup_wizard_back_button">@drawable/btn_dir_prev_light</item>
+        <item name="setup_wizard_next_button">@drawable/btn_dir_next_light</item>
+        <item name="setup_wizard_start_button">@drawable/btn_start_light</item>
+        <item name="setup_wizard_divider_color">@color/setup_wizard_divider_color_light</item>
+        <item name="ic_backup">@drawable/ic_backup_light</item>
+        <item name="ic_communication">@drawable/ic_communication_light</item>
+        <item name="ic_emergency_dial">@drawable/ic_emergency_dial_light</item>
+        <item name="ic_location">@drawable/ic_location_light</item>
+    </style>
+    <style name="setup_wizard_title">
+        <item name="android:textSize">@dimen/setup_wizard_title_size</item>
+        <item name="android:textColor">@color/setup_wizard_title_color</item>
+        <item name="android:clickable">false</item>
+        <item name="android:longClickable">false</item>
+        <item name="android:layout_marginLeft">@dimen/setup_wizard_title_margin_sides</item>
+        <item name="android:layout_marginRight">@dimen/setup_wizard_title_margin_sides</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="setup_wizard_text">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorLink">?android:textColorPrimary</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="setup_wizard_heading_text" parent="@style/setup_wizard_text">
+        <item name="android:textSize">@dimen/setup_wizard_heading_text_size</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_heading_margin_top</item>
+    </style>
+    <style name="setup_wizard_description_text" parent="@style/setup_wizard_text">
+        <item name="android:textSize">@dimen/setup_wizard_description_text_size</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/setup_wizard_content_margin_sides</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_description_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/setup_wizard_content_margin_sides</item>
+    </style>
+    <style name="setup_wizard_body_text_secondary" parent="@android:attr/textAppearanceMedium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:textColorHighlight">@color/setup_wizard_highlight_color</item>
+        <item name="android:textColorLink">@color/setup_wizard_link_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="setup_wizard_text_primary_small" parent="@android:attr/textAppearanceSmall">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHighlight">@color/setup_wizard_highlight_color</item>
+        <item name="android:textColorLink">@color/setup_wizard_link_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="setup_wizard_checkbox">
+        <item name="android:textAppearance">@style/setup_wizard_body_text_secondary</item>
+        <item name="android:textSize">@dimen/setup_wizard_checkbox_text_size</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_checkbox_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/setup_wizard_checkbox_margin_bottom</item>
+    </style>
+    <style name="setup_wizard_checkbox_text">
+        <item name="android:textAppearance">@style/setup_wizard_text_primary_small</item>
+        <item name="android:textSize">@dimen/setup_wizard_checkbox_text_size</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_checkbox_text_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/setup_wizard_checkbox_text_margin_bottom</item>
+    </style>
+    <style name="setup_wizard_button">
+        <item name="android:textAppearance">?android:textAppearanceMedium</item>
+        <item name="android:textSize">20.0dip</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">@dimen/setup_wizard_button_height</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_button_margin_top</item>
+        <item name="android:minWidth">@dimen/setup_wizard_button_min_width</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="setup_wizard_single_button" parent="@style/setup_wizard_button">
+        <item name="android:layout_width">@dimen/setup_wizard_button_min_width</item>
+    </style>
+    <style name="setup_wizard_arrow_button">
+        <item name="android:layout_width">@dimen/setup_wizard_arrow_button_width</item>
+        <item name="android:layout_height">@dimen/setup_wizard_arrow_button_height</item>
+        <item name="android:minWidth">0.0dip</item>
+    </style>
+    <style name="setup_wizard_back_button" parent="@style/setup_wizard_arrow_button">
+        <item name="android:background">?setup_wizard_back_button</item>
+    </style>
+    <style name="setup_wizard_next_button" parent="@style/setup_wizard_arrow_button">
+        <item name="android:background">?setup_wizard_next_button</item>
+    </style>
+    <style name="setup_wizard_start_button" parent="@style/setup_wizard_arrow_button">
+        <item name="android:background">?setup_wizard_start_button</item>
+    </style>
+    <style name="setup_wizard_top_divider">
+        <item name="android:background">?setup_wizard_divider_color</item>
+        <item name="android:focusable">false</item>
+        <item name="android:clickable">false</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/setup_wizard_divider_height</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_divider_margin_top</item>
+        <item name="android:layout_marginBottom">@dimen/setup_wizard_divider_margin_bottom</item>
+    </style>
+    <style name="setup_wizard_services_heading_text" parent="@style/setup_wizard_heading_text">
+        <item name="android:layout_marginTop">@dimen/setup_wizard_services_heading_margin_top</item>
+        <item name="android:textAllCaps">true</item>
+    </style>
+    <style name="setup_wizard_services_footnote" parent="@style/setup_wizard_description_text">
+        <item name="android:textSize">@dimen/setup_wizard_services_footnote_text_size</item>
+        <item name="android:textColor">?android:textColorSecondary</item>
+        <item name="android:layout_marginTop">@dimen/setup_wizard_services_footnote_margin_top</item>
+    </style>
+    <style name="Theme.InvisibleDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoDisplay">true</item>
+    </style>
+    <style name="gls_TextAppearance" parent="@android:style/TextAppearance" />
+    <style name="gls_TextAppearance.topHeader" parent="@style/gls_TextAppearance">
+        <item name="android:textSize">18.0dip</item>
+    </style>
+    <style name="systemUpdateTitle">
+        <item name="android:textSize">@dimen/system_update_title_text_size</item>
+        <item name="android:textColor">@color/system_update_title_color</item>
+        <item name="android:clickable">false</item>
+        <item name="android:minHeight">@dimen/system_update_title_height</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="systemUpdateStatus">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textColor">#ff666666</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="systemUpdateDescription" parent="@android:attr/textAppearanceMedium">
+        <item name="android:textSize">@dimen/system_update_description_text_size</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:textColorHighlight">@color/highlight_color</item>
+        <item name="android:textColorLink">@color/link_color</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="ButtonQualifier">
+        <item name="android:textAppearance">?android:textAppearanceSmall</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">0.0dip</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">16.0sp</item>
+        <item name="android:layout_marginRight">16.0sp</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="Canvas" />
+    <style name="Canvas.Button" parent="@style/Canvas" />
+    <style name="Canvas.Theme.Transparent" parent="@android:style/Theme.Holo">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="Canvas.Button.InlineKeyboard" parent="@style/Canvas.Button">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@drawable/key_button_color</item>
+        <item name="android:background">@null</item>
+        <item name="android:padding">0.0dip</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Canvas.Button.InlineKeyboard.Wide" parent="@style/Canvas.Button.InlineKeyboard">
+        <item name="android:background">@drawable/text_button_bg_selector</item>
+    </style>
+    <style name="Canvas.TwoPaneActivity" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/Canvas.Animation.TwoPaneActivity</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+    <style name="Canvas.TwoPaneDialog" parent="@android:style/Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@style/Canvas.Animation.TwoPaneDialogWindow</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowCloseOnTouchOutside">false</item>
+    </style>
+    <style name="Canvas.Animation" parent="@style/Canvas" />
+    <style name="Canvas.Animation.TwoPaneActivity" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@anim/slide_left_in</item>
+        <item name="android:activityOpenExitAnimation">@anim/slide_left_out</item>
+        <item name="android:activityCloseEnterAnimation">@anim/slide_left_in</item>
+        <item name="android:activityCloseExitAnimation">@anim/slide_left_out</item>
+    </style>
+    <style name="Canvas.Animation.TwoPaneDialogWindow" parent="@style/Canvas.Animation">
+        <item name="android:windowEnterAnimation">@anim/slide_left_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_left_out</item>
+    </style>
+    <style name="Canvas.Text" parent="@style/Canvas" />
+    <style name="Canvas.Text.Dialog" parent="@style/Canvas.Text" />
+    <style name="Canvas.Text.Dialog.Content" parent="@style/Canvas.Text.Dialog" />
+    <style name="Canvas.Text.Dialog.Content.Title" parent="@style/Canvas.Text.Dialog.Content">
+        <item name="android:textSize">@dimen/content_fragment_title_text_size</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/content_title_text_color</item>
+        <item name="android:paddingTop">@dimen/content_fragment_title_text_top_padding</item>
+        <item name="android:paddingBottom">@dimen/content_fragment_title_text_bottom_padding</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Canvas.Text.Dialog.Content.Breadcrumb" parent="@style/Canvas.Text.Dialog.Content">
+        <item name="android:textSize">@dimen/content_fragment_breadcrumb_text_size</item>
+        <item name="android:textColor">@color/content_breadcrumb_text_color</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:fontFamily">sans-serif-condensed</item>
+    </style>
+    <style name="Canvas.Text.Dialog.Content.Description" parent="@style/Canvas.Text.Dialog.Content">
+        <item name="android:textSize">@dimen/content_fragment_description_text_size</item>
+        <item name="android:textColor">@color/content_description_text_color</item>
+        <item name="android:gravity">right</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Canvas.Text.Dialog.List" parent="@style/Canvas.Text.Dialog" />
+    <style name="Canvas.Text.Dialog.List.Title" parent="@style/Canvas.Text.Dialog.List">
+        <item name="android:textSize">@dimen/list_item_title_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:alpha">@alpha/list_item_unselected_text_alpha</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Canvas.Text.Dialog.List.Description" parent="@style/Canvas.Text.Dialog.List">
+        <item name="android:textSize">@dimen/list_item_description_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:alpha">@alpha/list_item_unselected_text_alpha</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="Canvas.Text.Dialog.List.Badge" parent="@style/Canvas.Text.Dialog.List">
+        <item name="android:textSize">@dimen/list_item_description_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:alpha">@alpha/list_item_unselected_text_alpha</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Canvas.Text.Dialog.List.Timestamp" parent="@style/Canvas.Text.Dialog.List">
+        <item name="android:textSize">@dimen/list_item_timestamp_font_size</item>
+        <item name="android:textColor">@color/list_item_unselected_text_color</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:alpha">@alpha/list_item_unselected_text_alpha</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="Canvas.Image" parent="@style/Canvas" />
+    <style name="Canvas.Image.Dialog" parent="@style/Canvas.Image" />
+    <style name="Canvas.Image.Dialog.Content" parent="@style/Canvas.Image.Dialog" />
+    <style name="Canvas.Image.Dialog.Content.Icon" parent="@style/Canvas.Image.Dialog.Content">
+        <item name="android:src">@drawable/content_fragment_default_icon</item>
+        <item name="android:scaleType">center</item>
+        <item name="android:maxHeight">@dimen/content_fragment_max_icon_height</item>
+    </style>
+    <style name="Canvas.Image.Dialog.List" parent="@style/Canvas.Image.Dialog" />
+    <style name="Canvas.Image.Dialog.List.Checkmark" parent="@style/Canvas.Image.Dialog.List">
+        <item name="android:visibility">invisible</item>
+        <item name="android:src">@drawable/list_item_checkmark</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="Canvas.Image.Dialog.List.Icon" parent="@style/Canvas.Image.Dialog.List">
+        <item name="android:visibility">gone</item>
+        <item name="android:scaleType">center</item>
+    </style>
+    <style name="PlaybackControls" />
+    <style name="PlaybackControls.CurrentTime" parent="@style/PlaybackControls">
+        <item name="android:textSize">24.0sp</item>
+        <item name="android:textColor">@color/text_primary_color_half_alpha</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="PlaybackControls.Duration" parent="@style/PlaybackControls">
+        <item name="android:textSize">12.0sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/text_primary_color_half_alpha</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="AnimationTopSlide">
+        <item name="android:windowEnterAnimation">@anim/notification_dialog_slide_top_in</item>
+        <item name="android:windowExitAnimation">@anim/notification_dialog_slide_top_out</item>
+    </style>
+    <style name="Canvas.Theme.Transparent.NotificationDialog" parent="@style/Canvas.Theme.Transparent">
+        <item name="android:windowAnimationStyle">@style/AnimationTopSlide</item>
+    </style>
+</resources>

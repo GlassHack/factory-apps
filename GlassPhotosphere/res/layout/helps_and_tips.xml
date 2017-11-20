@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="top" android:id="@id/illustration" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/help_1" android:adjustViewBounds="true" />
+        <RelativeLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <Button android:id="@id/previous" android:background="@drawable/arrow_left" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginLeft="60.0dip" android:layout_alignParentLeft="true" />
+            <Button android:id="@id/next" android:background="@drawable/arrow_right" android:layout_width="50.0dip" android:layout_height="50.0dip" android:layout_marginRight="60.0dip" android:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+    <Button android:textSize="40.0dip" android:id="@id/dismiss" android:layout_width="fill_parent" android:layout_height="70.0dip" android:text="@string/get_started" />
+</LinearLayout>

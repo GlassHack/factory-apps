@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d सेकेन्डमा जडान गर्न पुन: सुरु गरँदै...</item>
+        <item quantity="one">स्थापना गर्नका लागि पुन:बुटिङ १ सेकेण्डमा गर्दै ...</item>
+    </plurals>
+</resources>

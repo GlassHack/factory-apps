@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="agree">Acceptar</string>
+    <string name="app_label">Lieu da la rait</string>
+    <string name="disagree">Refusar</string>
+    <string name="location_warning_title">Cundivisiun da la posiziun geografica</string>
+    <string name="system_update_activity_name">Actualisaziuns dal sistem</string>
+    <string name="system_update_activity_roaming_text">Actualisaziuns dal sistem na pon betg vegnir telechargiadas durant il roaming.</string>
+    <string name="system_update_countdown_cancel_button">"Annullar l'installaziun"</string>
+    <string name="system_update_requires_restart_status_text">Reaviar obligatoric</string>
+    <string name="system_update_verified_status_text">Telechargià e verifitgà</string>
+</resources>

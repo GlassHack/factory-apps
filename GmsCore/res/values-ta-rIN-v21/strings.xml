@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">உதவி &amp; கருத்து</string>
+    <string name="plus_app_settings_all_apps_label">எல்லா பயன்பாடுகளும்</string>
+    <string name="plus_app_settings_apps_page_label">இணைக்கப்பட்ட பயன்பாடுகள்</string>
+    <string name="plus_list_apps_empty_message">பயன்பாடுகள் எதுவும் இணைக்கப்படவில்லை</string>
+    <string name="plus_manage_app_pacl_label">Google இல் பயன்பாட்டின் செயல்பாடுகளைப் பார்க்கக்கூடியவர்கள்</string>
+    <string name="plus_manage_app_scopes_label">இந்தப் பயன்பாடு இவற்றை அணுகலாம்:</string>
+</resources>

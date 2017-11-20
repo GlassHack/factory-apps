@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="developer_setting_animation_scale_titles">
+        <item>0.5 x</item>
+        <item>1 x</item>
+        <item>1.5 x</item>
+        <item>2 x</item>
+        <item>5 x</item>
+        <item>10 x</item>
+    </string-array>
+    <string-array name="developer_setting_animation_scale_descriptions">
+        <item>Animations take half as long to run</item>
+        <item>Animations run at normal speed</item>
+        <item>Animations take 1.5 times as long to run</item>
+        <item>Animations take twice as long to run</item>
+        <item>Animations take five times as long to run</item>
+        <item>Animations take ten times as long to run</item>
+    </string-array>
+</resources>

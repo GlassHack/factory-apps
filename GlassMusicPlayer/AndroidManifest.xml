@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.glass.musicplayer">
+    <permission android:name="com.google.android.xdi.permission.ACCESS_APP_BROWSE_DATA" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.google.android.xdi.permission.ACCESS_APP_BROWSE_DATA"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS"/>
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL"/>
+    <uses-permission android:name="com.google.glass.entity.permission.ENTITY_PROVIDER"/>
+    <uses-permission android:name="com.google.glass.logging.permission.USER_EVENT_SERVICE"/>
+    <uses-permission android:name="com.google.glass.sync.permission.TIMELINE_PROVIDER"/>
+    <uses-permission android:name="com.google.android.glass.permission.ACCESS_PRIVATE_CACHE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <application android:icon="@drawable/ic_beamed_note_50" android:label="@string/player_name" android:name="com.google.glass.musicplayer.MusicApplication" android:theme="@style/GlassTheme">
+        <activity android:enabled="false" android:name="com.google.glass.musicplayer.ListenToQueryActivity" android:taskAffinity="com.google.glass.home" android:theme="@style/GlassMusicPlayerTheme">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.VOICE_TRIGGER"/>
+            </intent-filter>
+            <meta-data android:name="com.google.android.glass.VoiceTrigger" android:resource="@xml/voice_trigger"/>
+        </activity>
+        <activity android:name="com.google.glass.musicplayer.MusicPlayerMenuActivity" android:theme="@style/MenuTheme"/>
+        <activity android:name="com.google.glass.musicplayer.ResultsActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <data android:mimeType="audio/mp3"/>
+                <data android:mimeType="audio/m4a"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.google.glass.musicplayer.TimelinePlayerService">
+            <intent-filter>
+                <action android:name="com.google.glass.music.action.STOP_MUSIC"/>
+                <action android:name="com.google.glass.music.action.START_PLAYER_SEEDED_RADIO"/>
+                <action android:name="com.google.glass.music.action.LOG_EVENT"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="com.google.glass.musicplayer.PackageManagerReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_ADDED"/>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.musicplayer.TimelinePlaybackReceiver">
+            <intent-filter>
+                <action android:name="com.google.glass.musicplayer.PLAY_HISTORY"/>
+                <action android:name="com.google.glass.musicplayer.START_BROWSE_UI"/>
+            </intent-filter>
+        </receiver>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    </application>
+</manifest>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Ajuda i opinió</string>
+    <string name="plus_app_settings_all_apps_label">Totes les aplicacions</string>
+    <string name="plus_app_settings_apps_page_label">Aplicacions connectades</string>
+    <string name="plus_list_apps_empty_message">No hi ha cap aplicació connectada.</string>
+    <string name="plus_manage_app_pacl_label">"Qui pot veure les activitats de l'aplicació a Google"</string>
+    <string name="plus_manage_app_scopes_label">Aquesta aplicació pot accedir a:</string>
+</resources>

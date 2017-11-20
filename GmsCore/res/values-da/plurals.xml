@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">fra en %1$s-browser i %2$s for mindre end %3$s minutter siden</item>
+        <item quantity="one">fra en %1$s-browser i %2$s for mindre end %3$s minut siden</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">fra %1$s for mindre end %2$s minutter siden</item>
+        <item quantity="one">fra %1$s for mindre end %2$s minut siden</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d timer tilbage</item>
+        <item quantity="one">1 time tilbage</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dage</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d timer</item>
+        <item quantity="one">%d time</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s personer</item>
+        <item quantity="one">%1$s person</item>
+        <item quantity="two">%1$s personer</item>
+        <item quantity="few">%1$s personer</item>
+        <item quantity="many">%1$s personer</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Genstarter for at installere om %d sekunder…</item>
+        <item quantity="one">Genstarter for at installere om 1 sekund…</item>
+    </plurals>
+</resources>

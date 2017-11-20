@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_gravity="top" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="top|center" android:id="@id/image" android:layout_width="@dimen/qs_tile_icon_size" android:layout_height="@dimen/qs_tile_icon_size" android:layout_marginTop="@dimen/qs_tile_margin_above_icon" android:layout_marginBottom="@dimen/qs_tile_margin_below_icon" android:scaleType="centerInside" android:layout_centerHorizontal="true" />
+    <ImageView android:id="@id/activity_in" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_qs_wifi_in" android:layout_toRightOf="@id/image" android:layout_alignBottom="@id/image" />
+    <ImageView android:id="@id/activity_out" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_qs_wifi_out" android:layout_toRightOf="@id/image" android:layout_alignBottom="@id/image" />
+    <TextView android:gravity="top|center" android:layout_gravity="top|center" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/image" android:layout_centerHorizontal="true" style="@style/TextAppearance.QuickSettings.TileView" />
+</RelativeLayout>

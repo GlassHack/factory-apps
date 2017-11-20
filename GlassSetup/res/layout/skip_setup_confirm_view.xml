@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.glass.widget.horizontalscroll.FrameLayoutCard android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/skip_setup_and_scan_qr_code" android:layout_marginStart="40.0px" android:layout_marginEnd="40.0px" style="@style/MediumOverlayText" />
+    <TextView android:gravity="center" android:layout_gravity="bottom|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0px" android:text="@string/skip_setup_tap_to_continue" android:maxLines="1" style="@style/SmallOverlayText" />
+</com.google.glass.widget.horizontalscroll.FrameLayoutCard>

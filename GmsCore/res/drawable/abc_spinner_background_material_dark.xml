@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector android:autoMirrored="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:drawable="@drawable/abc_spinner_checked_material_dark" />
+    <item android:state_pressed="true" android:drawable="@drawable/abc_spinner_pressed_material_dark" />
+    <item android:drawable="@drawable/abc_spinner_default_material_dark" />
+</selector>

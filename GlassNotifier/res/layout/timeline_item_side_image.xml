@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="@dimen/lhs_width" android:layout_height="fill_parent">
+        <com.google.glass.mosaic.MosaicView android:id="@id/mosaic" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+        <ImageView android:id="@id/overlay" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_medium" android:scaleType="centerCrop" android:layout_alignParentBottom="true" />
+        <TextView android:ellipsize="end" android:gravity="center" android:id="@id/mosaic_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/mosaic_title_left_margin" android:layout_marginRight="@dimen/mosaic_title_right_margin" android:layout_marginBottom="@dimen/mosaic_title_bottom_margin" android:maxLines="1" android:singleLine="true" android:layout_alignParentBottom="true" style="@style/SmallOverlayText" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:paddingBottom="@dimen/timeline_footer_height" style="@style/GenericCardRhs">
+        <com.google.glass.widget.DynamicSizeTextView android:id="@id/text" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" style="@style/OverlayText" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="center_vertical" android:id="@id/audience_selection_update_circle_view" android:background="@drawable/plus_add_to_circles_selector" android:layout_width="fill_parent" android:layout_height="@dimen/plus_audience_selection_list_update_item_height" style="@style/common_SelectableItem">
+        <LinearLayout android:gravity="center_vertical" android:id="@id/audience_selection_checkbox_frame" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_marginRight="@dimen/plus_audience_selection_list_update_item_padding">
+            <CheckBox android:id="@id/audience_selection_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="2.0dip" android:button="@drawable/plus_audience_selection_checkbox" />
+        </LinearLayout>
+        <TextView android:textSize="@dimen/plus_add_to_circles_text_size" android:textColor="@color/plus_audience_selection_update_text_color" android:ellipsize="middle" android:id="@id/audience_selection_circle_name" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/plus_audience_selection_list_update_item_padding" android:layout_marginRight="@dimen/plus_audience_selection_list_count_padding" android:singleLine="true" android:layout_toLeftOf="@id/audience_selection_checkbox_frame" android:fontFamily="sans-serif" />
+    </RelativeLayout>
+</merge>

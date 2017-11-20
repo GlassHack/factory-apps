@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/title" android:text="@string/auth_authzen_notify_google_default_text" style="@style/AuthzenTitle" />
+    <TextView android:id="@id/description" style="@style/AuthzenDescription" />
+    <Button android:layout_gravity="center" android:id="@id/secure_account_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip" android:text="@string/auth_authzen_secure_account_button_text" style="@style/AuthzenButton" />
+    <Button android:layout_gravity="center" android:id="@id/close_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:text="@string/auth_authzen_close_button_text" style="@style/AuthzenBorderlessButton" />
+</LinearLayout>

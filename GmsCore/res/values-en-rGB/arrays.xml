@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafe</item>
+        <item>Petrol Station</item>
+        <item>Cinema</item>
+        <item>Lodging</item>
+        <item>Night Club</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Shopping Centre</item>
+        <item>Shop</item>
+        <item>Grocery Shop or Supermarket</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>poor</item>
+        <item>fair</item>
+        <item>good</item>
+        <item>strong</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>north</item>
+        <item>northeast</item>
+        <item>east</item>
+        <item>southeast</item>
+        <item>south</item>
+        <item>southwest</item>
+        <item>west</item>
+        <item>northwest</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Choose a security question</item>
+        <item>First phone number?</item>
+        <item>"Childhood best friend's name?"</item>
+        <item>"First teacher's name?"</item>
+        <item>"Manager's name at first job?"</item>
+        <item>Vehicle registration number?</item>
+    </string-array>
+</resources>

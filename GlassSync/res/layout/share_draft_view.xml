@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/timeline_item_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:glass="http://schemas.android.com/apk/res-auto">
+    <View android:id="@id/tips_view_gradient" android:background="@drawable/overlay_medium_strong" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.google.glass.widget.TipsView android:gravity="center_horizontal" android:layout_gravity="bottom|center" android:id="@id/tips_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="31.0px" glass:tip="@string/sharing_menu_ok_glass_or_tap" style="@style/TipsViewText" />
+    <com.google.glass.widget.ProgressBar android:layout_gravity="bottom" android:id="@id/slider" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</FrameLayout>

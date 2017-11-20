@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/auth_title" />
+    <view android:id="@id/scroll_view" android:layout_width="wrap_content" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0" class="com.google.android.gms.common.ui.ScrollViewWithEvents">
+        <LinearLayout android:orientation="vertical" android:padding="@dimen/auth_consent_container_padding" android:layout_width="wrap_content" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:id="@id/header_fragment_layout" android:paddingBottom="@dimen/auth_consent_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+                <LinearLayout android:orientation="vertical" android:id="@id/scopes_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            </RelativeLayout>
+            <TextView android:id="@id/footnote" android:paddingTop="@dimen/auth_consent_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/GrantCredentialsTextFooter" />
+        </LinearLayout>
+    </view>
+    <include layout="@layout/auth_request_access_buttons" />
+</LinearLayout>

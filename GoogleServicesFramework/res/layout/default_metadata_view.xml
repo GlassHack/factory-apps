@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/art" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16.0dip" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="28.0sp" android:textStyle="bold" android:textColor="@color/text_primary_color" android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="500.0dip" android:singleLine="true" android:fontFamily="sans-serif-condensed" />
+        <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/text_primary_color" android:ellipsize="end" android:id="@id/artist" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="500.0dip" android:singleLine="true" android:fontFamily="sans-serif-condensed" />
+        <TextView android:textSize="18.0sp" android:textStyle="bold" android:textColor="@color/text_secondary_color" android:ellipsize="end" android:id="@id/album" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="500.0dip" android:singleLine="true" android:fontFamily="sans-serif-condensed" />
+    </LinearLayout>
+</LinearLayout>

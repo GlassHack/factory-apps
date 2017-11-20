@@ -1,0 +1,38 @@
+.class public final Lcom/google/n/b/c/b;
+.super Lcom/google/n/b/a;
+.source "SourceFile"
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    .prologue
+    .line 16
+    invoke-direct {p0}, Lcom/google/n/b/a;-><init>()V
+
+    .line 17
+    return-void
+.end method
+
+.method public constructor <init>(Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 24
+    invoke-direct {p0, p1}, Lcom/google/n/b/a;-><init>(Ljava/lang/String;)V
+
+    .line 25
+    return-void
+.end method
+
+.method public constructor <init>(Ljava/lang/String;Ljava/lang/Throwable;)V
+    .locals 0
+
+    .prologue
+    .line 36
+    invoke-direct {p0, p1, p2}, Lcom/google/n/b/a;-><init>(Ljava/lang/String;Ljava/lang/Throwable;)V
+
+    .line 37
+    return-void
+.end method

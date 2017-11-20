@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:id="@id/mention_scroll_view" android:fadingEdgeLength="0.0dip" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="bottom" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:background="@color/plus_replybox_divider" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+        <LinearLayout android:gravity="bottom" android:orientation="horizontal" android:id="@id/compose_container" android:background="@color/plus_solid_white" android:padding="6.0dip" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <view android:textColor="@color/plus_sharebox_compose_text" android:id="@id/compose_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginRight="6.0dip" android:hint="@string/plus_replybox_hint_text" android:maxLines="3" android:layout_weight="1.0" android:inputType="textLongMessage|textCapSentences|textAutoCorrect|textMultiLine" android:imeOptions="actionDone" class="com.google.android.gms.plus.sharebox.MentionMultiAutoCompleteTextView" />
+            <LinearLayout android:gravity="bottom" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <Button android:id="@id/reply_button" android:background="@android:color/transparent" android:paddingLeft="12.0dip" android:paddingTop="10.0dip" android:paddingRight="12.0dip" android:paddingBottom="10.0dip" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:drawableLeft="@drawable/plus_iconic_ic_send_32" android:contentDescription="@string/plus_replybox_button_description" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

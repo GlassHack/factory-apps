@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Довідка й відгуки</string>
+    <string name="plus_app_settings_all_apps_label">Усі додатки</string>
+    <string name="plus_app_settings_apps_page_label">Підключені додатки</string>
+    <string name="plus_list_apps_empty_message">Немає підключених додатків</string>
+    <string name="plus_manage_app_pacl_label">Хто може переглядати активність у додатку в системі Google</string>
+    <string name="plus_manage_app_scopes_label">Додаток має доступ до:</string>
+</resources>

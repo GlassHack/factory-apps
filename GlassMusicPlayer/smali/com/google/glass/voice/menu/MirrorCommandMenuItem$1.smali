@@ -1,0 +1,47 @@
+.class final Lcom/google/glass/voice/menu/MirrorCommandMenuItem$1;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lcom/google/glass/voice/menu/VoiceMenuBuilder$OnVoiceMenuItemSelectedListener;
+
+
+# instance fields
+.field final synthetic val$context:Landroid/content/Context;
+
+
+# direct methods
+.method constructor <init>(Landroid/content/Context;)V
+    .locals 0
+
+    .prologue
+    .line 27
+    iput-object p1, p0, Lcom/google/glass/voice/menu/MirrorCommandMenuItem$1;->val$context:Landroid/content/Context;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onVoiceMenuItemSelected(Lcom/google/glass/voice/menu/VoiceMenuItem;)V
+    .locals 1
+
+    .prologue
+    .line 30
+    iget-object v0, p0, Lcom/google/glass/voice/menu/MirrorCommandMenuItem$1;->val$context:Landroid/content/Context;
+
+    invoke-virtual {v0}, Landroid/content/Context;->getContentResolver()Landroid/content/ContentResolver;
+
+    move-result-object v0
+
+    invoke-static {v0}, Lcom/google/glass/voice/menu/GlassMenuUsageContract;->getInstance(Landroid/content/ContentResolver;)Lcom/google/glass/voice/menu/GlassMenuUsageContract;
+
+    move-result-object v0
+
+    invoke-virtual {v0, p1}, Lcom/google/glass/voice/menu/GlassMenuUsageContract;->onTriggered(Lcom/google/glass/voice/menu/VoiceMenuItem;)Z
+
+    .line 31
+    return-void
+.end method

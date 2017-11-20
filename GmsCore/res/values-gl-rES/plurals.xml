@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Quedan %d horas</item>
+        <item quantity="one">Queda 1 hora</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s persoas</item>
+        <item quantity="one">%1$s persoa</item>
+        <item quantity="two">%1$s persoas</item>
+        <item quantity="few">%1$s persoas</item>
+        <item quantity="many">%1$s persoas</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Reiniciando para efectuar a instalación dentro de %dsegundos…</item>
+        <item quantity="one">Reiniciando para efectuar a instalación dentro de 1 segundo…</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/look_at_screen_calibration_dialog" android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.glass.settings.ui.FillingCircle android:id="@id/filling_circle" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:ellipsize="end" android:gravity="center" android:id="@id/look_at_circle_message" android:visibility="visible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0px" android:text="@string/look_at_circle_message" android:maxLines="2" android:singleLine="false" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/SmallOverlayText" />
+    <TextView android:textColor="@color/state_gray" android:ellipsize="end" android:gravity="center" android:id="@id/look_straightahead_message" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="40.0px" android:text="@string/look_straightahead_message" android:maxLines="2" android:singleLine="false" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/SmallOverlayText" />
+</RelativeLayout>

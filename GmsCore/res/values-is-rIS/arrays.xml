@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kaffihús</item>
+        <item>Bensínstöð</item>
+        <item>Kvikmyndahús</item>
+        <item>Gisting</item>
+        <item>Næturklúbbur</item>
+        <item>Safn</item>
+        <item>Veitingastaður</item>
+        <item>Verslunarmiðstöð</item>
+        <item>Verslun</item>
+        <item>Matvöru- eða stórmarkaður</item>
+        <item>Annað</item>
+    </string-array>
+</resources>

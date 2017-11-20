@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ബാര്‍</item>
+        <item>കഫേ</item>
+        <item>ഗ്യാസ് സ്റ്റേഷൻ</item>
+        <item>സിനിമാ തിയറ്റർ</item>
+        <item>താമസസൗകര്യം</item>
+        <item>നിശാക്ലബ്</item>
+        <item>കാഴ്ചബംഗ്ലാവ്</item>
+        <item>ഭക്ഷണശാല</item>
+        <item>ഷോപ്പിംഗ് കേന്ദ്രം</item>
+        <item>സ്റ്റോർ</item>
+        <item>പലചരക്കുകട അല്ലെങ്കിൽ സൂപ്പർമാർക്കറ്റ്</item>
+        <item>മറ്റുള്ളവ</item>
+    </string-array>
+</resources>

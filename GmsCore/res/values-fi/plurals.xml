@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">laitteen %1$s selaimesta sijainnissa %2$s alle %3$s min sitten</item>
+        <item quantity="one">laitteen %1$s selaimesta sijainnissa %2$s alle %3$s min sitten</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">sijainnista %1$s alle %2$s min sitten</item>
+        <item quantity="one">sijainnista %1$s alle %2$s min sitten</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d tuntia jäljellä</item>
+        <item quantity="one">1 tunti jäljellä</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d päivää</item>
+        <item quantity="one">%d päivä</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d tuntia</item>
+        <item quantity="one">%d tunti</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s henkilöä</item>
+        <item quantity="one">%1$s henkilö</item>
+        <item quantity="two">%1$s henkilöä</item>
+        <item quantity="few">%1$s henkilöä</item>
+        <item quantity="many">%1$s henkilöä</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Käynnistetään uudelleen ja asennetaan %d sekunnin kuluttua…</item>
+        <item quantity="one">Käynnistetään uudelleen ja asennetaan yhden sekunnin kuluttua…</item>
+    </plurals>
+</resources>

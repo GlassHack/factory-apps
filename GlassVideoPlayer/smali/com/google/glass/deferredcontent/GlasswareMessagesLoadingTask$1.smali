@@ -1,0 +1,48 @@
+.class final Lcom/google/glass/deferredcontent/GlasswareMessagesLoadingTask$1;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Lcom/google/glass/deferredcontent/GlasswareMessagesLoadingTask$MessagesReceiver;
+
+
+# instance fields
+.field final synthetic val$loadLatch:Ljava/util/concurrent/CountDownLatch;
+
+.field final synthetic val$ref:Ljava/util/concurrent/atomic/AtomicReference;
+
+
+# direct methods
+.method constructor <init>(Ljava/util/concurrent/atomic/AtomicReference;Ljava/util/concurrent/CountDownLatch;)V
+    .locals 0
+
+    .prologue
+    .line 176
+    iput-object p1, p0, Lcom/google/glass/deferredcontent/GlasswareMessagesLoadingTask$1;->val$ref:Ljava/util/concurrent/atomic/AtomicReference;
+
+    iput-object p2, p0, Lcom/google/glass/deferredcontent/GlasswareMessagesLoadingTask$1;->val$loadLatch:Ljava/util/concurrent/CountDownLatch;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final onMessagesLoaded(Lcom/google/googlex/glass/common/proto/GlasswareNano$GlasswareMessages;)V
+    .locals 1
+
+    .prologue
+    .line 179
+    iget-object v0, p0, Lcom/google/glass/deferredcontent/GlasswareMessagesLoadingTask$1;->val$ref:Ljava/util/concurrent/atomic/AtomicReference;
+
+    invoke-virtual {v0, p1}, Ljava/util/concurrent/atomic/AtomicReference;->set(Ljava/lang/Object;)V
+
+    .line 180
+    iget-object v0, p0, Lcom/google/glass/deferredcontent/GlasswareMessagesLoadingTask$1;->val$loadLatch:Ljava/util/concurrent/CountDownLatch;
+
+    invoke-virtual {v0}, Ljava/util/concurrent/CountDownLatch;->countDown()V
+
+    .line 181
+    return-void
+.end method

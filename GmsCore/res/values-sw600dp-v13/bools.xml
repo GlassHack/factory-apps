@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="maps_enable_latitude_friends_widget">false</bool>
+    <bool name="maps_enable_traffic_widget">false</bool>
+    <bool name="maps_enable_widgets">false</bool>
+    <bool name="maps_is_tablet">true</bool>
+    <bool name="plus_is_tablet">true</bool>
+</resources>

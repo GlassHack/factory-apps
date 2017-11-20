@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/video_frame" android:background="@color/background_dark_gray" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextureView android:id="@id/video_texture_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:layout_gravity="center" android:id="@id/thumbnail_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ImageView android:layout_gravity="center" android:id="@id/overlay_image_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_placeholder_video_150" />
+    <com.google.glass.videoplayer.widget.TimeBarView android:layout_gravity="bottom" android:id="@id/timebar_view" android:background="@drawable/gradient_bg" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="90.0px" />
+    <com.google.glass.widget.TipsView android:layout_gravity="bottom|right|center" android:id="@id/buffering_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="40.0px" android:layout_marginBottom="33.0px" style="@style/TipsViewText" />
+    <com.google.glass.widget.TipsView android:layout_gravity="bottom|center" android:id="@id/error_msg" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="33.0px" android:text="@string/generic_error" android:maxLines="4" style="@style/SmallOverlayText" />
+</FrameLayout>

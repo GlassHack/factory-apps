@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Pagalba ir atsiliepimai</string>
+    <string name="plus_app_settings_all_apps_label">Visos programos</string>
+    <string name="plus_app_settings_apps_page_label">Prijungtos programos</string>
+    <string name="plus_list_apps_empty_message">Prijungtų programų nėra</string>
+    <string name="plus_manage_app_pacl_label">Kas sistemoje „Google“ gali peržiūrėti programos veiksmus</string>
+    <string name="plus_manage_app_scopes_label">Ši programa gali pasiekti:</string>
+</resources>

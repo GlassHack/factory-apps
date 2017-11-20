@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">"minder as %1$s minute gelede vanaf 'n %2$s-blaaier in %3$s"</item>
+        <item quantity="one">"minder as %1$s minuut gelede vanaf 'n %2$s-blaaier in %3$s"</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">minder as %1$s minute gelede vanaf %2$s</item>
+        <item quantity="one">minder as %1$s minuut gelede vanaf %2$s</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d uur oor</item>
+        <item quantity="one">1 uur oor</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dae</item>
+        <item quantity="one">%d dag</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d uur</item>
+        <item quantity="one">%d uur</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d min.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s mense</item>
+        <item quantity="one">%1$s persoon</item>
+        <item quantity="two">%1$s mense</item>
+        <item quantity="few">%1$s mense</item>
+        <item quantity="many">%1$s mense</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Herselflaai om te installeer oor %d sekondes …</item>
+        <item quantity="one">Herselflaai om te installeer oor 1 sekonde …</item>
+    </plurals>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:keepScreenOn="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/background" android:background="#ff000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.google.android.glass.widget.CardScrollView android:id="@id/thumbnail_scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/freeze_frame" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <View android:id="@id/white_overlay" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+    <View android:id="@id/black_overlay" android:background="#ff000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+    <ImageView android:id="@id/vignette" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" />
+    <ImageView android:id="@id/gradient" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/overlay_medium" android:layout_alignParentBottom="true" android:layout_centerInParent="true" />
+    <TextView android:id="@id/guard_phrase_hint" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/guard_phrase_bottom_margin" android:text="@string/guard_phrase_hint" android:layout_alignParentBottom="true" android:layout_centerInParent="true" style="@style/TipsViewText" />
+    <com.google.glass.camera.ui.ViewfinderCropMarksView android:id="@id/crop_marks" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</RelativeLayout>

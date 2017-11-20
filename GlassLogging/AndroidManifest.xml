@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:allowBackup="false" android:sharedUserId="android.uid.system" package="com.google.glass.logging">
+    <permission android:name="com.google.glass.logging.permission.USER_EVENT_SERVICE" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.google.glass.logging.permission.REMOTE_BUG_REPORT" android:protectionLevel="signature"/>
+    <permission android:name="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS" android:protectionLevel="signature"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS"/>
+    <uses-permission android:name="android.permission.SHUTDOWN"/>
+    <uses-permission android:name="android.permission.READ_FRAME_BUFFER"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.entity.permission.ENTITY_PROVIDER"/>
+    <uses-permission android:name="com.google.glass.sync.permission.TIMELINE_PROVIDER"/>
+    <uses-permission android:name="com.google.android.glass.permission.ACCESS_PRIVATE_CACHE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <application android:largeHeap="true" android:name="com.google.glass.logging.LoggingApplication" android:theme="@style/GlassTheme">
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.google.glass.logging.EngFeedbackActivity"/>
+        <activity android:exported="true" android:launchMode="singleTask" android:name="com.google.glass.logging.UserFeedbackActivity"/>
+        <provider android:authorities="com.google.glass.logging" android:exported="true" android:label="com.google.glass.logging.LoggingSecretProvider" android:name="com.google.glass.logging.LoggingSecretProvider" android:permission="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS"/>
+        <receiver android:name="com.google.glass.logging.EngFeedbackReceiver"/>
+        <receiver android:name="com.google.glass.logging.BugReportReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BUG_REPORT"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.logging.RemoteBugReportReceiver" android:permission="com.google.glass.logging.permission.REMOTE_BUG_REPORT">
+            <intent-filter>
+                <action android:name="com.google.glass.logging.RemoteBugReportReceiver"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.logging.FeedbackCleanupReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.logging.ShutdownReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_SHUTDOWN"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.logging.WatchdogReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REPLACED"/>
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.glass.logging.EngFeedbackService"/>
+        <service android:exported="true" android:name="com.google.glass.logging.WatchdogService"/>
+        <receiver android:name="com.google.glass.logging.FsckLogReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.logging.BootCountReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.glass.logging.FsckLogService"/>
+        <service android:exported="true" android:name="com.google.glass.logging.GlassUserEventService" android:permission="com.google.glass.logging.permission.USER_EVENT_SERVICE"/>
+        <activity android:excludeFromRecents="true" android:launchMode="singleTask" android:name="com.google.glass.logging.AppErrorReporterActivity" android:windowSoftInputMode="stateHidden">
+            <intent-filter>
+                <action android:name="android.intent.action.APP_ERROR"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name="com.google.userfeedback.android.api.SendUserFeedbackService"/>
+        <receiver android:enabled="false" android:name="com.google.userfeedback.android.api.FeedbackConnectivityReceiver">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.logging.RaftLogsReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.checkin.CHECKIN_COMPLETE"/>
+                <action android:name="com.google.gservices.intent.action.GSERVICES_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.logging.HeadsetPlugReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.glass.logging.HeadsetPlugService"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    </application>
+</manifest>

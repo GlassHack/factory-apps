@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ಬಾರ್</item>
+        <item>ಕೆಫೆ</item>
+        <item>ಗ್ಯಾಸ್ ಸ್ಟೇಶನ್</item>
+        <item>ಸಿನಿಮಾ ಥಿಯೇಟರ್</item>
+        <item>ವಸತಿಗೃಹ</item>
+        <item>ರಾತ್ರಿ ಕ್ಲಬ್</item>
+        <item>ವಸ್ತು ಸಂಗ್ರಹಾಲಯ</item>
+        <item>ರೆಸ್ಟೋರೆಂಟ್</item>
+        <item>ಶಾಪಿಂಗ್ ಸೆಂಟರ್</item>
+        <item>ಅಂಗಡಿ</item>
+        <item>ಕಿರಾಣಿ ಅಂಗಡಿ ಅಥವಾ ಸೂಪರ್‌ಮಾರ್ಕೆಟ್</item>
+        <item>ಇತರೆ</item>
+    </string-array>
+</resources>

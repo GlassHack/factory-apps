@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/auth_setup_wizard_content_frame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/submission_title" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/auth_setup_wizard_text" />
+    <TextView android:id="@id/explanation" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/auth_submission_error_text" android:layout_weight="1.0" style="@style/auth_setup_wizard_description" />
+    <TextView android:textStyle="normal" android:id="@id/skip_button" android:paddingTop="12.0dip" android:visibility="gone" android:text="@string/auth_skip_button_label" style="@style/auth_setup_wizard_link" />
+</LinearLayout>

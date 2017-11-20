@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EditText android:id="@id/combined_name_edit" android:paddingTop="0.0dip" android:cursorVisible="false" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionNext" android:contentDescription="@string/plus_oob_first_and_last_name_content_description" style="@style/plus_oob_EditText"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

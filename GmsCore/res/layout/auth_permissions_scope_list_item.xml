@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TableLayout android:id="@id/scope_layout" android:paddingTop="10.0dip" android:paddingBottom="10.0dip" android:layout_height="wrap_content" android:stretchColumns="2" android:shrinkColumns="2" style="@style/GrantCredentialsScopeItem">
+        <TableRow>
+            <ImageView android:gravity="center" android:layout_gravity="top" android:id="@id/scope_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="5.0dip" android:src="@drawable/auth_ic_scope_icon_default" android:contentDescription="@string/auth_scope_icon_desc" android:alpha="0.7" />
+            <TextView android:layout_gravity="top" android:id="@id/scope_label" android:layout_marginRight="5.0dip" android:layout_span="2" android:layout_weight="1.0" style="@style/GrantCredentialsTextPrimary" />
+            <LinearLayout android:layout_gravity="top" android:orientation="horizontal" android:id="@id/details_layout" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/GrantCredentialsSelectableItem">
+                <View android:layout_gravity="left" android:background="?android:listDivider" android:layout_width="1.0dip" android:layout_height="fill_parent" style="@style/GrantCredentialsScopeActionIconDivider" />
+                <ImageView android:gravity="center" android:layout_gravity="right" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/auth_ic_scope_info" android:contentDescription="@string/auth_scope_info_desc" style="@style/GrantCredentialsScopeActionIcon" />
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:id="@id/warning_layout" android:visibility="gone">
+            <ImageView android:gravity="center" android:layout_gravity="top|center" android:id="@id/ic_warning" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginRight="5.0dip" android:layout_marginBottom="10.0dip" android:src="@drawable/auth_ic_warning" android:layout_column="1" android:contentDescription="@string/auth_scope_warning_desc" />
+            <TextView android:layout_gravity="center_vertical" android:id="@id/warning" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/GrantCredentialsTextWarning" />
+        </TableRow>
+        <TableRow android:id="@id/facl_layout" android:visibility="gone">
+            <TextView android:layout_gravity="center_vertical" android:id="@id/facl_link" android:layout_marginRight="5.0dip" android:layout_column="1" android:layout_span="2" android:text="@string/auth_facl_with_warning_label" android:layout_weight="1.0" style="@style/GrantCredentialsTextSecondary" />
+            <LinearLayout android:layout_gravity="top" android:orientation="horizontal" android:id="@id/facl_link_layout" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/GrantCredentialsSelectableItem">
+                <View android:layout_gravity="left" android:background="?android:listDivider" android:layout_width="1.0dip" android:layout_height="fill_parent" style="@style/GrantCredentialsScopeActionIconDivider" />
+                <ImageView android:gravity="center" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/auth_ic_pencil" android:scaleType="centerCrop" android:contentDescription="@string/auth_scope_acl_edit_desc" style="@style/GrantCredentialsScopeActionIcon" />
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:id="@id/pacl_layout" android:visibility="gone" android:layout_marginTop="10.0dip">
+            <RadioButton android:layout_gravity="center" android:id="@id/acl_radio_button" android:layout_column="1" />
+            <view android:layout_gravity="center_vertical" android:id="@id/audience_view" android:layout_weight="1.0" class="com.google.android.gms.common.people.views.AudienceView" />
+            <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:id="@id/pacl_edit_layout" android:focusable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/GrantCredentialsSelectableItem">
+                <View android:background="?android:listDivider" android:layout_width="1.0dip" android:layout_height="fill_parent" style="@style/GrantCredentialsScopeActionIconDivider" />
+                <ImageView android:gravity="center" android:layout_width="30.0dip" android:layout_height="30.0dip" android:src="@drawable/auth_ic_pencil" android:scaleType="centerCrop" android:contentDescription="@string/auth_scope_acl_edit_desc" style="@style/GrantCredentialsScopeActionIcon" />
+            </LinearLayout>
+        </TableRow>
+        <TableRow android:id="@id/private_pacl_layout" android:visibility="gone">
+            <RadioButton android:layout_gravity="center" android:id="@id/private_radio_button" android:layout_column="1" />
+            <view android:layout_gravity="center_vertical" android:id="@id/only_you_audience_view" class="com.google.android.gms.common.people.views.AudienceView" />
+        </TableRow>
+    </TableLayout>
+    <View android:id="@id/divider" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

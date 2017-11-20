@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/google_settings_header_title" />
+    <PreferenceScreen android:title="@string/maps_settings_title" android:key="key1">
+        <intent android:action="com.google.android.apps.maps.LOCATION_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/search_settings_title" android:key="key2">
+        <intent android:action="com.google.android.googlequicksearchbox.action.PRIVACY_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/location_settings_title" android:key="key3">
+        <intent android:action="android.settings.LOCATION_SOURCE_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/plus_settings_title" android:key="key4">
+        <intent android:action="com.google.android.apps.plus.PRIVACY_SETTINGS" />
+    </PreferenceScreen>
+    <PreferenceScreen android:title="@string/ads_settings_title" android:key="key5">
+        <intent android:action="com.google.android.gms.settings.ADS_PRIVACY" />
+    </PreferenceScreen>
+</PreferenceScreen>

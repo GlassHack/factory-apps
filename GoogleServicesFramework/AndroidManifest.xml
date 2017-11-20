@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="com.google.uid.shared" package="com.google.android.gsf">
+    <adopt-permissions android:name="com.google.android.providers.settings"/>
+    <adopt-permissions android:name="com.google.android.providers.talk"/>
+    <adopt-permissions android:name="com.android.providers.im"/>
+    <adopt-permissions android:name="com.google.android.apps.gtalkservice"/>
+    <adopt-permissions android:name="com.google.android.googleapps"/>
+    <permission-tree android:label="Google Services Permissions" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH"/>
+    <permission android:description="@string/permdesc_googleAuth" android:label="@string/permlab_googleAuth" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="normal"/>
+    <permission android:description="@string/permdesc_googleAuth_ALL" android:label="@string/permlab_googleAuth_ALL" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_googleAuth_OTHER" android:label="@string/permlab_googleAuth_OTHER" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.OTHER_SERVICES" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_mail" android:label="@string/permlab_googleAuth_mail" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.mail" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_cl" android:label="@string/permlab_googleAuth_cl" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.cl" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_android" android:label="@string/permlab_googleAuth_android" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.android" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_android" android:label="@string/permlab_googleAuth_android" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.androidsecure" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_sierra" android:label="@string/permlab_googleAuth_sierra" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.sierra" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_sierraqa" android:label="@string/permlab_googleAuth_sierraqa" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.sierraqa" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_sierrasandbox" android:label="@string/permlab_googleAuth_sierrasandbox" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.sierrasandbox" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_youtube" android:label="@string/permlab_googleAuth_youtube" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.youtube" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_YouTubeUser" android:label="@string/permlab_googleAuth_YouTubeUser" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_talk" android:label="@string/permlab_googleAuth_talk" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.talk" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_ig" android:label="@string/permlab_googleAuth_ig" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.ig" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_lh2" android:label="@string/permlab_googleAuth_lh2" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.lh2" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_mobile" android:label="@string/permlab_googleAuth_mobile" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.mobile" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_cp" android:label="@string/permlab_googleAuth_cp" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.cp" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_adsense" android:label="@string/permlab_googleAuth_adsense" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.adsense" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_adwords" android:label="@string/permlab_googleAuth_adwords" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.adwords" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_blogger" android:label="@string/permlab_googleAuth_blogger" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.blogger" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_dodgeball" android:label="@string/permlab_googleAuth_dodgeball" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.dodgeball" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_gbase" android:label="@string/permlab_googleAuth_gbase" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.gbase" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_groups2" android:label="@string/permlab_googleAuth_groups2" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.groups2" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_health" android:label="@string/permlab_googleAuth_health" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.health" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_jotspot" android:label="@string/permlab_googleAuth_jotspot" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.jotspot" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_knol" android:label="@string/permlab_googleAuth_knol" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.knol" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_news" android:label="@string/permlab_googleAuth_news" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.news" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_orkut" android:label="@string/permlab_googleAuth_orkut" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.orkut" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_print" android:label="@string/permlab_googleAuth_print" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.print" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_sitemaps" android:label="@string/permlab_googleAuth_sitemaps" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.sitemaps" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_wifi" android:label="@string/permlab_googleAuth_wifi" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.wifi" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_finance" android:label="@string/permlab_googleAuth_finance" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.finance" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_local" android:label="@string/permlab_googleAuth_local" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.local" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_ah" android:label="@string/permlab_googleAuth_ah" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.ah" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_notebook" android:label="@string/permlab_googleAuth_notebook" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.notebook" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_writely" android:label="@string/permlab_googleAuth_writely" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.writely" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_wise" android:label="@string/permlab_googleAuth_wise" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.wise" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_grandcentral" android:label="@string/permlab_googleAuth_grandcentral" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.grandcentral" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_speechpersonalization" android:label="@string/permlab_googleAuth_speechpersonalization" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.speechpersonalization" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/permdesc_googleAuth_speech" android:label="@string/permlab_googleAuth_speech" android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.speech" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/ro_perm_desc" android:label="@string/ro_perm_label" android:name="com.google.android.providers.talk.permission.READ_ONLY" android:permissionGroup="android.permission-group.MESSAGES" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/wo_perm_desc" android:label="@string/wo_perm_label" android:name="com.google.android.providers.talk.permission.WRITE_ONLY" android:permissionGroup="android.permission-group.MESSAGES" android:protectionLevel="dangerous"/>
+    <permission android:description="@string/sendTalkMsg_perm_desc" android:label="@string/sendTalkMsg_perm_label" android:name="com.google.android.gtalkservice.permission.GTALK_SERVICE" android:permissionGroup="android.permission-group.MESSAGES" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_heartbeat" android:label="@string/permlab_heartbeat" android:name="com.google.android.gtalkservice.permission.SEND_HEARTBEAT" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/perm_data_msg_broadcast_desc" android:label="@string/perm_data_msg_broadcast_label" android:name="com.google.android.permission.BROADCAST_DATA_MESSAGE" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/perm_data_msg_broadcast_desc" android:label="@string/perm_data_msg_broadcast_label" android:name="com.google.android.c2dm.permission.SEND" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/perm_receive_data_message_desc" android:label="@string/perm_receive_data_message_label" android:name="com.google.android.c2dm.permission.RECEIVE" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="normal"/>
+    <permission android:description="@string/perm_xmpp_broadcast_desc" android:label="@string/perm_xmpp_broadcast_label" android:name="com.google.android.xmpp.permission.BROADCAST" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/perm_receive_xmpp_desc" android:label="@string/perm_receive_xmpp_label" android:name="com.google.android.xmpp.permission.SEND_RECEIVE" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="signature"/>
+    <permission android:description="@string/perm_xmpp_endpoint_broadcast_desc" android:label="@string/perm_xmpp_endpoint_broadcast_label" android:name="com.google.android.xmpp.permission.XMPP_ENDPOINT_BROADCAST" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="signatureOrSystem"/>
+    <permission android:description="@string/perm_use_xmpp_endpoint_desc" android:label="@string/perm_use_xmpp_endpoint_label" android:name="com.google.android.xmpp.permission.USE_XMPP_ENDPOINT" android:permissionGroup="android.permission-group.NETWORK" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_intentVendingOnly" android:label="@string/permlab_intentVendingOnly" android:name="com.android.vending.INTENT_VENDING_ONLY" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_readGsettings" android:label="@string/permlab_readGsettings" android:name="com.google.android.providers.settings.permission.READ_GSETTINGS" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_writeGsettings" android:label="@string/permlab_writeGsettings" android:name="com.google.android.providers.settings.permission.WRITE_GSETTINGS" android:protectionLevel="signature"/>
+    <permission android:description="@string/permdesc_readGservices" android:label="@string/permlab_readGservices" android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" android:permissionGroup="android.permission-group.ACCOUNTS" android:protectionLevel="normal"/>
+    <permission android:description="@string/permdesc_writeGservices" android:label="@string/permlab_writeGservices" android:name="com.google.android.providers.gsf.permission.WRITE_GSERVICES" android:protectionLevel="signatureOrSystem"/>
+    <permission android:name="com.google.glass.permission.TRIGGER_OTA" android:permissionGroup="android.permission-group.SYSTEM_TOOLS" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="com.google.glass.permission.TRIGGER_OTA"/>
+    <permission android:name="com.google.android.gsf.subscribedfeeds.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <permission android:name="com.google.android.gsf.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <permission android:name="com.google.android.gsf.permission.CONNECTION" android:protectionLevel="signature"/>
+    <permission android:name="android.server.checkin.CHECKIN.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
+    <uses-permission android:name="com.google.android.gsf.subscribedfeeds.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="android.server.checkin.CHECKIN.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="com.google.android.gsf.permission.C2D_MESSAGE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.SEND"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+    <uses-permission android:name="com.google.android.xmpp.permission.BROADCAST"/>
+    <uses-permission android:name="com.google.android.xmpp.permission.XMPP_ENDPOINT_BROADCAST"/>
+    <uses-permission android:name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER"/>
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER_ADVANCED"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.BACKUP"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
+    <uses-permission android:name="android.permission.DUMP"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MASTER_CLEAR"/>
+    <uses-permission android:name="android.permission.PERSISTENT_ACTIVITY"/>
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.READ_DREAM_STATE"/>
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <uses-permission android:name="android.permission.READ_NETWORK_USAGE_HISTORY"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_SYNC_STATS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.RECEIVE_DATA_ACTIVITY_CHANGE"/>
+    <uses-permission android:name="android.permission.SET_TIME"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <uses-permission android:name="android.permission.SUBSCRIBED_FEEDS_READ"/>
+    <uses-permission android:name="android.permission.SUBSCRIBED_FEEDS_WRITE"/>
+    <uses-permission android:name="android.permission.UPDATE_DEVICE_STATS"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_GSERVICES"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS"/>
+    <uses-permission android:name="com.android.vending.INTENT_VENDING_ONLY"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.ACCESS_GOOGLE_PASSWORD"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.ALL_SERVICES"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.YouTubeUser"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.mail"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_AUTH.youtube"/>
+    <uses-permission android:name="com.google.android.googleapps.permission.GOOGLE_MAIL_SWITCH"/>
+    <uses-permission android:name="com.google.android.gtalkservice.permission.GTALK_SERVICE"/>
+    <uses-permission android:name="com.google.android.gtalkservice.permission.SEND_HEARTBEAT"/>
+    <uses-permission android:name="com.google.android.permission.BROADCAST_DATA_MESSAGE"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.WRITE_GSERVICES"/>
+    <uses-permission android:name="com.google.android.providers.settings.permission.READ_GSETTINGS"/>
+    <uses-permission android:name="com.google.android.providers.settings.permission.WRITE_GSETTINGS"/>
+    <uses-permission android:name="com.google.android.providers.talk.permission.READ_ONLY"/>
+    <uses-permission android:name="com.google.android.providers.talk.permission.WRITE_ONLY"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS"/>
+    <uses-permission android:name="android.permission.MANAGE_USERS"/>
+    <application android:allowBackup="false" android:hardwareAccelerated="false" android:label="@string/gsf_label" android:process="com.google.process.gapps" android:requiredForAllUsers="true" android:restrictedAccountType="com.google">
+        <provider android:authorities="com.google.android.gsf.gservices" android:exported="true" android:multiprocess="false" android:name=".gservices.GservicesProvider" android:process="com.google.process.gapps" android:readPermission="com.google.android.providers.gsf.permission.READ_GSERVICES" android:writePermission="com.google.android.providers.gsf.permission.WRITE_GSERVICES"/>
+        <receiver android:name=".gservices.GservicesProvider$OverrideReceiver" android:permission="com.google.android.providers.gsf.permission.WRITE_GSERVICES">
+            <intent-filter>
+                <action android:name="com.google.gservices.intent.action.GSERVICES_OVERRIDE"/>
+            </intent-filter>
+        </receiver>
+        <service android:name=".checkin.CheckinService"/>
+        <receiver android:name=".checkin.CheckinService$Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.net.conn.BACKGROUND_DATA_SETTING_CHANGED"/>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="com.google.gservices.intent.action.GSERVICES_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".checkin.CheckinService$TriggerReceiver">
+            <intent-filter>
+                <action android:name="android.server.checkin.CHECKIN"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <category android:name="android.server.checkin.CHECKIN"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".checkin.CheckinService$SecretCodeReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="2432546" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <service android:name=".checkin.EventLogService"/>
+        <receiver android:name=".checkin.EventLogService$Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="com.google.gservices.intent.action.GSERVICES_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <service android:name=".update.SystemUpdateService"/>
+        <receiver android:name=".update.SystemUpdateService$SecretCodeReceiver" android:permission="android.permission.REBOOT">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="\ 947322243" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name=".update.SystemUpdateService$Receiver">
+            <intent-filter>
+                <action android:name="com.google.gservices.intent.action.GSERVICES_CHANGED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="android.intent.action.DOWNLOAD_NOTIFICATION_CLICKED"/>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.os.UpdateLock.UPDATE_LOCK_CHANGED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="46" android:scheme="android_secret_code"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="7867" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <activity android:hardwareAccelerated="true" android:label="@string/system_update_activity_name" android:launchMode="singleTop" android:name=".update.SystemUpdateActivity" android:theme="@android:style/Theme.Holo.NoActionBar">
+            <intent-filter>
+                <action android:name="android.settings.SYSTEM_UPDATE_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:hardwareAccelerated="true" android:label="@string/system_update_activity_name" android:launchMode="singleTop" android:name=".update.SystemUpdatePanoActivity" android:theme="@android:style/Theme.Holo.NoActionBar"/>
+        <activity android:excludeFromRecents="true" android:label="@string/system_update_complete_label" android:name=".update.CompleteDialog" android:theme="@android:style/Theme.Holo.Dialog"/>
+        <receiver android:name=".update.GlassUpdateReceiver" android:permission="com.google.glass.permission.TRIGGER_OTA">
+            <intent-filter>
+                <action android:name="com.google.glass.update.INSTALL_UPDATE"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name=".subscribedfeeds.SubscribedFeedsSyncAdapterService">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter"/>
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/syncadapter"/>
+        </service>
+        <provider android:authorities="subscribedfeeds" android:exported="true" android:label="@string/provider_label" android:multiprocess="false" android:name=".subscribedfeeds.SubscribedFeedsProvider" android:readPermission="android.permission.SUBSCRIBED_FEEDS_READ" android:writePermission="android.permission.SUBSCRIBED_FEEDS_WRITE"/>
+        <receiver android:name=".subscribedfeeds.SubscribedFeedsGCMBroadcastReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
+                <category android:name="com.google.android.gsf.subscribedfeeds"/>
+            </intent-filter>
+        </receiver>
+        <service android:name=".subscribedfeeds.GCMIntentService"/>
+        <receiver android:name="com.google.android.gsf.loginservice.MigrateToAccountManagerBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PRE_BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.android.gsf.loginservice.ServicesWatcher">
+            <intent-filter>
+                <action android:name="com.google.gservices.intent.action.GSERVICES_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".gtalkservice.diagnostics.GTalkDiagnosticsBroadcastReceiver">
+            <intent-filter>
+                <action android:name="android.provider.Telephony.SECRET_CODE"/>
+                <data android:host="8255" android:scheme="android_secret_code"/>
+            </intent-filter>
+        </receiver>
+        <activity android:configChanges="keyboard|keyboardHidden|orientation|screenSize" android:label="@string/gtalk_service_monitor" android:name=".gtalkservice.diagnostics.GTalkDiagnostics">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.TEST"/>
+            </intent-filter>
+        </activity>
+        <provider android:authorities="com.google.android.providers.talk" android:exported="true" android:grantUriPermissions="true" android:multiprocess="false" android:name=".talk.TalkProvider" android:readPermission="com.google.android.providers.talk.permission.READ_ONLY" android:writePermission="com.google.android.providers.talk.permission.WRITE_ONLY">
+            <path-permission android:path="/contacts/search_suggest_query" android:readPermission="android.permission.GLOBAL_SEARCH"/>
+        </provider>
+        <service android:label="@string/gtalkservice_label" android:name=".gtalkservice.service.GTalkService" android:singleUser="true">
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.IGTalkServiceInternal"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:label="@string/gtalkservice_label" android:name=".gtalkservice.service.GTalkServiceProxy">
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.IGTalkService"/>
+            </intent-filter>
+        </service>
+        <service android:name=".gtalkservice.service.ConnectionService" android:singleUser="true"/>
+        <service android:exported="true" android:name=".gtalkservice.service.ConnectionServiceProxy" android:permission="com.google.android.gsf.permission.CONNECTION"/>
+        <activity android:excludeFromRecents="true" android:name=".gtalkservice.ConnectionAuthErrorDialog" android:theme="@android:style/Theme.Dialog"/>
+        <service android:exported="true" android:label="@string/c2dm_label" android:name=".gtalkservice.PushMessagingRegistrarProxy" android:permission="com.google.android.c2dm.permission.RECEIVE">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.REGISTER"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.UNREGISTER"/>
+            </intent-filter>
+        </service>
+        <receiver android:name=".gtalkservice.ReceiverProxy" android:permission="com.google.android.gsf.permission.C2D_MESSAGE"/>
+        <service android:label="@string/c2dm_label" android:name=".gtalkservice.PushMessagingRegistrar" android:permission="com.google.android.c2dm.permission.RECEIVE" android:singleUser="true"/>
+        <receiver android:name=".gtalkservice.ServiceAutoStarter" android:singleUser="true">
+            <intent-filter>
+                <action android:name="android.accounts.LOGIN_ACCOUNTS_CHANGED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".gtalkservice.DataMessageReceiver" android:permission="com.google.android.c2dm.permission.RECEIVE">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.SEND_DATA_MESSAGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".gtalkservice.SendXmppReceiver" android:permission="com.google.android.xmpp.permission.SEND_RECEIVE">
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.intent.SEND_IQ_STANZA"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.intent.SEND_MESSAGE_STANZA"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.intent.SEND_PRESENCE_STANZA"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".gtalkservice.XmppEndpointReceiver" android:permission="com.google.android.xmpp.permission.USE_XMPP_ENDPOINT">
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.intent.SEND_XMPP_IQ"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.intent.SEND_XMPP_MESSAGE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.intent.SEND_XMPP_PRESENCE"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.google.android.gtalkservice.intent.CREATE_XMPP_ENDPOINT"/>
+            </intent-filter>
+        </receiver>
+        <activity android:excludeFromRecents="true" android:name=".gtalkservice.ConnectionAuthErrorDialog" android:theme="@android:style/Theme.Dialog"/>
+        <provider android:authorities="com.google.settings" android:exported="true" android:initOrder="100" android:multiprocess="false" android:name=".settings.GoogleSettingsProvider" android:writePermission="com.google.android.providers.settings.permission.WRITE_GSETTINGS"/>
+        <activity android:excludeFromRecents="true" android:name=".settings.UseLocationForServicesActivity" android:theme="@android:style/Theme.Holo.Panel">
+            <intent-filter>
+                <action android:name="com.google.android.gsf.action.SET_USE_LOCATION_FOR_SERVICES"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:name=".settings.ConfirmLgaaylActivity" android:theme="@android:style/Theme.Holo.Dialog">
+            <intent-filter>
+                <action android:name="com.google.android.gsf.GOOGLE_LOCATION_SETTINGS"/>
+                <action android:name="com.google.android.gsf.GOOGLE_APPS_LOCATION_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:label="@string/gls_settings_tos_activity_title" android:name=".settings.SettingsTosActivity" android:theme="@android:style/Theme.Holo.Dialog">
+            <intent-filter>
+                <action android:name="android.settings.TERMS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:name=".usagestats.StatsUploadService"/>
+        <receiver android:name=".usagestats.StatsUploadService$Receiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.TIME_SET"/>
+                <action android:name="android.net.conn.BACKGROUND_DATA_SETTING_CHANGED"/>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="com.google.gservices.intent.action.GSERVICES_CHANGED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".settings.GoogleLocationSettings$LocationSettingsChangedListener">
+            <intent-filter>
+                <action android:name="com.google.android.checkin.CHECKIN_COMPLETE"/>
+                <action android:name="com.google.android.gsf.settings.GoogleLocationSettings.UPDATE_LOCATION_SETTINGS"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.android.gsf.settings.ConfirmLgaaylActivity$LaunchingLocationSettingsReceiver" android:permission="android.permission.WRITE_SECURE_SETTINGS">
+            <intent-filter>
+                <action android:name="com.android.settings.accounts.LAUNCHING_LOCATION_SETTINGS"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

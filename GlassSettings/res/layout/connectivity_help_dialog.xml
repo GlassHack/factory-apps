@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" style="@style/PaddedCard"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/connectivity_tips" android:layout_weight="0.0" style="@style/MediumOverlayGrayText" />
+    <com.google.glass.widget.DynamicSizeTextView android:id="@id/content" android:layout_width="fill_parent" android:layout_height="0.0px" android:layout_weight="1.0" style="@style/MediumOverlayText" />
+</LinearLayout>

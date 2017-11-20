@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_bluetooth_connected_50" android:id="@id/pair_device" android:title="PAIR_A_DEVICE" />
+    <item android:icon="@drawable/ic_delete_50" android:id="@id/forget_device" android:title="FORGET_THIS_DEVICE" />
+    <item android:icon="@drawable/ic_bluetooth_connected_50" android:id="@id/show_paired_devices" android:title="SHOW_MORE" />
+</menu>

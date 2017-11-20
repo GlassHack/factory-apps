@@ -1,0 +1,1135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Tamamlandı</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="account_level_title">Hesapta İşlem Gerekiyor</string>
+    <string name="activity_recognition_permission_description">"Bir uygulamaya, etkinlik düzeyinize göre (örneğin, yürürken, araba sürerken, bisiklete binerken veya sabitken) gerekli güncellemeleri Google'dan belirli aralıklarla alma izni verir."</string>
+    <string name="activity_recognition_permission_label">etkinlik tanıma</string>
+    <string name="add_a_place_add">Ekle</string>
+    <string name="add_a_place_call_to_action">Yer ekleyin</string>
+    <string name="add_a_place_call_to_drag">İşaretçiyi yerleştirmek için haritayı sürükleyin</string>
+    <string name="add_a_place_cancel">İptal et</string>
+    <string name="add_a_place_next">İleri</string>
+    <string name="agree">Kabul ediyorum</string>
+    <string name="app_label">Ağ Konumu</string>
+    <string name="app_level_title">Oturum Açma İsteği</string>
+    <string name="app_level_title_secondary">%s tarafından Oturum Açma İsteği</string>
+    <string name="auth_accept_access">Kabul et</string>
+    <string name="auth_account_already_has_gmail">Hesapta Gmail zaten var.</string>
+    <string name="auth_account_setup_title">Google Hesabı</string>
+    <string name="auth_ads_settings_title">Reklamlar</string>
+    <string name="auth_allow_external_site_access">%s adresindeki verilerinize sürekli erişim</string>
+    <string name="auth_app_label">Google Hesap Yöneticisi</string>
+    <string name="auth_app_permission_footnote">%s ve Google bu bilgileri kendi hizmet şartlarına ve gizlilik politikalarına uygun olarak kullanacaktır.</string>
+    <string name="auth_app_permission_label">BU UYGULAMA ŞUNLARI YAPMAK İSTİYOR:</string>
+    <string name="auth_app_permission_ok_footnote">"Devam ederek bu uygulamaya ve Google'a, bilgilerinizi kendi hizmet şartlarına ve gizlilik politikalarına uygun bir şekilde kullanmaları için izin vermiş olursunuz."</string>
+    <string name="auth_app_permission_sign_in_footnote">"Oturum aç seçeneğine dokunarak bu uygulamaya ve Google'a, bilgilerinizi kendi hizmet şartları ve gizlilik politikalarına uygun bir şekilde kullanmaları için izin vermiş olursunuz."</string>
+    <string name="auth_app_permission_title">%s adlı uygulamada Google ile oturum açın</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Girişe izin ver</string>
+    <string name="auth_authzen_action_approved_toast_text">Eylem onaylandı</string>
+    <string name="auth_authzen_action_canceled_toast_text">Eylem iptal edildi.</string>
+    <string name="auth_authzen_allow_reset_button_text">Şifre sıfırlamaya izin ver</string>
+    <string name="auth_authzen_cancel_button_label">İptal</string>
+    <string name="auth_authzen_close_button_text">Kapat</string>
+    <string name="auth_authzen_confirmation_allow_button_text">İzin ver</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">İptal</string>
+    <string name="auth_authzen_default_confirmation_description">%s konumundan hesabınızda oturum açılmasına izin verilsin mi?</string>
+    <string name="auth_authzen_default_confirmation_title">Onayınız gerekiyor</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Hatalı numara seçildi. İsteğiniz iptal edildi.</string>
+    <string name="auth_authzen_default_request_description">istek ayrıntıları bilinmiyor</string>
+    <string name="auth_authzen_generic_error_text">Hata oluştu. Lütfen tekrar deneyin.</string>
+    <string name="auth_authzen_google_logo_label">Google logosu</string>
+    <string name="auth_authzen_login_challenge_approved_text">Oturum açma işlemi onaylandı</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Oturum açma işlemi iptal edildi</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Oturum açmaya izin ver</string>
+    <string name="auth_authzen_login_challenge_desc_text">%s konumundan hesap açmaya mı çalışıyorsunuz?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google, oturum açma girişimini durdurdu.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Yanlış numara</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Diğer ekranda gösterilen numaraya dokunun. Bu, bilgisayarınızda oturum açmanızı sağlayacaktır.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Az önce birisi şifrenizi kullanarak Google Hesabınızda oturum açmayı denedi. Google, oturum açma girişimini durdurdu.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Oturum açma engellendi</string>
+    <string name="auth_authzen_login_challenge_title_text">Oturum açmaya mı çalışıyorsunuz?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Bilgisayarınızda oturum açmayı onaylamak için kimliğinizi doğrulamanız gerekir</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">%s adlı konumda başka bir bilgisayardan oturum açma isteği</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Bu istek bana ait değil</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Bunu bize bildirdiğiniz için teşekkür ederiz %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Hesabınızın güvenliğini sağlamaya devam edebilmek için bu etkinliği not ettik.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Oturum aç</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">İptal</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">"Google Hesabınızın PIN'ini girin"</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">Tamam, devam et</string>
+    <string name="auth_authzen_no_button_text">Hayır</string>
+    <string name="auth_authzen_notify_google_default_text">"Birisi hesabınıza erişmeye çalıştığında bu durum Google'a bildirilecektir."</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google, şifrenizin değiştirilmesi için bir istek aldı. İstek sizden gelmediği için iptal edildi. Hesabınızda herhangi bir değişiklik yapılmadı.</string>
+    <string name="auth_authzen_ok_button_text">Tamam</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Diğer ekranda gösterilen numaraya dokunun. Bu, bilgisayarınızda oturum açmanızı sağlayacaktır.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Oturum açmaya izin ver</string>
+    <string name="auth_authzen_profile_picture_label">Profil resmi</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">"Az önce Google'a giriş yapmayı mı denediniz?"</string>
+    <string name="auth_authzen_recovery_approved_text">Şifre sıfırlama işlemi onaylandı</string>
+    <string name="auth_authzen_recovery_canceled_text">Şifre sıfırlama işlemi iptal edildi</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Şifrenin %s konumundan sıfırlanmasına izin verilsin mi?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Onayınız gerekiyor</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google, şifre sıfırlama girişimini durdurdu.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Yanlış numara</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Diğer ekranda gösterilen numaraya dokunun. Bu işlem, şifrenizi sıfırlayacaktır.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Şifre sıfırlamaya izin ver</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Birisi Google Hesabı şifrenizin sıfırlanması için istekte bulundu. Google, şifre sıfırlama girişimini durdurdu.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Şifre sıfırlama engellendi</string>
+    <string name="auth_authzen_recovery_verification_desc_text">%s konumundan şifrenizin sıfırlanması için istekte bulundunuz mu?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Şifrenizi sıfırlamayı denediniz mi?</string>
+    <string name="auth_authzen_secure_account_button_text">Hesap güvenliğini sağla</string>
+    <string name="auth_authzen_sending_reply_failed_text">Sunucuya yanıt gönderilemedi.</string>
+    <string name="auth_authzen_sending_reply_text">Sunucuya yanıt gönderiliyor</string>
+    <string name="auth_authzen_time_display_text">%s dakikadan az bir zaman önce</string>
+    <string name="auth_authzen_time_just_now_text">Az Önce</string>
+    <string name="auth_authzen_wait_text">Lütfen bekleyin…</string>
+    <string name="auth_authzen_workflow_title">Google Yetkilendirme İstemi</string>
+    <string name="auth_authzen_yes_button_text">Evet</string>
+    <string name="auth_back_button_label">Geri</string>
+    <string name="auth_bad_name_title">Bu ad mı kullanılsın?</string>
+    <string name="auth_bluetooth_lure_button">Güvenilen bir cihaz ekle</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Kilit ekranınızı onaylayın</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Yeni Bluetooth cihazı eşlendi.
+Bağlandığında ekran kilidinizi atlamak için %s cihazını güvenilen cihaz olarak ekleyin."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Yeni Bluetooth cihazı eşlendi.</string>
+    <string name="auth_bluetooth_lure_title">Kişisel olarak kilit açma</string>
+    <string name="auth_cancel_button_label">İptal</string>
+    <string name="auth_captcha_instructions">Gördüğünüz metni buraya yazın:</string>
+    <string name="auth_captcha_title">CAPTCHA girilmeli.</string>
+    <string name="auth_communicating_message">Cihazınız, bilgileri hesabınıza kaydetmek için Google ile iletişim kuruyor. Bu işlem 5 dakika kadar sürebilir.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Kimlik Bilgileri Durumu</string>
+    <string name="auth_d2d_source_bt_notice">Bluetooth kullanılacak.</string>
+    <string name="auth_d2d_source_lock_notice">Cihazınız kendisini kilitleyecek. Tekrar devam etmek için kilidinin açılması gerekir.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Bu cihazda hesap olmadığından Hafifçe Vurup Geri Yükleme özelliği çalışmayacaktır.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Cihazınızda Bluetooth olmadığından Hafifçe Vurup Geri Yükleme özelliği çalışmayacaktır.</string>
+    <string name="auth_d2d_source_notification_text">"Bu cihaz kullanılarak ^2 tarihinde yeni bir ^1 kuruldu. Kurulum sırasında şu Google Hesaplarının aktarılmasına çalışıldı: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Yeni cihaz kurulumu tamamlandı</string>
+    <string name="auth_d2d_source_progress_message">Veriler yeni cihazınıza kopyalanıyor...</string>
+    <string name="auth_d2d_source_question">Bu cihazdaki hesaplar ve veriler kopyalansın mı?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Kısıtlanmış bir kullanıcı profilinde Hafifçe Vur ve Geri Yükle özelliği kullanılamaz.</string>
+    <string name="auth_d2d_source_title">Hesapları Geri Yükleme</string>
+    <string name="auth_d2d_source_unknown_device_name">Bilinmeyen Cihaz</string>
+    <string name="auth_d2d_target_adding_accounts_message">Hesaplar ekleniyor...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Diğer cihazınıza bağlanıyor...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Bağlantı kayboldu</string>
+    <string name="auth_d2d_target_description">"Google hesaplarını, yedeklenen uygulamaları ve verileri mevcut Android cihazınızdan hızlı bir şekilde kopyalayın. Kopyalamak için: 
+
+1. Diğer cihazınızın gücünün ve kilidinin açık olduğundan emin olun 
+
+2. İki cihazı kısa bir süre için sırt sırta yerleştirin, sonra yan yana bırakın"</string>
+    <string name="auth_d2d_target_skip_button">Atla</string>
+    <string name="auth_d2d_target_sorry_alert">Maalesef bir şey ters gitti</string>
+    <string name="auth_d2d_target_tap_progress_message">"Devam etmek için diğer cihazınızda Tamam'a dokunun"</string>
+    <string name="auth_d2d_target_title">Hafifçe Vur ve Başla</string>
+    <string name="auth_d2d_target_try_again_button">Tekrar Dene</string>
+    <string name="auth_d2d_target_unlock_progress_message">Diğer cihazınızın kilidini açın</string>
+    <string name="auth_d2d_target_wait_progress_message">Hesaplar ve veriler kopyalanıyor...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Alan adınız mobil cihaz yönetimini gerektiriyor. "<b>^1</b> hesabının gerektirdiği güvenlik politikalarının uygulanmasını zorunlu kılmak için \"Google Apps Cihaz Politikası\" uygulamasını yükleyin.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> Gmail kullanmıyor.</string>
+    <string name="auth_error_account_disabled">"Bu hesap devre dışı bırakıldı. 
+
+(Ayrıntılar için bir Web tarayıcısı kullanarak http://google.com/accounts adresini ziyaret edin.)"</string>
+    <string name="auth_error_account_not_verified">"Bu hesap doğrulanmadı. E-postanızı kontrol edin ve bu hesabı doğrulamak için verilen bağlantıyı izleyin. 
+
+(Hesap bilgilerinizi kurtarmak için bilgisayarınızda http://google.com/accounts/recovery adresine gidin.)"</string>
+    <string name="auth_error_bad_password">Şifre çok zayıf veya geçersiz karakterler içeriyor. Tekrar deneyin.</string>
+    <string name="auth_error_bad_username">Geçersiz kullanıcı adı.</string>
+    <string name="auth_error_invalid_second_factor">Normal hesap şifreniz yerine uygulamaya özel şifre kullanın.</string>
+    <string name="auth_error_login_failed">"Kullanıcı adınız ve şifreniz eşleşmiyor. Tekrar deneyin.
+
+Hesap bilgilerinizi kurtarmak için google.com/accounts/recovery/ adresine gidin."</string>
+    <string name="auth_error_needs_browser">"Hesabınıza erişmek için web'de oturum açmanız gerekir. Tarayıcıda oturum açma işlemini başlatmak için İleri'ye dokunun."</string>
+    <string name="auth_error_not_logged_in">Kullanıcı oturum açmamış.</string>
+    <string name="auth_error_username_unavailable">Kullanıcı adı kullanılamaz.</string>
+    <string name="auth_existing_account_error_text">Bu Android cihazda ^1 adlı bir hesap zaten var.</string>
+    <string name="auth_existing_account_error_title">Hesap zaten var</string>
+    <string name="auth_exit_menu_item">Tarayıcıda açılan oturumdan çık</string>
+    <string name="auth_facl_scope_details_dialog_title">Bu uygulamanın görebilecekleri</string>
+    <string name="auth_facl_with_warning_label">Bu uygulamanın görebileceği kişileri değiştirin</string>
+    <string name="auth_field_cant_be_blank">Alan boş olamaz.</string>
+    <string name="auth_fitness_settings_title">Fitness</string>
+    <string name="auth_gls_account_creation_tos">Devam ettiğinizde, Google <annotation id="tos">Hizmet Şartları</annotation>, <annotation id="google_privacy">Gizlilik Politikası</annotation> ve <annotation id="play_tos">Google Play Hizmet Şartları</annotation>"'nı kabul etmiş olursunuz."</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Devam ettiğinizde Google <annotation id="tos">Hizmet Şartları</annotation> ile <annotation id="google_privacy">Gizlilik Politikası</annotation>"'nı, Chrome "<annotation id="chrome_tos">Hizmet Şartları</annotation> ile <annotation id="chrome_privacy">Gizlilik Uyarısı</annotation>"'nı ve Google Play "<annotation id="play_tos">Hizmet Şartları</annotation>"'nı kabul etmiş olursunuz."</string>
+    <string name="auth_gls_account_intro_default_message">Bir daha hiçbir şeyinizi kaybetmeyin. Google Hesabı her şeyinizin güvende kalmasını sağlar.</string>
+    <string name="auth_gls_account_intro_learn_more">Daha fazla bilgi edinin</string>
+    <string name="auth_gls_account_intro_recommended_title">Google hesabınız olsun</string>
+    <string name="auth_gls_account_intro_required_title">Powered by Google</string>
+    <string name="auth_gls_account_intro_simple_message">Mevcut bir hesabı eklemek mi yoksa yeni bir hesap oluşturmak mı istersiniz?</string>
+    <string name="auth_gls_account_intro_title">Google Hesabı</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Google Hesabınız var mı?
+
+Gmail veya Google Apps kullanıyorsanız Evet olarak yanıtlayın."</string>
+    <string name="auth_gls_account_pre_intro_no">Hayır</string>
+    <string name="auth_gls_account_pre_intro_title">Google hesabınız var mı?</string>
+    <string name="auth_gls_account_pre_intro_yes">Evet</string>
+    <string name="auth_gls_account_recovery_info">Şifrenizi kaybederseniz, bir güvenlik sorusunu yanıtlayabilir veya bir sıfırlama bağlantısının farklı bir adrese e-postayla gönderilmesini sağlayabilirsiniz.</string>
+    <string name="auth_gls_account_tos_plus_title">Google+ hizmetine katılım tamamlanıyor</string>
+    <string name="auth_gls_account_tos_title">Hesabı tamamla</string>
+    <string name="auth_gls_add_a_google_account">Bir Google Hesabı Ekleyin</string>
+    <string name="auth_gls_alternatives_list_title">Önerilen kullanıcı adları</string>
+    <string name="auth_gls_answer">" "<b>Yanıt</b></string>
+    <string name="auth_gls_backup_consent_message">"Uygulamalarınızı, ayarlarınızı (yer işaretleri ve Kablosuz şifreleri gibi) ve diğer verilerinizi yedeklemek için Google Hesabınızı kullanın. Hesabınızı önceden yedeklediyseniz, bu telefona şimdi geri yükleyebilirsiniz.
+
+Yedekleme ayarlarınızı istediğiniz zaman Ayarlar'dan değiştirebilirsiniz."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Uygulamalarınızı, ayarlarınızı (yer işaretleriniz ve Kablosuz şifreleriniz gibi) ve diğer verilerinizi yedeklemek için Google hesabınızı kullanın.
+
+Yedekleme ayarlarınızı istediğiniz zaman Ayarlar'dan değiştirebilirsiniz."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Bu telefonu Google Hesabımla yedekle</string>
+    <string name="auth_gls_cant_be_blank">Alan boş olamaz.</string>
+    <string name="auth_gls_checking_account">Kullanılabilirlik kontrol ediliyor…</string>
+    <string name="auth_gls_checking_username_message">"İstediğiniz kullanıcı adının kullanılabilir olup olmadığını belirlemek için, tabletiniz Google ile bağlantı kuruyor.
+
+Bu işlem birkaç dakika sürebilir."</string>
+    <string name="auth_gls_choose_a_password">Şifre</string>
+    <string name="auth_gls_circles_subtitle">Çevreler</string>
+    <string name="auth_gls_circles_text">"Sizin için önemli olan şeyleri İnternet'te paylaşmanın yolu."</string>
+    <string name="auth_gls_confirm_password">Şifreyi tekrar yazın</string>
+    <string name="auth_gls_create_button_label">Hesap oluşturun</string>
+    <string name="auth_gls_create_google_account">Kullanıcı adı seçin</string>
+    <string name="auth_gls_create_google_account_text">"Google Hesabınız Google'ın e-posta hizmeti olan Gmail'i içerir. Gmail tüm cihazlarda çalışır, spam'i engeller ve daha pek çok özellik sunar."</string>
+    <string name="auth_gls_creating_account_title">Hesap kaydediliyor…</string>
+    <string name="auth_gls_creating_profile">Profiliniz oluşturuluyor…</string>
+    <string name="auth_gls_crop_failure">Fotoğraf kırpılamadı.</string>
+    <string name="auth_gls_dasher_warning">"Google+'daki tüm verileriniz, %s alan adının yöneticisine aittir ve bu yönetici tarafından yönetilmektedir. Söz konusu yönetici istediği zaman sizden izin almadan profilinizi silebilir veya değiştirebilir."</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Alan adınız mobil cihaz yönetimini gerektiriyor. "<b>^1</b> hesabının gerektirdiği güvenlik politikalarının uygulanmasını zorunlu kılmak için Google Apps Cihaz Politikası uygulamasını etkinleştirin.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Etkinleştir</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Alan adınız mobil cihaz yönetimini gerektiriyor. "<b>^1</b> hesabının gerektirdiği güvenlik politikalarının uygulanmasını zorunlu kılmak için \"Google Apps Cihaz Politikası\" uygulamasını yükleyin.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">İndir</string>
+    <string name="auth_gls_edit_text_help">Yazmaya başlamak için herhangi bir metin kutusuna dokunun</string>
+    <string name="auth_gls_eight_chars_min">Minimum 8 karakter</string>
+    <string name="auth_gls_enable_web_history">Web geçmişini aç</string>
+    <string name="auth_gls_error_bad_password">Şifre çok zayıf veya geçersiz karakterler içeriyor. Tekrar deneyin.</string>
+    <string name="auth_gls_error_login_failed">"Kullanıcı adınız ve şifreniz eşleşmiyor. Tekrar deneyin.
+
+Hesap bilgilerinizi kurtarmak için google.com/accounts/recovery/ adresine gidin."</string>
+    <string name="auth_gls_error_needs_browser">"Hesabınıza erişmek için Web'de oturum açmalısınız. Tarayıcıda oturum açma işlemini başlatmak için İleri'ye dokunun."</string>
+    <string name="auth_gls_existing_account_error_text">Bu Android cihazda ^1 adlı bir hesap zaten var.</string>
+    <string name="auth_gls_existing_account_error_title">Hesap zaten var</string>
+    <string name="auth_gls_existing_button_label">Mevcut hesap</string>
+    <string name="auth_gls_google_play_opt_in">Google Play ile ilgili güncel haberleri ve kampanyaları öğrenmek istiyorum.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" yalnızca harf,
+sayı ve nokta içerebilir."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> hiçbir harf içermiyor.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b>" 6'dan az veya 30'dan çok karakter içeriyor."</string>
+    <string name="auth_gls_huddle_text">Çevrelerinizdeki herkes için grup mesajlaşması.</string>
+    <string name="auth_gls_invalid_email">"Yazdığınız e-posta adresi geçerli değil.
+ Örnek: can@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">İkincil adres, hesabı oluşturduğunuz adresle aynı olamaz.</string>
+    <string name="auth_gls_is_not_available"><b>^1</b> kullanıcı adı kullanılamaz.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Daha fazla bilgi edinin</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Bir Google Hesabıyla şunları yapabilirsiniz:
+
+"<li><ul>Tüm bilgilerinizi her yerden görebilir ve düzenleyebilirsiniz.</ul></li>"
+
+"<li><ul>E-posta, kişiler, müzik ve resimler gibi verilerinizi otomatik olarak yedekleyebilirsiniz.</ul></li>"
+
+"<li><ul>Google Kişileri, Takvim, Google Haritalar ve diğer Google hizmetlerini her yerden kolayca kullanabilirsiniz.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Google Hesapları Hakkında</string>
+    <string name="auth_gls_learn_more_web_history">"Web geçmişi, arama sonuçlarını neleri aradığınıza ve hangi siteleri ziyaret ettiğinize göre düzenler, böylece kişiselleştirilmiş bir Google deneyimi sağlar.
+
+Açma ve kapatma işlemlerini yapmak da dahil olmak üzere web geçmişinizi görüntülemek ve yönetmek için http//www.google.com/history adresine bakın."</string>
+    <string name="auth_gls_learn_more_web_history_title">Web geçmişi hakkında</string>
+    <string name="auth_gls_name_checking_info_title">Bilgiler kontrol ediliyor…</string>
+    <string name="auth_gls_name_progress_title">Bir saniye…</string>
+    <string name="auth_gls_name_text">Adınız telefonunuzu ve Google hizmetlerinizi kişiselleştirmek için kullanılır.</string>
+    <string name="auth_gls_name_text_local">Telefon bazı uygulamaları kişiselleştirmek için adınızı kullanır.</string>
+    <string name="auth_gls_name_title_local">Bu telefon şu kişiye aittir:</string>
+    <string name="auth_gls_name_title_plus">Google+ adınız</string>
+    <string name="auth_gls_network_unreliable">Sunucu ile güvenilir bir bağlantı kurulamıyor.</string>
+    <string name="auth_gls_network_unreliable_help">Bu, geçici bir sorun veya Android cihazınızda veri hizmeti kullanılmıyor olabilir. Sorun devam ederse Müşteri Hizmetlerini arayın.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Bu geçici bir sorun olabilir. Tekrar deneyin veya başka bir Kablosuz ağa bağlanın.</string>
+    <string name="auth_gls_new_button_label">Yeni</string>
+    <string name="auth_gls_no_network">Ağ bağlantınız yok.</string>
+    <string name="auth_gls_no_network_help">Bu, geçici bir sorun veya Android cihazınızda veri hizmeti kullanılmıyor olabilir . Lütfen mobil ağa bağlandığınızda tekrar deneyin veya Kablosuz ağa bağlanın.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Bu geçici bir sorun olabilir. Tekrar deneyin veya başka bir Kablosuz ağa bağlanın.</string>
+    <string name="auth_gls_not_now_button_label">Şimdi değil</string>
+    <string name="auth_gls_password_mismatch">Şifreler eşleşmedi. Tekrar deneyin.</string>
+    <string name="auth_gls_password_title">Şifre oluştur</string>
+    <string name="auth_gls_photo_button_label">Fotoğraf çek</string>
+    <string name="auth_gls_photo_description">Fotoğrafınız</string>
+    <string name="auth_gls_photo_failure">Kamera başlatılamadı.</string>
+    <string name="auth_gls_photo_text">Bu fotoğraf kişi kaydınızda kullanılacaktır. Fotoğrafı daha sonra Kişiler uygulamasında değiştirebilirsiniz.</string>
+    <string name="auth_gls_photo_text_es">Google+ hizmetinde arkadaşlarınızın göreceği bir fotoğraf çekin. Daha sonra başka bir fotoğraf seçebilirsiniz.</string>
+    <string name="auth_gls_photo_title">Fotoğrafınız</string>
+    <string name="auth_gls_plus_accepted_button_label">"Google+'ya Katılın"</string>
+    <string name="auth_gls_plus_declined_button_label">Şimdi değil</string>
+    <string name="auth_gls_plus_failure_new_account_text">Google Hesabınız oluşturuldu, ancak Google+ hizmetine katılma isteğiniz iletilmedi. Daha sonra herhangi bir Web tarayıcısıyla plus.google.com adresinden tekrar deneyin.</string>
+    <string name="auth_gls_plus_failure_text">Google+ hizmetine katılma isteğiniz iletilmedi. Daha sonra herhangi bir Web tarayıcısıyla plus.google.com adresinden tekrar deneyin.</string>
+    <string name="auth_gls_plus_failure_title">"Google+'ya daha sonra katılın"</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Google+'da arkadaşlarınızın sizi daha kolay bulmalarına yardımcı olmak için herkese açık bir profiliniz olur. E-posta adresinizi bilen herkes profilinizi bulabilir ve görüntüleyebilir.
+
+Beğendiğiniz şeyleri dünyadaki tüm kullanıcılara önermek için Web genelinde +1 düğmelerini kullanabilirsiniz. Profiliniz ve +1'leriniz aramada, reklamlarda ve Web üzerinde herkese açık olarak görüntülenir.
+
+Şimdilik, profilinizde yalnızca adınız (%s %s) görünecektir. Daha sonra Google+'yı kullanmaya başladığınızda fotoğrafınızı, biyografinizi ve diğer ayrıntıları ekleyebilirsiniz."</string>
+    <string name="auth_gls_plus_name_check_text">Bu işlem birkaç dakika sürebilir.</string>
+    <string name="auth_gls_plus_name_check_title">Google+ ile bağlantı kuruluyor…</string>
+    <string name="auth_gls_plus_query_text">Google+ Web üzerinden paylaşımın gerçek hayattaki gibi olmasını sağlar.</string>
+    <string name="auth_gls_provisioned_incorrect_login">%s değil misiniz?</string>
+    <string name="auth_gls_provisioned_welcome">Merhaba %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Bu adres için şifrenizi girin:
+%s"</string>
+    <string name="auth_gls_recovery_title">Kurtarma bilgileri</string>
+    <string name="auth_gls_restore_consent_yes_agree">Google Hesabımdan bu telefona geri yükle</string>
+    <string name="auth_gls_restoring_message">Hesabınızı geri yüklemek için telefonunuz Google ile iletişim kuruyor. Bu işlem biraz zaman alabilir.</string>
+    <string name="auth_gls_restoring_title">Geri yükleniyor…</string>
+    <string name="auth_gls_retake_photo_button_label">Fotoğrafı tekrar çek</string>
+    <string name="auth_gls_secondary_email_label">Kurtarma e-posta adresi</string>
+    <string name="auth_gls_security_questions_title">Güvenlik soruları</string>
+    <string name="auth_gls_server_error">Google sunucularıyla iletişimde bir sorun oluştu.</string>
+    <string name="auth_gls_server_error_help">Daha sonra tekrar deneyin.</string>
+    <string name="auth_gls_sign_in_agreement">Oturum açarak Google <annotation id="tos">Hizmet Şartları</annotation>"'nı, "<annotation id="google_privacy">Gizlilik Politikası</annotation>"'nı ve "<annotation id="play_tos">Google Play Hizmet Şartları</annotation>"'nı kabul etmiş olursunuz."</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Oturum açarak Google "<annotation id="tos">Hizmet Şartları</annotation>"'na, "<annotation id="google_privacy">Gizlilik Politikası</annotation>"'na, "<annotation id="play_tos">Google Play Hizmet Şartları</annotation>"'na uymayı kabul etmiş olursunuz. 
+
+Uyarı: Diğer kullanıcılar, güncellenmiş uygulama izinlerini sizin adınıza kabul edebilirler. Diğer bilgisayarlarda olduğu gibi, bu tableti de yalnızca güvendiğiniz kişilerle paylaşmalısınız."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Oturum açarak Google "<annotation id="tos">Hizmet Şartları</annotation> ile <annotation id="google_privacy">Gizlilik Politikası</annotation>"'nı, Chrome "<annotation id="chrome_tos">Hizmet Şartları</annotation> ile <annotation id="chrome_privacy">Gizlilik Uyarısı</annotation>"'nı ve Google Play "<annotation id="play_tos">Hizmet Şartları</annotation>"'nı kabul etmiş olursunuz."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Oturum açarak Google "<annotation id="tos">Hizmet Şartları</annotation> ile <annotation id="google_privacy">Gizlilik Politikası</annotation>"'na, Chrome "<annotation id="chrome_tos">Hizmet Şartları</annotation> ile <annotation id="chrome_privacy">Gizlilik Uyarısı</annotation>"'na ve Google Play "<annotation id="play_tos">Hizmet Şartları</annotation>"'na uymayı kabul etmiş olursunuz. 
+
+Uyarı: Diğer kullanıcılar, güncellenmiş uygulama izinlerini sizin adınıza kabul edebilirler. Diğer bilgisayarlarda olduğu gibi, bu tableti de yalnızca güvendiğiniz kişilerle paylaşmalısınız."</string>
+    <string name="auth_gls_submission_title">Üzgünüz…</string>
+    <string name="auth_gls_suggest_username_next_button_label">Kullanıcı adını değiştir</string>
+    <string name="auth_gls_suggestions_hint">Öneriler için dokunun</string>
+    <string name="auth_gls_sync_intro_activity_title">Hesapta başarıyla oturum açıldı</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Yedekleme ve geri yükleme</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Yedekleme</string>
+    <string name="auth_gls_sync_intro_title">Hesap senkronizasyonu</string>
+    <string name="auth_gls_sync_item_title">Senkronize et: %s</string>
+    <string name="auth_gls_too_short">Çok kısa</string>
+    <string name="auth_gls_ui_activity_authenticating">Kimlik doğrulaması yapılıyor...</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Hazırlanıyor…</string>
+    <string name="auth_gls_uploads_subtitle">Hızlı Yükleme</string>
+    <string name="auth_gls_uploads_text">Tüm cihazlarınızdaki fotoğrafların hepsini kolayca senkronize edin.</string>
+    <string name="auth_gls_verify_your_profile">Profilinizi doğrulayın</string>
+    <string name="auth_gls_wait_for_device_country_msg">Telefonunuzla ilgili bilgiler alınıyor. Bu işlem 30 saniye sürebilir.</string>
+    <string name="auth_gls_wait_for_device_country_title">Hesap kurulumu</string>
+    <string name="auth_google_settings_header_title">Gizlilik</string>
+    <string name="auth_google_title_logo">Google logosu</string>
+    <string name="auth_google_trust_agent_title">Kişisel olarak kilit açma</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Google+ ile oturum açın</string>
+    <string name="auth_gsf_notification_login_error">Hesabınızda oturum açmak için dokunun.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"%s hesabı için
+izin isteğinde bulunuldu"</string>
+    <string name="auth_invalid_login_character">Geçersiz karakter. Yalnızca 0-9, a-z, A-Z ve nokta kullanılabilir.</string>
+    <string name="auth_invalid_password_character">Geçersiz şifre karakteri.</string>
+    <string name="auth_invalid_scope">Kimlik doğrulama isteği sırasında geçersiz kapsam kullanıldı.</string>
+    <string name="auth_invalid_username">Yazdığınız metin geçerli bir kullanıcı adı değil.</string>
+    <string name="auth_learn_more_title">Daha fazla bilgi edinin</string>
+    <string name="auth_location_neighborhood_level">"Anonim konum verilerinin Google'a gönderilmesine izin verir. Ayrıca, izin verilen uygulamaların da yaklaşık konumunuzu belirlemek üzere Kablosuz ve mobil ağlar gibi kaynaklardan gelen verileri kullanmalarına izin verir."</string>
+    <string name="auth_location_network_based">"Google'ın konum hizmeti"</string>
+    <string name="auth_location_settings_title">Konum ayarları</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Yanlış bir şifre yazdınız veya hesabınız değişti. Şifrenizi yeniden yazın. Şifrenizi unuttuysanız ve hesabınızı kurtarmanız gerekiyorsa <annotation id="help_url">burayı</annotation> tıklayın.</string>
+    <string name="auth_login_activity_task_title">Oturum açılıyor…</string>
+    <string name="auth_login_activity_title">Oturum açın</string>
+    <string name="auth_login_task_title">Oturum açma</string>
+    <string name="auth_login_title">E-posta adresini ve Şifreyi yazın</string>
+    <string name="auth_maps_settings_title">Google Haritalar ve Latitude</string>
+    <string name="auth_minutemaid_title">Google Hesabı Kurma</string>
+    <string name="auth_name_title">Adınız</string>
+    <string name="auth_network_unreliable">Sunucu ile güvenilir bir bağlantı kurulamıyor.</string>
+    <string name="auth_network_unreliable_help">Bu, geçici bir sorun veya Android cihazınızda veri hizmeti kullanılmıyor olabilir. Sorun devam ederse Müşteri Hizmetlerini arayın.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Bu geçici bir sorun olabilir. Tekrar deneyin veya başka bir Kablosuz ağa bağlanın.</string>
+    <string name="auth_next_button_label">İleri</string>
+    <string name="auth_nfc_caution">Bu etiketi koruyun. Bir saldırgan bunu kopyalayabilir.</string>
+    <string name="auth_nfc_tag_exists">%1$s zaten eklendi</string>
+    <string name="auth_nfc_tag_not_supported">Sağlanan NFC cihazı desteklenmiyor</string>
+    <string name="auth_no_network">Ağ bağlantınız yok.</string>
+    <string name="auth_no_network_help">Bu, geçici bir sorun veya Android cihazınızda veri hizmeti kullanılmıyor olabilir. Lütfen mobil ağa bağlandığınızda tekrar deneyin veya Kablosuz ağa bağlanın.</string>
+    <string name="auth_no_network_help_wifi_only">Bu geçici bir sorun olabilir. Tekrar deneyin veya başka bir Kablosuz ağa bağlanın.</string>
+    <string name="auth_ok_button_label">Tamam</string>
+    <string name="auth_only_you_acl">Yalnızca siz</string>
+    <string name="auth_otp_dialog_title">Doğrulama kodu</string>
+    <string name="auth_otp_done_button">Bitti</string>
+    <string name="auth_otp_error">Doğrulama kodu oluşturulurken bir hatayla karşılaşıldı.</string>
+    <string name="auth_otp_instruction">"Bu kodu yalnızca Google'da oturum açmak için kullanın."</string>
+    <string name="auth_otp_no_accounts_available_message">Bu cihazda yapılandırılmış bir hesap yok.</string>
+    <string name="auth_otp_progress_dialog_message">Doğrulama kodu oluşturuluyor.</string>
+    <string name="auth_otp_select_account_message">Hesap seç</string>
+    <string name="auth_pacl_scope_details_dialog_title">"Google'ın görebilecekleri"</string>
+    <string name="auth_password">Şifre</string>
+    <string name="auth_personal_unlocking_name">Kişisel olarak kilit açma</string>
+    <string name="auth_personal_unlocking_service_name">Kişisel kilit açılıyor (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Google Hesabınız oluşturuldu, ancak Google+ profili oluşturma isteğiniz iletilmedi. Daha sonra herhangi bir Web tarayıcısıyla plus.google.com adresinden tekrar deneyin.</string>
+    <string name="auth_plus_failure_text">Google+ hizmetine katılma isteğiniz iletilmedi. Daha sonra herhangi bir Web tarayıcısıyla plus.google.com adresinden tekrar deneyin.</string>
+    <string name="auth_plus_failure_title">Google+ profilini daha sonra oluşturun</string>
+    <string name="auth_plus_faq_title">"Google+'ya hoş geldiniz!"</string>
+    <string name="auth_plus_name_check_text">Bu işlem birkaç dakika sürebilir.</string>
+    <string name="auth_plus_query_title">Google+ profili oluşturun</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Merhaba %s!</string>
+    <string name="auth_provisioned_welcome_2">"Bu adres için şifrenizi girin:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Chrome cihazı kilitlendi.</string>
+    <string name="auth_proximity_auth_device_locked_title">Kolay kilit açma</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Chrome cihazının kilidi açıldı.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Kolay kilit açma</string>
+    <string name="auth_proximity_auth_setup_completed_content">Bu telefon, Chrome cihazlarınızın kilidini açabilir.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Kolay kilit açma özelliği açık</string>
+    <string name="auth_proximity_auth_setup_failed_content">Lütfen Chrome cihazınızda tekrar deneyin.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Kolay kilit açma kurulumu sırasında hata oluştu</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Telefon bulundu. Chrome cihazında ilerleyin.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Kolay kilit açma kurulumu</string>
+    <string name="auth_recovery_loading">Yükleniyor…</string>
+    <string name="auth_recovery_sending">Gönderiliyor…</string>
+    <string name="auth_relogin_activity_title">Şifreyi tekrar yazın</string>
+    <string name="auth_scope_acl_edit_desc">Düzenle</string>
+    <string name="auth_scope_details_dialog_title">Daha fazla bilgi</string>
+    <string name="auth_scope_icon_desc">Simge</string>
+    <string name="auth_scope_info_desc">Bilgi</string>
+    <string name="auth_scope_warning_desc">Uyarı</string>
+    <string name="auth_search_settings_title">Arama</string>
+    <string name="auth_server_error">Google sunucularıyla iletişimde bir sorun oluştu.</string>
+    <string name="auth_server_error_help">Daha sonra tekrar deneyin.</string>
+    <string name="auth_setup_wizard_back_button_label">Geri</string>
+    <string name="auth_setup_wizard_next_button_label">İleri</string>
+    <string name="auth_setup_wizard_services_activity_title">Google hizmetleri</string>
+    <string name="auth_setup_wizard_services_backup"><b>"Cihazınızı Google'a yedekleyin"</b>. Böylece uygulamalarınızı, uygulama verilerinizi, sistem ayarlarınızı ve Kablosuz şifrelerinizi daha sonra kolayca geri yükleyebilirsiniz.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>"Uygulamalarınızı ve verilerinizi Google Drive'a yedekleyin"</b>. Böylece bunları daha sonra bir cihaza kolayca geri yükleyebilirsiniz. Yedekleyebileceğiniz veriler uygulamaları, uygulama verilerini, sistem ayarlarını ve Kablosuz ağ şifrelerini içerir. Yedeklenen veriler, depolama sınırınızı etkilemez.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Veriler uygulamaları, uygulama ayarlarını, sistem ayarlarını ve Kablosuz bağlantı şifrelerini içerir.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Yedekleme ve geri yükleme</string>
+    <string name="auth_setup_wizard_services_communication_heading">İletişim</string>
+    <string name="auth_setup_wizard_services_data_collection">"Bu cihazla ilgili teşhis ve kullanım verilerini otomatik olarak Google'a gönderin ve böylece pil performansı, Google Play Store sıralamaları ve daha fazla özellikle birlikte "<b>Android deneyiminizi iyileştirmeye yardımcı olun</b>.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Bu veriler donanım ile ağ bilgileri, uygulama ve telefon kullanımı ve kilitlenme raporlarını içerir.</string>
+    <string name="auth_setup_wizard_services_data_collection_link">"Bu cihazla ilgili teşhis ve kullanım verilerini otomatik olarak Google'a gönderin ve böylece pil performansı, Google Play Store sıralamaları ve daha fazla özellikle birlikte "<b>Android deneyiminizi iyileştirmeye yardımcı olun</b>. <annotation id="learn_more">Daha fazla bilgi edinin.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">"Google'ın konum hizmeti, konumunuzu daha hassas bir şekilde belirlemek için genellikle GPS'den daha az güç tüketen Kablosuz ağları ve diğer sinyalleri kullanır. Bazı veriler cihazınızda saklanabilir. Veriler hiçbir uygulama çalışmazken de toplanabilir."</string>
+    <string name="auth_setup_wizard_services_location_heading">Konum</string>
+    <string name="auth_setup_wizard_services_location_sharing">Uygulamaların konumunuzu daha iyi belirlemesine yardımcı olmak için <b>"Google'ın konum hizmetini kullanın."</b>". Anonim konum verileri cihazınızdan Google'a gönderilecektir."</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan">Uygulamaların ve hizmetlerin, Kablosuz özelliği kapalıyken bile ağları taramasına izin vererek <b>konum hizmetlerinin iyileştirilmesine yardımcı olun</b>.</string>
+    <string name="auth_setup_wizard_services_play">Google Play ile ilgili güncel haberleri ve kampanyaları öğrenmek istiyorum.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">"Bu cihaz Google'dan, operatörünüzden ve cihazın üreticisinden güncellemeler ve uygulamalar alabilir."</string>
+    <string name="auth_setup_wizard_title">Kurulum Sihirbazı</string>
+    <string name="auth_show_error_activity_title">Oturum açılamadı</string>
+    <string name="auth_show_error_title">Hata</string>
+    <string name="auth_sign_in_agreement">Oturum açmakla, <annotation id="google_privacy">Google</annotation> ve <annotation id="android_privacy">Ek</annotation>" Gizlilik Politikaları'nı kabul etmiş olursunuz."</string>
+    <string name="auth_sign_in_agreement_multi_user">Oturum açarak Google <annotation id="tos">Hizmet Şartları</annotation>"'na, "<annotation id="google_privacy">Gizlilik Politikası</annotation>"'na, "<annotation id="play_tos">Google Play Hizmet Şartları</annotation>"'na uymayı kabul etmiş olursunuz. 
+
+Uyarı: Diğer kullanıcılar, güncellenmiş uygulama izinlerini sizin adınıza kabul edebilirler. Diğer bilgisayarlarda olduğu gibi, bu tableti de yalnızca güvendiğiniz kişilerle paylaşmalısınız."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Oturum açarak Google <annotation id="tos">Hizmet Şartları</annotation> ile <annotation id="google_privacy">Gizlilik Politikası</annotation>"'nı, Chrome "<annotation id="chrome_tos">Hizmet Şartları</annotation> ile <annotation id="chrome_privacy">Gizlilik Uyarısı</annotation>"'nı ve Google Play "<annotation id="play_tos">Hizmet Şartları</annotation>"'nı kabul etmiş olursunuz."</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Oturum açarak Google <annotation id="tos">Hizmet Şartları</annotation> ile <annotation id="google_privacy">Gizlilik Politikası</annotation>"'na, Chrome "<annotation id="chrome_tos">Hizmet Şartları</annotation> ile <annotation id="chrome_privacy">Gizlilik Uyarısı</annotation>"'na ve Google Play "<annotation id="play_tos">Hizmet Şartları</annotation>"'na uymayı kabul etmiş olursunuz. 
+
+Uyarı: Diğer kullanıcılar, güncellenmiş uygulama izinlerini sizin adınıza kabul edebilirler. Diğer bilgisayarlarda olduğu gibi, bu tableti de yalnızca güvendiğiniz kişilerle paylaşmalısınız."</string>
+    <string name="auth_sign_in_browser">Tarayıcıda oturum aç</string>
+    <string name="auth_sign_in_button_label">Oturum açın</string>
+    <string name="auth_sign_in_with_google_account_short">Google Hesabınızla oturum açın</string>
+    <string name="auth_skip_button_label">Atla</string>
+    <string name="auth_submission_error_text">Hata oluştu. Tekrar deneyin.</string>
+    <string name="auth_submission_title">Üzgünüz…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Ayarlamak için bu cihazı bir NFC etiketine veya cihazına dokundurun.</string>
+    <string name="auth_trust_agent_add_nfc_title">NFC Ekle</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Güvenilir cihaz ekleyin</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Güvenilen yer ekleyin</string>
+    <string name="auth_trust_agent_button_nfc_settings">NFC Ayarları</string>
+    <string name="auth_trust_agent_connected_to_bt_device">%s Bluetooth cihazına güvenli bir şekilde bağlanıldı</string>
+    <string name="auth_trust_agent_dpm_disabled">Yönetici tarafından devre dışı bırakıldı</string>
+    <string name="auth_trust_agent_enable_nfc">"NFC cihazı eklemek için NFC'yi etkinleştirin"</string>
+    <string name="auth_trust_agent_first_use_notification_button">TAMAM</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">güvenilir cihaz olarak ayarladığınız %s cihazına bağlıyken.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Cihazınızı kilitlenmeye zorlamak için ekranı kapatın ve sonra açıp kilit simgesine dokunun.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">güvenilir yer olarak ayarladığınız %s adlı yerdeyken.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Cihazınızın kilidi açıldı</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Ad</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC bulundu
+Bunun için bir ad girin."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Devre dışı</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Etkin</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Yüz eşlemeyi iyileştir</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">İptal</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Cihaz bundan böyle yüzünüzü tanımayacak ve güvenilir yüz özelliği kapatılacak.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Sıfırla</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Güvenilir yüz sıfırlansın mı?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Güvenilir yüzü sıfırla</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Güvenilir yüz</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Bağlanıldı</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Yok</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Bağlanılmadı</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Güvenilen cihazlar</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Yok</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Ana ekran</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Bilinmiyor</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Güvenilen yerler</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">İş</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Eşleştirme başarısız oldu. Tekrar deneyin.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">NFC cihazı ayarlanamıyor</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Bağlıyken bu cihazın kilidini açık tutmak için güvenilir bir Bluetooth cihazı ekleyin. 
+
+Örnekler:
+
+- Bluetooth saatiniz
+- Aracınızın Bluetooth sistemi"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth kapalı)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Güvenilir cihaz ekleyin</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth kapalı.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">İptal</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Cihaz seçin</string>
+    <string name="auth_trust_agent_trusted_devices_ok">Tamam</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Bağlıyken bu cihazın kilidini açık tutmak için güvenilir bir cihaz ekleyin. 
+
+Örnekler:
+
+- Bluetooth saatiniz
+- Aracınızın Bluetooth sistemi 
+- Aracınızın telefon yuvasındaki bir NFC etiketi."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Bu cihaz, güvenilen cihazlardan kaldırılsın mı?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Bilinmeyen cihaz.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Bu cihazın kilidini hafifçe vurarak açmak için bir güvenilir NFC cihazı ekleyin. 
+
+Örnekler:
+
+- Aracınızın telefon yuvasındaki bir NFC etiketi."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Ev ve iş adresini almak için lütfen hesap ekleyin.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">İptal</string>
+    <string name="auth_trust_agent_trusted_places_ok">Tamam</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"İçinde bulunulduğunda cihazın kilidini açık tutacak güvenilir yer ekleyin. 
+
+Örnekler:
+
+- Eviniz
+- Ofisiniz"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Kaldır</string>
+    <string name="auth_trust_agent_trusted_places_rename">Yeniden adlandır</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Hesap Seçin</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Bilinmiyor</string>
+    <string name="auth_trust_devices_not_available">Güvenilen cihazlar özelliği kullanılamıyor.</string>
+    <string name="auth_trust_places_not_available">Güvenilen yerler özelliği kullanılamıyor.</string>
+    <string name="auth_try_again_button_label">Yeniden dene</string>
+    <string name="auth_ui_activity_authenticating">Kimlik doğrulaması yapılıyor…</string>
+    <string name="auth_ui_activity_title">Google oturumu açma</string>
+    <string name="auth_ui_activity_title_browser_signin">Oturum aç</string>
+    <string name="auth_ui_add_account_title">Hesap kurulumu</string>
+    <string name="auth_unexpected_acl_error">İzinler verilirken bir sorun oluştu.</string>
+    <string name="auth_use_location_summary">"Arama sonuçları ve diğer hizmetleri iyileştirmek için Google'ın konumunuzu kullanmasına izin verin"</string>
+    <string name="auth_use_location_title">Konum ve Google arama</string>
+    <string name="auth_username">E-posta</string>
+    <string name="auth_visible_actions_title">Şununla paylaş:</string>
+    <string name="authorization_dialog">Kimlik doğrulama penceresi</string>
+    <string name="cancel">İptal</string>
+    <string name="circle_button_add_to_circles">Çevrelere ekle</string>
+    <string name="circle_button_circles">%d çevre</string>
+    <string name="circle_button_follow">Takip et</string>
+    <string name="circle_button_following_circle">Takip Ediliyor</string>
+    <string name="circle_button_medium_add_to_circles">Ekle</string>
+    <string name="circle_button_profile_blocked">Engellendi</string>
+    <string name="common_accessibility_audience_view_editable">Kitleyi düzenle</string>
+    <string name="common_add_account_button_label">Hesap ekle</string>
+    <string name="common_add_account_label">Hesap ekleyin</string>
+    <string name="common_ads_settings_title">Reklamlar</string>
+    <string name="common_android_wear_notification_needs_update_text">Bir uygulama, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor.</string>
+    <string name="common_android_wear_update_text">Android Wear uygulaması güncelleninceye kadar bu uygulama çalışmayacak.</string>
+    <string name="common_android_wear_update_title">"Android Wear'ı Güncelle"</string>
+    <string name="common_app_name">Google Play hizmetleri</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts başlatılamıyor.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts başlatılamıyor (izin hatası).</string>
+    <string name="common_car_permission_desc">Araba hizmetine erişin.</string>
+    <string name="common_car_permission_label">Araba Hizmeti</string>
+    <string name="common_chips_label_empty_circles">Hiçbir çevre yok</string>
+    <string name="common_chips_label_extended_circles">Genişletilmiş çevreler</string>
+    <string name="common_chips_label_only_you">Yalnızca siz</string>
+    <string name="common_chips_label_public">Herkese açık</string>
+    <string name="common_chips_label_your_circles">Çevreleriniz</string>
+    <string name="common_choose_account_label">Bir hesap seçin</string>
+    <string name="common_clear_app_data_menu_item">Uygulama verilerini temizle</string>
+    <string name="common_connected_apps_settings_title">Bağlı uygulamalar</string>
+    <string name="common_fitness_settings_title">Fitness</string>
+    <string name="common_games_settings_title">Play Oyunlar</string>
+    <string name="common_get_verification_code_menu_item">Doğrulama kodunu al</string>
+    <string name="common_google_play_services_enable_button">Google Play hizmetlerini etkinleştir</string>
+    <string name="common_google_play_services_enable_text">Bu uygulama, Google Play Hizmetleri etkinleştirilmeden çalışmaz</string>
+    <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştir</string>
+    <string name="common_google_play_services_error_dialog_title">Hata</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">İstekte bulunan: %1$s</string>
+    <string name="common_google_play_services_install_button">Google Play hizmetlerini edin</string>
+    <string name="common_google_play_services_install_text_phone">Google Play Hizmetleri telefonunuzda yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_text_tablet">Google Play Hizmetleri tabletinizde yok ve bu uygulama Google Play Hizmetleri olmadan çalışmaz.</string>
+    <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_invalid_account_text">Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin.</string>
+    <string name="common_google_play_services_invalid_account_title">Geçersiz Hesap</string>
+    <string name="common_google_play_services_needs_enabling_title">"Bir uygulama, Google Play Hizmetleri'nin etkin olmasını gerektiriyor."</string>
+    <string name="common_google_play_services_network_error_text">Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor.</string>
+    <string name="common_google_play_services_network_error_title">Ağ Hatası</string>
+    <string name="common_google_play_services_no_restricted_profiles">Bu uygulama kısıtlanmış profillerin hesaplarını desteklemez</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Bir uygulama, Google Play hizmetlerinin yüklenmesini gerektiriyor.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor.</string>
+    <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
+    <string name="common_google_play_services_unknown_issue">Google Play hizmetleriyle ilgili bilinmeyen sorun.</string>
+    <string name="common_google_play_services_unsupported_text">Cihazınız, uygulamalarınızdan bazıları için gerekli olan Google Play hizmetlerini desteklemiyor. Lütfen yardım için üreticiyle iletişim kurun.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play hizmetleri</string>
+    <string name="common_google_play_services_update_button">Güncelle</string>
+    <string name="common_google_play_services_update_text">Bu uygulama Google Play Hizmetleri güncellenmeden çalışmaz.</string>
+    <string name="common_google_play_services_update_title">Google Play hizmetlerini güncelle</string>
+    <string name="common_google_settings">Google Ayarları</string>
+    <string name="common_list_apps_menu_help">Yardım</string>
+    <string name="common_list_apps_menu_help_and_feedback">Yardım ve geri bildirim</string>
+    <string name="common_location_settings_title">Konum</string>
+    <string name="common_maps_settings_title">Google Haritalar ve Latitude</string>
+    <string name="common_mdm_feature_name">Android Cihaz Yöneticisi</string>
+    <string name="common_network_load_failed">Cihaz bir ağa bağlanamadığı için kullanılamıyor</string>
+    <string name="common_no_network">Cihaz çevrimdışı olduğu için kullanılamıyor</string>
+    <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Seçilebilecek hesap yok</string>
+    <string name="common_search_and_now_settings_title">Arama ve Asistan</string>
+    <string name="common_search_settings_title">Arama</string>
+    <string name="common_security_settings_title">Uygulamaları doğrula</string>
+    <string name="common_signin_button_text">Oturum aç</string>
+    <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
+    <string name="common_storage_settings_title">Play Hizmetleri depolaması</string>
+    <string name="common_ui_confirm_deleting_button">Sil</string>
+    <string name="common_ui_confirm_deleting_checkbox">Anlıyorum ve silmek istiyorum</string>
+    <string name="common_url_load_unsuccessful_message">Android cihazınız herhangi bir veri hizmetine bağlı değil. Bu bilgiyi şimdi görmek için bir web tarayıcısı kullanarak %s adresini ziyaret edin.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android cihazınız Kablosuz bir ağa bağlı değil. Bu bilgiyi şimdi görmek için bir web tarayıcı kullanarak %s adresini ziyaret edin.</string>
+    <string name="common_url_login_notice">%1$s olarak oturum açın</string>
+    <string name="common_usage_and_diagnostics">Kullanım ve teşhis aracı</string>
+    <string name="country_invalid">Bu ülkeye izin verilmiyor</string>
+    <string name="device_location_acl_no_one">Hiç kimse</string>
+    <string name="device_location_best_acl_picker_title">Ayrıntılı Konum Görünürlüğü</string>
+    <string name="device_location_city_acl_picker_title">Şehir Seviyesinde Konum Görünürlüğü</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s ve başkaları</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> ve %d kullanıcı daha</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Konum paylaşma ayarlarını görebilmeniz için veri bağlantınız olmalıdır. Lütfen bağlantınızı kontrol edin veya daha sonra tekrar deneyin.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Konum ayarlarını aç</string>
+    <string name="device_location_reporting_reminder_dialog_summary">"Konum Paylaşma özelliğinin devre dışı bırakılması Konum Bildirme veya Konum Geçmişi özelliğini etkilemez. Google Asistan gibi daha önce kaydolduğunuz diğer Google hizmetleri için konumunuz gerekebilir. Konum Bildirme ve Konum Geçmişi özelliğini Konum Ayarları'ndan dilediğiniz zaman denetleyebilirsiniz."</string>
+    <string name="device_location_reporting_reminder_dialog_title">Konum Bildirme</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> ve &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> ve &lt;b>%s&lt;/b></string>
+    <string name="disagree">Kabul etmiyorum</string>
+    <string name="enable_location_reporting_error">%s için Konum Bildirme ve Konum Geçmişi özelliğini etkinleştiremedik. Konum Bildirme ve Konum Geçmişi özelliğini etkinleştirmek için Konum ayarlarına gidin.</string>
+    <string name="enable_location_reporting_error_title">Bir hata oluştu</string>
+    <string name="enable_location_reporting_title">Konum Bildirme</string>
+    <string name="friend_locations_enable_reporting_auto_body">"Konum Bildirme özelliği, özelliği kullanan tüm Google ürünlerinin, cihazınızın en son konum verilerini depolamasına ve kullanmasına olanak verir. Konum Paylaşma, Konum Bildirme özelliğinin açık olmasını gerektirir.&lt;br/>&lt;br/>Konum Geçmişi, Google'ın, Konum Bildirme özelliğini etkinleştirdiğiniz cihazlardan konum verilerinizin bir geçmişini depolamasına olanak tanır. &lt;a href=\"%2$s\"> Daha fazla bilgi edinin&lt;/a>.&lt;br/>&lt;br/>%1$s için Konum Bildirme ve Konum Geçmişi özelliği etkinleştirilsin mi?"</string>
+    <string name="friend_locations_enable_reporting_manual_body">"Konum Bildirme özelliği, özelliği kullanan tüm Google ürünlerinin, cihazlarınızın en son konum verilerini depolamasına ve kullanmasına olanak verir. Konum Paylaşma, Konum Bildirme özelliğinin açık olmasını gerektirir.&lt;br/>&lt;br/>Google Haritalar'ın Konum ayarları bölümünde, \"Konum Bildirme\" ayarının \"Konumunuz algılansın\" olarak belirlendiğinden ve \"Bu cihazdan bildir\" seçeneğinin işaretlendiğinden emin olun. &lt;a href=\"%s\">Daha fazla bilgi edinin&lt;/a>."</string>
+    <string name="loading">Yükleniyor...</string>
+    <string name="location_settings_allow_access_summary">Cihaz açık olduğunda Google uygulamalarının bu cihazın konum bilgilerini her zaman kullanmasına izin ver</string>
+    <string name="location_settings_allow_access_title">Konum bilgisine eriş</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Konum geçmişinizi tekrar geri alamayacaksınız. 
+
+Google Asistan ve konum geçmişinizi kullanan diğer uygulamalar çalışmayı durdurabilir."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Kalıcı olarak silinsin mi?</string>
+    <string name="location_settings_delete_auth_error">Hatalı kullanıcı adı veya şifre</string>
+    <string name="location_settings_delete_io_error">Cihaz herhangi bir ağa bağlanamadı.</string>
+    <string name="location_settings_delete_location_history">KONUM GEÇMİŞİNİ SİL</string>
+    <string name="location_settings_delete_location_history_in_progress">SİLİNİYOR...</string>
+    <string name="location_settings_delete_offline_error">Cihaz çevrimdışı</string>
+    <string name="location_settings_expiration_both_one">1 saat, 1 dakika kaldı</string>
+    <string name="location_settings_expiration_both_other" formatted="false">%d saat, %d dakika kaldı</string>
+    <string name="location_settings_expiration_hours_one">1 saat, %d dakika kaldı</string>
+    <string name="location_settings_expiration_minutes">%d dakika kaldı</string>
+    <string name="location_settings_expiration_minutes_one">%d saat, 1 dakika kaldı</string>
+    <string name="location_settings_expiration_soon">15 dakikadan kısa bir süre kaldı</string>
+    <string name="location_settings_info_title">Bilgi</string>
+    <string name="location_settings_location_history_activity_title">Konum Geçmişi</string>
+    <string name="location_settings_location_history_summary_full">"Bu ayar, Google'ın, bu hesap için Konum Bildirme özelliğinin etkin olduğu cihazlardan konum verileri geçmişinizi depolamasını sağlar. Konum Geçmişi, Google'dan daha iyi yararlanmanıza yardımcı olur. Örneğin, Google Asistan, siz işe gidip gelirken yol durumu hakkında bilgi vermek için bu verileri kullanabilir.
+
+Konum Geçmişinizi maps.google.com/locationhistory adresinde görüntüleyebilir ve yönetebilirsiniz. İstediğiniz zaman Konum Geçmişi'ni kapatabilirsiniz ancak bunu yaptığınızda mevcut girişler kaldırılmaz. Aşağıdaki düğme, hesabınıza ait tüm mevcut Konum Geçmişi girişlerini siler."</string>
+    <string name="location_settings_location_reporting_activity_title">Konum Bildirme</string>
+    <string name="location_settings_location_reporting_summary_full">"Google bu özelliği, Google Asistan ve Google Haritalar gibi ürünlerde kullanır. 
+
+Konum Bildirme özelliğini açmak, bu özelliği kullanan tüm Google ürünlerinin, Google hesabınızla bağlantılı olarak bu cihazın son konum verilerini depolamasına ve kullanmasına olanak sağlar."</string>
+    <string name="location_settings_no_network_alert">Konum paylaşma ayarlarını görebilmeniz için veri bağlantınız olmalıdır. Lütfen bağlantınızı kontrol edin veya daha sonra tekrar deneyin.</string>
+    <string name="location_settings_not_available_summary">Google Hesabınız yok.</string>
+    <string name="location_settings_not_available_title">Hesap ekleyin</string>
+    <string name="location_settings_reporting_summary_off">Bu cihaz için kapalı</string>
+    <string name="location_settings_reporting_summary_on">Bu cihaz için açık</string>
+    <string name="location_settings_save_error">Ayarlar kaydedilemiyor.</string>
+    <string name="location_settings_saving">Ayarlar kaydediliyor...</string>
+    <string name="location_settings_screen_title">Google konum ayarları</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Bu ayar, konum bilgisine erişimi yalnızca Google uygulamaları için denetler. 
+
+Tüm uygulamalar için konum bilgisine erişimini denetlemek üzere Ayarlar > Konum erişimi'ne gidin."</string>
+    <string name="location_settings_temporary_sharing_title">Geçici Paylaşım:</string>
+    <string name="location_settings_ulr_summary_ambiguous">Önceki ayar belirlenemiyor. Kapatıldı.</string>
+    <string name="location_settings_ulr_summary_auth_error">Yanlış kullanıcı adı veya şifre nedeniyle kullanılamıyor</string>
+    <string name="location_settings_ulr_summary_error">Ayarları almak için sunucuya ulaşılamıyor. Daha sonra tekrar deneyin.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Devre dışı</string>
+    <string name="location_settings_ulr_summary_loading">Alınıyor…</string>
+    <string name="location_settings_ulr_summary_off">Kapalı</string>
+    <string name="location_settings_ulr_summary_offline">Cihaz çevrimdışı olduğu için kullanılamıyor</string>
+    <string name="location_settings_ulr_summary_on">Açık</string>
+    <string name="location_settings_ulr_summary_restricted">Devre dışı</string>
+    <string name="location_settings_ulr_summary_unknown">Bilinmiyor</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Şu ülkede kullanılamamaktadır: %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Bu bölgede kullanılamaz</string>
+    <string name="location_settings_view_all">Tümünü Görüntüle</string>
+    <string name="location_sharing_settings_acl_title">%s ile paylaşılıyor</string>
+    <string name="location_sharing_settings_choose_acl_button">Konumun paylaşılacağı kişileri seç</string>
+    <string name="location_sharing_settings_city_description">Arkadaşlarınızın ve ailenizin, bulunduğunuz şehri görmelerini sağlamak için şehir seviyesinde konum paylaşma özelliğini kullanın.</string>
+    <string name="location_sharing_settings_city_example">Örnek: Ankara, Türkiye</string>
+    <string name="location_sharing_settings_city_title">Şehir Seviyesinde Konum</string>
+    <string name="location_sharing_settings_description">Konum Paylaşma, cihazınızdaki Konum Bildirme ayarını kullanarak, bulunduğunuz konumu dilediğiniz kişilerle paylaşmanıza olanak tanır.&lt;br/>&lt;br/> Konumunuzu paylaştığınız kişiler, mevcut konumunuzu Google+ ve Google Asistan da dahil Google ürünlerinde görebilir. Bu kişiler, ev ve iş gibi yerlerinizi de görebilir. &lt;a href=\"%s\">Daha fazla bilgi edinin&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">Konum Paylaşma, cihazınızdaki &lt;a href=\"%1$s\">Konum Bildirme&lt;/a> ayarını kullanarak, bulunduğunuz konumu dilediğiniz kişilerle paylaşmanıza olanak tanır.&lt;br/>&lt;br/>Konumunuzu paylaştığınız kişiler, mevcut konumunuzu Google+ ve Google Asistan da dahil Google ürünlerinde görebilir. Bu kişiler, ev ve iş gibi yerlerinizi de görebilir. &lt;a href=\"%2$s\">Daha fazla bilgi edinin&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Değiştir</string>
+    <string name="location_sharing_settings_pinpoint_description">Sevdiklerinizle o anki kesin konumunuzu paylaşmak için ayrıntılı konum paylaşma özelliğini kullanın.</string>
+    <string name="location_sharing_settings_pinpoint_example">Örnek: 123 Meşrutiyet Caddesi, Kızılay, Ankara, Türkiye</string>
+    <string name="location_sharing_settings_pinpoint_title">Ayrıntılı Konum</string>
+    <string name="location_sharing_settings_title">Konum Paylaşma</string>
+    <string name="location_ulr_ambiguous_setting_text">Önceki ayar belirlenemiyor. Şimdi açılsın mı?</string>
+    <string name="location_ulr_setting_google_location_disabled">Google uygulamalarının konum bilgilerine erişimi olmadığından kullanılamıyor</string>
+    <string name="location_ulr_setting_label">Google Konum Bildirme Özelliği</string>
+    <string name="location_ulr_setting_location_disabled">Konum bilgilerine erişim kapalı olduğundan kullanılamıyor</string>
+    <string name="location_ulr_setting_no_account">Hesap olmadığından kapalı</string>
+    <string name="location_ulr_setting_reporting_only">Son konum bilgisi kullanılıyor</string>
+    <string name="location_warning_do_not_show_again">Bir daha gösterme</string>
+    <string name="location_warning_message">"Google'ın, uygulamaların konum tespiti yapmasına yardımcı olmasına izin verin. Bu, hiçbir uygulama çalışmıyorken bile anonim konum verilerinin Google'a gönderilmesi anlamına gelir."</string>
+    <string name="location_warning_title">"Google'ın konum hizmeti kullanılsın mı?"</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Konumum 
+Doğruluk: {0} metre"</string>
+    <string name="maps_API_OUTDATED_WARNING">"Bu uygulama Google Haritalar'ın eski bir sürümünü kullandığı için düzgün çalışmayabilir."</string>
+    <string name="maps_BACK_TO_LIST">Listeye geri dön</string>
+    <string name="maps_CLOSE_SOFTKEY">Kapat</string>
+    <string name="maps_COMPASS_ALT_TEXT">Pusula</string>
+    <string name="maps_LEVEL_ALT_TEXT">{0} katı</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Konumum</string>
+    <string name="maps_YOUR_LOCATION">Mevcut konumunuz</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Yakınlaştır</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Uzaklaştır</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Görüntüler ©%2$d %3$s, Harita verileri ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Görüntüler ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Harita verileri ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Geçersiz panorama.</string>
+    <string name="maps_network_unavailable">Bu program veri bağlantısı gerektirir ve bağlanmayı otomatik olarak deneyecektir. Lütfen sinyal gücünü denetleyin. Uçak modu açık mı? Dolaşım verileri devre dışı mı?</string>
+    <string name="maps_no_panorama_data">Panorama verisi belirlenmedi.</string>
+    <string name="maps_panorama_disabled">Resim artık mevcut değil</string>
+    <string name="maps_service_unavailable">Sokak Görünümü hizmeti mevcut değil.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Veri bağl. kesildi, tkr. denyr…</string>
+    <string name="mr_media_route_button_content_description">Yayınla</string>
+    <string name="mr_media_route_chooser_searching">Cihaz arayın…</string>
+    <string name="mr_media_route_chooser_title">Cihaza bağlanın</string>
+    <string name="mr_media_route_controller_disconnect">Bağlantıyı kes</string>
+    <string name="mr_system_route_name">Sistem</string>
+    <string name="mr_user_route_category_name">Cihazlar</string>
+    <string name="notification_ticker">Erişim İstendi</string>
+    <string name="off">Kapat</string>
+    <string name="ok">Tamam</string>
+    <string name="on">Aç</string>
+    <string name="open_location_settings">Konum ayarlarını aç</string>
+    <string name="phone_number_hint">Telefon numarası</string>
+    <string name="phone_number_invalid">Geçersiz telefon numarası</string>
+    <string name="phone_number_invalid_character">Telefon numarasında geçersiz karakterler</string>
+    <string name="place_address_hint">Adres</string>
+    <string name="place_address_title">Adres</string>
+    <string name="place_address_update_hint">Güncelle</string>
+    <string name="place_category_hint">Kategori seçin</string>
+    <string name="place_category_title">Kategori</string>
+    <string name="place_name_hint">Yer adı</string>
+    <string name="place_name_title">Ad</string>
+    <string name="place_phone_hint">Birincil telefon numarası</string>
+    <string name="place_phone_title">Telefon</string>
+    <string name="place_picker_adding_a_place">Rapor gönderiliyor...</string>
+    <string name="place_picker_cancel">İptal</string>
+    <string name="place_picker_cant_add_place">Yer eklenemiyor.</string>
+    <string name="place_picker_label">Bir yer seçin</string>
+    <string name="place_picker_location_off_message">"Bir konum seçmek için ilk olarak Ayarlar'da Konum erişimini açmanız gerekiyor."</string>
+    <string name="place_picker_nearby_places">Yakındaki yerler</string>
+    <string name="place_picker_no_search_results">Eşleşen yer yok.</string>
+    <string name="place_picker_search_error">Arama sonuçları yüklenemiyor.</string>
+    <string name="place_picker_search_hint">Arama yapın</string>
+    <string name="place_picker_searching_label">Aranıyor...</string>
+    <string name="place_picker_select_a_location_label">Daha fazla bilgi için konum seçin</string>
+    <string name="place_picker_select_this_location">Bu konumu seç</string>
+    <string name="place_picker_settings">Ayarlar</string>
+    <string name="place_picker_updating_location_label">Konumunuz güncelleniyor..</string>
+    <string name="place_picker_updating_nearby_label">Yakındaki yerler güncelleniyor...</string>
+    <string name="place_website_hint">Resmi web sitesi</string>
+    <string name="place_website_title">Web sitesi</string>
+    <string name="plus_accessibility_acl_selection">Kitle seçin</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Çevre</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Yeni çevreye ekle</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avatar</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Çevreler</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Kişi veya çevre ara</string>
+    <string name="plus_accessibility_circle_selection">Çevre seçin</string>
+    <string name="plus_accessibility_comment_avatar">Çevreler</string>
+    <string name="plus_accessibility_facl_selection">Uygulamanın görmesine izin verilen çevre üyelerini seçin</string>
+    <string name="plus_accessibility_update_circles">Çevreleri güncelleyin</string>
+    <string name="plus_actionbar_up_button_description">Yukarı gidin</string>
+    <string name="plus_add_to_circle_progress">Ekleniyor...</string>
+    <string name="plus_add_to_circles_title_default">Çevrelere ekleyin</string>
+    <string name="plus_add_to_circles_title_with_user_name">%1$s adlı kullanıcıyı ekleyin</string>
+    <string name="plus_add_to_following_circle_progress">Takip ediliyor...</string>
+    <string name="plus_add_to_new_circle_progress_message">Ekleniyor...</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google +</string>
+    <string name="plus_app_settings_accounts_label">HESAP</string>
+    <string name="plus_app_settings_activity_label">Bağlı uygulamalar</string>
+    <string name="plus_app_settings_activity_log_label">Etkinlik günlüğü</string>
+    <string name="plus_app_settings_activity_log_page_label">Etkinlik günlüğü</string>
+    <string name="plus_app_settings_all_apps_label">Tüm uygulamalar ve cihzlr</string>
+    <string name="plus_app_settings_apps_page_label">Bağlı uygulamalar</string>
+    <string name="plus_app_settings_fitness_apps_label">Fitness uyg ve cihazları</string>
+    <string name="plus_app_settings_sign_in_apps_label">Google+ ile Otur. Aç.Uyg.</string>
+    <string name="plus_article_preview_image_description">Makale önizlemesi resmi</string>
+    <string name="plus_audience_edit_button_label">Düzenle</string>
+    <string name="plus_audience_selection_cancel">İptal</string>
+    <string name="plus_audience_selection_contacts">Tüm kişiler</string>
+    <string name="plus_audience_selection_contacts_description">İleride oluşturulacak kişileri içerir</string>
+    <string name="plus_audience_selection_description_acl">ŞU KİŞİLERLE PAYLAŞILSIN:</string>
+    <string name="plus_audience_selection_done">Bitti</string>
+    <string name="plus_audience_selection_everyone">Tüm çevreler</string>
+    <string name="plus_audience_selection_everyone_description">Gelecekte oluşturulacak çevreleri içerir</string>
+    <string name="plus_audience_selection_header_circles">ÇEVRELER</string>
+    <string name="plus_audience_selection_header_people">KULLANICILAR</string>
+    <string name="plus_audience_selection_header_search">ŞUNLAR İÇİN ARAMA YAPILDI:</string>
+    <string name="plus_audience_selection_header_suggested">ÖNERİLENLER</string>
+    <string name="plus_audience_selection_hidden_circle">Bu çevredeki kullanıcılar, profilinizde herkese açık değildir</string>
+    <string name="plus_audience_selection_loading">Yükleniyor...</string>
+    <string name="plus_audience_selection_new_circle">Yeni çevreye ekle</string>
+    <string name="plus_audience_selection_public_circle">"web'deki herkes"</string>
+    <string name="plus_audience_selection_search_device_results">CİHAZINIZDAN</string>
+    <string name="plus_audience_selection_search_google_results">"GOOGLE'DAN"</string>
+    <string name="plus_audience_selection_title">Kitle</string>
+    <string name="plus_audience_selection_title_acl">Şununla paylaş:</string>
+    <string name="plus_audience_selection_title_search">Ara...</string>
+    <string name="plus_audience_selection_title_update_circles">Çevrelere ekle</string>
+    <string name="plus_auth_audience_view_default_description">"%s, bu uygulamadan gerçekleştirdiğiniz etkinliklere ilişkin bilgileri Google'a gönderecek. Söz konusu etkinlikleri Google'da kimlerin görebileceğini seçebilirsiniz."</string>
+    <string name="plus_auth_audience_view_footnote">"Google bu bilgileri, Google'ın "<annotation id="tos">Hizmet Şartları</annotation> ve <annotation id="google_privacy">Gizlilik Politikası</annotation>"'na uygun şekilde kullanır."</string>
+    <string name="plus_auth_hide_circles_label">Tüm çevreleri gizle</string>
+    <string name="plus_auth_info_fragment_app_name">%s şu işlem için izin istiyor:</string>
+    <string name="plus_auth_see_circles_label">Tüm çevreleri göster</string>
+    <string name="plus_avatar_image_description">Kullanıcı avatarı resmi</string>
+    <string name="plus_bad_name_agree_button_label">Gönder</string>
+    <string name="plus_bad_name_decline_button_label">Adı değiştir</string>
+    <string name="plus_bad_name_skip_button_label">"Google+'yı atla"</string>
+    <string name="plus_checking_gplus_signup_state">Bağlantı kuruluyor...</string>
+    <string name="plus_choose_facl_title">%s uyg. alcğ temel bilgiler</string>
+    <string name="plus_circle_creation_circle_name_hint">Çevre adı</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Çevre oluşturulamadı, daha sonra tekrar deneyin.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Oluştur</string>
+    <string name="plus_circle_creation_title_default">Çevre oluşturun</string>
+    <string name="plus_circle_creation_title_with_user_name">%1$s adlı kullanıcıyı ekleyin</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">İletişim kutusunu kapatmak için kullanılan düğme</string>
+    <string name="plus_close_button_label">Kapat</string>
+    <string name="plus_create_button_description">Yeni bir çevre eklemek için kullanılan düğme</string>
+    <string name="plus_cross_client_auth_toast_text">%1$s uygulamasına tekrar hoş geldiniz Google ile %2$s olarak oturum açtınız.</string>
+    <string name="plus_delete_dialog_acl_label">Bu etkinlik şunlara görünür:</string>
+    <string name="plus_delete_moment_failed_dialog_message">Etkinlikler silinirken bir sorun oluştu, lütfen daha sonra tekrar deneyin.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Siliniyor...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">"Google'daki %s etkinliklerinizi de silin"</string>
+    <string name="plus_disconnect_source_dialog_message">"%1$s, bundan sonra Google Hesabınız için verdiğiniz erişim iznine sahip olmayacak veya uygulama etkinliklerinizi Google'a göndermeyecek. Bu işlemin tamamlanması bir saat kadar sürebilir."</string>
+    <string name="plus_disconnect_source_dialog_negative_button">İptal</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Bağlantıyı kes</string>
+    <string name="plus_disconnect_source_dialog_title">Bağlantı kesilsin mi?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">%s bağlantısı kesilemedi.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Bu uygulamanın Google bağlantısını kesmek istiyor musunuz?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">%s bağlantısı kesiliyor…</string>
+    <string name="plus_domain_default">alan adınız</string>
+    <string name="plus_domain_restricted_choice_body">Yayın %s dışında paylaşılmasın</string>
+    <string name="plus_domain_restricted_choice_title">%s ile kısıtlı</string>
+    <string name="plus_done">Tamam</string>
+    <string name="plus_facl_default_description">Tam adınız, profil resminiz, Google+ kimliğiniz, yaş aralığınız ve diliniz ile aşağıda işaretlenmiş olan çevrelerdeki kullanıcıların bir listesi. Listede, kullanıcıları yerleştirdiğiniz çevrelerin adları değil bu kullanıcıların herkese açık profilleri yer alır.</string>
+    <string name="plus_first_name">İlk</string>
+    <string name="plus_gender_prompt">Cinsiyet seçin</string>
+    <string name="plus_install_app_dialog_checkbox_text">Bir daha sorma.</string>
+    <string name="plus_install_app_dialog_message">Paylaştığınız yayını görüntülemek için Google+ uygulamasını indirmek istiyor musunuz?</string>
+    <string name="plus_install_app_dialog_negative_button">Şimdi değil</string>
+    <string name="plus_install_app_dialog_positive_button">Yükle</string>
+    <string name="plus_install_app_dialog_title">"Google+'yı indirin"</string>
+    <string name="plus_internal_error">Dahili bir hata oluştu.</string>
+    <string name="plus_invalid_account">Geçersiz hesap</string>
+    <string name="plus_last_name">Soyadı</string>
+    <string name="plus_list_apps_aspen_empty_message">"Google+ ile Oturum Açma özelliğini kullanarak bağladığınız hiçbir uygulama yok.
+
+"<annotation id="learn_more">Daha fazla bilgi edinin</annotation></string>
+    <string name="plus_list_apps_disabled_error">Bağlı uygulamalar şu an için yüklenemedi. <annotation id="learn_more">Daha fazla bilgi edinin</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Google hesabınıza bağlı uygulama yok</string>
+    <string name="plus_list_apps_error">Uygulamalar yüklenemedi. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="plus_list_apps_error_aspen">"Uygulamalar yüklenemedi.
+
+Google+ ile Oturum Açılan uygulamalar hakkında "<annotation id="learn_more">daha fazla bilgi edinin</annotation>.</string>
+    <string name="plus_list_apps_error_fitness">"Uygulamalar veya cihazlar yüklenemedi.
+
+Fitness uygulamaları ve cihazları hakkında "<annotation id="learn_more">daha fazla bilgi edinin</annotation>.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Google Fit'e hiç uygulama veya cihaz bağlamadınız
+
+"<annotation id="learn_more">Daha fazla bilgi edinin</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Hesap yok.</string>
+    <string name="plus_list_moments_disabled_error">Etkinlik günlüğünüz şu an için yüklenemedi. <annotation id="learn_more">Daha fazla bilgi edinin</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Hiç etkinliğiniz yok</string>
+    <string name="plus_list_moments_error">Etkinlikler yüklenemedi. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="plus_list_moments_filter_empty_message">Bu türde herhangi bir etkinliğiniz yok</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Bu etkinlik, Etkinlik günlüğünüzde görüntülenemiyor. Lütfen uygulamayı doğrudan ziyaret edin.</string>
+    <string name="plus_loading">Yükleniyor...</string>
+    <string name="plus_manage_app_acl_description_label">Bu uygulamanın Google ile paylaştığı etkinlikler</string>
+    <string name="plus_manage_app_acl_error">Uygulama güncellenemedi.</string>
+    <string name="plus_manage_app_all_circles_label">Tüm çevreler</string>
+    <string name="plus_manage_app_app_icon_desc">Simge</string>
+    <string name="plus_manage_app_disabled_error">Bağlı uygulamanız şu an için yüklenemedi. <annotation id="learn_more">Daha fazla bilgi edinin</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Bağlantıyı kes</string>
+    <string name="plus_manage_app_domain_label">Alan adı</string>
+    <string name="plus_manage_app_extended_circles_label">Genişletilmiş çevreler</string>
+    <string name="plus_manage_app_facl_label">Bu uygulama bu kullanıcıları görebilir</string>
+    <string name="plus_manage_app_label">Bağlı uygulama</string>
+    <string name="plus_manage_app_limited_label">Gizli olarak paylaşıldı</string>
+    <string name="plus_manage_app_no_acl_description">Bu uygulamayı kullanımınız</string>
+    <string name="plus_manage_app_no_circles_label">Hiç kimse</string>
+    <string name="plus_manage_app_only_you_label">Yalnızca siz</string>
+    <string name="plus_manage_app_pacl_label">"Google'da uygulama etkinliklerinizi kimler görebilir?"</string>
+    <string name="plus_manage_app_pacl_sub_label">Burada yaptığınız seçimler, Etkinlik Günlüğünüzdeki mevcut etkinliklerinizin görünürlüğünün değişmesine neden olmaz ancak oyun etkinliğine uygulanır.</string>
+    <string name="plus_manage_app_public_label">Herkese açık</string>
+    <string name="plus_manage_app_scopes_label">Bu uygulama şunlara erişebilir:</string>
+    <string name="plus_manage_app_updating_acl">Güncelleniyor...</string>
+    <string name="plus_manage_aspen_app_label">Google+ ile Ot. Açma kul. uyg.</string>
+    <string name="plus_manage_device_disconnect_label">Bağlantıyı kes</string>
+    <string name="plus_manage_device_label">Bağlı cihaz</string>
+    <string name="plus_manage_moment_acl">"Şuna görünür:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Bazı ayrıntılar yüklenemedi, lütfen daha sonra tekrar deneyin</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Sil</string>
+    <string name="plus_manage_moment_delete_label">SİL</string>
+    <string name="plus_manage_moment_image_desc">Etkinliği göstr</string>
+    <string name="plus_manage_moment_label">Etkinlik</string>
+    <string name="plus_manage_moment_no_in_app_delete">Bu etkinlik yönetilemiyor. <annotation id="learn_more">Daha fazla bilgi edinin</annotation></string>
+    <string name="plus_ok_button_description">Tamam düğmesi</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">"Bunu Google'da önerin"</string>
+    <string name="plus_one_annotation_none_short">Bunu önerin</string>
+    <string name="plus_one_app">Kaynak: &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">10 bin+</string>
+    <string name="plus_one_description">Artı birinizi mevcut %1$s öğesine eklemek için dokunun</string>
+    <string name="plus_one_description_remove">Artı birinizi mevcut %1$s öğeden kaldırmak için dokunun</string>
+    <string name="plus_one_description_standard">Artı birlemek için dokunun.</string>
+    <string name="plus_one_error">"+1'inizle ilgili geçici bir sorun oluştu. Lütfen tekrar deneyin."</string>
+    <string name="plus_one_public">Herkese açık</string>
+    <string name="plus_one_self">"%1$s +1'ledi"</string>
+    <string name="plus_one_self_removed">"+1'iniz kaldırıldı."</string>
+    <string name="plus_one_share">paylaşır</string>
+    <string name="plus_one_social_annotation_prefix">%1$s dahil</string>
+    <string name="plus_one_social_annotation_prefix_you">%1$s dahil</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s bunu +1ledi</string>
+    <string name="plus_one_social_annotation_user">Siz</string>
+    <string name="plus_one_title">"Bunu {0}USERNAME{/0} olarak herkese açık şekilde +1'lediniz"</string>
+    <string name="plus_one_undo">Geri al</string>
+    <string name="plus_oob_3p_promo">Herkese açık bir Google+ profiliyle %1$s uygulamasından daha fazla yararlanın.</string>
+    <string name="plus_oob_cancel_button_label">İptal</string>
+    <string name="plus_oob_default_promo">"Herkese açık bir Google+ profiliyle Google'dan daha fazla yararlanın."</string>
+    <string name="plus_oob_done_button_label">Bitti</string>
+    <string name="plus_oob_edit_name_warning">Google+ profil adınızın değiştirilmesi, tüm Google ürünlerinde değiştirilmesine neden olur.</string>
+    <string name="plus_oob_failure_text">Maalesef Google+, profilinizi oluşturamadı. Daha sonra tekrar deneyin.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Ad</string>
+    <string name="plus_oob_first_name_content_description">Ad</string>
+    <string name="plus_oob_gender_content_description">Cinsiyet</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Şimdi değil</string>
+    <string name="plus_oob_interstitial_loading">"Google+'ya bağlanılıyor…"</string>
+    <string name="plus_oob_interstitial_loading_body">Bu işlem birkaç dakika sürebilir.</string>
+    <string name="plus_oob_interstitial_sending">Gönderiliyor…</string>
+    <string name="plus_oob_interstitial_sending_body">Bu işlem birkaç dakika sürebilir.</string>
+    <string name="plus_oob_join">Oluştur</string>
+    <string name="plus_oob_last_name_content_description">Soyadı</string>
+    <string name="plus_oob_loading">Yükleniyor...</string>
+    <string name="plus_oob_next">İleri</string>
+    <string name="plus_oob_next_content_description">Sonraki düğmesi</string>
+    <string name="plus_oob_no_connection_message">Sunucuya bağlanılamadı.</string>
+    <string name="plus_oob_no_connection_title">Bağlantı Yok</string>
+    <string name="plus_oob_pronoun_content_description">Lütfen bana şu şekilde hitap edin:</string>
+    <string name="plus_oob_sending">Gönderiliyor…</string>
+    <string name="plus_oob_title_tos">Google+ profili</string>
+    <string name="plus_oob_tos_accept">Kabul Et</string>
+    <string name="plus_photo_preview_image_description">Fotoğraf önizlemesi resmi</string>
+    <string name="plus_plus_icon_image_description">Google plus simgesi resmi</string>
+    <string name="plus_posted_just_now">Az önce</string>
+    <string name="plus_pronoun_prompt">Seç</string>
+    <string name="plus_remove_from_circle_progress">Kaldırılıyor…</string>
+    <string name="plus_replybox_button_description">Yanıtla</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Bu yanıt silinsin mi?</string>
+    <string name="plus_replybox_hint_text">Yanıt ekle</string>
+    <string name="plus_replybox_internal_error">Yanıtlanamadı.</string>
+    <string name="plus_replybox_no_network_connection">Yanıt oluşturulamıyor. Lütfen tekrar deneyin.</string>
+    <string name="plus_replybox_post_error_message">Yanıt yayınlanamadı.</string>
+    <string name="plus_replybox_post_success">Yanıtınız yayınlandı.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Genişletilmiş çevreleriniz</string>
+    <string name="plus_scope_fragment_mixed_label">Seçili çevreleriniz</string>
+    <string name="plus_scope_fragment_only_you_label">Yalnızca siz</string>
+    <string name="plus_scope_fragment_public_label">Web üzerindeki herkes</string>
+    <string name="plus_scope_fragment_your_circles_label">Çevreleriniz</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Kurulum Sihirbazı</string>
+    <string name="plus_share_button_description">Paylaş düğmesi</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Bitti</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Alıcıları seçin</string>
+    <string name="plus_sharebox_audience_to_text">Alıcı:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Kitle</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Yeni çevre</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Kişiler çevreye eklenemedi</string>
+    <string name="plus_sharebox_circles_button">Bitti</string>
+    <string name="plus_sharebox_circles_checkbox_label">Çevreye %1$s ekle:</string>
+    <string name="plus_sharebox_circles_create_failed">Çevre oluşturulamadı</string>
+    <string name="plus_sharebox_circles_create_option">Yeni çevre oluştur</string>
+    <string name="plus_sharebox_circles_following_circle">Takip Ettiklerim</string>
+    <string name="plus_sharebox_circles_friends_circle">Arkadaşlar</string>
+    <string name="plus_sharebox_circles_name_length_warning">Bu çevre adı çok uzun.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Bu çevre adı zaten kullanılıyor.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Çevreye ekleyin</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Bu yayın silinsin mi?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Paylaşılamadı.</string>
+    <string name="plus_sharebox_load_error">Paylaşım iletişim kutusu yüklenirken geçici bir sorun oluştu. Lütfen tekrar deneyin.</string>
+    <string name="plus_sharebox_next">İLERİ</string>
+    <string name="plus_sharebox_no_network_connection">Yayın oluşturulamıyor. Lütfen tekrar deneyin.</string>
+    <string name="plus_sharebox_post_body_hint">Fikir paylaşın</string>
+    <string name="plus_sharebox_post_body_icon">Profil resmi</string>
+    <string name="plus_sharebox_post_error_message">Yayın oluşturulamıyor. Lütfen tekrar deneyin.</string>
+    <string name="plus_sharebox_post_error_title">Dikkat</string>
+    <string name="plus_sharebox_post_pending">Gönderiliyor…</string>
+    <string name="plus_sharebox_post_success">Yayınınız paylaşıldı.</string>
+    <string name="plus_sharebox_preview_loading">Yükleniyor...</string>
+    <string name="plus_sharebox_search_hint">Ad, e-posta veya çevre adı yazın</string>
+    <string name="plus_sharebox_share">PAYLAŞ</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">"Google+'da da paylaş"</string>
+    <string name="plus_sharebox_share_via_google_plus">Google+ yoluyla paylaş</string>
+    <string name="plus_sharebox_under_age_warning_message">Herkese açık olarak paylaşımda bulunduğunuzda, çevrelerinize eklemediğiniz kullanıcılar yayınınızı görebilir ve yorum yapabilir.</string>
+    <string name="plus_sharebox_under_age_warning_title">Herkese açık paylaşılıyor</string>
+    <string name="plus_undo_button_description">Geri Al düğmesi</string>
+    <string name="plus_unified_setup_activity_title">Profil oluşturun</string>
+    <string name="plus_unknown_app_name">Uygulama</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Çevreler güncellenemedi, daha sonra tekrar deneyin.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Bu kullanıcıyı çevrelere ekleyemezsiniz.</string>
+    <string name="plus_update_circles_not_allowed_message">%1$s çevrelere eklenemez.</string>
+    <string name="plus_update_circles_progress">Çevreler güncelleniyor...</string>
+    <string name="plus_video_preview_image_description">Video önizlemesi resmi</string>
+    <string name="recovery_done_button_label">Bitti</string>
+    <string name="recovery_input_screen_message">"%s için şifrenizi unutmanız durumunda sizinle nasıl bağlantı kurulacağını Google'a bildirin."</string>
+    <string name="recovery_message_set">"Şifreler kolayca unutulabilir.
+
+Hemen bir telefon numarası veya yedek e-posta adresi sağlayın. Bunu yapmanız, Google'daki ve Google Play Kitaplığınızdaki içeriğinize erişiminizi tekrar sağlamanıza yardımcı olur. "<annotation id="help_url">Daha fazla bilgi edinin</annotation></string>
+    <string name="recovery_message_verify">"Şifreler kolayca unutulabilir.
+
+Telefon numaranızı veya yedek e-posta adresinizi hemen doğrulayın. Bunu yapmanız, Google'daki ve Google Play Kitaplığınızdaki içeriğinize erişiminizi tekrar sağlamanıza yardımcı olur. "<annotation id="help_url">Daha fazla bilgi edinin</annotation></string>
+    <string name="recovery_notification_ticker">Hesaba dikkat edilmesi gerekli</string>
+    <string name="recovery_notification_title">Şifre kurtarma hatırlatıcı</string>
+    <string name="recovery_server_error">Sunucuyla konuşurken hata oluştu. Lütfen birazdan tekrar deneyin.</string>
+    <string name="recovery_title">Google şifre kurtarma</string>
+    <string name="recovery_yes_button_label">Kurtarma seçeneklerini ayarla</string>
+    <string name="recovery_yes_button_label_verify">Kurtarma seçeneklerini onayla</string>
+    <string name="retry_call_to_action">Yeniden dene</string>
+    <string name="secondary_email_hint">Yedek e-posta adresi</string>
+    <string name="secondary_email_invalid">Geçersiz e-posta adresi</string>
+    <string name="secondary_email_same_as_primary">Birincil e-postayla aynı olamaz</string>
+    <string name="selected_location_unknown">Bilinmiyor</string>
+    <string name="sharedUserLabel">Google Hizmetleri</string>
+    <string name="sid_lsid_grant_detail">Oturum Kimliği (SID) ve Yerel Oturum Kimliği (LSID) çerezleri, şifrelere benzer şekilde, kimliğinizi bir tarayıcıdan gelen bir dizi istekle ilişkilendirir. Bu çerezler tüm hesap verilerinize tam erişim olanağı sağlar. Yalnızca tarayıcıların bu çerezleri kullanma hakkı vardır.</string>
+    <string name="sid_lsid_grant_label">Tüm Google hesabı verilerinize erişmek için SID ve LSID çerezleri kullanın.</string>
+    <string name="storage_management_drive_clear_failure">Drive verileri temizlenirken bir hata oluştu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="storage_management_drive_clear_label">Temizle</string>
+    <string name="storage_management_drive_clear_success">Drive verileri temizlendi.</string>
+    <string name="storage_management_drive_clearing">Temizleniyor…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Drive kullananan uygulamalar için tüm yerel Drive verileri kalıcı olarak silinecektir. Bu işlem, henüz Google Drive sunucusuna yüklenmemiş, beklemedeki değişiklikleri içerebilir.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Tüm veriler temizlensin mi?</string>
+    <string name="storage_management_drive_descriptive_text">Drive kullanan uygulamalar, performansı iyileştirmek ve çevrimdışı erişime olanak sağlamak için dosyaları cihazınızda depolar.</string>
+    <string name="storage_management_drive_get_storage_failure">Drive depolama alanı kullanımı hesaplanırken bir hata oluştu. Lütfen daha sonra tekrar deneyin.</string>
+    <string name="storage_management_drive_size_label">Yerel Drive depolama alanı</string>
+    <string name="storage_management_wear_descriptive_text">Uygulamalar, giyilebilir cihazlara veri kopyalamak için cihazınızın depolama birimini kullanır.</string>
+    <string name="storage_management_wear_manage_size_label">Giyilebilir depolamayı yönet</string>
+    <string name="storage_management_wear_size_label">Giyilebilir depolama</string>
+    <string name="storage_managment_all_storage_descriptive_text">Arama motoru ve diğer veriler de dahil olmak üzere Google Play Hizmetleri için kullanılan toplam veri miktarı.</string>
+    <string name="storage_managment_clear_all_data">Tüm verileri temizle</string>
+    <string name="storage_managment_computing_size">Hesaplanıyor…</string>
+    <string name="storage_managment_icing_size_label">Arama motoru depolama alanı</string>
+    <string name="storage_managment_manage_icing_button">Arama depolama alanını yönet</string>
+    <string name="storage_managment_search_index_descriptive_text">Uygulamalarınızın kullanması için bir arama motoru sağlayarak telefonunuzda arama işlemini hızlandırdık.</string>
+    <string name="storage_managment_title">Google Play Hizmetleri depolama alanı</string>
+    <string name="storage_managment_total_size_label">Toplam depolama alanı</string>
+    <string name="system_update_activity_battery_low_charging_text">Pil seviyesi, sistem güncellemesini yükleyemeyecek kadar düşük. Pilin yeterince dolmasını bekleyin.</string>
+    <string name="system_update_activity_battery_low_text">Sistem güncellemesini yüklemeye yetecek düzeyde pil gücü yok. Devam etmek için şarj cihazını takın.</string>
+    <string name="system_update_activity_name">Sistem güncellemeleri</string>
+    <string name="system_update_activity_roaming_text">Dolaşım sırasında sistem güncellemeleri indirilemez.</string>
+    <string name="system_update_activity_title">Sistem güncellemeleri</string>
+    <string name="system_update_check_now_button_text">Şimdi denetle</string>
+    <string name="system_update_complete_label">Sistem güncellemesi</string>
+    <string name="system_update_complete_ok_button">Tamam</string>
+    <string name="system_update_connection_lost_button_text">Kablosuz ağa bağlan</string>
+    <string name="system_update_connection_lost_text">Ağ bağlantısı kesildi.</string>
+    <string name="system_update_countdown_cancel_button">Yüklemeyi iptal et</string>
+    <string name="system_update_countdown_complete">Şimdi yeniden başlatılıyor...</string>
+    <string name="system_update_download_button_text">İndir</string>
+    <string name="system_update_download_failed_no_space_status_text">İndirme işlemi için yeterli boş alan yok</string>
+    <string name="system_update_download_failed_status_text">İndirilemedi</string>
+    <string name="system_update_download_retry_button_text">İndirmeyi yeniden dene</string>
+    <string name="system_update_download_waiting_status_text">İndirme işleminin tamamlanması bekleniyor</string>
+    <string name="system_update_downloading_required_update_text">"Bu işlem ^1 dakika kadar sürebilir.
+
+Ardından, cihaz otomatik olarak yeniden başlayacaktır."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Bu işlem ^1 dakika kadar sürebilir.
+
+Ardından, tablet otomatik olarak yeniden başlayacaktır."</string>
+    <string name="system_update_downloading_required_update_title">Güncelleme indiriliyor…</string>
+    <string name="system_update_downloading_status_text">İndiriliyor</string>
+    <string name="system_update_downloading_wifi_status2_text">^1 tarihine kadar yalnızca Kablosuz üzerinden</string>
+    <string name="system_update_install_button_text">Yeniden başlat ve yükle</string>
+    <string name="system_update_installing_update_text">"Bu işlem 5 dakika kadar sürebilir.
+
+Ardından, telefonunuzu ayarlamayı tamamlayabileceksiniz."</string>
+    <string name="system_update_installing_update_title">Güncelleme yükleniyor…</string>
+    <string name="system_update_last_checkin">Güncelleme için son kontrol: ^1.</string>
+    <string name="system_update_no_update_content_text">Sisteminiz şu anda güncel.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">İndirme işlemi başarısız oldu. Tekrar deneyin.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Sistem güncellemesi indirilemedi</string>
+    <string name="system_update_not_owner_text">Sistem yazılımı güncellemesi mevcut, ancak bunu yalnızca cihazın sahibi yükleyebilir.</string>
+    <string name="system_update_notification_action_download">İndir</string>
+    <string name="system_update_notification_action_install">Yükle</string>
+    <string name="system_update_notification_action_snooze">Daha Sonra</string>
+    <string name="system_update_required_update_restart_text">Sistem güncellemenizin yüklenebilmesi için cihaz yeniden başlatılacaktır.</string>
+    <string name="system_update_required_update_restart_text_tablet">Sistem güncellemenizin yüklenebilmesi için tablet yeniden başlatılacaktır.</string>
+    <string name="system_update_required_update_restart_title">Yeniden başlatılmak üzere</string>
+    <string name="system_update_requires_restart_status_text">Yeniden başlatma gerekiyor</string>
+    <string name="system_update_restart_button_text">Yeniden başlat (^1)</string>
+    <string name="system_update_update_available_notification_title">Sistem güncellemesi mevcut</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Sistem güncellemesini indirmek için yeterli boş alan yok.</string>
+    <string name="system_update_update_downloaded_notification_title">Sistem güncellemesi indirildi</string>
+    <string name="system_update_verification_failed_text">Doğrulama başarısız oldu</string>
+    <string name="system_update_verified_status_text">İndirildi ve doğrulandı</string>
+    <string name="system_update_verifying_status_text">Doğrulanıyor</string>
+    <string name="temporary_sharing_description">Google ürünlerinde, sınırlı bir süre için tam olarak bulunduğunuz konumu paylaştığınız kişiler.</string>
+    <string name="temporary_sharing_title">Geçici Paylaşım</string>
+    <string name="turn_on_location_reporting_auto_button">Etkinleştir</string>
+    <string name="usage_and_diagnostics_consent_message">"Google'a teşhis ve kullanım verilerini otomatik olarak göndererek Android deneyiminizin iyileştirilmesine yardımcı olun. Bu bilgiler kimliğinizi belirlemek için kullanılmaz; pil ömrü, uygulama performansı ve yeni Google özellikleri gibi şeyler üzerinde çalışan ekiplere yardımcı olur.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Daha fazla bilgi edinin&lt;/font>"</string>
+    <string name="usage_reporting_off">Kapalı</string>
+    <string name="usage_reporting_on">Açık</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Bağlandı</string>
+    <string name="wearable_status_connecting">Bağlanıyor...</string>
+    <string name="wearable_status_disconnected">Bağlantı kesildi</string>
+    <string name="wearable_status_starting">Başlatılıyor…</string>
+    <string name="wearable_status_wire_protocol_mismatch">Giyilebilir cihaz uyumlu değil. Lütfen güncellemeleri uygulayın.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Şimdi temizle</string>
+    <string name="wearable_storage_managment_title">Giyilebilir depolama</string>
+    <string name="wearable_storage_managment_total_size_label">Giyilebilir depolama</string>
+    <string name="wearable_storage_managment_usage_label">Uygulama tarafından kullanılan alan</string>
+</resources>

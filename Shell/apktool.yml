@@ -1,0 +1,22 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Shell.apk
+compressionType: false
+doNotCompress:
+- arsc
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '19'
+  targetSdkVersion: '19'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.1-f7a872-SNAPSHOT
+versionInfo:
+  versionCode: '19'
+  versionName: 4.4.4-3926992

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_sync_50" android:id="@id/sync_item_all" android:title="@string/sync_action_all" />
+    <item android:icon="@drawable/ic_sync_50" android:id="@id/sync_item_photos" android:title="@string/sync_action_photos" />
+    <item android:icon="@drawable/ic_delete_50" android:id="@id/sync_item_clear" android:title="@string/sync_action_clear" />
+</menu>

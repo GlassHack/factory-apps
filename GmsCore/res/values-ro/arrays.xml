@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Cafenea</item>
+        <item>Benzinărie</item>
+        <item>Cinematograf</item>
+        <item>Cazare</item>
+        <item>Club de noapte</item>
+        <item>Muzeu</item>
+        <item>Restaurant</item>
+        <item>Centru comercial</item>
+        <item>Magazin</item>
+        <item>Băcănie sau supermarket</item>
+        <item>Altele</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>slabă</item>
+        <item>acceptabilă</item>
+        <item>bună</item>
+        <item>puternică</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>N-E</item>
+        <item>E</item>
+        <item>S-E</item>
+        <item>S</item>
+        <item>S-V</item>
+        <item>V</item>
+        <item>N-V</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>nord</item>
+        <item>nord-est</item>
+        <item>est</item>
+        <item>sud-est</item>
+        <item>sud</item>
+        <item>sud-vest</item>
+        <item>vest</item>
+        <item>nord-vest</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Alegeți o întrebare de securitate</item>
+        <item>Primul număr de telefon?</item>
+        <item>Numele celui mai bun prieten din copilărie?</item>
+        <item>Numele primului profesor?</item>
+        <item>Numele directorului de la primul loc de muncă?</item>
+        <item>Numărul de înregistrare al vehiculului?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/promo_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_oob_scroll_margin_top" android:layout_marginBottom="@dimen/plus_oob_scroll_element_gap_large_small_delta"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/plus_oob_text_size" android:layout_gravity="center_vertical" android:id="@id/promo_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/plus_oob_default_promo" />
+    </LinearLayout>
+</LinearLayout>

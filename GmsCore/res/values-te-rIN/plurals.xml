@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d గంటలు మిగిలి ఉంది</item>
+        <item quantity="one">1 గంట మిగిలి ఉంది</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d రోజులు</item>
+        <item quantity="one">%d రోజు</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d గంటలు</item>
+        <item quantity="one">%d గంట</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d నిమి.</item>
+        <item quantity="one">%d నిమి.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s మంది వ్యక్తులు</item>
+        <item quantity="one">%1$s వ్యక్తి</item>
+        <item quantity="two">%1$s మంది వ్యక్తులు</item>
+        <item quantity="few">%1$s మంది వ్యక్తులు</item>
+        <item quantity="many">%1$s మంది వ్యక్తులు</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">ఇన్‌స్టాల్ చేయడానికి %d సెకన్లలో రీబూట్ చేస్తోంది…</item>
+        <item quantity="one">ఇన్‌స్టాల్ చేయడానికి 1 సెకనులో రీబూట్ చేస్తోంది…</item>
+    </plurals>
+</resources>

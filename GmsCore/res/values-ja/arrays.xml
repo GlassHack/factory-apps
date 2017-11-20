@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>居酒屋</item>
+        <item>カフェ</item>
+        <item>ガソリンスタンド</item>
+        <item>映画館</item>
+        <item>宿泊施設</item>
+        <item>ナイトクラブ</item>
+        <item>美術館/博物館</item>
+        <item>レストラン</item>
+        <item>ショッピングセンター</item>
+        <item>小売店</item>
+        <item>食材店/スーパー</item>
+        <item>その他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>危険</item>
+        <item>普通</item>
+        <item>ほぼ安全</item>
+        <item>安全</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>北</item>
+        <item>北東</item>
+        <item>東</item>
+        <item>南東</item>
+        <item>南</item>
+        <item>南西</item>
+        <item>西</item>
+        <item>北西</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>北</item>
+        <item>北東</item>
+        <item>東</item>
+        <item>南東</item>
+        <item>南</item>
+        <item>南西</item>
+        <item>西</item>
+        <item>北西</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>セキュリティ保護用の質問を選んでください</item>
+        <item>最初に使用した電話番号は？</item>
+        <item>子供の頃の親友の名前は？</item>
+        <item>小学校の先生の名前は？</item>
+        <item>最初の仕事の上司の名前は？</item>
+        <item>車両登録番号は？</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" coreApp="true" package="com.android.defcontainer">
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER"/>
+    <uses-permission android:name="android.permission.ACCESS_ALL_DOWNLOADS"/>
+    <uses-permission android:name="android.permission.ASEC_ACCESS"/>
+    <uses-permission android:name="android.permission.ASEC_CREATE"/>
+    <uses-permission android:name="android.permission.ASEC_DESTROY"/>
+    <uses-permission android:name="android.permission.ASEC_MOUNT_UNMOUNT"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE"/>
+    <uses-permission android:name="android.permission.ACCESS_CACHE_FILESYSTEM"/>
+    <uses-permission android:name="android.permission.ACCESS_ALL_EXTERNAL_STORAGE"/>
+    <application android:allowBackup="false" android:label="@string/service_name">
+        <service android:enabled="true" android:exported="true" android:name=".DefaultContainerService" android:permission="android.permission.COPY_PROTECTED_DATA"/>
+    </application>
+</manifest>

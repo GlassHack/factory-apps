@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>பார்</item>
+        <item>கஃபே</item>
+        <item>எரிவாயு நிலையம்</item>
+        <item>மூவி திரையரங்கம்</item>
+        <item>லாட்ஜிங்</item>
+        <item>நைட் கிளப்</item>
+        <item>அருங்காட்சியகம்</item>
+        <item>உணவகம்</item>
+        <item>ஷாப்பிங் சென்டர்</item>
+        <item>அங்காடி</item>
+        <item>பலசரக்கு கடை அல்லது சூப்பர்மார்க்கெட்</item>
+        <item>மற்றவை</item>
+    </string-array>
+</resources>

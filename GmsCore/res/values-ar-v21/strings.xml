@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">المساعدة والتعليقات</string>
+    <string name="plus_app_settings_all_apps_label">كل التطبيقات</string>
+    <string name="plus_app_settings_apps_page_label">التطبيقات المرتبطة</string>
+    <string name="plus_list_apps_empty_message">لا يتم ربط أي تطبيقات</string>
+    <string name="plus_manage_app_pacl_label">‏من يمكنهم الاطلاع على أنشطة التطبيقات على Google:</string>
+    <string name="plus_manage_app_scopes_label">هذا التطبيق يمكنه الوصول إلى:</string>
+</resources>

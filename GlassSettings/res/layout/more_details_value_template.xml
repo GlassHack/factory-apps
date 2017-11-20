@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@id/value_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/OverlayGreenText"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="@dimen/half_width" android:layout_height="@dimen/half_width">
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/ic_album_art" />
+        <com.google.glass.mosaic.MosaicView android:id="@id/album_art" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/single_track_layout" android:paddingLeft="@dimen/rhs_left_padding" android:layout_width="@dimen/half_width" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/music_large_text_size" android:ellipsize="end" android:id="@id/track_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:includeFontPadding="false" style="@style/OverlayText" />
+        <TextView android:textSize="@dimen/music_large_text_size" android:ellipsize="end" android:id="@id/artist_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="2" android:includeFontPadding="false" style="@style/OverlayGrayText" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/bundle_cover_layout" android:paddingLeft="@dimen/rhs_left_padding" android:visibility="gone" android:layout_width="@dimen/half_width" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/music_medium_text_size" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/musicplayer_recently_played" android:maxLines="2" android:includeFontPadding="false" style="@style/OverlayGrayText" />
+        <TextView android:textSize="@dimen/music_medium_text_size" android:id="@id/bundle_summary" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="3" android:includeFontPadding="false" style="@style/OverlayText" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="@style/GenericCardRhs"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/setting_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/text_view_bottom_margin" style="@style/SettingsHeaderText" />
+    <TextView android:id="@id/setting_value" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/text_view_bottom_margin" android:layout_below="@id/setting_title" style="@style/SettingsHeaderText" />
+    <TextView android:id="@id/setting_details" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/text_view_bottom_margin" android:layout_below="@id/setting_value" style="@style/SettingsHeaderText" />
+    <TextView android:id="@id/setting_extra_details1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/text_view_bottom_margin" android:layout_below="@id/setting_details" style="@style/SettingsHeaderText" />
+    <TextView android:id="@id/setting_extra_details2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/setting_extra_details1" style="@style/SettingsHeaderText" />
+    <TextView android:id="@id/setting_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" style="@style/SettingsFooterText" />
+    <TextView android:id="@id/setting_extra_info" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/setting_info" style="@style/SettingsFooterText" />
+</RelativeLayout>

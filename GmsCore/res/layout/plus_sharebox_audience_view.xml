@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/audience_icon_layout" style="@style/plus_ShareBox_IconLayout">
+        <TextView android:textSize="@dimen/plus_sharebox_audience_text" android:textColor="@color/plus_sharebox_audience_to_text" android:layout_gravity="center_vertical" android:id="@id/audience_to_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/plus_sharebox_audience_to_text" />
+        <ImageView android:layout_gravity="center_vertical" android:id="@id/audience_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/plus_sharebox_audience_view_icon_description" />
+    </LinearLayout>
+    <ProgressBar android:layout_gravity="center_vertical" android:id="@id/progress_bar" android:layout_width="wrap_content" android:layout_height="wrap_content" android:indeterminate="true" style="@android:style/Widget.ProgressBar.Small" />
+    <TextView android:textSize="@dimen/plus_sharebox_audience_text" android:textColor="@color/plus_sharebox_audience_view_text_only_names" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/audience_names" android:padding="4.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:textIsSelectable="false" />
+</LinearLayout>

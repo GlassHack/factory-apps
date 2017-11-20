@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/label_options" android:orderingFromXml="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/general_settings">
+        <com.google.android.apps.lightcycle.wallpaper.PhotoPickerPreference android:title="@string/select_panorama" android:key="pickPanorama" android:summary="@string/select_panorama_description" />
+        <com.google.android.apps.lightcycle.wallpaper.ResetPhotoPreference android:title="@string/reset_panorama" android:key="resetPanorama" android:summary="@string/reset_panorama_description" />
+        <CheckBoxPreference android:title="@string/enable_compass_mode" android:key="enableCompassMode" android:summary="@string/enable_compass_mode_description" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.plus.audience.AudienceSelectionListPersonView android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/common_SelectableItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/top_border" layout="@layout/plus_audience_selection_list_divider" />
+    <ImageView android:id="@id/audience_selection_person_avatar" android:layout_width="@dimen/plus_audience_selection_list_item_row_avatar_size" android:layout_height="@dimen/plus_audience_selection_list_item_row_avatar_size" android:layout_margin="@dimen/plus_audience_selection_list_item_row_margin" android:src="@drawable/default_avatar" android:scaleType="fitCenter" android:layout_centerVertical="true" android:contentDescription="@string/plus_accessibility_audience_selection_person_avatar" />
+    <CheckBox android:id="@id/audience_selection_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_marginStart="@dimen/plus_audience_selection_list_item_row_margin" android:layout_marginEnd="@dimen/plus_audience_selection_list_item_row_margin" android:layout_alignParentEnd="true" />
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:layout_toStartOf="@id/audience_selection_checkbox" android:layout_toEndOf="@id/audience_selection_person_avatar">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/plus_audience_selection_text_color" android:ellipsize="end" android:gravity="left|center" android:id="@id/audience_selection_person_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+        <TextView android:textSize="@dimen/plus_audience_selection_list_item_secondary_text" android:textColor="@color/plus_audience_selection_list_item_secondary" android:ellipsize="end" android:gravity="left|center" android:id="@id/audience_selection_secondary_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+    </LinearLayout>
+</com.google.android.gms.plus.audience.AudienceSelectionListPersonView>

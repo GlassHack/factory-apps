@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/root" android:background="@color/background_black" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.glass.widget.CardScrollView android:id="@id/scroll_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

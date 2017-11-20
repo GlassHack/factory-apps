@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="activity_animation_duration_ms">200</integer>
+    <integer name="card_attribution_animation_duration">300</integer>
+    <integer name="card_attribution_delay">1000</integer>
+    <integer name="card_synchronicity_icon_duration">2000</integer>
+    <integer name="fragment_transition_animation_duration">200</integer>
+    <integer name="google_play_services_version">6774000</integer>
+    <integer name="horizontal_scroll_deferred_load_animation_duration_ms">200</integer>
+    <integer name="infos_error_duration_ms">3000</integer>
+    <integer name="infos_success_duration_ms">1000</integer>
+    <integer name="mark_as_seen_duration">1000</integer>
+    <integer name="max_lines_in_hangouts_timeline_card">5</integer>
+    <integer name="max_lines_in_phone_call_timeline_card">2</integer>
+    <integer name="sys_storage_threshold_bytes">209715200</integer>
+    <integer name="sys_storage_threshold_percentage">5</integer>
+</resources>

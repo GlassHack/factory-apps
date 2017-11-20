@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.setupwizard.util.SetupWizardIllustration android:id="@id/title_area" android:background="@drawable/auth_illustration_bg" android:layout_width="fill_parent" android:layout_height="0.0dip" android:foreground="@drawable/setup_illustration_ota_wide" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/auth_setup_wizard_card_port_margin_sides" android:paddingRight="@dimen/auth_setup_wizard_card_port_margin_sides" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="@dimen/auth_setup_wizard_tablet_illustration_height">
+            <TextView android:id="@id/title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/auth_setup_wizard_title" style="@style/auth_setup_wizard_card_title" />
+            <com.google.android.setupwizard.util.BottomScrollView android:id="@id/bottom_scroll_view" android:background="@drawable/auth_setup_wizard_card_bg" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0" android:elevation="@dimen/auth_setup_wizard_card_elevation">
+                <FrameLayout android:id="@id/setup_content" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                    <include layout="@layout/system_update_activity_setup_wizard_content" />
+                </FrameLayout>
+            </com.google.android.setupwizard.util.BottomScrollView>
+        </LinearLayout>
+    </com.google.android.setupwizard.util.SetupWizardIllustration>
+</LinearLayout>

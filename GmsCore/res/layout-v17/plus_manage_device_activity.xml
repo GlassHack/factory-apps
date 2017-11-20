@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip">
+                <ImageView android:id="@id/device_icon" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/ic_device_placeholder_48" android:contentDescription="@string/plus_manage_app_app_icon_desc" />
+                <TextView android:layout_gravity="center_vertical" android:id="@id/device_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textIsSelectable="false" android:layout_marginStart="10.0dip" style="@style/plus_AppsTextTitle" />
+            </LinearLayout>
+            <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <TextView android:linksClickable="true" android:id="@id/plus_manage_app_device" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/plus_AppsTextPrimary" />
+            <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+    </ScrollView>
+    <View android:layout_gravity="bottom" android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/disconnect_layout" android:paddingTop="20.0dip" android:paddingBottom="20.0dip" android:focusable="true" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/common_SelectableItem">
+        <TextView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/plus_manage_device_disconnect_label" android:textIsSelectable="false" style="@style/plus_AppsTextPrimary" />
+    </LinearLayout>
+</LinearLayout>

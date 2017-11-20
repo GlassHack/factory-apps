@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="circle_creation_dialog_header_height">80.0dip</dimen>
+    <dimen name="circle_creation_dialog_height">178.0dip</dimen>
+    <dimen name="setup_wizard_button_min_width">256.0dip</dimen>
+</resources>

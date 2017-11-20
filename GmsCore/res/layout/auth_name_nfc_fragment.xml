@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/auth_trust_agent_name_nfc_device_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/auth_trust_agent_nfc_found_prompt"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:paddingLeft="16.0dip" android:paddingTop="16.0dip" android:paddingRight="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <TextView android:textSize="20.0sp" android:gravity="top" android:paddingLeft="20.0dip" android:paddingTop="16.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/auth_trust_agent_nfc_found_prompt" android:layout_toLeftOf="@id/auth_trust_agent_nfc_icon" android:layout_alignParentLeft="true" android:textAlignment="center" />
+        <ImageView android:id="@id/auth_trust_agent_nfc_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_nfc_emptystate" android:scaleType="fitEnd" android:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <EditText android:id="@id/auth_trust_agent_nfc_device_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/auth_trust_agent_nfc_device_name_hint" android:inputType="text" />
+    <Button android:layout_gravity="right" android:id="@id/auth_trust_agent_add_nfc_device_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/auth_trust_agent_trusted_devices_ok" />
+    <TextView android:textSize="16.0sp" android:gravity="top" android:id="@id/auth_trust_agent_nfc_insecure" android:paddingLeft="20.0dip" android:paddingTop="16.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/auth_nfc_caution" android:textAlignment="center" />
+</LinearLayout>

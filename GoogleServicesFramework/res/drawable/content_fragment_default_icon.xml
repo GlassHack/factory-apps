@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/content_fragment_default_icon_height" android:width="@dimen/content_fragment_default_icon_width" />
+    <solid android:color="@color/content_fragment_default_icon_color" />
+</shape>

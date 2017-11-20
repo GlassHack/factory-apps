@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_BACK_TO_LIST">Kembali ke senarai</string>
+    <string name="maps_LEVEL_ALT_TEXT">Tingkat {0}</string>
+    <string name="maps_YOUR_LOCATION">Lokasi semasa anda</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Imejan ©%2$d %3$s, Data Peta ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Imejan ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Data peta ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Panorama tidak sah.</string>
+    <string name="maps_network_unavailable">Program ini memerlukan sambungan data, dan akan mencuba semula secara automatik. Sila periksa kekuatan isyarat anda. Adakah mod kapal terbang dihidupkan? Adakah data perayauan dilumpuhkan?</string>
+    <string name="maps_no_panorama_data">Tiada data panorama ditetapkan.</string>
+    <string name="maps_panorama_disabled">Gambar tidak lagi tersedia</string>
+    <string name="maps_service_unavailable">Perkhidmatan Paparan Jalan tidak tersedia.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Sambungan data hilang, mencuba semula…</string>
+</resources>

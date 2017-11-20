@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">นำทางไปหน้าแรก</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">นำทางขึ้น</string>
+    <string name="abc_action_menu_overflow_description">ตัวเลือกอื่น</string>
+    <string name="abc_action_mode_done">เสร็จสิ้น</string>
+    <string name="abc_activity_chooser_view_see_all">ดูทั้งหมด</string>
+    <string name="abc_activitychooserview_choose_application">เลือกแอป</string>
+    <string name="abc_searchview_description_clear">ล้างข้อความค้นหา</string>
+    <string name="abc_searchview_description_query">ข้อความค้นหา</string>
+    <string name="abc_searchview_description_search">ค้นหา</string>
+    <string name="abc_searchview_description_submit">ส่งข้อความค้นหา</string>
+    <string name="abc_searchview_description_voice">ค้นหาด้วยเสียง</string>
+    <string name="abc_shareactionprovider_share_with">แชร์กับ</string>
+    <string name="abc_shareactionprovider_share_with_application">แชร์กับ %s</string>
+    <string name="account_level_title">ต้องดำเนินการกับบัญชี</string>
+    <string name="activity_recognition_permission_description">อนุญาตให้แอปรับการอัปเดตระดับกิจกรรมของคุณเป็นระยะๆ จาก Google เช่น หากคุณกำลังเดิน ขับรถ ขี่จักรยาน หรือเมื่ออยู่นิ่งๆ</string>
+    <string name="activity_recognition_permission_label">การจดจำกิจกรรม</string>
+    <string name="add_a_place_add">เพิ่ม</string>
+    <string name="add_a_place_call_to_action">เพิ่มสถานที่</string>
+    <string name="add_a_place_call_to_drag">ลากแผนที่เพื่อกำหนดตำแหน่งเครื่องหมาย</string>
+    <string name="add_a_place_cancel">ยกเลิก</string>
+    <string name="add_a_place_next">ถัดไป</string>
+    <string name="agree">ยอมรับ</string>
+    <string name="app_label">ตำแหน่งของเครือข่าย</string>
+    <string name="app_level_title">คำขอลงชื่อเข้าใช้</string>
+    <string name="app_level_title_secondary">คำขอลงชื่อเข้าใช้จาก %s</string>
+    <string name="auth_accept_access">ยอมรับ</string>
+    <string name="auth_account_already_has_gmail">บัญชีมี Gmail อยู่แล้ว</string>
+    <string name="auth_account_setup_title">บัญชี Google</string>
+    <string name="auth_ads_settings_title">โฆษณา</string>
+    <string name="auth_allow_external_site_access">กำลังมีำการเข้าถึงข้อมูลของคุณที่ %s</string>
+    <string name="auth_app_label">ผู้จัดการบัญชี Google</string>
+    <string name="auth_app_permission_footnote">%s และ Google จะใช้ข้อมูลนี้ตามข้อกำหนดในการให้บริการและนโยบายส่วนบุคคลที่เกี่ยวข้องของตน</string>
+    <string name="auth_app_permission_label">แอปพลิเคชันนี้ต้องการ</string>
+    <string name="auth_app_permission_ok_footnote">การดำเนินการต่อหมายถึง คุณอนุญาตให้แอปนี้และ Google ใช้ข้อมูลของคุณตามข้อกำหนดในการให้บริการและนโยบายส่วนบุคคลที่เกี่ยวข้อง</string>
+    <string name="auth_app_permission_sign_in_footnote">การแตะลงชื่อเข้าใช้หมายถึง คุณอนุญาตให้แอปนี้และ Google ใช้ข้อมูลของคุณตามข้อกำหนดในการให้บริการและนโยบายส่วนบุคคลที่เกี่ยวข้อง</string>
+    <string name="auth_app_permission_title">ลงชื่อเข้าใช้ %s ด้วย Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">อนุญาตให้เข้าสู่ระบบ</string>
+    <string name="auth_authzen_action_approved_toast_text">อนุมัติการทำงานแล้ว</string>
+    <string name="auth_authzen_action_canceled_toast_text">ยกเลิกการทำงานแล้ว</string>
+    <string name="auth_authzen_allow_reset_button_text">รีเซ็ตรหัสได้</string>
+    <string name="auth_authzen_cancel_button_label">ยกเลิก</string>
+    <string name="auth_authzen_close_button_text">ปิด</string>
+    <string name="auth_authzen_confirmation_allow_button_text">อนุญาต</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">ยกเลิก</string>
+    <string name="auth_authzen_default_confirmation_description">ต้องการอนุญาตให้ลงชื่อเข้าใช้บัญชีของคุณจาก %s ไหม</string>
+    <string name="auth_authzen_default_confirmation_title">เราจำเป็นต้องได้รับการยืนยันจากคุณ</string>
+    <string name="auth_authzen_default_incorrect_pin_text">ตัวเลขที่เลือกไว้ไม่ถูกต้อง ยกเลิกคำขอของคุณแล้ว</string>
+    <string name="auth_authzen_default_request_description">ไม่ทราบรายละเอียดของคำขอ</string>
+    <string name="auth_authzen_generic_error_text">เกิดข้อผิดพลาด โปรดลองใหม่อีกครั้ง</string>
+    <string name="auth_authzen_google_logo_label">โลโก้ Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">อนุมัติการลงชื่อเข้าใช้แล้ว</string>
+    <string name="auth_authzen_login_challenge_canceled_text">ยกเลิกการลงชื่อเข้าใช้แล้ว</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">อนุญาตการลงชื่อเข้าใช้</string>
+    <string name="auth_authzen_login_challenge_desc_text">คุณพยายามลงชื่อเข้าใช้จาก %s ใช่ไหม</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google หยุดการพยายามลงชื่อเข้าใช้</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">หมายเลขไม่ถูกต้อง</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">แตะหมายเลขที่แสดงบนหน้าจออื่น ซึ่งจะเป็นการลงชื่อคุณเข้าใช้คอมพิวเตอร์ของตัวเอง</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">มีผู้พยายามลงชื่อเข้าใช้บัญชี Google ของคุณด้วยรหัสผ่านของคุณ Google ได้หยุดการพยายามลงชื่อเข้าใช้ดังกล่าว</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">มีการป้องกันการลงชื่อเข้าใช้</string>
+    <string name="auth_authzen_login_challenge_title_text">หากกำลังพยายามลงชื่อเข้าใช้</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">ในการอนุมัติการลงชื่อเข้าใช้ในคอมพิวเตอร์ของคุณ คุณจะต้องยืนยันตัวตนของคุณ</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">คำขอลงชื่อเข้าใช้จากคอมพิวเตอร์ในชื่อ %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">ฉันไม่ได้ขอสิ่งนี้</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">ขอบคุณที่แจ้งให้เราทราบ %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">เราได้ทำบันทึกสำหรับกิจกรรมนี้ เพื่อให้เราสามารถรักษาความปลอดภัยให้กับบัญชีของคุณต่อไปได้</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">ลงชื่อเข้าใช้</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">ยกเลิก</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">ป้อน PIN บัญชี Google ของคุณ</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">ตกลง ดำเนินการต่อ</string>
+    <string name="auth_authzen_no_button_text">ไม่</string>
+    <string name="auth_authzen_notify_google_default_text">Google จะได้รับแจ้งว่ามีคนพยายามเข้าถึงบัญชีของคุณ</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google ได้รับคำขอให้เปลี่ยนรหัสผ่านของคุณ แต่คำขอได้ถูกยกเลิกแล้วเนื่องจากไม่ได้มาจากคุณ ไม่มีการเปลี่ยนแปลงใดๆ กับบัญชีของคุณ</string>
+    <string name="auth_authzen_ok_button_text">ตกลง</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">แตะหมายเลขที่แสดงบนหน้าจออื่น ซึ่งจะเป็นการลงชื่อคุณเข้าใช้คอมพิวเตอร์ของตัวเอง</string>
+    <string name="auth_authzen_pin_validation_default_title_text">อนุญาตการลงชื่อเข้าใช้</string>
+    <string name="auth_authzen_profile_picture_label">รูปภาพโปรไฟล์</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">คุณแค่พยายามเข้าสู่ระบบ Google ใช่ไหม</string>
+    <string name="auth_authzen_recovery_approved_text">อนุมัติการรีเซ็ตรหัสผ่านแล้ว</string>
+    <string name="auth_authzen_recovery_canceled_text">ยกเลิกการรีเซ็ตรหัสผ่านแล้ว</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">อนุญาตการรีเซ็ตรหัสผ่านจาก %s ไหม</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">เราจำเป็นต้องได้รับการยืนยันจากคุณ</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google หยุดการพยายามรีเซ็ตรหัสผ่าน</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">หมายเลขไม่ถูกต้อง</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">แตะหมายเลขที่แสดงบนหน้าจออื่น ซึ่งจะเป็นการรีเซ็ตรหัสผ่านของคุณ</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">อนุญาตให้รีเซ็ตรหัสผ่าน</string>
+    <string name="auth_authzen_recovery_reject_desc_text">มีใครบางคนขอรีเซ็ตรหัสผ่านบัญชี Google ของคุณ Google ได้หยุดการพยายามรีเซ็ตรหัสผ่านนั้น</string>
+    <string name="auth_authzen_recovery_reject_title_text">ป้องกันการรีเซ็ตรหัสผ่านแล้ว</string>
+    <string name="auth_authzen_recovery_verification_desc_text">คุณได้ขอรีเซ็ตรหัสผ่านจาก %s ไหม</string>
+    <string name="auth_authzen_recovery_verification_title_text">หากต้องการรีเซ็ตรหัสผ่าน</string>
+    <string name="auth_authzen_secure_account_button_text">ปกป้องบัญชี</string>
+    <string name="auth_authzen_sending_reply_failed_text">ไม่สามารถส่งคำตอบไปยังเซิร์ฟเวอร์</string>
+    <string name="auth_authzen_sending_reply_text">กำลังส่งคำตอบไปยังเซิร์ฟเวอร์</string>
+    <string name="auth_authzen_time_display_text">น้อยกว่า %s นาทีที่ผ่านมา</string>
+    <string name="auth_authzen_time_just_now_text">เดี๋ยวนี้เอง</string>
+    <string name="auth_authzen_wait_text">โปรดรอสักครู่…</string>
+    <string name="auth_authzen_workflow_title">ข้อความแจ้งการให้สิทธิ์ของ Google</string>
+    <string name="auth_authzen_yes_button_text">ใช่</string>
+    <string name="auth_back_button_label">กลับ</string>
+    <string name="auth_bad_name_title">ใช้ชื่อนี้หรือไม่</string>
+    <string name="auth_bluetooth_lure_button">เพิ่มเป็นอุปกรณ์ที่เชื่อถือได้</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">ยืนยันหน้าจอล็อก</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"จับคู่อุปกรณ์บลูทูธใหม่แล้ว
+เพิ่ม %s เป็นอุปกรณ์ที่เชื่อถือได้เพื่อไม่ให้หน้าจอล็อกเวลาเชื่อมต่อ"</string>
+    <string name="auth_bluetooth_lure_one_line_message">จับคู่อุปกรณ์บลูทูธใหม่แล้ว</string>
+    <string name="auth_bluetooth_lure_title">การปลดล็อกส่วนตัว</string>
+    <string name="auth_cancel_button_label">ยกเลิก</string>
+    <string name="auth_captcha_instructions">พิมพ์ข้อความที่คุณเห็นที่นี่:</string>
+    <string name="auth_captcha_title">ต้องป้อน CAPTCHA</string>
+    <string name="auth_communicating_message">อุปกรณ์กำลังติดต่อ Google เพื่อบันทึกข้อมูลลงในบัญชีของคุณ ซึ่งอาจใช้เวลาถึง 5 นาที</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">สถานะข้อมูลรับรอง</string>
+    <string name="auth_d2d_source_bt_notice">จะมีการใช้บลูทูธ</string>
+    <string name="auth_d2d_source_lock_notice">อุปกรณ์จะล็อกตัวเอง และต้องปลดล็อกอุปกรณ์อีกครั้งเพื่อดำเนินการต่อ</string>
+    <string name="auth_d2d_source_no_accounts_toast">ไม่สามารถแตะและคืนค่า เนื่องจากไม่มีบัญชีบนอุปกรณ์นี้</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">ไม่สามารถแตะและคืนค่า เนื่องจากบลูทูธไม่พร้อมใช้งานบนอุปกรณ์ของคุณ</string>
+    <string name="auth_d2d_source_notification_text">"ตั้งค่า ^1 ใหม่แล้วเมื่อวันที่ ^2 โดยใช้อุปกรณ์นี้ รวมถึงความพยายามในการโอนบัญชี Google ต่อไปนี้: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">ตั้งค่าอุปกรณ์ใหม่เสร็จสมบูรณ์</string>
+    <string name="auth_d2d_source_progress_message">กำลังคัดลอกไปยังอุปกรณ์ใหม่...</string>
+    <string name="auth_d2d_source_question">ต้องการคัดลอกบัญชีและข้อมูลจากอุปกรณ์นี้ไหม</string>
+    <string name="auth_d2d_source_restricted_user_toast">ไม่สามารถแตะและคืนค่าจากโปรไฟล์ผู้ใช้ที่มีข้อจำกัดได้</string>
+    <string name="auth_d2d_source_title">คืนค่าบัญชี</string>
+    <string name="auth_d2d_source_unknown_device_name">อุปกรณ์ที่ไม่รู้จัก</string>
+    <string name="auth_d2d_target_adding_accounts_message">กำลังเพิ่มบัญชี...</string>
+    <string name="auth_d2d_target_connecting_progress_message">กำลังเชื่อมต่อกับอุปกรณ์อื่นๆ...</string>
+    <string name="auth_d2d_target_connection_lost_alert">ถูกตัดการเชื่อมต่อ</string>
+    <string name="auth_d2d_target_description">"คัดลอกบัญชี Google, แอปและข้อมูลที่สำรองไว้จากอุปกรณ์ Android ที่คุณมีอยู่ได้อย่างรวดเร็ว วิธีคัดลอก: 
+
+1. ตรวจสอบว่าอุปกรณ์เครื่องอื่นของคุณเปิดอยู่และปลดล็อกแล้ว 
+
+2. วางอุปกรณ์ 2 เครื่องโดยหันหลังชนกันแล้ววางไว้"</string>
+    <string name="auth_d2d_target_skip_button">ข้าม</string>
+    <string name="auth_d2d_target_sorry_alert">ขออภัย เกิดข้อผิดพลาดบางอย่าง</string>
+    <string name="auth_d2d_target_tap_progress_message">หากต้องการดำเนินการต่อ ให้แตะ \"ตกลง\" บนอุปกรณ์อีกเครื่องหนึ่ง</string>
+    <string name="auth_d2d_target_title">แตะและไป</string>
+    <string name="auth_d2d_target_try_again_button">ลองอีกครั้ง</string>
+    <string name="auth_d2d_target_unlock_progress_message">ปลดล็อกอุปกรณ์อีกเครื่อง</string>
+    <string name="auth_d2d_target_wait_progress_message">กำลังคัดลอกบัญชีและข้อมูล...</string>
+    <string name="auth_default_device_name">" Android"</string>
+    <string name="auth_dmagent_activity_message">" โดเมนของคุณกำหนดให้มีการจัดการอุปกรณ์เคลื่อนที่ ติดตั้งแอป \"Google Apps Device Policy\" เพื่อบังคับใช้นโยบายความปลอดภัยที่บัญชี "<b>^1</b> กำหนด</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> ไม่ได้ใช้ Gmail</string>
+    <string name="auth_error_account_disabled">"บัญชีนี้ถูกปิดใช้งานแล้ว 
+
+(หากต้องการทราบรายละเอียด โปรดไปที่ http://google.com/accounts บนเว็บเบราว์เซอร์)"</string>
+    <string name="auth_error_account_not_verified">"บัญชีนี้ยังไม่ได้รับการยืนยัน โปรดตรวจสอบอีเมลของคุณและคลิกลิงก์ที่ระบุไว้เพื่อยืนยันบัญชีนี้
+
+(หากต้องการกู้คืนข้อมูลบัญชีของคุณ ให้ไปที่ http://www.google.com/accounts/recovery บนคอมพิวเตอร์ของคุณ)"</string>
+    <string name="auth_error_bad_password">รหัสผ่านไม่รัดกุมหรือมีอักขระที่ไม่ถูกต้อง โปรดลองอีกครั้ง</string>
+    <string name="auth_error_bad_username">ชื่อผู้ใช้ไม่ถูกต้อง</string>
+    <string name="auth_error_invalid_second_factor">ใช้รหัสผ่านเฉพาะแอปพลิเคชันแทนรหัสผ่านบัญชีตามปกติของคุณ</string>
+    <string name="auth_error_login_failed">"ชื่อผู้ใช้และรหัสผ่านของคุณไม่ตรงกัน ลองอีกครั้ง
+
+หากต้องการกู้คืนข้อมูลบัญชีของคุณ ให้ไปที่ google.com/accounts/recovery/"</string>
+    <string name="auth_error_needs_browser">หากต้องการเข้าถึงบัญชีของคุณ คุณจะต้องลงชื่อเข้าใช้บนเว็บ แตะ \"ถัดไป\" เพื่อเริ่มต้นการลงชื่อเข้าใช้ผ่านเบราว์เซอร์</string>
+    <string name="auth_error_not_logged_in">ผู้ใช้ไม่ได้ลงชื่อเข้าใช้</string>
+    <string name="auth_error_username_unavailable">ชื่อผู้ใช้นี้ใช้ไม่ได้</string>
+    <string name="auth_existing_account_error_text">บัญชี ^1 มีอยู่แล้วบนอุปกรณ์ Android นี้</string>
+    <string name="auth_existing_account_error_title">บัญชีมีอยู่แล้ว</string>
+    <string name="auth_exit_menu_item">ออกจากการลงชื่อเข้าใช้ผ่านเบราว์เซอร์</string>
+    <string name="auth_facl_scope_details_dialog_title">สิ่งที่แอปพลิเคชันนี้สามารถมองเห็นได้</string>
+    <string name="auth_facl_with_warning_label">เปลี่ยนแปลงผู้ที่แอปพลิเคชันนี้สามารถมองเห็น</string>
+    <string name="auth_field_cant_be_blank">ต้องกรอกข้อมูลในฟิลด์</string>
+    <string name="auth_fitness_settings_title">ฟิตเนส</string>
+    <string name="auth_gls_account_creation_tos">การดำเนินการต่อหมายถึง คุณยอมรับ <annotation id="tos">ข้อกำหนดในการให้บริการ</annotation>ของ Google <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation> และ <annotation id="play_tos">ข้อกำหนดในการให้บริการของ Google Play</annotation></string>
+    <string name="auth_gls_account_creation_tos_with_chrome">การดำเนินการต่อหมายถึง คุณยอมรับ <annotation id="tos">ข้อกำหนดในการให้บริการ</annotation> และ <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation>ของ Google <annotation id="chrome_tos">ข้อกำหนดในการให้บริการ</annotation> และ <annotation id="chrome_privacy">ประกาศเกี่ยวกับนโยบายส่วนบุคคล</annotation>ของ Chrome และ <annotation id="play_tos">ข้อกำหนดในการให้บริการ</annotation>ของ Google Play</string>
+    <string name="auth_gls_account_intro_default_message">ข้อมูลต่างๆ ของคุณจะไม่สูญหายอีกต่อไป บัญชี Google จะเก็บทุกอย่างไว้อย่างปลอดภัย</string>
+    <string name="auth_gls_account_intro_learn_more">เรียนรู้เพิ่มเติม</string>
+    <string name="auth_gls_account_intro_recommended_title">ใช้ Google</string>
+    <string name="auth_gls_account_intro_required_title">ขับเคลื่อนโดย Google</string>
+    <string name="auth_gls_account_intro_simple_message">คุณต้องการเพิ่มบัญชีที่มีอยู่หรือสร้างขึ้นใหม่</string>
+    <string name="auth_gls_account_intro_title">บัญชี Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"คุณมีบัญชี Google หรือไม่
+
+หากคุณใช้ Gmail หรือ Google Apps ให้ตอบว่าใช่"</string>
+    <string name="auth_gls_account_pre_intro_no">ไม่</string>
+    <string name="auth_gls_account_pre_intro_title">มี Google แล้วหรือไม่</string>
+    <string name="auth_gls_account_pre_intro_yes">ใช่</string>
+    <string name="auth_gls_account_recovery_info">หากคุณทำรหัสผ่านหาย คุณสามารถตอบคำถามเพื่อความปลอดภัยและรับลิงก์สำหรับรีเซ็ตรหัสผ่านซึ่งจะส่งถึงคุณทางอีเมลอื่น</string>
+    <string name="auth_gls_account_tos_plus_title">เสร็จสิ้นการเข้าร่วม Google+</string>
+    <string name="auth_gls_account_tos_title">เสร็จสิ้นการตั้งค่าบัญชี</string>
+    <string name="auth_gls_add_a_google_account">เพิ่มบัญชี Google</string>
+    <string name="auth_gls_alternatives_list_title">ชื่อผู้ใช้ที่แนะนำ</string>
+    <string name="auth_gls_answer">" "<b>คำตอบ</b></string>
+    <string name="auth_gls_backup_consent_message">"ใช้บัญชี Google ของคุณในการสำรองข้อมูลแอปพลิเคชัน การตั้งค่า (เช่น บุ๊กมาร์กและรหัสผ่าน WiFi) และข้อมูลอื่นๆ หากคุณได้สำรองข้อมูลบัญชีไว้แล้วก่อนหน้านี้ คุณสามารถกู้คืนข้อมูลลงในโทรศัพท์นี้ได้เลย
+
+คุณสามารถเปลี่ยนการตั้งค่าการสำรองข้อมูลได้ทุกเมื่อในการตั้งค่า"</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"ใช้บัญชี Google ของคุณในการสำรองข้อมูลแอปพลิเคชัน การตั้งค่า (เช่น บุ๊กมาร์กและรหัสผ่าน WiFi) และข้อมูลอื่นๆ
+
+คุณสามารถเปลี่ยนการตั้งค่าการสำรองข้อมูลได้ทุกเมื่อในการตั้งค่า"</string>
+    <string name="auth_gls_backup_consent_yes_agree">สำรองข้อมูลโทรศัพท์นี้ด้วยบัญชี Google ของฉัน</string>
+    <string name="auth_gls_cant_be_blank">ต้องกรอกข้อมูลในฟิลด์</string>
+    <string name="auth_gls_checking_account">กำลังตรวจสอบความพร้อม...</string>
+    <string name="auth_gls_checking_username_message">"โทรศัพท์ของคุณกำลังติดต่อ Google เพื่อดูว่าชื่อผู้ใช้ที่คุณต้องการสามารถใช้ได้หรือไม่
+
+การดำเนินการนี้อาจใช้เวลาหลายนาที"</string>
+    <string name="auth_gls_choose_a_password">รหัสผ่าน</string>
+    <string name="auth_gls_circles_subtitle">แวดวง</string>
+    <string name="auth_gls_circles_text">วิธีที่ง่ายที่สุดในการแชร์สิ่งที่สำคัญที่สุดบนโลกออนไลน์</string>
+    <string name="auth_gls_confirm_password">พิมพ์รหัสผ่านอีกครั้ง</string>
+    <string name="auth_gls_create_button_label">รับบัญชี</string>
+    <string name="auth_gls_create_google_account">เลือกชื่อผู้ใช้</string>
+    <string name="auth_gls_create_google_account_text">บัญชี Google ของคุณมาพร้อมกับ Gmail ซึ่งเป็นอีเมลจาก Google ที่ใช้งานได้บนทุกอุปกรณ์ บล็อกสแปม และอื่นๆ อีกมากมาย</string>
+    <string name="auth_gls_creating_account_title">กำลังบันทึกบัญชี...</string>
+    <string name="auth_gls_creating_profile">กำลังสร้างโปรไฟล์ของคุณ…</string>
+    <string name="auth_gls_crop_failure">ไม่สามารถตัดรูปภาพ</string>
+    <string name="auth_gls_dasher_warning">ผู้ดูแลระบบที่ %s เป็นเจ้าของและจัดการข้อมูลทั้งหมดของคุณบน Google+ และสามารถลบหรือแก้ไขโปรไฟล์ของคุณได้ทุกเมื่อโดยไม่ต้องรอการอนุญาตจากคุณ</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" โดเมนของคุณกำหนดให้มีการจัดการอุปกรณ์เคลื่อนที่ เปิดใช้งานแอป \"Google Apps Device Policy\" เพื่อบังคับใช้นโยบายความปลอดภัยที่บัญชี "<b>^1</b> กำหนด</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">เปิดใช้งาน</string>
+    <string name="auth_gls_dmagent_activity_download_message">" โดเมนของคุณกำหนดให้มีการจัดการอุปกรณ์เคลื่อนที่ ติดตั้งแอป \"Google Apps Device Policy\" เพื่อบังคับใช้นโยบายความปลอดภัยที่บัญชี "<b>^1</b> กำหนด</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">ดาวน์โหลด</string>
+    <string name="auth_gls_edit_text_help">แตะช่องข้อความใดก็ได้เพื่อเริ่มพิมพ์</string>
+    <string name="auth_gls_eight_chars_min">ไม่ต่ำกว่า 8 อักขระ</string>
+    <string name="auth_gls_enable_web_history">เปิดประวัติเว็บ</string>
+    <string name="auth_gls_error_bad_password">รหัสผ่านไม่รัดกุมหรือมีอักขระที่ไม่ถูกต้อง โปรดลองอีกครั้ง</string>
+    <string name="auth_gls_error_login_failed">"ชื่อผู้ใช้และรหัสผ่านของคุณไม่ตรงกัน ลองอีกครั้ง
+
+หากต้องการกู้คืนข้อมูลบัญชีของคุณ ให้ไปที่ google.com/accounts/recovery/"</string>
+    <string name="auth_gls_error_needs_browser">หากต้องการเข้าถึงบัญชีของคุณ คุณต้องลงชื่อเข้าใช้บนเว็บ แตะ \"ถัดไป\" เพื่อเริ่มการลงชื่อเข้าใช้ผ่านเบราว์เซอร์</string>
+    <string name="auth_gls_existing_account_error_text">มีบัญชี ^1 อยู่แล้วในอุปกรณ์ Android นี้</string>
+    <string name="auth_gls_existing_account_error_title">บัญชีมีอยู่แล้ว</string>
+    <string name="auth_gls_existing_button_label">บัญชีที่มีอยู่</string>
+    <string name="auth_gls_google_play_opt_in">แจ้งให้ฉันรู้ข่าวสารและข้อเสนอพิเศษล่าสุดจาก Google Play</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" มีได้เฉพาะตัวอักษร
+ตัวเลข และจุด"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> ไม่มีตัวอักษรใดอยู่เลย</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> มีอักขระน้อยกว่า 6 อักขระหรือมากกว่า 30 อักขระ</string>
+    <string name="auth_gls_huddle_text">การรับส่งข้อความแบบกลุ่มสำหรับทุกคนในแวดวงของคุณ</string>
+    <string name="auth_gls_invalid_email">"ที่อยู่อีเมลที่คุณพิมพ์ไม่ถูกต้อง
+ ตัวอย่าง: joe@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">ไม่สามารถใช้ที่อยู่ที่คุณสร้างเป็นที่อยู่สำหรับการกู้คืนได้</string>
+    <string name="auth_gls_is_not_available">ชื่อผู้ใช้ <b>^1</b> ไม่สามารถใช้ได้</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" บัญชี Google ช่วยให้คุณสามารถ
+
+"<li><ul>ดูและจัดระบบข้อมูลทั้งหมดของคุณได้จากทุกที่</ul></li>"
+
+"<li><ul>สำรองข้อมูลโดยอัตโนมัติ เช่น อีเมล ที่อยู่ติดต่อ เพลง และรูปภาพ</ul></li>" 
+
+"<li><ul>ใช้บริการต่างๆ ของ Google ได้อย่างง่ายดายจากทุกที่ รวมทั้งที่อยู่ติดต่อ ปฏิทิน แผนที่ และอื่นๆ อีกมากมาย</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">เกี่ยวกับบัญชี Google</string>
+    <string name="auth_gls_learn_more_web_history">"ประวัติเว็บปรับปรุงผลการค้นหาโดยอิงตามสิ่งที่คุณเคยค้นหาและไซต์ที่คุณเคยเข้าชม โดยให้ประสบการณ์การใช้งาน Google ที่ปรับเปลี่ยนในแบบของคุณ 
+
+หากต้องการดูและจัดการประวัติเว็บของคุณ รวมทั้งปิดหรือเปิดใช้งาน ให้ดูที่ http://www.google.com/history"</string>
+    <string name="auth_gls_learn_more_web_history_title">เกี่ยวกับประวัติเว็บ</string>
+    <string name="auth_gls_name_checking_info_title">กำลังตรวจสอบ…</string>
+    <string name="auth_gls_name_progress_title">รอสักครู่…</string>
+    <string name="auth_gls_name_text">ชื่อของคุณจะถูกใช้ในการปรับเปลี่ยนโทรศัพท์และบริการต่างๆ ของ Google ในแบบของคุณ</string>
+    <string name="auth_gls_name_text_local">โทรศัพท์นี้ใช้ชื่อของคุณในการปรับเปลี่ยนแอปบางอย่างในแบบของคุณ</string>
+    <string name="auth_gls_name_title_local">โทรศัพท์นี้เป็นของ...</string>
+    <string name="auth_gls_name_title_plus">ชื่อ Google+ ของคุณ</string>
+    <string name="auth_gls_network_unreliable">ไม่สามารถสร้างการเชื่อมต่อที่เชื่อถือได้กับเซิร์ฟเวอร์</string>
+    <string name="auth_gls_network_unreliable_help">นี่อาจเป็นปัญหาชั่วคราวหรืออุปกรณ์ Android ของคุณอาจไม่ได้รับบริการข้อมูล หากยังพบปัญหาอีก โปรดติดต่อฝ่ายบริการลูกค้า</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">ปัญหานี้อาจเกิดขึ้นชั่วคราว ลองใหม่อีกครั้งหรือเชื่อมต่อกับเครือข่าย WiFi อื่น</string>
+    <string name="auth_gls_new_button_label">ใหม่</string>
+    <string name="auth_gls_no_network">คุณยังไม่ได้เชื่อมต่อเครือข่าย</string>
+    <string name="auth_gls_no_network_help">ปัญหานี้อาจเป็นปัญหาชั่วคราวหรืออุปกรณ์ Android ของคุณอาจไม่ได้รับบริการข้อมูล ลองอีกครั้งเมื่อเชื่อมต่อกับเครือข่ายมือถือ หรือทำการเชื่อมต่อกับเครือข่าย WiFi</string>
+    <string name="auth_gls_no_network_help_wifi_only">ปัญหานี้อาจเกิดขึ้นชั่วคราว ลองใหม่อีกครั้งหรือเชื่อมต่อกับเครือข่าย WiFi อื่น</string>
+    <string name="auth_gls_not_now_button_label">ไว้ทีหลัง</string>
+    <string name="auth_gls_password_mismatch">รหัสผ่านไม่ตรงกัน โปรดลองอีกครั้ง</string>
+    <string name="auth_gls_password_title">สร้างรหัสผ่าน</string>
+    <string name="auth_gls_photo_button_label">ถ่ายภาพ</string>
+    <string name="auth_gls_photo_description">รูปภาพของคุณ</string>
+    <string name="auth_gls_photo_failure">ไม่สามารถเปิดกล้องถ่ายรูป</string>
+    <string name="auth_gls_photo_text">ภาพนี้จะถูกใช้ในบันทึกติดต่อของคุณ คุณสามารถเปลี่ยนภาพในแอป People ได้ในภายหลัง</string>
+    <string name="auth_gls_photo_text_es">ถ่ายภาพที่เพื่อนของคุณจะเห็นได้ใน Google+ คุณสามารถเลือกภาพใหม่ได้ในภายหลัง</string>
+    <string name="auth_gls_photo_title">รูปภาพของคุณ</string>
+    <string name="auth_gls_plus_accepted_button_label">เข้าร่วม Google+</string>
+    <string name="auth_gls_plus_declined_button_label">ไว้ทีหลัง</string>
+    <string name="auth_gls_plus_failure_new_account_text">สร้างบัญชี Google ของคุณแล้ว แต่คำขอเข้าร่วม Google+ ของคุณยังไม่ผ่านขั้นตอน ลองอีกครั้งในภายหลังที่ plus.google.com โดยใช้เว็บเบราว์เซอร์ใดก็ได้</string>
+    <string name="auth_gls_plus_failure_text">คำขอเข้าร่วม Google+ ของคุณยังไม่ผ่านขั้นตอน ลองอีกครั้งในภายหลังที่ plus.google.com โดยใช้เว็บเบราว์เซอร์ใดก็ได้</string>
+    <string name="auth_gls_plus_failure_title">เข้าร่วม Google+ ภายหลัง</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"บน Google+ คุณจะมีโปรไฟล์สาธารณะเพื่อช่วยให้เพื่อนๆ ของคุณหาคุณพบในโลกออนไลน์ ใครก็ตามที่ทราบที่อยู่อีเมลของคุณจะสามารถค้นพบและดูโปรไฟล์ของคุณได้
+
+คุณสามารถใช้ปุ่ม +1 เพื่อแนะนำสิ่งต่างๆ ให้คนทั้งโลกได้รู้ผ่านเว็บ โปรไฟล์และการ +1 ของคุณจะปรากฏต่อสาธารณะผ่านทางการค้นหา โฆษณา และบนเว็บ
+
+ขณะนี้โปรไฟล์ของคุณจะแสดงเพียงชื่อของคุณ (%s %s) เท่านั้น คุณสามารถเพิ่มรูปภาพ ชีวประวัติ และรายละเอียดอื่นๆ ได้ในภายหลังหลังจากที่คุณเริ่มใช้ Google+ แล้ว"</string>
+    <string name="auth_gls_plus_name_check_text">การดำเนินการนี้อาจใช้เวลาสักครู่</string>
+    <string name="auth_gls_plus_name_check_title">กำลังติดต่อ Google+...</string>
+    <string name="auth_gls_plus_query_text">Google+ ทำให้การแชร์บนเว็บคล้ายกับการแชร์ในชีวิตจริงยิ่งขึ้น</string>
+    <string name="auth_gls_provisioned_incorrect_login">หากไม่ใช่ %s</string>
+    <string name="auth_gls_provisioned_welcome">สวัสดี %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"ป้อนรหัสผ่านของคุณสำหรับ:
+%s"</string>
+    <string name="auth_gls_recovery_title">ข้อมูลการกู้คืน</string>
+    <string name="auth_gls_restore_consent_yes_agree">คืนค่าจากบัญชี Google ของฉันไปยังโทรศัพท์นี้</string>
+    <string name="auth_gls_restoring_message">โทรศัพท์ของคุณกำลังติดต่อ Google เพื่อคืนค่าให้กับบัญชีของคุณ ซึ่งอาจใช้เวลาสักครู่</string>
+    <string name="auth_gls_restoring_title">กำลังคืนค่า...</string>
+    <string name="auth_gls_retake_photo_button_label">ถ่ายภาพซ้ำ</string>
+    <string name="auth_gls_secondary_email_label">ที่อยู่อีเมลสำรอง</string>
+    <string name="auth_gls_security_questions_title">คำถามเพื่อความปลอดภัย</string>
+    <string name="auth_gls_server_error">เกิดปัญหาในการติดต่อกับเซิร์ฟเวอร์ของ Google</string>
+    <string name="auth_gls_server_error_help">ลองอีกครั้งในภายหลัง</string>
+    <string name="auth_gls_sign_in_agreement">การลงชื่อเข้าใช้หมายถึง คุณยอมรับ<annotation id="tos">ข้อกำหนดในการให้บริการ</annotation>ของ Google <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation> และ<annotation id="play_tos">ข้อกำหนดในการให้บริการของ Google Play</annotation></string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" การลงชื่อเข้าใช้หมายถึง คุณยอมรับ"<annotation id="tos">ข้อกำหนดในการให้บริการ</annotation>ของ Google <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation> และ<annotation id="play_tos">ข้อกำหนดในการให้บริการของ Google Play</annotation>" 
+
+ โปรดทราบ: ผู้ใช้รายอื่นสามารถอนุญาตแอปที่อัปเดตในนามของคุณได้ และเช่นเดียวกับคอมพิวเตอร์เครื่องอื่นๆ คุณควรแชร์แท็บเล็ตนี้กับผู้ที่คุณไว้ใจเท่านั้น"</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" การลงชื่อเข้าใช้หมายถึง คุณยอมรับ"<annotation id="tos">ข้อกำหนดในการให้บริการ</annotation> และ<annotation id="google_privacy">นโยบายส่วนบุคคล</annotation>ของ Google <annotation id="chrome_tos">ข้อกำหนดในการให้บริการ</annotation> และ<annotation id="chrome_privacy">ประกาศเกี่ยวกับนโยบายส่วนบุคคล</annotation>ของ Chrome และ<annotation id="play_tos">ข้อกำหนดในการให้บริการ</annotation>ของ Google Play</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" การลงชื่อเข้าใช้หมายถึง คุณยอมรับ"<annotation id="tos">ข้อกำหนดในการให้บริการ</annotation> และ <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation>ของ Google <annotation id="chrome_tos">ข้อกำหนดในการให้บริการ</annotation> และ <annotation id="chrome_privacy">ประกาศเกี่ยวกับนโยบายส่วนบุคคล</annotation>ของ Chrome และ <annotation id="play_tos">ข้อกำหนดในการให้บริการ</annotation>"ของ Google Play 
+
+ โปรดทราบ: ผู้ใช้รายอื่นสามารถอนุญาตแอปที่อัปเดตในนามของคุณได้ และเช่นเดียวกับคอมพิวเตอร์เครื่องอื่นๆ คุณควรแชร์แท็บเล็ตนี้กับผู้ที่คุณไว้ใจเท่านั้น"</string>
+    <string name="auth_gls_submission_title">ขออภัย...</string>
+    <string name="auth_gls_suggest_username_next_button_label">เปลี่ยนชื่อผู้ใช้</string>
+    <string name="auth_gls_suggestions_hint">แตะเพื่อรับคำแนะนำ</string>
+    <string name="auth_gls_sync_intro_activity_title">ลงชื่อเข้าใช้บัญชีสำเร็จ</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">การสำรองและคืนค่า</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">ข้อมูลสำรอง</string>
+    <string name="auth_gls_sync_intro_title">ซิงค์บัญชี</string>
+    <string name="auth_gls_sync_item_title">ซิงค์ %s</string>
+    <string name="auth_gls_too_short">สั้นเกินไป</string>
+    <string name="auth_gls_ui_activity_authenticating">กำลังตรวจสอบสิทธิ์...</string>
+    <string name="auth_gls_ui_activity_title_checking_in">กำลังเตรียม…</string>
+    <string name="auth_gls_uploads_subtitle">อัปโหลดทันใจ</string>
+    <string name="auth_gls_uploads_text">ซิงค์รูปภาพของคุณทั้งหมดจากทุกอุปกรณ์ของคุณได้อย่างง่ายดาย</string>
+    <string name="auth_gls_verify_your_profile">ตรวจสอบโปรไฟล์ของคุณ</string>
+    <string name="auth_gls_wait_for_device_country_msg">กำลังรวบรวมข้อมูลเกี่ยวกับโทรศัพท์ของคุณ ซึ่งอาจใช้เวลาถึง 30 วินาที</string>
+    <string name="auth_gls_wait_for_device_country_title">การตั้งค่าบัญชี</string>
+    <string name="auth_google_settings_header_title">ความเป็นส่วนตัว</string>
+    <string name="auth_google_title_logo">โลโก้ Google</string>
+    <string name="auth_google_trust_agent_title">การปลดล็อกส่วนตัว</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">ลงชื่อเข้าใช้ด้วย Google+</string>
+    <string name="auth_gsf_notification_login_error">แตะเพื่อลงชื่อเข้าใช้บัญชีของคุณ</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"มีการขออนุญาต
+สำหรับบัญชี%s"</string>
+    <string name="auth_invalid_login_character">อักขระไม่ถูกต้อง อนุญาตให้ใช้เฉพาะ 0-9, a-z, A-Z และจุดเท่านั้น</string>
+    <string name="auth_invalid_password_character">อักขระของรหัสผ่านไม่ถูกต้อง</string>
+    <string name="auth_invalid_scope">ขอบเขตที่ใช้ในการขอการตรวจสอบสิทธิ์ไม่ถูกต้อง</string>
+    <string name="auth_invalid_username">ข้อความที่พิมพ์เป็นชื่อผู้ใช้ที่ไม่ถูกต้อง</string>
+    <string name="auth_learn_more_title">เรียนรู้เพิ่มเติม</string>
+    <string name="auth_location_neighborhood_level">อนุญาตให้ส่งตำแหน่งโดยไม่ระบุตัวตนไปที่ Google, ให้แอปที่ได้รับอนุญาตใช้ข้อมูลจากแหล่งเช่น WiFi หรือเครือข่ายกำหนดตำแหน่งโดยประมาณ</string>
+    <string name="auth_location_network_based">บริการแสดงตำแหน่งของ Google</string>
+    <string name="auth_location_settings_title">การตั้งค่าตำแหน่ง</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">คุณได้พิมพ์รหัสผ่านที่ไม่ถูกต้อง หรือบัญชีของคุณมีการเปลี่ยนแปลง โปรดพิมพ์รหัสผ่านอีกครั้ง หากคุณลืมรหัสผ่าน และต้องการกู้คืนบัญชีของคุณ ให้คลิก<annotation id="help_url">ที่นี่</annotation></string>
+    <string name="auth_login_activity_task_title">กำลังลงชื่อเข้าใช้…</string>
+    <string name="auth_login_activity_title">ลงชื่อเข้าใช้</string>
+    <string name="auth_login_task_title">กำลังลงชื่อเข้าใช้</string>
+    <string name="auth_login_title">พิมพ์อีเมลและรหัสผ่าน</string>
+    <string name="auth_maps_settings_title">แผนที่และ Latitude</string>
+    <string name="auth_minutemaid_title">ตั้งค่าบัญชี Google</string>
+    <string name="auth_name_title">ชื่อของคุณ</string>
+    <string name="auth_network_unreliable">ไม่สามารถสร้างการเชื่อมต่อที่เชื่อถือได้กับเซิร์ฟเวอร์</string>
+    <string name="auth_network_unreliable_help">นี่อาจเป็นปัญหาชั่วคราวหรืออุปกรณ์ Android ของคุณอาจไม่ได้รับบริการข้อมูล หากยังพบปัญหาอีก โปรดติดต่อฝ่ายบริการลูกค้า</string>
+    <string name="auth_network_unreliable_help_wifi_only">ปัญหานี้อาจเกิดขึ้นชั่วคราว ลองใหม่อีกครั้งหรือเชื่อมต่อกับเครือข่าย WiFi อื่น</string>
+    <string name="auth_next_button_label">ถัดไป</string>
+    <string name="auth_nfc_caution">ปกป้องแท็กนี้ ผู้โจมตีอาจคัดลอกแท็กได้</string>
+    <string name="auth_nfc_tag_exists">เพิ่ม %1$s แล้ว</string>
+    <string name="auth_nfc_tag_not_supported">ไม่สนับสนุนอุปกรณ์ NFC ที่ระบุ</string>
+    <string name="auth_no_network">คุณยังไม่ได้เชื่อมต่อเครือข่าย</string>
+    <string name="auth_no_network_help">ปัญหานี้อาจเป็นปัญหาชั่วคราวหรืออุปกรณ์ Android ของคุณอาจไม่ได้รับบริการข้อมูล ลองอีกครั้งเมื่อเชื่อมต่อกับเครือข่ายมือถือ หรือทำการเชื่อมต่อกับเครือข่าย WiFi</string>
+    <string name="auth_no_network_help_wifi_only">ปัญหานี้อาจเกิดขึ้นชั่วคราว ลองใหม่อีกครั้งหรือเชื่อมต่อกับเครือข่าย WiFi อื่น</string>
+    <string name="auth_ok_button_label">ตกลง</string>
+    <string name="auth_only_you_acl">คุณเท่านั้น</string>
+    <string name="auth_otp_dialog_title">รหัสยืนยัน</string>
+    <string name="auth_otp_done_button">เสร็จ</string>
+    <string name="auth_otp_error">มีปัญหาในการสร้างรหัสยืนยัน</string>
+    <string name="auth_otp_instruction">ใช้รหัสนี้สำหรับการลงชื่อเข้าใช้ Google เท่านั้น</string>
+    <string name="auth_otp_no_accounts_available_message">ไม่มีการกำหนดค่าบัญชีใดๆ ในอุปกรณ์นี้</string>
+    <string name="auth_otp_progress_dialog_message">กำลังสร้างรหัสยืนยัน</string>
+    <string name="auth_otp_select_account_message">เลือกบัญชี</string>
+    <string name="auth_pacl_scope_details_dialog_title">สิ่งที่ Google สามารถมองเห็นได้</string>
+    <string name="auth_password">รหัสผ่าน</string>
+    <string name="auth_personal_unlocking_name">การปลดล็อกส่วนตัว</string>
+    <string name="auth_personal_unlocking_service_name">การปลดล็อกส่วนตัว (Google)</string>
+    <string name="auth_plus_failure_new_account_text">สร้างบัญชี Google ของคุณแล้ว แต่คำขอสร้างโปรไฟล์ Google+ ของคุณยังไม่ผ่านขั้นตอน ลองอีกครั้งในภายหลังที่ plus.google.com โดยใช้เว็บเบราว์เซอร์ใดก็ได้</string>
+    <string name="auth_plus_failure_text">คำขอเข้าร่วม Google+ ของคุณยังไม่ผ่านขั้นตอน ลองอีกครั้งในภายหลังที่ plus.google.com โดยใช้เว็บเบราว์เซอร์ใดก็ได้</string>
+    <string name="auth_plus_failure_title">สร้างโปรไฟล์ Google+ ในภายหลัง</string>
+    <string name="auth_plus_faq_title">ยินดีต้อนรับสู่ Google+!</string>
+    <string name="auth_plus_name_check_text">การดำเนินการนี้อาจใช้เวลาสักครู่</string>
+    <string name="auth_plus_query_title">สร้างโปรไฟล์ Google+</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">สวัสดี %s!</string>
+    <string name="auth_provisioned_welcome_2">"ป้อนรหัสผ่านของคุณสำหรับ:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">ล็อกอุปกรณ์ Chrome แล้ว</string>
+    <string name="auth_proximity_auth_device_locked_title">การปลดล็อกอย่างง่าย</string>
+    <string name="auth_proximity_auth_device_unlocked_content">ปลดล็อกอุปกรณ์ Chrome แล้ว</string>
+    <string name="auth_proximity_auth_device_unlocked_title">การปลดล็อกอย่างง่าย</string>
+    <string name="auth_proximity_auth_setup_completed_content">โทรศัพท์นี้สามารถปลดล็อกอุปกรณ์ Chrome ได้</string>
+    <string name="auth_proximity_auth_setup_completed_title">เปิดการปลดล็อกอย่างง่ายอยู่</string>
+    <string name="auth_proximity_auth_setup_failed_content">โปรดลองอีกครั้งบนอุปกรณ์ Chrome</string>
+    <string name="auth_proximity_auth_setup_failed_title">เกิดข้อผิดพลาดขณะตั้งค่าการปลดล็อกอย่างง่าย</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">พบโทรศัพท์แล้ว ดำเนินการต่อบนอุปกรณ์ Chrome</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">ตั้งค่าการปลดล็อกอย่างง่าย</string>
+    <string name="auth_recovery_loading">กำลังโหลด…</string>
+    <string name="auth_recovery_sending">กำลังส่ง…</string>
+    <string name="auth_relogin_activity_title">พิมพ์รหัสผ่านอีกครั้ง</string>
+    <string name="auth_scope_acl_edit_desc">แก้ไข</string>
+    <string name="auth_scope_details_dialog_title">ข้อมูลเพิ่มเติม</string>
+    <string name="auth_scope_icon_desc">ไอคอน</string>
+    <string name="auth_scope_info_desc">ข้อมูล</string>
+    <string name="auth_scope_warning_desc">คำเตือน</string>
+    <string name="auth_search_settings_title">ค้นหา</string>
+    <string name="auth_server_error">เกิดปัญหาในการติดต่อกับเซิร์ฟเวอร์ของ Google</string>
+    <string name="auth_server_error_help">ลองอีกครั้งในภายหลัง</string>
+    <string name="auth_setup_wizard_back_button_label">กลับ</string>
+    <string name="auth_setup_wizard_next_button_label">ถัดไป</string>
+    <string name="auth_setup_wizard_services_activity_title">บริการของ Google</string>
+    <string name="auth_setup_wizard_services_backup"><b>สำรองข้อมูลของอุปกรณ์ไปยัง Google</b> เพื่อให้คุณสามารถคืนค่าแอป ข้อมูลแอป การตั้งค่าระบบ และรหัสผ่าน Wi‑Fi ได้อย่างง่ายดาย</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>สำรองแอปและข้อมูลของคุณ</b>ไปยัง Google ไดรฟ์เพื่อให้คุณสามารถคืนค่าข้อมูลในอุปกรณ์ได้อย่างง่ายดาย ข้อมูลประกอบด้วยแอป ข้อมูลแอป การตั้งค่าระบบ และรหัสผ่าน Wi-Fi การสำรองข้อมูลจะไม่ส่งผลต่อขีดจำกัดพื้นที่เก็บข้อมูลของคุณ</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">ข้อมูลรวมถึงแอป การตั้งค่าแอป การตั้งค่าระบบ และรหัสผ่าน Wi-Fi</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">การสำรองและคืนค่าข้อมูล</string>
+    <string name="auth_setup_wizard_services_communication_heading">การสื่อสาร</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>ช่วยปรับปรุงประสบการณ์ Android</b> ประสิทธิภาพแบตเตอรี่ การจัดอันดับใน Play สโตร์ และอื่นๆ โดยส่งการวินิจฉัยและข้อมูลการใช้งานเกี่ยวกับอุปกรณ์นี้ไปยัง Google โดยอัตโนมัติ</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">ข้อมูลประกอบด้วยข้อมูลฮาร์ดแวร์และข้อมูลเครือข่าย การใช้งานแอปและโทรศัพท์ ตลอดจนรายงานข้อขัดข้อง</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>ช่วยปรับปรุงประสบการณ์ Android</b> ประสิทธิภาพแบตเตอรี่ การจัดอันดับใน Play สโตร์ และอื่นๆ โดยส่งการวินิจฉัยและข้อมูลการใช้งานเกี่ยวกับอุปกรณ์นี้ไปยัง Google โดยอัตโนมัติ <annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">บริการตำแหน่งของ Google ใช้ Wi-Fi และสัญญาณอื่นๆ เพื่อระบุตำแหน่งได้อย่างแม่นยำและรวดเร็วยิ่งขึ้น โดยมักจะมีการใช้พลังงานน้อยกว่า GPS ข้อมูลบางส่วนอาจถูกจัดเก็บไว้ในอุปกรณ์ และอาจมีการเก็บข้อมูลแม้ไม่มีการเรียกใช้งานแอป</string>
+    <string name="auth_setup_wizard_services_location_heading">ตำแหน่ง</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>ใช้บริการตำแหน่งของ Google</b> เพื่อช่วยให้แอปสามารถระบุตำแหน่งได้ดียิ่งขึ้น ระบบจะส่งข้อมูลตำแหน่งที่ไม่ระบุชื่อจากอุปกรณ์ของคุณไปยัง Google</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>ช่วยปรับปรุงบริการตำแหน่ง</b> โดยให้แอปและบริการต่างๆ สแกนหาเครือข่ายแม้ในขณะที่ปิด Wi-Fi อยู่</string>
+    <string name="auth_setup_wizard_services_play">แจ้งให้ฉันรู้ข่าวสารและข้อเสนอพิเศษล่าสุดจาก Google Play</string>
+    <string name="auth_setup_wizard_services_tos_with_account">อุปกรณ์นี้อาจได้รับแอปและการอัปเดตจาก Google ผู้ให้บริการ และผู้ผลิตอุปกรณ์ของคุณ</string>
+    <string name="auth_setup_wizard_title">ตัวช่วยการตั้งค่า</string>
+    <string name="auth_show_error_activity_title">ไม่สามารถลงชื่อเข้าใช้</string>
+    <string name="auth_show_error_title">ข้อผิดพลาด</string>
+    <string name="auth_sign_in_agreement">การลงชื่อเข้าใช้หมายถึง คุณยอมรับนโยบายส่วนบุคคลของ <annotation id="google_privacy">Google</annotation> และ<annotation id="android_privacy">ส่วนเพิ่มเติม</annotation></string>
+    <string name="auth_sign_in_agreement_multi_user">การลงชื่อเข้าใช้หมายถึง คุณยอมรับ<annotation id="tos">ข้อกำหนดในการให้บริการ</annotation>ของ Google <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation> และ<annotation id="play_tos">ข้อกำหนดในการให้บริการของ Google Play</annotation>" 
+
+โปรดทราบ: ผู้ใช้รายอื่นสามารถอนุญาตแอปพลิเคชันที่อัปเดตในนามของคุณได้ และเช่นเดียวกับคอมพิวเตอร์เครื่องอื่นๆ คุณควรแชร์แท็บเล็ตนี้กับผู้ที่คุณไว้ใจเท่านั้น"</string>
+    <string name="auth_sign_in_agreement_with_chrome">การลงชื่อเข้าใช้หมายถึง คุณยอมรับ<annotation id="tos">ข้อกำหนดในการให้บริการ</annotation> และ <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation>ของ Google <annotation id="chrome_tos">ข้อกำหนดในการให้บริการ</annotation> และ <annotation id="chrome_privacy">ประกาศเกี่ยวกับนโยบายส่วนบุคคล</annotation>ของ Chrome และ <annotation id="play_tos">ข้อกำหนดในการให้บริการ</annotation>ของ Google Play</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">การลงชื่อเข้าใช้หมายถึง คุณยอมรับ<annotation id="tos">ข้อกำหนดในการให้บริการ</annotation>และ<annotation id="google_privacy">นโยบายส่วนบุคคล</annotation>ของ Google, <annotation id="chrome_tos">ข้อกำหนดในการให้บริการ</annotation>และ<annotation id="chrome_privacy">ประกาศเกี่ยวกับนโยบายส่วนบุคคล</annotation>ของ Chrome และ<annotation id="play_tos">ข้อกำหนดในการให้บริการ</annotation>"ของ Google Play 
+
+โปรดทราบ: ผู้ใช้รายอื่นสามารถอนุญาตแอปพลิเคชันที่อัปเดตในนามของคุณได้ และเช่นเดียวกับคอมพิวเตอร์เครื่องอื่นๆ คุณควรแชร์แท็บเล็ตนี้กับผู้ที่คุณไว้ใจเท่านั้น"</string>
+    <string name="auth_sign_in_browser">ลงชื่อเข้าใช้ผ่านเบราว์เซอร์</string>
+    <string name="auth_sign_in_button_label">ลงชื่อเข้าใช้</string>
+    <string name="auth_sign_in_with_google_account_short">ลงชื่อเข้าใช้ด้วยบัญชี Google ของคุณ:</string>
+    <string name="auth_skip_button_label">ข้าม</string>
+    <string name="auth_submission_error_text">เกิดข้อผิดพลาด โปรดลองอีกครั้ง</string>
+    <string name="auth_submission_title">ขออภัย…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">หากต้องการตั้งค่า ให้แตะอุปกรณ์นี้กับแท็ก NFC หรืออุปกรณ์ NFC</string>
+    <string name="auth_trust_agent_add_nfc_title">เพิ่ม NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">เพิ่มอุปกรณ์ที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">เพิ่มสถานที่ที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_button_nfc_settings">การตั้งค่า NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">เชื่อมต่ออย่างปลอดภัยกับอุปกรณ์บลูทูธแล้ว %s</string>
+    <string name="auth_trust_agent_dpm_disabled">ปิดใช้โดยผู้ดูแลระบบ</string>
+    <string name="auth_trust_agent_enable_nfc">เปิดใช้ NFC เพื่อเพิ่มอุปกรณ์ NFC</string>
+    <string name="auth_trust_agent_first_use_notification_button">รับทราบ</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">เมื่อเชื่อมต่อกับ %s ซึ่งคุณตั้งเป็นอุปกรณ์ที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">ในการบังคับให้อุปกรณ์ล็อก ให้ปิดหน้าจอ จากนั้นเปิดหน้าจอแล้วแตะไอคอนล็อก</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">เมื่ออยู่ที่ %s ซึ่งคุณตั้งเป็นสถานที่ที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_first_use_notification_title">ปลดล็อกอุปกรณ์ของคุณแล้ว</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">ชื่อ</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"พบ NFC แล้ว
+โปรดป้อนชื่อสำหรับ NFC"</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">ปิดอยู่</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">เปิดอยู่</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">ปรับปรุงการจับคู่ใบหน้า</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">ยกเลิก</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">อุปกรณ์นี้จะไม่จดจำใบหน้าของคุณอีกต่อไป และระบบจะปิดคุณลักษณะใบหน้าที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">รีเซ็ต</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">รีเซ็ตใบหน้าที่เชื่อถือได้ไหม</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">รีเซ็ตใบหน้าที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">ใบหน้าที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">เชื่อมต่อแล้ว</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">ไม่มี</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">ไม่เชื่อมต่อ</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">อุปกรณ์ที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">ไม่มี</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">หน้าแรก</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">ไม่รู้จัก</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">สถานที่ที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">ที่ทำงาน</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">การจับคู่อุปกรณ์ล้มเหลว โปรดลองอีกครั้ง</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">ตั้งค่าอุปกรณ์ NFC ไม่ได้</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"เพิ่มอุปกรณ์บลูทูธที่เชื่อถือได้เพื่อให้อุปกรณ์นี้ปลดล็อกเสมอเมื่อมีการเชื่อมต่อ 
+
+ตัวอย่างเช่น:
+
+- นาฬิกาข้อมือบลูทูธ
+- ระบบบลูทูธภายในรถ"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"บลูทูธ
+(บลูทูธปิดอยู่)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">บลูทูธ</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">เพิ่มอุปกรณ์ที่เชื่อถือได้</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">ปิดบลูทูธแล้ว</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">ยกเลิก</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">เลือกอุปกรณ์</string>
+    <string name="auth_trust_agent_trusted_devices_ok">ตกลง</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"เพิ่มอุปกรณ์ที่เชื่อถือได้เพื่อให้อุปกรณ์นี้ปลดล็อกเสมอเมื่อมีการเชื่อมต่อ 
+
+ตัวอย่างเช่น:
+
+- นาฬิกาข้อมือบลูทูธ
+- ระบบบลูทูธภายในรถ
+- สติกเกอร์ NFC บนแท่นชาร์จโทรศัพท์ในรถ"</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">ต้องการถอดอุปกรณ์นี้จากอุปกรณ์ที่เชื่อถือได้ใช่ไหม</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">อุปกรณ์ที่ไม่รู้จัก</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"เพิ่มอุปกรณ์ NFC ที่เชื่อถือได้เพื่อปลดล็อกอุปกรณ์นี้ด้วยการแตะ 
+
+ตัวอย่างเช่น:
+
+- สติกเกอร์ NFC บนแท่นชาร์จโทรศัพท์ในรถ"</string>
+    <string name="auth_trust_agent_trusted_places_add_account">โปรดเพิ่มบัญชีเพื่อเรียกคืนที่อยู่บ้านและที่ทำงาน</string>
+    <string name="auth_trust_agent_trusted_places_cancel">ยกเลิก</string>
+    <string name="auth_trust_agent_trusted_places_ok">ตกลง</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"เพิ่มอุปกรณ์ที่เชื่อถือได้เพื่อให้อุปกรณ์นี้ปลดล็อกเสมอเมื่อมีการเชื่อมต่อ 
+
+ตัวอย่างเช่น:
+
+- บ้านของคุณ
+- สำนักงานของคุณ"</string>
+    <string name="auth_trust_agent_trusted_places_remove">นำออก</string>
+    <string name="auth_trust_agent_trusted_places_rename">เปลี่ยนชื่อ</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">เลือกบัญชี</string>
+    <string name="auth_trust_agent_trusted_places_unknown">ไม่รู้จัก</string>
+    <string name="auth_trust_devices_not_available">ไม่สามารถใช้คุณลักษณะของอุปกรณ์ที่เชื่อถือได้</string>
+    <string name="auth_trust_places_not_available">ไม่สามารถใช้คุณลักษณะของสถานที่ที่เชื่อถือได้</string>
+    <string name="auth_try_again_button_label">ลองใหม่อีกครั้ง</string>
+    <string name="auth_ui_activity_authenticating">กำลังตรวจสอบสิทธิ์...</string>
+    <string name="auth_ui_activity_title">ลงชื่อเข้าใช้ Google</string>
+    <string name="auth_ui_activity_title_browser_signin">ลงชื่อเข้าใช้</string>
+    <string name="auth_ui_add_account_title">การตั้งค่าบัญชี</string>
+    <string name="auth_unexpected_acl_error">เกิดปัญหาในการให้อนุญาตสิทธิ์</string>
+    <string name="auth_use_location_summary">ให้ Google ใช้ตำแหน่งของคุณในการปรับปรุงผลการค้นหาและบริการอื่นๆ ให้ดียิ่งขึ้น</string>
+    <string name="auth_use_location_title">ตำแหน่งและการค้นหาโดย Google</string>
+    <string name="auth_username">อีเมล</string>
+    <string name="auth_visible_actions_title">แชร์กับ…</string>
+    <string name="authorization_dialog">ช่องโต้ตอบการให้สิทธิ์</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="circle_button_add_to_circles">เพิ่มในแวดวง</string>
+    <string name="circle_button_circles">%d แวดวง</string>
+    <string name="circle_button_follow">ติดตาม</string>
+    <string name="circle_button_following_circle">ติดตามอยู่</string>
+    <string name="circle_button_medium_add_to_circles">เพิ่ม</string>
+    <string name="circle_button_profile_blocked">ถูกบล็อก</string>
+    <string name="common_accessibility_audience_view_editable">แก้ไขผู้ชม</string>
+    <string name="common_add_account_button_label">เพิ่มบัญชี</string>
+    <string name="common_add_account_label">เพิ่มบัญชี</string>
+    <string name="common_ads_settings_title">โฆษณา</string>
+    <string name="common_android_wear_notification_needs_update_text">แอปพลิเคชันรายการหนึ่งต้องการให้อัปเดตแอป Android Wear</string>
+    <string name="common_android_wear_update_text">แอปนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตแอป Android Wear</string>
+    <string name="common_android_wear_update_title">อัปเดต Android Wear</string>
+    <string name="common_app_name">บริการของ Google Play</string>
+    <string name="common_cannot_start_hangouts_exception">แฮงเอาท์ไม่สามารถเริ่มต้นใช้งานได้</string>
+    <string name="common_cannot_start_hangouts_security_exception">แฮงเอาท์ไม่สามารถเริ่มต้นใช้งานได้ (ข้อผิดพลาดด้านสิทธิ์)</string>
+    <string name="common_car_permission_desc">การเข้าใช้บริการรถยนต์</string>
+    <string name="common_car_permission_label">บริการรถยนต์</string>
+    <string name="common_chips_label_empty_circles">ไม่มีแวดวง</string>
+    <string name="common_chips_label_extended_circles">แวดวงขยาย</string>
+    <string name="common_chips_label_only_you">คุณเท่านั้น</string>
+    <string name="common_chips_label_public">สาธารณะ</string>
+    <string name="common_chips_label_your_circles">แวดวงของคุณ</string>
+    <string name="common_choose_account_label">เลือกบัญชี</string>
+    <string name="common_clear_app_data_menu_item">ล้างข้อมูลแอป</string>
+    <string name="common_connected_apps_settings_title">แอปที่เชื่อมโยง</string>
+    <string name="common_fitness_settings_title">ฟิตเนส</string>
+    <string name="common_games_settings_title">Play เกม</string>
+    <string name="common_get_verification_code_menu_item">รับรหัสยืนยัน</string>
+    <string name="common_google_play_services_enable_button">เปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_enable_text">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะเปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_enable_title">เปิดใช้งานบริการ Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">ข้อผิดพลาด</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">ขอโดย %1$s</string>
+    <string name="common_google_play_services_install_button">รับบริการ Google Play</string>
+    <string name="common_google_play_services_install_text_phone">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในโทรศัพท์ของคุณ</string>
+    <string name="common_google_play_services_install_text_tablet">แอปพลิเคชันนี้จะไม่ทำงานหากไม่มีบริการ Google Play ซึ่งไม่มีในแท็บเล็ตของคุณ</string>
+    <string name="common_google_play_services_install_title">รับบริการ Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">บัญชีที่ระบุไม่มีอยู่บนอุปกรณ์นี้ โปรดเลือกบัญชีอื่น</string>
+    <string name="common_google_play_services_invalid_account_title">บัญชีไม่ถูกต้อง</string>
+    <string name="common_google_play_services_needs_enabling_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีบริการ Google Play เพื่อเปิดใช้งาน</string>
+    <string name="common_google_play_services_network_error_text">ต้องมีการเขื่อมต่อข้อมูลเพื่อเชื่อมต่อกับบริการ Google Play</string>
+    <string name="common_google_play_services_network_error_title">ข้อผิดพลาดของเครือข่าย</string>
+    <string name="common_google_play_services_no_restricted_profiles">แอปพลิเคชันนี้ไม่สนับสนุนบัญชีที่มีโปรไฟล์ที่ถูกจำกัด</string>
+    <string name="common_google_play_services_notification_needs_installation_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีการติดตั้งบริการ Google Play</string>
+    <string name="common_google_play_services_notification_needs_update_title">แอปพลิเคชันหนึ่งจำเป็นต้องมีการอัปเดตสำหรับบริการ Google Play</string>
+    <string name="common_google_play_services_notification_ticker">ข้อผิดพลาดของบริการ Google Play</string>
+    <string name="common_google_play_services_unknown_issue">ปัญหาที่ไม่รู้จักของบริการ Google Play</string>
+    <string name="common_google_play_services_unsupported_text">บริการ Google Play ซึ่งใช้งานในบางแอปพลิเคชัน ไม่ได้รับการสนับสนุนโดยอุปกรณ์ของคุณ โปรดติดต่อผู้ผลิตเพื่อขอรับความช่วยเหลือ</string>
+    <string name="common_google_play_services_unsupported_title">บริการ Google Play</string>
+    <string name="common_google_play_services_update_button">อัปเดต</string>
+    <string name="common_google_play_services_update_text">แอปพลิเคชันนี้จะไม่ทำงานจนกว่าคุณจะอัปเดตบริการ Google Play</string>
+    <string name="common_google_play_services_update_title">อัปเดตบริการ Google Play</string>
+    <string name="common_google_settings">การตั้งค่า Google</string>
+    <string name="common_list_apps_menu_help">ความช่วยเหลือ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ความช่วยเหลือและความเห็น</string>
+    <string name="common_location_settings_title">ตำแหน่ง</string>
+    <string name="common_maps_settings_title">แผนที่และ Latitude</string>
+    <string name="common_mdm_feature_name">โปรแกรมจัดการอุปกรณ์ Android</string>
+    <string name="common_network_load_failed">ไม่สามารถใช้งานได้เนื่องจากอุปกรณ์ไม่สามารถเชื่อมต่อเครือข่าย</string>
+    <string name="common_no_network">ไม่สามารถใช้งานได้เนื่องจากอุปกรณ์ออฟไลน์</string>
+    <string name="common_open_on_phone">เปิดบนโทรศัพท์</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">ไม่มีบัญชีที่จะเลือก</string>
+    <string name="common_search_and_now_settings_title">การค้นหาและ Now</string>
+    <string name="common_search_settings_title">ค้นหา</string>
+    <string name="common_security_settings_title">ยืนยันแอป</string>
+    <string name="common_signin_button_text">ลงชื่อใช้</string>
+    <string name="common_signin_button_text_long">ลงชื่อเข้าใช้ด้วย Google</string>
+    <string name="common_storage_settings_title">ที่เก็บข้อมูลของบริการ Google Play</string>
+    <string name="common_ui_confirm_deleting_button">ลบ</string>
+    <string name="common_ui_confirm_deleting_checkbox">ฉันเข้าใจและอยากลบ</string>
+    <string name="common_url_load_unsuccessful_message">อุปกรณ์ Android ของคุณไม่ได้เชื่อมต่อกับบริการข้อมูล หากต้องการดูข้อมูลนี้ในขณะนี้ ให้ไปที่ %s ด้วยเว็บเบราว์เซอร์</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">อุปกรณ์ Android ของคุณไม่ได้เชื่อมต่อกับเครือข่าย WiFi หากต้องการดูข้อมูลนี้ในขณะนี้ ให้ไปที่ %s ด้วยเว็บเบราว์เซอร์</string>
+    <string name="common_url_login_notice">ลงชื่อเข้าใช้ด้วย %1$s</string>
+    <string name="common_usage_and_diagnostics">การใช้และการวินิจฉัย</string>
+    <string name="country_invalid">ประเทศนี้ไม่ได้รับอนุญาต</string>
+    <string name="device_location_acl_no_one">ไม่เลือกเลย</string>
+    <string name="device_location_best_acl_picker_title">การเปิดเผยตำแหน่งที่แม่นยำ</string>
+    <string name="device_location_city_acl_picker_title">การเปิดเผยตำแหน่งระดับเมือง</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s และคนอื่นๆ</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> และอีก %d คน</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">คุณต้องมีการเชื่อมต่อข้อมูลเพื่อดูการตั้งค่าการแชร์ตำแหน่ง โปรดตรวจสอบการเชื่อมต่อหรือลองอีกครั้งในภายหลัง</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">เปิดการตั้งค่าตำแหน่ง</string>
+    <string name="device_location_reporting_reminder_dialog_summary">การปิดการแชร์ตำแหน่งจะไม่มีผลกับการรายงานตำแหน่งหรือประวัติตำแหน่ง บริการอื่น ๆ ของ Google ที่คุณได้เลือกใช้ก่อนหน้านี้ เช่น Google Now อาจต้องการใช้ตำแหน่งของคุณ คุณสามารถควบคุมการรายงานตำแหน่งและประวัติตำแหน่งได้ตลอดเวลาจากการตั้งค่าตำแหน่ง</string>
+    <string name="device_location_reporting_reminder_dialog_title">การรายงานตำแหน่ง</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> และ &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> และ &lt;b>%s&lt;/b></string>
+    <string name="disagree">ไม่ยอมรับ</string>
+    <string name="enable_location_reporting_error">เราไม่สามารถเปิดการรายงานและประวัติของตำแหน่งสำหรับ %s ในการเปิดใช้การรายงานและประวัติของตำแหน่ง ให้ไปที่การตั้งค่าตำแหน่ง</string>
+    <string name="enable_location_reporting_error_title">เกิดข้อผิดพลาด</string>
+    <string name="enable_location_reporting_title">การรายงานตำแหน่ง</string>
+    <string name="friend_locations_enable_reporting_auto_body">การรายงานตำแหน่งทำให้ผลิตภัณฑ์ Google ทั้งหมดที่ใช้คุณลักษณะนี้สามารถเก็บและใช้ข้อมูลตำแหน่งล่าสุดของอุปกรณ์ได้ ในการแชร์ตำแหน่งจะต้องมีการเปิดใช้การรายงานตำแหน่ง&lt;br/>&lt;br/>ประวัติของตำแหน่งทำให้ Google สามารถจัดเก็บประวัติของข้อมูลตำแหน่งจากอุปกรณ์ที่คุณได้เปิดใช้งานการรายงานตำแหน่งไว้ &lt;a href=\"%2$s\"> เรียนรู้เพิ่มเติม&lt;/a> &lt;br/>&lt;br/>เปิดการรายงานและประวัติของตำแหน่งสำหรับ %1$s ไหม</string>
+    <string name="friend_locations_enable_reporting_manual_body">การรายงานตำแหน่งทำให้ผลิตภัณฑ์ทั้งหมดของ Google ที่ใช้คุณลักษณะนี้สามารถเก็บและใช้ข้อมูลตำแหน่งล่าสุดของอุปกรณ์ได้ ในการแชร์ตำแหน่งนั้นจะต้องเปิดใช้การรายงานตำแหน่ง &lt;br/>&lt;br/>ใน \"การตั้งค่าตำแหน่ง\" ใน Google Maps ให้ตรวจสอบว่าได้ตั้งค่า \"การรายงานตำแหน่ง\" เป็น \"ตรวจหาตำแหน่งของคุณ\" และทำเครื่องหมายเลือก \"รายงานจากอุปกรณ์นี้\" ไว้ &lt;a href=\"%s\">เรียนรู้เพิ่มเติม&lt;/a></string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">การรายงานตำแหน่งทำให้ผลิตภัณฑ์ Google ทั้งหมดที่ใช้คุณลักษณะนี้สามารถเก็บและใช้ข้อมูลตำแหน่งล่าสุดของอุปกรณ์ได้ ในการแชร์ตำแหน่งจะต้องมีการเปิดใช้การรายงานตำแหน่ง&lt;br/>&lt;br/>ลงชื่อเข้าใช้ Google Maps ในชื่อ %1$s และใน \"การตั้งค่าตำแหน่ง\" ตรวจสอบว่าได้ตั้งค่า \"การรายงานตำแหน่ง\" เป็น \"ตรวจหาตำแหน่งของคุณ\" และทำเครื่องหมายเลือก \"รายงานจากอุปกรณ์นี้\" ไว้ &lt;a href=\"%2$s\">เรียนรู้เพิ่มเติม&lt;/a></string>
+    <string name="loading">กำลังโหลด...</string>
+    <string name="location_settings_allow_access_summary">ให้แอปของ Google ใช้ตำแหน่งของอุปกรณ์นี้ในเวลาใดก็ตามที่อุปกรณ์เปิดอยู่</string>
+    <string name="location_settings_allow_access_title">เข้าถึงตำแหน่ง</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"คุณจะไม่สามารถเรียกประวัติตำแหน่งกลับคืนมาได้อีก 
+
+Google Now และแอปอื่นๆ ที่ใช้ประวัติตำแหน่งของคุณอาจไม่ทำงาน"</string>
+    <string name="location_settings_confirm_deleting_location_history_title">หากต้องการลบออกถาวร</string>
+    <string name="location_settings_delete_auth_error">ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="location_settings_delete_io_error">อุปกรณ์ไม่สามารถเชื่อมต่อกับเครือข่าย</string>
+    <string name="location_settings_delete_location_history">ลบประวัติตำแหน่ง</string>
+    <string name="location_settings_delete_location_history_in_progress">กำลังลบ...</string>
+    <string name="location_settings_delete_offline_error">อุปกรณ์ออฟไลน์อยู่</string>
+    <string name="location_settings_expiration_both_one">เหลืออีก 1 ชั่วโมงและ 1 นาที</string>
+    <string name="location_settings_expiration_both_other" formatted="false">เหลืออีก %d ชั่วโมงและ %d นาที</string>
+    <string name="location_settings_expiration_hours_one">เหลืออีก 1 ชั่วโมงและ %d นาที</string>
+    <string name="location_settings_expiration_minutes">เหลืออีก %d นาที</string>
+    <string name="location_settings_expiration_minutes_one">เหลืออีก %d ชั่วโมงและ 1 นาที</string>
+    <string name="location_settings_expiration_soon">เหลืออีกไม่ถึง 15 นาที</string>
+    <string name="location_settings_info_title">ข้อมูล</string>
+    <string name="location_settings_location_history_activity_title">ประวัติตำแหน่ง</string>
+    <string name="location_settings_location_history_summary_full">"การตั้งค่านี้เปิดโอกาสให้ Google จัดเก็บประวัติของข้อมูลตำแหน่งจากอุปกรณ์ที่คุณเปิดใช้งานการรายงานตำแหน่งสำหรับบัญชีนี้ ประวัติตำแหน่งช่วยให้คุณได้รับประโยชน์มากขึ้นจาก Google เช่น Google Now อาจใช้ประวัติตำแหน่งเพื่อแจ้งให้คุณทราบเกี่ยวกับการจราจรในเส้นทางของคุณ
+
+คุณสามารถดูและจัดการประวัติตำแหน่งได้ที่ maps.google.com/locationhistory คุณสามารถปิดประวัติตำแหน่งได้ทุกเมื่อ แต่การปิดประวัติตำแหน่งไม่ใช่การนำรายการที่มีอยู่ออก ปุ่มด้านล่างจะลบรายการประวัติตำแหน่งที่มีอยู่ทั้งหมดของบัญชีของคุณ"</string>
+    <string name="location_settings_location_reporting_activity_title">การรายงานตำแหน่ง</string>
+    <string name="location_settings_location_reporting_summary_full">"Google ใช้คุณลักษณะนี้ในผลิตภัณฑ์ต่างๆ เช่น Google Now และ Google Maps 
+
+การเปิดการรายงานตำแหน่งทำให้ผลิตภัณฑ์ต่างๆ ของ Google ที่ใช้คุณลักษณะนี้สามารถจัดเก็บและใช้ข้อมูลตำแหน่งล่าสุดของอุปกรณ์นี้เชื่อมโยงกับบัญชี Google ของคุณ"</string>
+    <string name="location_settings_no_network_alert">คุณต้องมีการเชื่อมต่อข้อมูลเพื่อดูการตั้งค่าการแชร์ตำแหน่ง โปรดตรวจสอบการเชื่อมต่อหรือลองอีกครั้งในภายหลัง</string>
+    <string name="location_settings_not_available_summary">คุณไม่มีบัญชี Google</string>
+    <string name="location_settings_not_available_title">เพิ่มบัญชี</string>
+    <string name="location_settings_reporting_summary_off">ปิดสำหรับอุปกรณ์นี้</string>
+    <string name="location_settings_reporting_summary_on">เปิดสำหรับอุปกรณ์นี้</string>
+    <string name="location_settings_save_error">ไม่สามารถบันทึกการตั้งค่า</string>
+    <string name="location_settings_saving">กำลังบันทึกการตั้งค่า...</string>
+    <string name="location_settings_screen_title">การตั้งค่าตำแหน่งใน Google</string>
+    <string name="location_settings_see_global_settings_dialog_message">"การตั้งค่านี้จะควบคุมเฉพาะการเข้าถึงตำแหน่งสำหรับแอปของ Google 
+
+ในการควบคุมการเข้าถึงตำแหน่งสำหรับทุกแอป ให้ไปที่การตั้งค่า > การเข้าถึงตำแหน่ง"</string>
+    <string name="location_settings_temporary_sharing_title">แชร์แบบชั่วคราวกับ</string>
+    <string name="location_settings_ulr_summary_ambiguous">ไม่สามารถกำหนดการตั้งค่าก่อนหน้า ปิดอยู่</string>
+    <string name="location_settings_ulr_summary_auth_error">ไม่สามารถใช้งานได้เนื่องจากชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง</string>
+    <string name="location_settings_ulr_summary_error">ไม่สามารถเข้าถึงเซิร์ฟเวอร์เพื่อเรียกการตั้งค่า ลองอีกครั้งในภายหลัง</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">ปิดใช้งานแล้ว</string>
+    <string name="location_settings_ulr_summary_loading">กำลังเรียก…</string>
+    <string name="location_settings_ulr_summary_off">ปิด</string>
+    <string name="location_settings_ulr_summary_offline">ไม่สามารถใช้งานได้เนื่องจากอุปกรณ์ออฟไลน์</string>
+    <string name="location_settings_ulr_summary_on">เปิด</string>
+    <string name="location_settings_ulr_summary_restricted">ปิดใช้งานแล้ว</string>
+    <string name="location_settings_ulr_summary_unknown">ไม่รู้จัก</string>
+    <string name="location_settings_ulr_summary_unsupported_country">ไม่มีให้บริการใน %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">ไม่สามารถใช้ได้ในภูมิภาคนี้</string>
+    <string name="location_settings_view_all">ดูทั้งหมด</string>
+    <string name="location_sharing_settings_acl_title">แชร์กับ %s</string>
+    <string name="location_sharing_settings_choose_acl_button">เลือกผู้คนที่จะแชร์ด้วย</string>
+    <string name="location_sharing_settings_city_description">ใช้การแชร์ตำแหน่งระดับเมืองเพื่อให้เพื่อน และครอบครัวเห็นว่าคุณอยู่เมืองไหน</string>
+    <string name="location_sharing_settings_city_example">ตัวอย่าง: กรุงเทพมหานคร ประเทศไทย</string>
+    <string name="location_sharing_settings_city_title">ตำแหน่งระดับเมือง</string>
+    <string name="location_sharing_settings_description">การแชร์ตำแหน่งช่วยให้คุณสามารถแชร์ตำแหน่งปัจจุบันจากการรายงานตำแหน่งในอุปกรณ์ของคุณกับคนที่คุณเลือกได้&lt;br/>&lt;br/>คนที่คุณแชร์ตำแหน่งด้วยสามารถดูตำแหน่งปัจจุบันของคุณในผลิตภัณฑ์ต่างๆ ของ Google รวมถึง Google+ และ Google Now และยังสามารถเห็นสถานที่ของคุณ เช่น บ้านและที่ทำงาน &lt;a href=\"%s\">เรียนรู้เพิ่มเติม&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">การแชร์ตำแหน่งช่วยให้คุณสามารถแชร์ตำแหน่งปัจจุบันจาก &lt;a href=\"%1$s\">การรายงานตำแหน่ง&lt;/a> ในอุปกรณ์ของคุณกับคนที่คุณเลือกได้ &lt;br/>&lt;br/>คนที่คุณแชร์ตำแหน่งด้วยสามารถดูตำแหน่งปัจจุบันของคุณในผลิตภัณฑ์ต่างๆ ของ Google รวมถึง Google+ และ Google Now และยังสามารถเห็นสถานที่ของคุณ เช่น บ้านและที่ทำงาน &lt;a href=\"%2$s\">เรียนรู้เพิ่มเติม&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">เปลี่ยน</string>
+    <string name="location_sharing_settings_pinpoint_description">ใช้การแชร์ตำแหน่งที่แม่นยำเพื่อช่วยให้คนพิเศษ ของคุณมองเห็นตำแหน่งปัจจุบัน ที่คุณอยู่ได้อย่างแม่นยำบนแผนที่</string>
+    <string name="location_sharing_settings_pinpoint_example">ตัวอย่าง: 123 ถนนบรมราชชนนี เขตบางพลัด กรุงเทพมหานคร ประเทศไทย</string>
+    <string name="location_sharing_settings_pinpoint_title">ตำแหน่งที่แม่นยำ</string>
+    <string name="location_sharing_settings_title">การแชร์ตำแหน่ง</string>
+    <string name="location_ulr_ambiguous_setting_text">ไม่สามารถกำหนดการตั้งค่าก่อนหน้า เปิดเลยไหม</string>
+    <string name="location_ulr_setting_google_location_disabled">ไม่พร้อมใช้งานเนื่องจาก Google Apps ไม่สามารถเข้าถึงตำแหน่ง</string>
+    <string name="location_ulr_setting_label">การรายงานตำแหน่งของ Google</string>
+    <string name="location_ulr_setting_location_disabled">ไม่พร้อมใช้งานเนื่องจากตำแหน่งปิดอยู่</string>
+    <string name="location_ulr_setting_no_account">ปิด ไม่มีบัญชี</string>
+    <string name="location_ulr_setting_reporting_only">การใช้ตำแหน่งล่าสุด</string>
+    <string name="location_warning_do_not_show_again">ไม่ต้องแสดงข้อความนี้อีก</string>
+    <string name="location_warning_message">ให้ Google ช่วยแอประบุตำแหน่ง ซึ่งหมายถึงการส่งข้อมูลตำแหน่งแบบไม่เปิดเผยชื่อไปยัง Google แม้ว่าจะไม่มีแอปทำงานอยู่</string>
+    <string name="location_warning_title">ใช้บริการตำแหน่งของ Google ไหม</string>
+    <string name="maps_BACK_TO_LIST">กลับไปที่รายการ</string>
+    <string name="maps_LEVEL_ALT_TEXT">ระดับ {0}</string>
+    <string name="maps_YOUR_LOCATION">ตำแหน่งปัจจุบันของคุณ</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - ภาพ ©%2$d%3$s, ข้อมูลแผนที่ ©%4$d%5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - ภาพ ©%2$d%3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - ข้อมูลแผนที่ ©%2$d%3$s</string>
+    <string name="maps_invalid_panorama_data">พาโนรามาไม่ถูกต้อง</string>
+    <string name="maps_network_unavailable">โปรแกรมนี้ต้องใช้การเชื่อมต่อข้อมูล และจะลองเชื่อมต่ออีกครั้งโดยอัตโนมัติ โปรดตรวจสอบความแรงของสัญญาณ คุณกำลังใช้โหมดใช้งานบนเครื่องบินอยู่หรือปิดใช้งานการโรมมิ่งข้อมูลอยู่หรือไม่</string>
+    <string name="maps_no_panorama_data">ไม่ได้ตั้งค่าข้อมูลพาโนรามา</string>
+    <string name="maps_panorama_disabled">รูปภาพไม่มีให้บริการแล้ว</string>
+    <string name="maps_service_unavailable">บริการ Street View ไม่สามารถใช้ได้</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">การเชื่อมต่อข้อมูลถูกตัด กำลังลองอีกครั้ง…</string>
+    <string name="mr_media_route_button_content_description">ส่ง</string>
+    <string name="mr_media_route_chooser_searching">กำลังค้นหาอุปกรณ์…</string>
+    <string name="mr_media_route_chooser_title">เชื่อมต่อกับอุปกรณ์</string>
+    <string name="mr_media_route_controller_disconnect">ยกเลิกการเชื่อมต่อ</string>
+    <string name="mr_system_route_name">ระบบ</string>
+    <string name="mr_user_route_category_name">อุปกรณ์</string>
+    <string name="notification_ticker">ขอการเข้าถึงแล้ว</string>
+    <string name="off">ปิด</string>
+    <string name="ok">โอเค</string>
+    <string name="on">เปิด</string>
+    <string name="open_location_settings">เปิดการตั้งค่าตำแหน่ง</string>
+    <string name="phone_number_hint">หมายเลขโทรศัพท์</string>
+    <string name="phone_number_invalid">หมายเลขโทรศัพท์ไม่ถูกต้อง</string>
+    <string name="phone_number_invalid_character">อักขระในหมายเลขโทรศัพท์ไม่ถูกต้อง</string>
+    <string name="place_address_hint">ที่อยู่</string>
+    <string name="place_address_title">ที่อยู่</string>
+    <string name="place_address_update_hint">อัปเดต</string>
+    <string name="place_category_hint">เลือกหมวดหมู่</string>
+    <string name="place_category_title">หมวดหมู่</string>
+    <string name="place_name_hint">ชื่อสถานที่</string>
+    <string name="place_name_title">ชื่อ</string>
+    <string name="place_phone_hint">หมายเลขโทรศัพท์หลัก</string>
+    <string name="place_phone_title">โทรศัพท์</string>
+    <string name="place_picker_adding_a_place">กำลังส่งรายงาน...</string>
+    <string name="place_picker_cancel">ยกเลิก</string>
+    <string name="place_picker_cant_add_place">เพิ่มสถานที่ไม่ได้</string>
+    <string name="place_picker_label">เลือกสถานที่</string>
+    <string name="place_picker_location_off_message">ในการเลือกตำแหน่ง คุณต้องเปิดการเข้าถึงตำแหน่งในการตั้งค่าก่อน</string>
+    <string name="place_picker_nearby_places">สถานที่ใกล้เคียง</string>
+    <string name="place_picker_no_search_results">ไม่พบสถานที่ที่ตรงกัน</string>
+    <string name="place_picker_search_error">โหลดผลการค้นหาไม่ได้</string>
+    <string name="place_picker_search_hint">ค้นหา</string>
+    <string name="place_picker_searching_label">กำลังค้นหา...</string>
+    <string name="place_picker_select_a_location_label">เลือกตำแหน่งเพื่อดูข้อมูล</string>
+    <string name="place_picker_select_this_location">เลือกตำแหน่งนี้</string>
+    <string name="place_picker_settings">การตั้งค่า</string>
+    <string name="place_picker_updating_location_label">กำลังอัปเดตตำแหน่ง...</string>
+    <string name="place_picker_updating_nearby_label">อัปเดตสถานที่ใกล้เคียง...</string>
+    <string name="place_website_hint">เว็บไซต์อย่างเป็นทางการ</string>
+    <string name="place_website_title">เว็บไซต์</string>
+    <string name="plus_accessibility_acl_selection">เลือกผู้ชม</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">แวดวง</string>
+    <string name="plus_accessibility_audience_selection_create_circle">เพิ่มในแวดวงใหม่</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">อวตาร</string>
+    <string name="plus_accessibility_audience_selection_person_circles">แวดวง</string>
+    <string name="plus_accessibility_audience_selection_search_icon">ค้นหาบุคคลหรือแวดวง</string>
+    <string name="plus_accessibility_circle_selection">เลือกแวดวง</string>
+    <string name="plus_accessibility_comment_avatar">แวดวง</string>
+    <string name="plus_accessibility_facl_selection">เลือกสมาชิกแวดวงที่แอปสามารถดูได้</string>
+    <string name="plus_accessibility_update_circles">อัปเดตแวดวง</string>
+    <string name="plus_actionbar_up_button_description">เลื่อนขึ้น</string>
+    <string name="plus_add_to_circle_progress">กำลังเพิ่ม...</string>
+    <string name="plus_add_to_circles_title_default">เพิ่มในแวดวง</string>
+    <string name="plus_add_to_circles_title_with_user_name">เพิ่ม %1$s</string>
+    <string name="plus_add_to_following_circle_progress">กำลังติดตาม…</string>
+    <string name="plus_add_to_new_circle_progress_message">กำลังเพิ่ม...</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">บัญชี</string>
+    <string name="plus_app_settings_activity_label">แอปที่เชื่อมต่อ</string>
+    <string name="plus_app_settings_activity_log_label">บันทึกกิจกรรม</string>
+    <string name="plus_app_settings_activity_log_page_label">บันทึกกิจกรรม</string>
+    <string name="plus_app_settings_all_apps_label">แอปและอุปกรณ์ทั้งหมด</string>
+    <string name="plus_app_settings_apps_page_label">แอปที่เชื่อมต่อ</string>
+    <string name="plus_app_settings_fitness_apps_label">แอปและอุปกรณ์ฟิตเนส</string>
+    <string name="plus_app_settings_sign_in_apps_label">แอปที่ใช้ Google+ Sign-In</string>
+    <string name="plus_article_preview_image_description">ภาพการแสดงตัวอย่างบทความ</string>
+    <string name="plus_audience_edit_button_label">แก้ไข</string>
+    <string name="plus_audience_selection_cancel">ยกเลิก</string>
+    <string name="plus_audience_selection_contacts">ที่อยู่ติดต่อทั้งหมด</string>
+    <string name="plus_audience_selection_contacts_description">รวมที่อยู่ติดต่อทั้งหมดที่สร้างหลังจากนี้</string>
+    <string name="plus_audience_selection_description_acl">แชร์กับ</string>
+    <string name="plus_audience_selection_done">เสร็จสิ้น</string>
+    <string name="plus_audience_selection_everyone">แวดวงทั้งหมด</string>
+    <string name="plus_audience_selection_everyone_description">รวมแวดวงที่สร้างหลังจากนี้</string>
+    <string name="plus_audience_selection_header_circles">แวดวง</string>
+    <string name="plus_audience_selection_header_people">ผู้คน</string>
+    <string name="plus_audience_selection_header_search">ค้นหาเกี่ยวกับ</string>
+    <string name="plus_audience_selection_header_suggested">แนะนำ</string>
+    <string name="plus_audience_selection_hidden_circle">บุคคลในแวดวงนี้ไม่ได้ถูกเผยแพร่สู่สาธารณะในโปรไฟล์ของคุณ</string>
+    <string name="plus_audience_selection_loading">กำลังโหลด...</string>
+    <string name="plus_audience_selection_new_circle">เพิ่มในแวดวงใหม่</string>
+    <string name="plus_audience_selection_public_circle">ทุกคนบนเว็บ</string>
+    <string name="plus_audience_selection_search_device_results">จากอุปกรณ์ของคุณ</string>
+    <string name="plus_audience_selection_search_google_results">จาก Google</string>
+    <string name="plus_audience_selection_title">ผู้ชม</string>
+    <string name="plus_audience_selection_title_acl">แชร์กับ...</string>
+    <string name="plus_audience_selection_title_search">ค้นหา...</string>
+    <string name="plus_audience_selection_title_update_circles">เพิ่มในแวดวง</string>
+    <string name="plus_auth_audience_view_default_description">%s จะส่งข้อมูลกิจกรรมของคุณจากแอปนี้ไปยัง Google คุณสามารถเลือกบุคคลอื่นที่จะเห็นกิจกรรมเหล่านี้ใน Google</string>
+    <string name="plus_auth_audience_view_footnote">Google จะใช้ข้อมูลนี้ตาม <annotation id="tos">ข้อกำหนดในการให้บริการ</annotation> และ <annotation id="google_privacy">นโยบายส่วนบุคคล</annotation> ของ Google</string>
+    <string name="plus_auth_hide_circles_label">ซ่อนแวดวงทั้งหมด</string>
+    <string name="plus_auth_info_fragment_app_name">%s ต้องการ:</string>
+    <string name="plus_auth_see_circles_label">ดูแวดวงทั้งหมด</string>
+    <string name="plus_avatar_image_description">ใช้ภาพอวาตาร์</string>
+    <string name="plus_bad_name_agree_button_label">ส่ง</string>
+    <string name="plus_bad_name_decline_button_label">เปลี่ยนชื่อ</string>
+    <string name="plus_bad_name_skip_button_label">ข้าม Google+</string>
+    <string name="plus_checking_gplus_signup_state">กำลังเชื่อมต่อ...</string>
+    <string name="plus_choose_facl_title">ข้อมูลที่ %s จะได้รับ</string>
+    <string name="plus_circle_creation_circle_name_hint">ชื่อของแวดวง</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">ไม่สามารถสร้างแวดวง โปรดลองใหม่ภายหลัง</string>
+    <string name="plus_circle_creation_keyboard_action_label">สร้าง</string>
+    <string name="plus_circle_creation_title_default">สร้างแวดวง</string>
+    <string name="plus_circle_creation_title_with_user_name">เพิ่ม %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">ปุ่มสำหรับปิดข้อความ</string>
+    <string name="plus_close_button_label">ปิด</string>
+    <string name="plus_create_button_description">ปุ่มสำหรับเพิ่มแวดวงใหม่</string>
+    <string name="plus_cross_client_auth_toast_text">ขอต้อนรับกลับสู่ %1$s คุณลงชื่อเข้าใช้ Google ในชื่อ %2$s</string>
+    <string name="plus_delete_dialog_acl_label">กิจกรรมนี้จะปรากฏแก่:</string>
+    <string name="plus_delete_moment_failed_dialog_message">เกิดปัญหาในการนำออกกิจกรรม โปรดลองอีกครั้งภายหลัง</string>
+    <string name="plus_delete_moment_progress_dialog_message">กำลังลบ...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">ลบกิจกรรม %s ทั้งหมดบน Google ด้วย</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s จะไม่มีสิทธิ์เข้าถึงที่คุณให้สำหรับบัญชี Google หรือส่งกิจกรรมของแอปไปยัง Google การยกเลิกอาจใช้เวลาถึงหนึ่งชั่วโมงในการดำเนินการให้เสร็จสมบูรณ์</string>
+    <string name="plus_disconnect_source_dialog_negative_button">ยกเลิก</string>
+    <string name="plus_disconnect_source_dialog_positive_button">ตัดการเชื่อมต่อ</string>
+    <string name="plus_disconnect_source_dialog_title">ตัดการเชื่อมต่อไหม</string>
+    <string name="plus_disconnect_source_failed_dialog_message">ไม่สามารถตัดการเชื่อมต่อกับ %s</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">คุณแน่ใจหรือว่าต้องการตัดการเชื่อมต่อแอปนี้จาก Google</string>
+    <string name="plus_disconnect_source_progress_dialog_message">กำลังตัดการเชื่อมต่อ %s…</string>
+    <string name="plus_domain_default">โดเมนของคุณ</string>
+    <string name="plus_domain_restricted_choice_body">กำหนดไม่ให้แชร์โพสต์ภายนอก %s</string>
+    <string name="plus_domain_restricted_choice_title">จำกัดเฉพาะ %s</string>
+    <string name="plus_done">ตกลง</string>
+    <string name="plus_facl_default_description">ชื่อเต็มของคุณ, รูปโปรไฟล์, ID ของ Google+, ช่วงอายุ และภาษา ตลอดจนรายชื่อคนที่อยู่ในแวดวงที่เลือกด้านล่าง รายการนี้ประกอบด้วยโปรไฟล์สาธารณะของคนเหล่านั้น แต่จะไม่รวมชื่อแวดวงที่คุณเพิ่มคนเหล่านั้นไว้</string>
+    <string name="plus_first_name">ชื่อ</string>
+    <string name="plus_gender_prompt">เลือกเพศ</string>
+    <string name="plus_install_app_dialog_checkbox_text">ไม่ต้องถามอีก</string>
+    <string name="plus_install_app_dialog_message">รับแอป Google+ เพื่อดูโพสต์ที่คุณเพิ่งแชร์ไหม</string>
+    <string name="plus_install_app_dialog_negative_button">ไว้ทีหลัง</string>
+    <string name="plus_install_app_dialog_positive_button">ติดตั้ง</string>
+    <string name="plus_install_app_dialog_title">รับ Google+</string>
+    <string name="plus_internal_error">เกิดข้อผิดพลาดภายใน</string>
+    <string name="plus_invalid_account">บัญชีไม่ถูกต้อง</string>
+    <string name="plus_last_name">นามสกุล</string>
+    <string name="plus_list_apps_aspen_empty_message">"คุณยังไม่ได้เชื่อมต่อกับแอปใดๆ โดยใช้การลงชื่อเข้าใช้ด้วย Google+
+
+"<annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="plus_list_apps_disabled_error">ไม่สามารถโหลดแอปที่เชื่อมต่อในขณะนี้ <annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">ไม่มีแอปที่เชื่อมต่อกับบัญชี Google ของคุณ</string>
+    <string name="plus_list_apps_error">ไม่สามารถโหลดกิจกรรม โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="plus_list_apps_error_aspen">"ไม่สามารถโหลดแอป
+
+"<annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation> เกี่ยวกับแอปที่ใช้การลงชื่อเข้าใช้ของ Google+</string>
+    <string name="plus_list_apps_error_fitness">"ไม่สามารถโหลดแอปหรืออุปกรณ์
+
+"<annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation>เกี่ยวกับแอปและอุปกรณ์ฟิตเนส</string>
+    <string name="plus_list_apps_fitness_empty_message">"คุณยังไม่ได้เชื่อมต่อแอปหรืออุปกรณ์ใดเข้ากับ Google Fit
+
+"<annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">ไม่มีบัญชี</string>
+    <string name="plus_list_moments_disabled_error">ไม่สามารถโหลดบันทึกของกิจกรรมในขณะนี้ <annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">คุณไม่มีกิจกรรม</string>
+    <string name="plus_list_moments_error">ไม่สามารถโหลดกิจกรรม โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="plus_list_moments_filter_empty_message">คุณไม่มีกิจกรรมประเภทนี้</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">ไม่สามารถดูกิจกรรมนี้จากบันทึกกิจกรรม โปรดไปที่แอปนี้โดยตรง</string>
+    <string name="plus_loading">กำลังโหลด...</string>
+    <string name="plus_manage_app_acl_description_label">กิจกรรมที่แอปพลิเคชันนี้แชร์กับ Google</string>
+    <string name="plus_manage_app_acl_error">ไม่สามารถอัปเดตแอปพลิเคชัน</string>
+    <string name="plus_manage_app_all_circles_label">แวดวงทั้งหมด</string>
+    <string name="plus_manage_app_app_icon_desc">ไอคอน</string>
+    <string name="plus_manage_app_disabled_error">ไม่สามารถโหลดแอปที่เชื่อมต่อของคุณในขณะนี้ <annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="plus_manage_app_disconnect_label">ตัดการเชื่อมต่อ</string>
+    <string name="plus_manage_app_domain_label">โดเมน</string>
+    <string name="plus_manage_app_extended_circles_label">แวดวงขยาย</string>
+    <string name="plus_manage_app_facl_label">แอปนี้สามารถดูบุคคลเหล่านี้</string>
+    <string name="plus_manage_app_label">แอปที่เชื่อมต่อ</string>
+    <string name="plus_manage_app_limited_label">แชร์แบบส่วนตัว</string>
+    <string name="plus_manage_app_no_acl_description">คุณใช้แอปพลิเคชันนี้</string>
+    <string name="plus_manage_app_no_circles_label">ไม่มี</string>
+    <string name="plus_manage_app_only_you_label">เฉพาะคุณเท่านั้น</string>
+    <string name="plus_manage_app_pacl_label">ใครสามารถเห็นกิจกรรมของแอปใน Google</string>
+    <string name="plus_manage_app_pacl_sub_label">การตั้งค่าที่คุณเลือกจะไม่มีผลกับการแสดงข้อมูลกิจกรรมที่มีอยู่ในบันทึกกิจกรรม แต่จะมีผลกับกิจกรรมการเล่นเกม</string>
+    <string name="plus_manage_app_public_label">สาธารณะ</string>
+    <string name="plus_manage_app_scopes_label">แอปนี้สามารถเข้าถึง:</string>
+    <string name="plus_manage_app_updating_acl">กำลังอัปเดต...</string>
+    <string name="plus_manage_aspen_app_label">แอปที่มี Google+ Sign-In</string>
+    <string name="plus_manage_device_disconnect_label">ตัดการเชื่อมต่อ</string>
+    <string name="plus_manage_device_label">อุปกรณ์ที่เชื่อมต่อ</string>
+    <string name="plus_manage_moment_acl">"เปิดเผยกับ:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">ไม่สามารถโหลดรายละเอียดบางส่วน โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">ลบ</string>
+    <string name="plus_manage_moment_delete_label">ลบ</string>
+    <string name="plus_manage_moment_image_desc">ดูกิจกรรม</string>
+    <string name="plus_manage_moment_label">กิจกรรม</string>
+    <string name="plus_manage_moment_no_in_app_delete">ไม่สามารถจัดการกิจกรรมนี้ <annotation id="learn_more">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="plus_ok_button_description">ปุ่มตกลง</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">แนะนำสิ่งนี้ใน Google</string>
+    <string name="plus_one_annotation_none_short">แนะนำสิ่งนี้</string>
+    <string name="plus_one_app">จาก &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">+1 หมื่น</string>
+    <string name="plus_one_description">แตะเพื่อเพิ่มเพิ่มบวกหนึ่งให้กับ %1$s</string>
+    <string name="plus_one_description_remove">แตะเพื่อนำบวกหนึ่งออกจาก %1$s</string>
+    <string name="plus_one_description_standard">แตะเพื่อบวกหนึ่ง</string>
+    <string name="plus_one_error">มีปัญหาชั่วคราวกับ +1 ของคุณ โปรดลองอีกครั้ง</string>
+    <string name="plus_one_public">สาธารณะ</string>
+    <string name="plus_one_self">+1 โดย %1$s</string>
+    <string name="plus_one_self_removed">นำ +1 ของคุณออกแล้ว</string>
+    <string name="plus_one_share">แชร์</string>
+    <string name="plus_one_social_annotation_prefix">รวมถึง %1$s ด้วย</string>
+    <string name="plus_one_social_annotation_prefix_you">รวมถึง %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s +1 สิ่งนี้</string>
+    <string name="plus_one_social_annotation_user">คุณ</string>
+    <string name="plus_one_title">คุณ +1 แบบสาธารณะในชื่อ</string>
+    <string name="plus_one_undo">เลิกทำ</string>
+    <string name="plus_oob_3p_promo">ใช้ %1$s ให้ได้ประโยชน์ยิ่งขึ้นด้วยโปรไฟล์ Google+ แบบสาธารณะ</string>
+    <string name="plus_oob_cancel_button_label">ยกเลิก</string>
+    <string name="plus_oob_default_promo">ใช้ Google ให้ได้ประโยชน์ยิ่งขึ้นด้วยโปรไฟล์ Google+ แบบสาธารณะ</string>
+    <string name="plus_oob_done_button_label">เสร็จสิ้น</string>
+    <string name="plus_oob_edit_name_warning">การเปลี่ยนชื่อโปรไฟล์ Google+ ของคุณจะมีผลกับผลิตภัณฑ์ Google ทั้งหมด</string>
+    <string name="plus_oob_failure_text">ขออภัย Google+ ไม่สามารถตั้งค่าโปรไฟล์ของคุณ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">ชื่อ</string>
+    <string name="plus_oob_first_name_content_description">ชื่อ</string>
+    <string name="plus_oob_gender_content_description">เพศ</string>
+    <string name="plus_oob_interstitial_cancel_button_label">ไว้ทีหลัง</string>
+    <string name="plus_oob_interstitial_loading">กำลังติดต่อ Google+…</string>
+    <string name="plus_oob_interstitial_loading_body">ขั้นตอนนี้จะใช้เวลาสักครู่</string>
+    <string name="plus_oob_interstitial_sending">กำลังส่ง…</string>
+    <string name="plus_oob_interstitial_sending_body">ขั้นตอนนี้จะใช้เวลาสักครู่</string>
+    <string name="plus_oob_join">สร้าง</string>
+    <string name="plus_oob_last_name_content_description">นามสกุล</string>
+    <string name="plus_oob_loading">กำลังโหลด...</string>
+    <string name="plus_oob_next">ถัดไป</string>
+    <string name="plus_oob_next_content_description">ปุ่มถัดไป</string>
+    <string name="plus_oob_no_connection_message">ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์ได้</string>
+    <string name="plus_oob_no_connection_title">ไม่มีการเชื่อมต่อ</string>
+    <string name="plus_oob_pronoun_content_description">โปรดเรียกฉันว่า</string>
+    <string name="plus_oob_sending">กำลังส่ง…</string>
+    <string name="plus_oob_title_tos">โปรไฟล์ Google+</string>
+    <string name="plus_oob_tos_accept">ยอมรับ</string>
+    <string name="plus_photo_preview_image_description">ภาพตัวอย่างของรูปภาพ</string>
+    <string name="plus_plus_icon_image_description">ภาพไอคอน Google+</string>
+    <string name="plus_posted_just_now">สักครู่นี้</string>
+    <string name="plus_pronoun_prompt">เลือก</string>
+    <string name="plus_remove_from_circle_progress">กำลังนำออก...</string>
+    <string name="plus_replybox_button_description">ตอบกลับ</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">ยกเลิกคำตอบนี้ไหม</string>
+    <string name="plus_replybox_hint_text">เพิ่มคำตอบ</string>
+    <string name="plus_replybox_internal_error">ไม่สามารถตอบกลับ</string>
+    <string name="plus_replybox_no_network_connection">ไม่สามารถสร้างคำตอบ โปรดลองอีกครั้ง</string>
+    <string name="plus_replybox_post_error_message">ไม่สามารถโพสต์คำตอบ</string>
+    <string name="plus_replybox_post_success">โพสต์คำตอบแล้ว</string>
+    <string name="plus_scope_fragment_extended_circles_label">แวดวงขยายของคุณ่</string>
+    <string name="plus_scope_fragment_mixed_label">แวดวงที่เลือก</string>
+    <string name="plus_scope_fragment_only_you_label">เฉพาะคุณเท่านั้น</string>
+    <string name="plus_scope_fragment_public_label">ทุกคนบนเว็บ</string>
+    <string name="plus_scope_fragment_your_circles_label">แวดวงของคุณ</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">วิซาร์ดการตั้งค่า</string>
+    <string name="plus_share_button_description">ปุ่มแชร์</string>
+    <string name="plus_sharebox_audience_selection_activity_button">เสร็จสิ้น</string>
+    <string name="plus_sharebox_audience_selection_activity_title">เลือกผู้รับ</string>
+    <string name="plus_sharebox_audience_to_text">ถึง:</string>
+    <string name="plus_sharebox_audience_view_icon_description">ผู้ชม</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">แวดวงใหม่</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">ไม่สามารถเพิ่มคนในแวดวงได้</string>
+    <string name="plus_sharebox_circles_button">เสร็จสิ้น</string>
+    <string name="plus_sharebox_circles_checkbox_label">เพิ่ม %1$s คนในแวดวง:</string>
+    <string name="plus_sharebox_circles_create_failed">ไม่สามารถสร้างแวดวงได้</string>
+    <string name="plus_sharebox_circles_create_option">สร้างแวดวงใหม่</string>
+    <string name="plus_sharebox_circles_following_circle">ติดตามอยู่</string>
+    <string name="plus_sharebox_circles_friends_circle">เพื่อน</string>
+    <string name="plus_sharebox_circles_name_length_warning">ชื่อแวดวงนี้ยาวเกินไป</string>
+    <string name="plus_sharebox_circles_name_used_warning">มีแวดวงที่ใช้ชื่อนี้อยู่แล้ว</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">เพิ่มในแวดวง</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">ยกเลิกโพสต์นี้ไหม</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">ไม่สามารถแชร์</string>
+    <string name="plus_sharebox_load_error">เกิดปัญหาชั่วคราวขณะโหลดข้อความที่แชร์ โปรดลองอีกครั้ง</string>
+    <string name="plus_sharebox_next">ถัดไป</string>
+    <string name="plus_sharebox_no_network_connection">ไม่สามารถสร้างโพสต์ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="plus_sharebox_post_body_hint">แชร์ความคิดของคุณ...</string>
+    <string name="plus_sharebox_post_body_icon">รูปโปรไฟล์</string>
+    <string name="plus_sharebox_post_error_message">ไม่สามารถสร้างโพสต์ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="plus_sharebox_post_error_title">โปรดทราบ</string>
+    <string name="plus_sharebox_post_pending">กำลังส่ง…</string>
+    <string name="plus_sharebox_post_success">แชร์โพสต์ของคุณแล้ว</string>
+    <string name="plus_sharebox_preview_loading">กำลังโหลด...</string>
+    <string name="plus_sharebox_search_hint">พิมพ์ชื่อ อีเมล หรือแวดวง</string>
+    <string name="plus_sharebox_share">แชร์</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">แชร์บน Google+ ด้วย</string>
+    <string name="plus_sharebox_share_via_google_plus">แชร์ผ่าน Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">เมื่อคุณแชร์แบบสาธารณะ คนที่คุณไม่ได้เพิ่มไว้ในแวดวงของคุณก็สามารถดูโพสต์ และอาจแสดงความคิดเห็นได้</string>
+    <string name="plus_sharebox_under_age_warning_title">การแชร์แบบสาธารณะ</string>
+    <string name="plus_undo_button_description">ปุ่มเลิกทำ</string>
+    <string name="plus_unified_setup_activity_title">สร้างโปรไฟล์</string>
+    <string name="plus_unknown_app_name">แอป</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">ไม่สามารถอัปเดตแวดวง โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="plus_update_circles_not_allowed_default_message">คุณไม่สามารถเพิ่มผู้ใช้นี้ในแวดวง</string>
+    <string name="plus_update_circles_not_allowed_message">คุณไม่สามารถเพิ่ม %1$s ในแวดวง</string>
+    <string name="plus_update_circles_progress">กำลังอัปเดตแวดวง...</string>
+    <string name="plus_video_preview_image_description">ภาพตัวอย่างวิดีโอ</string>
+    <string name="recovery_done_button_label">เสร็จสิ้น</string>
+    <string name="recovery_input_screen_message">แจ้งให้ Google ทราบถึงวิธีติดต่อคุณในกรณีที่คุณลืมรหัสผ่านสำหรับ %s</string>
+    <string name="recovery_message_set">"บางทีคนเราก็ลืมรหัสผ่านเอาง่ายๆ
+
+ระบุหมายเลขโทรศัพท์หรือที่อยู่อีเมลสำรองในตอนนี้เลย เพื่อช่วยในการกู้คืนการเข้าถึงเนื้อหาของคุณใน Google และ Google Play "<annotation id="help_url">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="recovery_message_verify">"บางทีคนเราก็ลืมรหัสผ่านเอาง่ายๆ
+
+ยืนยันหมายเลขโทรศัพท์หรือที่อยู่อีเมลสำรองในตอนนี้เลย เพื่อช่วยในการกู้คืนการเข้าถึงเนื้อหาของคุณใน Google และ Google Play "<annotation id="help_url">เรียนรู้เพิ่มเติม</annotation></string>
+    <string name="recovery_notification_ticker">บัญชีต้องการความสนใจ</string>
+    <string name="recovery_notification_title">แจ้งเตือนการกู้คืนรหัสผ่าน</string>
+    <string name="recovery_server_error">เกิดข้อผิดพลาดในการคุยกับเซิร์ฟเวอร์ โปรดรอสักครู่แล้วลองอีกครั้ง</string>
+    <string name="recovery_title">การกู้คืนรหัสผ่าน Google</string>
+    <string name="recovery_yes_button_label">ตั้งค่าตัวเลือกการกู้คืน</string>
+    <string name="recovery_yes_button_label_verify">ยืนยันตัวเลือกการกู้คืน</string>
+    <string name="retry_call_to_action">ลองใหม่</string>
+    <string name="secondary_email_hint">อีเมลสำรอง</string>
+    <string name="secondary_email_invalid">ที่อยู่อีเมลไม่ถูกต้อง</string>
+    <string name="secondary_email_same_as_primary">ไม่สามารถเหมือนกับอีเมลหลักได้</string>
+    <string name="selected_location_unknown">ไม่รู้จัก</string>
+    <string name="sharedUserLabel">บริการของ Google</string>
+    <string name="sid_lsid_grant_detail">คุกกี้การระบุเซสชัน (SID) และคุกกี้การระบุเซสชันภายใน (LSID) คล้ายกับรหัสผ่าน ตรงที่จะเชื่อมโยงตัวตนของคุณกับชุดคำขอจากเบราว์เซอร์ คุกกี้เหล่านี้จะอนุญาตการเข้าถึงข้อมูลบัญชีทั้งหมดของคุณโดยสมบูรณ์ โดยเบราว์เซอร์เท่านั้นที่มีสิทธิ์อย่างถูกต้องในการใช้คุกกี้ดังกล่าว</string>
+    <string name="sid_lsid_grant_label">ใช้คุกกี้ SID และ LSID เพื่อเข้าถึงข้อมูลบัญชี Google ทั้งหมดของคุณ</string>
+    <string name="storage_management_drive_clear_failure">พบข้อผิดพลาดขณะล้างข้อมูลไดรฟ์ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="storage_management_drive_clear_label">ล้างข้อมูล</string>
+    <string name="storage_management_drive_clear_success">ล้างข้อมูลในไดรฟ์แล้ว</string>
+    <string name="storage_management_drive_clearing">กำลังล้าง…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">ข้อมูลไดรฟ์ทั้งหมดในเครื่องสำหรับแอปที่ใช้งานไดรฟ์ได้จะถูกลบอย่างถาวร ซึ่งอาจรวมถึงการเปลี่ยนแปลงที่รอดำเนินการที่ยังไม่ได้อัปโหลดไปยังเซิร์ฟเวอร์ Google ไดรฟ์</string>
+    <string name="storage_management_drive_confirm_clear_data_title">ล้างข้อมูลทั้งหมดไหม</string>
+    <string name="storage_management_drive_descriptive_text">แอปที่ใช้งานไดรฟ์ได้จะเก็บไฟล์บนอุปกรณ์ของคุณเพื่อปรับปรุงประสิทธิภาพการทำงานและเปิดการเข้าถึงแบบออฟไลน์</string>
+    <string name="storage_management_drive_get_storage_failure">พบข้อผิดพลาดขณะคำนวณการใช้พื้นที่เก็บข้อมูลไดรฟ์ โปรดลองอีกครั้งในภายหลัง</string>
+    <string name="storage_management_drive_size_label">ที่เก็บข้อมูลไดรฟ์ในเครื่อง</string>
+    <string name="storage_management_wear_descriptive_text">แอปใช้พื้นที่เก็บข้อมูลของอุปกรณ์เพื่อคัดลอกข้อมูลไปยังอุปกรณ์สวมใส่</string>
+    <string name="storage_management_wear_manage_size_label">จัดการพื้นที่เก็บข้อมูลของแอปแบบสวมใส่</string>
+    <string name="storage_management_wear_size_label">พื้นที่เก็บข้อมูลแอปแบบสวมใส่</string>
+    <string name="storage_managment_all_storage_descriptive_text">ข้อมูลรวมที่บริการ Google Play ใช้ ซึ่งรวมถึงเครื่องมือค้นหาและข้อมูลอื่นๆ</string>
+    <string name="storage_managment_clear_all_data">ล้างข้อมูลทั้งหมด</string>
+    <string name="storage_managment_computing_size">กำลังคำนวณ…</string>
+    <string name="storage_managment_icing_size_label">ที่เก็บข้อมูลเครื่องมือค้นหา</string>
+    <string name="storage_managment_manage_icing_button">จัดการที่เก็บข้อมูลการค้นหา</string>
+    <string name="storage_managment_search_index_descriptive_text">เราเพิ่มความเร็วในการค้นหาบนโทรศัพท์ของคุณโดยให้บริการเครื่องมือค้นหาแก่ Apps ของคุณ</string>
+    <string name="storage_managment_title">ที่เก็บข้อมูลของบริการ Google Play</string>
+    <string name="storage_managment_total_size_label">ที่เก็บข้อมูลรวม</string>
+    <string name="system_update_activity_battery_low_charging_text">แบตเตอรี่เหลือน้อยเกินไปสำหรับการติดตั้งการอัปเดตระบบ โปรดรอให้แบตเตอรี่ชาร์จประจุจนเพียงพอก่อน</string>
+    <string name="system_update_activity_battery_low_text">แบตเตอรี่เหลือน้อยเกินกว่าจะติดตั้งการอัปเดตระบบ โปรดต่อที่ชาร์จเพื่อดำเนินการต่อ</string>
+    <string name="system_update_activity_name">การอัปเดตระบบ</string>
+    <string name="system_update_activity_roaming_text">ไม่สามารถดาวน์โหลดการอัปเดตระบบได้ขณะโรมมิ่ง</string>
+    <string name="system_update_activity_title">การอัปเดตระบบ</string>
+    <string name="system_update_check_now_button_text">ตรวจสอบเลย</string>
+    <string name="system_update_complete_label">การอัปเดตระบบ</string>
+    <string name="system_update_complete_ok_button">ตกลง</string>
+    <string name="system_update_connection_lost_button_text">เชื่อมต่อกับ Wi-Fi</string>
+    <string name="system_update_connection_lost_text">การเชื่อมต่อเครือข่ายขาดหายไป</string>
+    <string name="system_update_countdown_cancel_button">ยกเลิกการติดตั้ง</string>
+    <string name="system_update_countdown_complete">กำลังรีบูตในขณะนี้…</string>
+    <string name="system_update_download_button_text">ดาวน์โหลด</string>
+    <string name="system_update_download_failed_no_space_status_text">พื้นที่ไม่เพียงพอที่จะดาวน์โหลด</string>
+    <string name="system_update_download_failed_status_text">ไม่สามารถดาวน์โหลดได้</string>
+    <string name="system_update_download_retry_button_text">ลองดาวน์โหลดอีกครั้ง</string>
+    <string name="system_update_download_waiting_status_text">กำลังรอดาวน์โหลด</string>
+    <string name="system_update_downloading_required_update_text">"การดำเนินการนี้ใช้เวลาไม่เกิน ^1 นาที
+
+หลังจากนั้น อุปกรณ์จะรีสตาร์ทอัตโนมัติ"</string>
+    <string name="system_update_downloading_required_update_text_tablet">"การดำเนินการนี้ใช้เวลาไม่เกิน ^1 นาที
+
+หลังจากนั้น แท็บเล็ตจะรีสตาร์ทอัตโนมัติ"</string>
+    <string name="system_update_downloading_required_update_title">กำลังดาวน์โหลดการอัปเดต…</string>
+    <string name="system_update_downloading_status_text">กำลังดาวน์โหลด</string>
+    <string name="system_update_downloading_wifi_status2_text">ผ่าน Wi-Fi เท่านั้นจนกว่าจะถึง ^1</string>
+    <string name="system_update_install_button_text">รีสตาร์ทและติดตั้ง</string>
+    <string name="system_update_installing_update_text">"การดำเนินการนี้ใช้เวลาไม่เกิน 5 นาที
+
+หลังจากนั้น คุณจะสามารถตั้งค่าโทรศัพท์ให้เสร็จ"</string>
+    <string name="system_update_installing_update_title">กำลังติดตั้งการอัปเดต…</string>
+    <string name="system_update_last_checkin">การตรวจสอบการอัปเดตครั้งล่าสุด ^1</string>
+    <string name="system_update_no_update_content_text">ระบบของคุณเป็นปัจจุบันแล้ว</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">การดาวน์โหลดไม่สำเร็จ โปรดลองอีกครั้ง</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">ไม่สามารถดาวน์โหลดการอัปเดตระบบได้</string>
+    <string name="system_update_not_owner_text">การอัปเดตซอฟต์แวร์ของระบบมีให้บริการแล้ว แต่เฉพาะผู้ที่เป็นเจ้าของจะสามารถติดตั้งได้</string>
+    <string name="system_update_notification_action_download">ดาวน์โหลด</string>
+    <string name="system_update_notification_action_install">ติดตั้ง</string>
+    <string name="system_update_notification_action_snooze">ข้ามไปก่อน</string>
+    <string name="system_update_required_update_restart_text">อุปกรณ์จะรีสตาร์ทเพื่อให้สามารถติดตั้งการอัปเดตระบบได้</string>
+    <string name="system_update_required_update_restart_text_tablet">แท็บเล็ตจะรีสตาร์ทเพื่อให้สามารถติดตั้งการอัปเดตระบบของคุณได้</string>
+    <string name="system_update_required_update_restart_title">กำลังจะรีสตาร์ท</string>
+    <string name="system_update_requires_restart_status_text">ต้องมีการรีสตาร์ท</string>
+    <string name="system_update_restart_button_text">รีสตาร์ท (^1)</string>
+    <string name="system_update_update_available_notification_title">มีการอัปเดตระบบ</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">พื้นที่ไม่เพียงพอที่จะดาวน์โหลดการอัปเดตระบบ</string>
+    <string name="system_update_update_downloaded_notification_title">ดาวน์โหลดการอัปเดตระบบแล้ว</string>
+    <string name="system_update_verification_failed_text">การยืนยันล้มเหลว</string>
+    <string name="system_update_verified_status_text">ดาวน์โหลดและยืนยันแล้ว</string>
+    <string name="system_update_verifying_status_text">กำลังยืนยันความถูกต้อง</string>
+    <string name="temporary_sharing_description">ผู้คนที่คุณแชร์ตำแหน่งที่แน่นอนในผลิตภัณฑ์ของ Google ภายในช่วงเวลาจำกัด</string>
+    <string name="temporary_sharing_title">การแชร์ชั่วคราว</string>
+    <string name="turn_on_location_reporting_auto_button">เปิด</string>
+    <string name="usage_and_diagnostics_consent_message">ช่วยปรับปรุงประสบการณ์ Android ของคุณโดยการส่งข้อมูลการวินิจฉัยและข้อมูลการใช้งานไปยัง Google โดยอัตโนมัติ ข้อมูลนี้จะไม่มีการนำมาใช้เพื่อระบุตัวคุณและจะช่วยเหลือทีมที่ทำงานเกี่ยวกับอายุแบตเตอรี่ ประสิทธิภาพแอป และคุณลักษณะใหม่ๆ ของ Google &lt;br/>&lt;br/>&lt;font color=\"#009688\">เรียนรู้เพิ่มเติม&lt;/font></string>
+    <string name="usage_reporting_off">ปิด</string>
+    <string name="usage_reporting_on">เปิด</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">เชื่อมต่อแล้ว</string>
+    <string name="wearable_status_connecting">กำลังเชื่อมต่อ…</string>
+    <string name="wearable_status_disconnected">ยกเลิกการเชื่อมต่อแล้ว</string>
+    <string name="wearable_status_starting">กำลังเริ่มต้น…</string>
+    <string name="wearable_status_wire_protocol_mismatch">ไม่สามารถใช้กับอุปกรณ์สวมใส่นี้ โปรดอัปเดต</string>
+    <string name="wearable_storage_managment_reclaim_button_label">ล้างข้อมูลเลย</string>
+    <string name="wearable_storage_managment_title">พื้นที่เก็บข้อมูลของอุปกรณ์สวมใส่</string>
+    <string name="wearable_storage_managment_total_size_label">พื้นที่เก็บข้อมูลอุปกรณ์สวมใส่</string>
+    <string name="wearable_storage_managment_usage_label">การใช้พื้นที่ว่างตามแอป</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baras</item>
+        <item>Kavinė</item>
+        <item>Degalinė</item>
+        <item>Kino teatras</item>
+        <item>Apgyvendinimas</item>
+        <item>Naktinis klubas</item>
+        <item>Muziejus</item>
+        <item>Restoranas</item>
+        <item>Prekybos centras</item>
+        <item>Parduotuvė</item>
+        <item>Bakal. pard. ar prek. c.</item>
+        <item>Kita</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>silpnas</item>
+        <item>vidutiniškas</item>
+        <item>geras</item>
+        <item>stiprus</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>ALR</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>Š</item>
+        <item>ŠR</item>
+        <item>R</item>
+        <item>PR</item>
+        <item>P</item>
+        <item>PV</item>
+        <item>V</item>
+        <item>ŠV</item>
+    </string-array>
+    <array name="maps_full_compass_directions" />
+    <string-array name="auth_gls_security_questions">
+        <item>Pasirinkite saugos klausimą</item>
+        <item>Pirmojo telefono numeris?</item>
+        <item>Geriausio vaikystės draugo vardas?</item>
+        <item>Pirmosios mokytojos vardas?</item>
+        <item>Pirmojo darbo vadovo vardas?</item>
+        <item>Transporto priemonės registracijos numeris?</item>
+    </string-array>
+</resources>

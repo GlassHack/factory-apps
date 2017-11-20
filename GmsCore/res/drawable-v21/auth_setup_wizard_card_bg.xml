@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="rectangle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <corners android:topLeftRadius="@dimen/auth_setup_wizard_card_corner_radius" android:topRightRadius="@dimen/auth_setup_wizard_card_corner_radius" />
+    <solid android:color="?android:colorBackground" />
+</shape>

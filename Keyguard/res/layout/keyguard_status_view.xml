@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.keyguard.KeyguardWidgetFrame android:gravity="center" android:id="@id/keyguard_status_view" android:layout_width="fill_parent" android:layout_height="fill_parent" androidprv:layout_maxHeight="@dimen/keyguard_security_height" androidprv:layout_maxWidth="@dimen/keyguard_security_width"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:androidprv="http://schemas.android.com/apk/res/com.android.keyguard">
+    <com.android.keyguard.KeyguardStatusView android:gravity="top|center" android:orientation="vertical" android:id="@id/keyguard_status_view_face_palm" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/keyguard_accessibility_status">
+        <LinearLayout android:layout_gravity="top|center" android:orientation="vertical" android:focusable="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextClock android:textColor="@color/clock_white" android:layout_gravity="top|center" android:id="@id/clock_view" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/bottom_text_spacing_digital" android:baselineAligned="true" android:singleLine="true" android:format12Hour="@string/keyguard_widget_12_hours_format" android:format24Hour="@string/keyguard_widget_24_hours_format" style="@style/widget_big_thin" />
+            <include layout="@layout/keyguard_status_area" />
+        </LinearLayout>
+    </com.android.keyguard.KeyguardStatusView>
+</com.android.keyguard.KeyguardWidgetFrame>

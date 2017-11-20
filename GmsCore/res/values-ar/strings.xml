@@ -1,0 +1,1114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">التنقل إلى الشاشة الرئيسية</string>
+    <string name="abc_action_bar_home_description_format">%1$s، %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s، %2$s، %3$s</string>
+    <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
+    <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
+    <string name="abc_action_mode_done">تم</string>
+    <string name="abc_activity_chooser_view_see_all">عرض الكل</string>
+    <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
+    <string name="abc_searchview_description_clear">محو طلب البحث</string>
+    <string name="abc_searchview_description_query">طلب البحث</string>
+    <string name="abc_searchview_description_search">بحث</string>
+    <string name="abc_searchview_description_submit">إرسال طلب البحث</string>
+    <string name="abc_searchview_description_voice">البحث الصوتي</string>
+    <string name="abc_shareactionprovider_share_with">مشاركة مع</string>
+    <string name="abc_shareactionprovider_share_with_application">‏مشاركة مع %s</string>
+    <string name="account_level_title">إجراء الحساب مطلوب</string>
+    <string name="activity_recognition_permission_description">‏يتيح للتطبيق تلقي تحديثات دورية بمستوى نشاطك من Google، إذا كنت تمشي أو تقود سيارة أو تركب دراجة أو كنت في حال ثبات مثلاً.</string>
+    <string name="activity_recognition_permission_label">التعرف على النشاط</string>
+    <string name="add_a_place_add">إضافة</string>
+    <string name="add_a_place_call_to_action">إضافة مكان</string>
+    <string name="add_a_place_call_to_drag">اسحب الخريطة لتعيين مكان محدد الموقع</string>
+    <string name="add_a_place_cancel">إلغاء</string>
+    <string name="add_a_place_next">التالي</string>
+    <string name="agree">موافق</string>
+    <string name="app_label">موقع الشبكة</string>
+    <string name="app_level_title">طلب تسجيل الدخول</string>
+    <string name="app_level_title_secondary">طلب تسجيل الدخول بواسطة %s</string>
+    <string name="auth_accept_access">قبول</string>
+    <string name="auth_account_already_has_gmail">‏يحتوي الحساب فعليًا على Gmail.</string>
+    <string name="auth_account_setup_title">‏حساب Google</string>
+    <string name="auth_ads_settings_title">الإعلانات</string>
+    <string name="auth_allow_external_site_access">يمكنه الوصول باستمرار إلى بياناتك على %s</string>
+    <string name="auth_app_label">‏مدير حساب Google</string>
+    <string name="auth_app_permission_footnote">‏سيستخدم كل من %s وGoogle هذه المعلومات وفقًا لبنود الخدمة وسياسات الخصوصية المعمول بها لدى كل منهما.</string>
+    <string name="auth_app_permission_label">يريد هذا التطبيق</string>
+    <string name="auth_app_permission_ok_footnote">‏تعني المتابعة أنك تسمح لكل من هذا التطبيق وGoogle باستخدام معلوماتك بما يتفق مع بنود الخدمة وسياسات الخصوصية لكل منهما.</string>
+    <string name="auth_app_permission_sign_in_footnote">‏يعني لمس \"تسجيل الدخول\" أنك تسمح لكل من هذا التطبيق وGoogle باستخدام معلوماتك بما يتفق مع بنود الخدمة وسياسات الخصوصية لكل منهما.</string>
+    <string name="auth_app_permission_title">‏سجّل دخولك إلى %s باستخدام حسابك في Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">السماح بتسجيل الدخول</string>
+    <string name="auth_authzen_action_approved_toast_text">تمت الموافقة على الإجراء</string>
+    <string name="auth_authzen_action_canceled_toast_text">تم إلغاء الإجراء</string>
+    <string name="auth_authzen_allow_reset_button_text">السماح بإعادة تعيين كلمة المرور</string>
+    <string name="auth_authzen_cancel_button_label">إلغاء</string>
+    <string name="auth_authzen_close_button_text">إغلاق</string>
+    <string name="auth_authzen_confirmation_allow_button_text">سماح</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">إلغاء</string>
+    <string name="auth_authzen_default_confirmation_description">هل تريد السماح بتسجيل الدخول إلى حسابك من %s؟</string>
+    <string name="auth_authzen_default_confirmation_title">نحتاج إلى تأكيدك</string>
+    <string name="auth_authzen_default_incorrect_pin_text">تم تحديد رقم غير صحيح. تم إلغاء طلبك.</string>
+    <string name="auth_authzen_default_request_description">تفاصيل الطلب غير معروفة</string>
+    <string name="auth_authzen_generic_error_text">حدث خطأ. يرجى إعادة المحاولة.</string>
+    <string name="auth_authzen_google_logo_label">‏شعار Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">تمت الموافقة على تسجيل الدخول</string>
+    <string name="auth_authzen_login_challenge_canceled_text">تم إلغاء تسجيل الدخول</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">السماح بتسجيل الدخول</string>
+    <string name="auth_authzen_login_challenge_desc_text">هل تحاول تسجيل الدخول من %s؟</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">‏أوقفت خدمة Google محاولة تسجيل الدخول.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">رقم غير صحيح</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">المس الرقم الذي يظهر على الشاشة الأخرى. وسيؤدي هذا إلى تسجيل دخولك إلى جهاز الكمبيوتر.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">‏حاول شخص ما تسجيل الدخول إلى حسابك في Google باستخدام كلمة مرورك، إلا أن Google تمكنت من إيقاف محاولة تسجيل الدخول.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">تم منع تسجيل الدخول</string>
+    <string name="auth_authzen_login_challenge_title_text">هل تحاول تسجيل الدخول؟</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">للموافقة على تسجيل الدخول على جهاز الكمبيوتر، ستحتاج إلى إثبات هويتك</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">طلب تسجيل دخول من جهاز كمبيوتر في %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">لم أطلب ذلك</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">شكرًا لإعلامنا بذلك، %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">لقد قدمنا ملاحظة بشأن ها النشاط، حتى يمكننا متابعة الاحتفاظ بحسابك آمنًا.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">تسجيل الدخول</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">إلغاء</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">‏أدخل رقم التعريف الشخصي لحسابك في Google</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">موافق، متابعة</string>
+    <string name="auth_authzen_no_button_text">لا</string>
+    <string name="auth_authzen_notify_google_default_text">‏سيتم إبلاغ Google بأن شخص ما حاول الدخول إلى حسابك.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">‏استلمت Google طلبًا لتغيير كلمة مرور حسابك. ونظرًا لأن الطلب لم يكن صادرًا منك، تم إلغاؤه. ولم يتم إجراء أي تغييرات في حسابك.</string>
+    <string name="auth_authzen_ok_button_text">موافق</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">المس الرقم الذي يظهر على الشاشة الأخرى. وسيؤدي هذا إلى تسجيل دخولك إلى جهاز الكمبيوتر.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">السماح بتسجيل الدخول</string>
+    <string name="auth_authzen_profile_picture_label">صورة الملف الشخصي</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">‏هل كنت تحاول فقط تسجيل الدخول إلى Google؟</string>
+    <string name="auth_authzen_recovery_approved_text">تمت الموافقة على إعادة تعيين كلمة المرور</string>
+    <string name="auth_authzen_recovery_canceled_text">تم إلغاء إعادة تعيين كلمة المرور</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">هل تريد السماح بإعادة تعيين كلمة المرور من %s؟</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">نحتاج إلى تأكيدك</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">‏أوقفت خدمة Google محاولة إعادة تعيين كلمة المرور.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">رقم غير صحيح</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">المس الرقم الموضح على الشاشة الأخرى. وسيؤدي هذا إلى إعادة تعيين كلمة المرور.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">السماح بإعادة تعيين كلمة المرور</string>
+    <string name="auth_authzen_recovery_reject_desc_text">‏طلب شخص ما إعادة تعيين كلمة مرور حسابك في Google. وأوقفت خدمة Google محاولة إعادة تعيين كلمة المرور.</string>
+    <string name="auth_authzen_recovery_reject_title_text">تم منع عملية إعادة تعيين كلمة المرور</string>
+    <string name="auth_authzen_recovery_verification_desc_text">هل طلبت إعادة تعيين كلمة المرور من %s؟</string>
+    <string name="auth_authzen_recovery_verification_title_text">هل حاولت إعادة تعيين كلمة المرور؟</string>
+    <string name="auth_authzen_secure_account_button_text">تأمين حسابك</string>
+    <string name="auth_authzen_sending_reply_failed_text">تعذر إرسال رد إلى الخادم.</string>
+    <string name="auth_authzen_sending_reply_text">جارٍ إرسال الرد إلى الخادم</string>
+    <string name="auth_authzen_time_display_text">قبل أقل من %s من الدقائق</string>
+    <string name="auth_authzen_time_just_now_text">للتو</string>
+    <string name="auth_authzen_wait_text">الرجاء الانتظار…</string>
+    <string name="auth_authzen_workflow_title">‏مطالبة تفويض Google</string>
+    <string name="auth_authzen_yes_button_text">نعم</string>
+    <string name="auth_back_button_label">رجوع</string>
+    <string name="auth_bad_name_title">هل تريد استخدام هذا الاسم؟</string>
+    <string name="auth_bluetooth_lure_button">إضافة كجهاز موثوق به</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">تأكيد قفل الشاشة</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"تم إقران جهاز بلوتوث.
+يمكنك إضافة %s كجهاز موثوق به لتخطي قفل الشاشة عند التوصيل."</string>
+    <string name="auth_bluetooth_lure_one_line_message">تم إقران جهاز بلوتوث جديد.</string>
+    <string name="auth_bluetooth_lure_title">طريقة إلغاء القفل الشخصية</string>
+    <string name="auth_cancel_button_label">إلغاء</string>
+    <string name="auth_captcha_instructions">أكتب النص الذي يظهر أمامك:</string>
+    <string name="auth_captcha_title">‏يلزم إدخال اختبار CAPTCHA</string>
+    <string name="auth_communicating_message">‏يجري جهازك الاتصال بـ Google لحفظ المعلومات في حسابك. يمكن أن يستغرق هذا ما يصل إلى 5 دقائق.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">حالة بيانات الاعتماد</string>
+    <string name="auth_d2d_source_bt_notice">سيتم استخدام بلوتوث.</string>
+    <string name="auth_d2d_source_lock_notice">سيتم قفل جهازك ذاتيًا ويجب إلغاء قفله للمتابعة.</string>
+    <string name="auth_d2d_source_no_accounts_toast">يتعذر إجراء توصيل واستعادة نظرًا لعدم وجود حسابات على هذا الجهاز.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">يتعذر إجراء توصيل واستعادة نظرًا لعدم توفر بلوتوث في جهازك.</string>
+    <string name="auth_d2d_source_notification_text">"‏تم إعداد ^1 جديد في ^2 باستخدام هذا الجهاز، بما في ذلك محاولة لنقل حسابات Google التالية: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">تم الانتهاء من إعداد الجهاز الجديد</string>
+    <string name="auth_d2d_source_progress_message">جارٍ نسخ البيانات إلى جهازك الجديد…</string>
+    <string name="auth_d2d_source_question">هل تريد نسخ الحسابات والبيانات من هذا الجهاز؟</string>
+    <string name="auth_d2d_source_restricted_user_toast">يتعذر التوصيل والاسترداد من ملف شخصي للمستخدم تم تقييده.</string>
+    <string name="auth_d2d_source_title">استرداد الحسابات</string>
+    <string name="auth_d2d_source_unknown_device_name">جهاز غير معروف</string>
+    <string name="auth_d2d_target_adding_accounts_message">جارٍ إضافة الحسابات...</string>
+    <string name="auth_d2d_target_connecting_progress_message">جارٍ الاتصال بجهازك الآخر...</string>
+    <string name="auth_d2d_target_connection_lost_alert">انقطع الاتصال</string>
+    <string name="auth_d2d_target_description">"‏يمكنك بسرعة نسخ أي حسابات في Google والتطبيقات والبيانات التي تم الاحتفاظ بنسخة احتياطية منها على جهازك الحالي الذي يعمل بنظام التشغيل Android. للنسخ: 
+
+1- تأكد من تشغيل الجهاز الآخر وإلغاء قفله. 
+
+2- ضع الجهازين في مواجهة بعضهما البعض من الجزء الخلفي لفترة قصيرة، ثم أبعدهما عن بعضهما البعض."</string>
+    <string name="auth_d2d_target_more_info">‏تستخدم هذه الميزة NFC لنقل بيانات الحساب. وإذا كان جهازك متوافقًا مع NFC، فاحرص على تشغيله ضمن \"الإعدادات\" > اللاسلكي والشبكات > المزيد.</string>
+    <string name="auth_d2d_target_more_info_close">حسنًا</string>
+    <string name="auth_d2d_target_more_info_link">مزيد من المعلومات</string>
+    <string name="auth_d2d_target_skip_button">تخطٍ</string>
+    <string name="auth_d2d_target_sorry_alert">عذرًا، حدث خطأ ما</string>
+    <string name="auth_d2d_target_tap_progress_message">للمتابعة، المس \"موافق\" على الجهاز الآخر</string>
+    <string name="auth_d2d_target_title">انقر للإكمال</string>
+    <string name="auth_d2d_target_try_again_button">إعادة المحاولة</string>
+    <string name="auth_d2d_target_unlock_progress_message">أ</string>
+    <string name="auth_d2d_target_wait_progress_message">جارٍ نسخ الحسابات والبيانات...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" ‏ يتطلب نطاقك إدارة جهاز جوال. يمكنك تثبيت تطبيق \"Google Apps Device Policy\" لتنفيذ سياسات الأمان المطلوبة من خلال الحساب "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" ‏ "<b>^1</b> لا يستخدم Gmail.</string>
+    <string name="auth_error_account_disabled">"‏تم تعطيل هذا الحساب. 
+
+(للاطلاع على التفاصيل، انتقل إلى http://google.com/accounts باستخدام متصفح ويب.)"</string>
+    <string name="auth_error_account_not_verified">"‏لم يتم إثبات ملكية هذا الحساب. تحقق من بريدك الإلكتروني وتتبع الرابط المضمن لإثبات ملكية هذا الحساب. 
+
+(لاستعادة معلومات الحساب، انتقل إلى http://www.google.com/accounts/recovery على جهاز الكمبيوتر.)"</string>
+    <string name="auth_error_bad_password">كلمة المرور ضعيفة جدًا أو تحتوي على أحرف غير صالحة. أعد المحاولة.</string>
+    <string name="auth_error_bad_username">اسم المستخدم غير صالح.</string>
+    <string name="auth_error_invalid_second_factor">استخدم كلمة مرور خاصة بالتطبيقات بدلاً من كلمة مرور الحساب العادية.</string>
+    <string name="auth_error_login_failed">"‏اسم المستخدم وكلمة المرور غير مطابقين. أعد المحاولة.
+
+لاسترداد معلومات حسابك، انتقل إلى google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">للدخول إلى حسابك، يجب تسجيل الدخول على الويب. المس \"التالي\" لبدء تسجيل الدخول من المتصفح.</string>
+    <string name="auth_error_not_logged_in">لم يسجل المستخدم الدخول.</string>
+    <string name="auth_error_username_unavailable">اسم المستخدم غير متاح.</string>
+    <string name="auth_existing_account_error_text">‏يوجد حساب ^1 فعلاً على جهاز Android هذا.</string>
+    <string name="auth_existing_account_error_title">الحساب موجود فعلاً</string>
+    <string name="auth_exit_menu_item">الخروج من تسجيل الدخول من المتصفح</string>
+    <string name="auth_facl_scope_details_dialog_title">ما الأمور التي يمكن لهذا التطبيق رؤيتها؟</string>
+    <string name="auth_facl_with_warning_label">تغيير الأشخاص الذين يمكن لهذا التطبيق رؤيتهم</string>
+    <string name="auth_field_cant_be_blank">لا يمكن أن يكون الحقل فارغًا.</string>
+    <string name="auth_fitness_settings_title">الصلاحية</string>
+    <string name="auth_gls_account_creation_tos">‏من خلال المتابعة، فإنك توافق على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="play_tos">بنود الخدمة في Google Play‏</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">‏من خلال المتابعة، فإنك توافق على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="chrome_tos">بنود الخدمة</annotation> و<annotation id="chrome_privacy">إشعار الخصوصية</annotation> في Chrome و<annotation id="play_tos">بنود الخدمة</annotation> في Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">‏لن تفقد عناصرك مرة أخرى، حيث يحتفظ حساب Google بكل شيء في أمان.</string>
+    <string name="auth_gls_account_intro_learn_more">مزيد من المعلومات</string>
+    <string name="auth_gls_account_intro_recommended_title">‏تهيئة Google</string>
+    <string name="auth_gls_account_intro_required_title">‏تدعمه Google</string>
+    <string name="auth_gls_account_intro_simple_message">هل تريد إضافة حساب حالي أو إنشاء حساب جديد؟</string>
+    <string name="auth_gls_account_intro_title">‏حساب Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"‏أليس لديك حساب في Google؟
+
+إذا كنت تستخدم خدمة Gmail أو خدمات Google Apps، فأجب بنعم."</string>
+    <string name="auth_gls_account_pre_intro_no">لا</string>
+    <string name="auth_gls_account_pre_intro_title">‏الحصول على حساب Google</string>
+    <string name="auth_gls_account_pre_intro_yes">نعم</string>
+    <string name="auth_gls_account_recovery_info">إذا فقدت كلمة المرور، يمكنك الإجابة عن سؤال الأمان والحصول على رسالة إلكترونية بها رابط إعادة التعيين على عنوان آخر.</string>
+    <string name="auth_gls_account_tos_plus_title">‏إنهاء الانضمام إلى +Google</string>
+    <string name="auth_gls_account_tos_title">إنهاء الحساب</string>
+    <string name="auth_gls_add_a_google_account">‏إضافة حساب Google</string>
+    <string name="auth_gls_alternatives_list_title">أسماء مستخدمين مقترحة</string>
+    <string name="auth_gls_answer">" "<b>إجابة</b></string>
+    <string name="auth_gls_backup_consent_message">"‏يمكنك استخدام حساب Google للاحتفاظ بنسخة احتياطية من تطبيقاتك وإعداداتك (مثل الإشارات المرجعية وكلمات مرور Wi-Fi) وغير ذلك من البيانات. في حالة نسخ الحساب احتياطيًا في السابق، فبإمكانك الآن استعادته في هذا الهاتف.
+
+يمكنك تغيير إعدادات النسخ الاحتياطي في أي وقت في \"الإعدادات\"."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"‏يمكنك استخدام حساب Google للاحتفاظ بنسخة احتياطية من تطبيقاتك وإعداداتك (مثل الإشارات المرجعية وكلمات مرور Wi-Fi) وغير ذلك من البيانات.
+
+يمكنك تغيير إعدادات النسخ الاحتياطي في أي وقت من \"الإعدادات\"."</string>
+    <string name="auth_gls_backup_consent_yes_agree">‏الاحتفاظ بنسخة احتياطية لهذا الهاتف باستخدام حسابي في Google</string>
+    <string name="auth_gls_cant_be_blank">لا يمكن أن يكون الحقل فارغًا.</string>
+    <string name="auth_gls_checking_account">جارٍ التحقق من التوفر...</string>
+    <string name="auth_gls_checking_username_message">"‏يتصل هاتفك بـ Google لمعرفة ما إذا كان اسم المستخدم المطلوب متاحًا.
+
+قد يستغرق ذلك بضع دقائق."</string>
+    <string name="auth_gls_choose_a_password">كلمة المرور</string>
+    <string name="auth_gls_circles_subtitle">الدوائر</string>
+    <string name="auth_gls_circles_text">أسهل طريقة لمشاركة أكثر الأشياء أهمية عبر الإنترنت.</string>
+    <string name="auth_gls_confirm_password">إعادة كتابة كلمة المرور</string>
+    <string name="auth_gls_create_button_label">الحصول على حساب</string>
+    <string name="auth_gls_create_google_account">اختيار اسم المستخدم</string>
+    <string name="auth_gls_create_google_account_text">‏يتضمن حسابك في Google خدمة Gmail، وهي خدمة بريد إلكتروني من Google. وتعمل هذه الخدمة على أي جهاز وتحظر الرسائل غير المرغوب فيها إلى جانب أشياء أخرى كثيرة.</string>
+    <string name="auth_gls_creating_account_title">جارٍ حفظ الحساب...</string>
+    <string name="auth_gls_creating_profile">جارٍ إنشاء ملفك الشخصي...</string>
+    <string name="auth_gls_crop_failure">تعذر اقتصاص الصورة.</string>
+    <string name="auth_gls_dasher_warning">‏يملك مشرف %s جميع بياناتك في +Google ويديرها ويمكنه حذف ملفك الشخصي أو تعديله في أي وقت بدون إذنك.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" ‏ يتطلب نطاقك إدارة جهاز جوال. يمكنك تنشيط تطبيق \"Google Apps Device Policy\" لتنفيذ سياسات الأمان المطلوبة من خلال الحساب "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">تنشيط</string>
+    <string name="auth_gls_dmagent_activity_download_message">" ‏ يتطلب نطاقك إدارة جهاز جوال. يمكنك تثبيت تطبيق \"Google Apps Device Policy\" لتنفيذ سياسات الأمان المطلوبة من خلال الحساب "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">تنزيل</string>
+    <string name="auth_gls_edit_text_help">المس أي مربع نص لبدء الكتابة</string>
+    <string name="auth_gls_eight_chars_min">8 أحرف كحد أدنى</string>
+    <string name="auth_gls_enable_web_history">تشغيل سجل بحث الويب</string>
+    <string name="auth_gls_error_bad_password">كلمة المرور ضعيفة جدًا أو تحتوي على أحرف غير صالحة. أعد المحاولة.</string>
+    <string name="auth_gls_error_login_failed">"‏اسم المستخدم وكلمة المرور غير مطابقين. أعد المحاولة.
+
+لاسترداد معلومات حسابك، انتقل إلى google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">للدخول إلى حسابك، يجب تسجيل الدخول على الويب. المس \"التالي\" لبدء تسجيل الدخول من المتصفح.</string>
+    <string name="auth_gls_existing_account_error_text">‏هناك حساب ^1 من قبل على جهاز Android هذا.</string>
+    <string name="auth_gls_existing_account_error_title">الحساب موجود من قبل</string>
+    <string name="auth_gls_existing_button_label">حالي</string>
+    <string name="auth_gls_google_play_opt_in">‏اطلاعي على أحدث الأخبار والعروض من Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" لا يمكن أن يحتوي "<b>1^</b>" سوى على أحرف
+وأرقام ونقاط فقط."</string>
+    <string name="auth_gls_hint_numbers_only">" لا يحتوي "<b>1^</b> على أية أحرف.</string>
+    <string name="auth_gls_hint_size">" يحتوي "<b>^1</b> على أقل من 6 أحرف أو أكثر من 30 حرفًا.</string>
+    <string name="auth_gls_huddle_text">مراسلة جماعية لجميع الأشخاص في دوائرك.</string>
+    <string name="auth_gls_invalid_email">"‏عنوان البريد الإلكتروني الذي كتبته غير صالح.
+ مثال: joe@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">لا يمكن أن يكون عنوان الاسترداد مطابقًا للعنوان الذي تنشئه.</string>
+    <string name="auth_gls_is_not_available">اسم المستخدم <b>^1</b> غير متاح.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">مزيد من المعلومات</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" ‏ يتيح لك حساب Google:‏
+
+"<li><ul>مشاهدة وتنظيم جميع المعلومات من أي مكان.</ul></li>"
+
+"<li><ul>الاحتفاظ بنسخة احتياطية تلقائيًا من بياناتك مثل الرسائل الإلكترونية وجهات الاتصال والموسيقى والصور.</ul></li>"
+
+"<li><ul>استخدام خدمات Google بسهولة من أي مكان—بما في ذلك جهات الاتصال والتقويم والخرائط والمزيد.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">‏معلومات عن حسابات Google</string>
+    <string name="auth_gls_learn_more_web_history">"‏يضبط سجل بحث الويب نتائج البحث بناءً على ما بحثت عنه ومواقع الويب التي انتقلت إليها، مما يوفر تجربة مخصصة على Google‏. 
+
+عرض سجل بحث الويب وإدارته، بما في ذلك تشغيله أو إيقافه، راجع http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">حول سجل بحث الويب</string>
+    <string name="auth_gls_name_checking_info_title">جارٍ التحقق من المعلومات…</string>
+    <string name="auth_gls_name_progress_title">بضع ثوانٍ...</string>
+    <string name="auth_gls_name_text">‏يتم استخدام اسمك لتخصيص هاتفك وخدمات Google.</string>
+    <string name="auth_gls_name_text_local">يستخدم الهاتف اسمك لتخصيص بعض التطبيقات.</string>
+    <string name="auth_gls_name_title_local">ينتمي هذا الهاتف إلى...</string>
+    <string name="auth_gls_name_title_plus">‏اسمك في +Google</string>
+    <string name="auth_gls_network_unreliable">لا يمكن إجراء اتصال موثوق بالخادم.</string>
+    <string name="auth_gls_network_unreliable_help">‏قد تكون هذه مشكلة مؤقتة أو قد لا يكون جهاز Android مزوّدًا بخدمات البيانات. إذا استمرت المشكلة، فاتصل بخدمة العملاء.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">‏قد تكون هذه مشكلة مؤقتة. أعد المحاولة أو اتصل بشبكة Wi-Fi أخرى.</string>
+    <string name="auth_gls_new_button_label">جديد</string>
+    <string name="auth_gls_no_network">ليس لديك اتصال بالشبكة.</string>
+    <string name="auth_gls_no_network_help">‏قد تكون هذه مشكلة مؤقتة أو قد لا يكون جهاز Android مزوّدًا بخدمات البيانات. أعد المحاولة عند الاتصال بشبكة جوال، أو اتصل بشبكة Wi-Fi.</string>
+    <string name="auth_gls_no_network_help_wifi_only">‏قد تكون هذه مشكلة مؤقتة. أعد المحاولة أو اتصل بشبكة Wi-Fi أخرى.</string>
+    <string name="auth_gls_not_now_button_label">ليس الآن</string>
+    <string name="auth_gls_password_mismatch">لم تتطابق كلمتا المرور. أعد المحاولة.</string>
+    <string name="auth_gls_password_title">إنشاء كلمة مرور</string>
+    <string name="auth_gls_photo_button_label">التقاط صورة</string>
+    <string name="auth_gls_photo_description">صورتك</string>
+    <string name="auth_gls_photo_failure">تعذر تشغيل الكاميرا.</string>
+    <string name="auth_gls_photo_text">سيتم استخدام هذه الصورة في سجل جهات الاتصال. يمكنك تغييرها لاحقًا في تطبيق الأشخاص.</string>
+    <string name="auth_gls_photo_text_es">‏التقط صورة ليراها أصدقاؤك على +Google. وسيكون بإمكانك اختيار صورة جديدة لاحقًا.</string>
+    <string name="auth_gls_photo_title">صورتك</string>
+    <string name="auth_gls_plus_accepted_button_label">‏انضمام إلى +Google</string>
+    <string name="auth_gls_plus_declined_button_label">ليس الآن</string>
+    <string name="auth_gls_plus_failure_new_account_text">‏تم إنشاء حسابك في Google بنجاح، لكن لم ينجح طلب الانضمام إلى +Google. أعد المحاولة لاحقًا عبر الانتقال إلى plus.google.com من أي متصفح ويب.</string>
+    <string name="auth_gls_plus_failure_text">‏لم ينجح طلب الانضمام إلى +Google. أعد المحاولة لاحقًا عبر الانتقال إلى plus.google.com من أي متصفح ويب.</string>
+    <string name="auth_gls_plus_failure_title">‏الانضمام إلى +Google لاحقًا</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"‏ستحصل من خلال +Google على ملف شخصي عام لمساعدة أصدقائك في العثور عليك عبر الإنترنت. يمكن لأي شخص يعرف عنوان بريدك الإلكتروني العثور على ملفك الشخصي وعرضه.
+
+يمكنك استخدام أزرار 1+ في أرجاء الويب للتوصية بأشياء مختلفة إلى العالم. وسيظهر ملفك الشخصي وإجراءات 1+ بشكل عام في البحث والإعلانات وعبر الويب.
+
+في الوقت الحالي، سيعرض ملفك الشخصي اسمك (%s %s) فقط. ويمكنك إضافة صورة وسيرة ذاتية وتفاصيل أخرى لاحقًا عند بدء استخدام +Google."</string>
+    <string name="auth_gls_plus_name_check_text">يمكن أن يستغرق هذا بضع دقائق.</string>
+    <string name="auth_gls_plus_name_check_title">‏جارٍ الاتصال بـ +Google...</string>
+    <string name="auth_gls_plus_query_text">‏باستخدام +Google تعد عملية المشاركة على الويب أقرب ما يكون إلى المشاركة في الواقع.</string>
+    <string name="auth_gls_provisioned_incorrect_login">‏لست %s؟</string>
+    <string name="auth_gls_provisioned_welcome">‏مرحبًا %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"‏أدخل كلمة المرور لـ:
+%s"</string>
+    <string name="auth_gls_recovery_title">معلومات الاسترداد</string>
+    <string name="auth_gls_restore_consent_yes_agree">‏استعادة من حسابي في Google إلى هذا الهاتف</string>
+    <string name="auth_gls_restoring_message">‏هاتفك يتصل بـ Google لاستعادة حسابك. يمكن أن يستغرق هذا بعض الوقت.</string>
+    <string name="auth_gls_restoring_title">جارٍ الاستعادة...</string>
+    <string name="auth_gls_retake_photo_button_label">إعادة التقاط الصورة</string>
+    <string name="auth_gls_secondary_email_label">عنوان البريد الإلكتروني المخصص للطوارئ</string>
+    <string name="auth_gls_security_questions_title">أسئلة الأمان</string>
+    <string name="auth_gls_server_error">‏حدثت مشكلة أثناء الاتصال بخوادم Google.</string>
+    <string name="auth_gls_server_error_help">أعد المحاولة لاحقًا.</string>
+    <string name="auth_gls_sign_in_agreement">‏يعد تسجيل دخولك بمثابة موافقة منك على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="play_tos">بنود الخدمة في Google Play‏</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" ‏ يعد تسجيل دخولك بمثابة موافقة منك على "<annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية </annotation> في Google و<annotation id="play_tos">بنود الخدمة في Google Play‏</annotation>". 
+
+تنبيه: يمكن لأي مستخدم آخر قبول أذونات التطبيقات المحدثة نيابة عنك. وكما هو الحال مع أي جهاز كمبيوتر، يجب عدم مشاركة هذا الجهاز اللوحي إلا مع الأشخاص الذين تثق فيهم."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" ‏ يعد تسجيل دخولك بمثابة موافقة منك على "<annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="chrome_tos">بنود الخدمة</annotation> و<annotation id="chrome_privacy">إشعار الخصوصية</annotation> في Chrome و<annotation id="play_tos">بنود الخدمة</annotation> في Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" ‏ يعد تسجيل دخولك بمثابة موافقة منك على "<annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="chrome_tos">بنود الخدمة</annotation> و<annotation id="chrome_privacy">إشعار الخصوصية</annotation> في Chrome و<annotation id="play_tos">بنود الخدمة</annotation>" في Googel Play.‏ 
+
+تنبيه: يمكن لأي مستخدم آخر قبول أذونات التطبيقات المحدثة نيابة عنك. وكما هو الحال مع أي جهاز كمبيوتر، يجب عدم مشاركة هذا الجهاز اللوحي إلا مع الأشخاص الذين تثق فيهم."</string>
+    <string name="auth_gls_submission_title">عذرًا…</string>
+    <string name="auth_gls_suggest_username_next_button_label">تغيير اسم المستخدم</string>
+    <string name="auth_gls_suggestions_hint">المس للحصول على اقتراحات</string>
+    <string name="auth_gls_sync_intro_activity_title">تم تسجيل الدخول إلى الحساب بنجاح</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">النسخ الاحتياطي والاسترداد</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">النسخة الاحتياطية</string>
+    <string name="auth_gls_sync_intro_title">مزامنة الحساب</string>
+    <string name="auth_gls_sync_item_title">مزامنة %s</string>
+    <string name="auth_gls_too_short">قصيرة جدًا</string>
+    <string name="auth_gls_ui_activity_authenticating">جارٍ المصادقة…</string>
+    <string name="auth_gls_ui_activity_title_checking_in">جارٍ التحضير...</string>
+    <string name="auth_gls_uploads_subtitle">التحميل الفوري</string>
+    <string name="auth_gls_uploads_text">مزامنة جميع صورك من كل الأجهزة بسهولة.</string>
+    <string name="auth_gls_verify_your_profile">التحقق من ملفك الشخصي</string>
+    <string name="auth_gls_wait_for_device_country_msg">يتم جمع المعلومات حول هاتفك. قد يستغرق ذلك ما يصل إلى 30 ثانية.</string>
+    <string name="auth_gls_wait_for_device_country_title">إعداد الحساب</string>
+    <string name="auth_google_settings_header_title">الخصوصية</string>
+    <string name="auth_google_title_logo">‏شعار Google</string>
+    <string name="auth_google_trust_agent_title">طريقة إلغاء القفل الشخصية</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">‏تسجيل الدخول باستخدام Google+‎</string>
+    <string name="auth_gsf_notification_login_error">المس لتسجيل الدخول إلى حسابك.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"الإذن مطلوب
+للحساب %s"</string>
+    <string name="auth_invalid_login_character">‏حرف غير صالح. لا يُسمح سوى بالأرقام من 0-9 والأحرف a-z وA-Z والنقاط.</string>
+    <string name="auth_invalid_password_character">هناك حرف غير صالح بكلمة المرور.</string>
+    <string name="auth_invalid_scope">تم استخدام نطاق غير صالح أثناء طلب المصادقة.</string>
+    <string name="auth_invalid_username">النص الذي كتبته ليس اسم مستخدم صالحًا.</string>
+    <string name="auth_learn_more_title">مزيد من المعلومات</string>
+    <string name="auth_location_neighborhood_level">‏السماح بإرسال بيانات موقع مجهولة إلى Google، وللتطبيقات المسموح بها باستخدام بيانات مصادر كشبكة Wi-Fi وجوال لتحديد موقعك التقريبي.</string>
+    <string name="auth_location_network_based">‏خدمة الموقع من Google</string>
+    <string name="auth_location_settings_title">إعدادات الموقع</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">لقد كتبت كلمة مرور غير صحيحة أو تم تغيير حسابك. أعد كتابة كلمة المرور. إذا كنت قد نسيت كلمة المرور وتريد استعادة حسابك، فانقر <annotation id="help_url">هنا</annotation>.</string>
+    <string name="auth_login_activity_task_title">جارٍ تسجيل الدخول...</string>
+    <string name="auth_login_activity_title">تسجيل الدخول</string>
+    <string name="auth_login_task_title">جارٍ تسجيل الدخول</string>
+    <string name="auth_login_title">اكتب البريد الإلكتروني وكلمة المرور</string>
+    <string name="auth_maps_settings_title">الخرائط وخط العرض</string>
+    <string name="auth_minutemaid_title">‏إعداد حساب في Google</string>
+    <string name="auth_name_title">اسمك</string>
+    <string name="auth_network_unreliable">لا يمكن إجراء اتصال موثوق بالخادم.</string>
+    <string name="auth_network_unreliable_help">‏قد تكون هذه مشكلة مؤقتة أو قد لا يكون جهاز Android مزوّدًا بخدمات البيانات. إذا استمرت المشكلة، فاتصل بخدمة العملاء.</string>
+    <string name="auth_network_unreliable_help_wifi_only">‏قد تكون هذه مشكلة مؤقتة. أعد المحاولة أو اتصل بشبكة Wi-Fi أخرى.</string>
+    <string name="auth_next_button_label">التالي</string>
+    <string name="auth_nfc_caution">عليك حماية هذه العلامة. قد يتمكن أحد المهاجمين من نسخها.</string>
+    <string name="auth_nfc_tag_exists">‏تمت إضافة %1$s من قبل</string>
+    <string name="auth_nfc_tag_not_supported">‏جهاز NFC المقدم غير متوافق</string>
+    <string name="auth_no_network">ليس لديك اتصال بالشبكة.</string>
+    <string name="auth_no_network_help">‏قد تكون هذه مشكلة مؤقتة أو قد لا يكون جهاز Android مزودًا بخدمات البيانات. أعد المحاولة عند الاتصال بشبكة جوال، أو اتصل بشبكة Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">‏قد تكون هذه مشكلة مؤقتة. أعد المحاولة أو اتصل بشبكة Wi-Fi أخرى.</string>
+    <string name="auth_ok_button_label">موافق</string>
+    <string name="auth_only_you_acl">أنت فقط</string>
+    <string name="auth_otp_dialog_title">رمز التحقق</string>
+    <string name="auth_otp_done_button">تم</string>
+    <string name="auth_otp_error">حدثت مشكلة أثناء إنشاء رمز التحقق.</string>
+    <string name="auth_otp_instruction">‏استخدم هذا الرمز لتسجيل الدخول إلى Google فقط.</string>
+    <string name="auth_otp_no_accounts_available_message">لا يوجد حساب تمت تهيئته على هذا الجهاز.</string>
+    <string name="auth_otp_progress_dialog_message">جارٍ إنشاء رمز التحقق.</string>
+    <string name="auth_otp_select_account_message">تحديد حساب</string>
+    <string name="auth_pacl_scope_details_dialog_title">‏ما الأمور التي يمكن لـ Google رؤيتها؟</string>
+    <string name="auth_password">كلمة المرور</string>
+    <string name="auth_personal_unlocking_name">طريقة إلغاء القفل الشخصية</string>
+    <string name="auth_personal_unlocking_service_name">‏إلغاء التأمين الشخصي (Google)</string>
+    <string name="auth_plus_failure_new_account_text">‏تم إنشاء حسابك في Google، ولكن لم ينجح طلب إنشاء ملف شخصي على +Google. أعد محاولة الانتقال إلى plus.google.com من أي متصفح ويب لاحقًا.</string>
+    <string name="auth_plus_failure_text">‏لم ينجح طلب الانضمام إلى +Google. أعد محاولة الانتقال إلى plus.google.com من أي متصفح ويب لاحقًا.</string>
+    <string name="auth_plus_failure_title">‏إنشاء ملف شخصي على +Google لاحقًا</string>
+    <string name="auth_plus_faq_title">‏مرحبًا بك في Google+‎!</string>
+    <string name="auth_plus_name_check_text">يمكن أن يستغرق هذا بضع دقائق.</string>
+    <string name="auth_plus_query_title">‏إنشاء الملف الشخصي على +Google</string>
+    <string name="auth_plus_settings_title">Google+‎</string>
+    <string name="auth_provisioned_welcome">‏مرحبًا %s!</string>
+    <string name="auth_provisioned_welcome_2">"‏أدخل كلمة المرور لـ:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">‏تم قفل جهاز Chrome.</string>
+    <string name="auth_proximity_auth_device_locked_title">إلغاء القفل بسهولة</string>
+    <string name="auth_proximity_auth_device_unlocked_content">‏تم إلغاء قفل جهاز Chrome.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">إلغاء القفل بسهولة</string>
+    <string name="auth_proximity_auth_setup_completed_content">‏يمكن لهذا الهاتف إلغاء قفل أجهزة Chrome.</string>
+    <string name="auth_proximity_auth_setup_completed_title">تم تمكين إلغاء القفل بسهولة</string>
+    <string name="auth_proximity_auth_setup_failed_content">‏الرجاء إعادة المحاولة على جهاز Chrome.</string>
+    <string name="auth_proximity_auth_setup_failed_title">حدث خطأ أثناء إعداد إلغاء القفل بسهولة</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">‏تم العثور على الهاتف. تابع العمل على جهاز Chrome.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">إعداد إلغاء القفل بسهولة</string>
+    <string name="auth_recovery_loading">جارٍ التحميل...</string>
+    <string name="auth_recovery_sending">جارٍ الإرسال…</string>
+    <string name="auth_relogin_activity_title">إعادة كتابة كلمة المرور</string>
+    <string name="auth_scope_acl_edit_desc">تعديل</string>
+    <string name="auth_scope_details_dialog_title">مزيد من المعلومات</string>
+    <string name="auth_scope_icon_desc">رمز</string>
+    <string name="auth_scope_info_desc">معلومات</string>
+    <string name="auth_scope_warning_desc">تحذير</string>
+    <string name="auth_search_settings_title">بحث</string>
+    <string name="auth_server_error">‏حدثت مشكلة أثناء الاتصال بخوادم Google.</string>
+    <string name="auth_server_error_help">أعد المحاولة لاحقًا.</string>
+    <string name="auth_setup_wizard_back_button_label">رجوع</string>
+    <string name="auth_setup_wizard_next_button_label">التالي</string>
+    <string name="auth_setup_wizard_services_activity_title">‏خدمات Google</string>
+    <string name="auth_setup_wizard_services_backup">‏يُمكنك <b>نسخ جهازك احتياطيًا في Google</b> حتى يتسنى لك استعادة التطبيقات، وبيانات التطبيقات، وإعدادات النظام، وكلمات مرور Wi‑Fi بسهولة.</string>
+    <string name="auth_setup_wizard_services_backup_restore">‏يمكنك <b>الاحتفاظ بنسخة احتياطية من تطبيقاتك وبياناتك</b> في Google Drive حتى تتمكن بسهولة من استعادة الجهاز. وتتضمن البيانات التطبيقات وبيانات التطبيقات وإعدادات النظام وكلمات مرور Wi-Fi. وتجدر الإشارة إلى أن النسخ الاحتياطية لن تؤثر في قيد سعة التخزين.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">‏تتضمن البيانات التطبيقات وإعدادات التطبيقات وإعدادات النظام وكلمات مرور شبكات Wi‑Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">النسخ الاحتياطي والاستعادة</string>
+    <string name="auth_setup_wizard_services_communication_heading">الاتصال</string>
+    <string name="auth_setup_wizard_services_data_collection">‏يمكنك <b>المساعدة في تحسين تجربة Android</b> ومستوى أداء البطارية وتصنيفات متجر Play وغير ذلك الكثير من خلال إرسال بيانات التشخيص وبيانات الاستخدام تلقائيًا حول هذا الجهاز إلى Google.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">تتضمن البيانات معلومات عن الأجهزة والشبكة واستخدام التطبيقات والهاتف وتقارير الأعطال.</string>
+    <string name="auth_setup_wizard_services_data_collection_link">‏يمكنك <b>المساعدة في تحسين تجربة Android</b> ومستوى أداء البطارية وترتيبات متجر Play وغير ذلك الكثير من خلال إرسال بيانات التشخيص وبيانات الاستخدام تلقائيًا حول هذا الجهاز إلى Google. <annotation id="learn_more">مزيد من المعلومات.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">‏تستخدم خدمة الموقع من Google شبكة Wi‑Fi والإشارات الأخرى لتحديد موقعك بشكل أكثر دقة وسرعة، وغالبًا باستخدام أقل للطاقة مقارنة باستخدام نظام تحديد المواقع العالمي (GPS) للطاقة. قد يتم تخزين بعض البيانات على جهازك. وقد يتم تجميع البيانات حتى إذا لم تكن هناك تطبيقات قيد التشغيل.</string>
+    <string name="auth_setup_wizard_services_location_heading">الموقع</string>
+    <string name="auth_setup_wizard_services_location_sharing">‏يمكنك <b>الاستعانة بخدمة مواقع Google</b> لمساعدة التطبيقات في تحديد الموقع على نحو أفضل. وسيتم إرسال بيانات مجهولة المصدر عن الموقع من جهازك إلى Google.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan">‏يمكنك <b>المساعدة في تحسين خدمات المواقع</b> من خلال السماح للتطبيقات والخدمات بالبحث عن الشبكات حتى عند تعطيل Wi-Fi.</string>
+    <string name="auth_setup_wizard_services_play">‏اطلاعي على أحدث الأخبار والعروض من Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">‏قد يتلقى هذا الجهاز تحديثات وتطبيقات من Google ومن مشغِّل شبكة الجوّال ومن جهة تصنيع الجهاز.</string>
+    <string name="auth_setup_wizard_title">معالج الإعداد</string>
+    <string name="auth_show_error_activity_title">تعذر تسجيل الدخول</string>
+    <string name="auth_show_error_title">خطأ</string>
+    <string name="auth_sign_in_agreement">‏يعني تسجيل الدخول موافقتك على سياسات خصوصية <annotation id="google_privacy">Google</annotation> وسياسات الخصوصية <annotation id="android_privacy">الإضافية</annotation>.</string>
+    <string name="auth_sign_in_agreement_multi_user">‏يعد تسجيل الدخول بمثابة موافقة منك على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="play_tos">بنود الخدمة في Google Play‏</annotation>". 
+
+تنبيه: يمكن لأي مستخدم آخر قبول أذونات التطبيقات المحدثة نيابة عنك. وكما هو الحال مع أي جهاز كمبيوتر، يجب عدم مشاركة هذا الجهاز اللوحي إلا مع الأشخاص الذين تثق فيهم."</string>
+    <string name="auth_sign_in_agreement_with_chrome">‏يعد تسجيل الدخول بمثابة موافقة منك على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="chrome_tos">بنود الخدمة</annotation> و<annotation id="chrome_privacy">إشعار الخصوصية</annotation> في Chrome و<annotation id="play_tos">بنود الخدمة</annotation> في Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">‏يعد تسجيل دخولك بمثابة موافقة منك على <annotation id="tos">بنود الخدمة</annotation> و<annotation id="google_privacy">سياسة الخصوصية</annotation> في Google و<annotation id="chrome_tos">بنود الخدمة</annotation> و<annotation id="chrome_privacy">إشعار الخصوصية</annotation> في Chrome و<annotation id="play_tos">بنود الخدمة</annotation>" في Googel Play.‏ 
+
+تنبيه: يمكن لأي مستخدم آخر قبول أذونات التطبيقات المحدثة نيابة عنك. وكما هو الحال مع أي جهاز كمبيوتر، يجب عدم مشاركة هذا الجهاز اللوحي إلا مع الأشخاص الذين تثق فيهم."</string>
+    <string name="auth_sign_in_browser">تسجيل الدخول من المتصفح</string>
+    <string name="auth_sign_in_button_label">تسجيل الدخول</string>
+    <string name="auth_sign_in_with_google_account_short">‏تسجيل الدخول باستخدام حسابك في Google:</string>
+    <string name="auth_skip_button_label">تخطي</string>
+    <string name="auth_submission_error_text">حدث خطأ. أعد المحاولة.</string>
+    <string name="auth_submission_title">عذرًا…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">"‏للإعداد، عليك توصيل هذا الجهاز  بعلامة أو جهاز NFC."</string>
+    <string name="auth_trust_agent_add_nfc_title">‏إضافة NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">إضافة جهاز موثوق به</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">إضافة مكان موثوق به</string>
+    <string name="auth_trust_agent_button_nfc_settings">‏إعدادات NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">‏تم التوصيل بشكلٍ آمن بجهاز بلوتوث %s</string>
+    <string name="auth_trust_agent_dpm_disabled">معطّل بواسطة المشرف</string>
+    <string name="auth_trust_agent_enable_nfc">‏تمكين NFC لإضافة جهاز NFC</string>
+    <string name="auth_trust_agent_first_use_notification_button">حسنًا</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">أثناء اتصاله بـ %s، الذي عينته كجهاز موثوق به.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">لفرض قفل جهازك، يلزمك إيقاف الشاشة ثمّ إعادة تشغيلها ولمس رمز القفل.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">أثناء كونه في %s، الذي عينته كمكان موثوق به.</string>
+    <string name="auth_trust_agent_first_use_notification_title">تم إلغاء قفل جهازك</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">الاسم</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"‏تم العثور على علامة NFC
+أدخل اسمًا لها."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">معطَّل</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">ممكّن</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">تحسين مطابقة الوجه</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">إلغاء</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">لن يتمكن هذا الجهاز من التعرف على وجهك مرة أخرى، وسيتم تعطيل خدمة الوجه الموثوق</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">إعادة التعيين</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">هل تريد إعادة تعيين خدمة الوجه الموثوق؟</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">إعادة تعيين خدمة الوجه الموثوق</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">خدمة الوجه الموثوق</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">متصل</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">بدون</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">غير متصل</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">الأجهزة الموثوق بها</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">بدون</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">المنزل</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">غير معروف</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">الأماكن الموثوق بها</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">العمل</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">أخفق الإقران. أعد المحاولة.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">‏تعذر إعداد جهاز NFC</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"يمكنك إضافة جهاز بلوتوث موثوق به ليظل هذا الجهاز بدون قفل عند الاتصال به. 
+
+أمثلة:
+
+- ساعة بلوتوث
+- نظام البلوتوث الخاص بالسيارة"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"‏Bluetooth
+(تم تعطيل بلوتوث)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">بلوتوث</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">إضافة جهاز موثوق به</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">تم تعطيل بلوتوث.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">إلغاء</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">اختيار جهاز</string>
+    <string name="auth_trust_agent_trusted_devices_ok">موافق</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"‏يمكنك إضافة جهاز موثوق به ليظل هذا الجهاز بدون قفل عند الاتصال به. 
+
+أمثلة:
+
+- ساعة بلوتوث
+- نظام البلوتوث الخاص بالسيارة 
+- ملصق NFC على وحدة إرساء الهاتف في السيارة."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">هل تريد إزالة هذا الجهاز من الأجهزة الموثوق بها؟</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">جهاز غير معروف.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"‏يمكنك إضافة جهاز NFC موثوق به لإلغاء قفل هذا الجهاز بنقرة واحدة. 
+
+أمثلة:
+
+- ملصق NFC على وحدة إرساء الهاتف في السيارة."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">يُرجى إضافة حساب لاسترداد عنوان المنزل وعنوان العمل.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">إلغاء</string>
+    <string name="auth_trust_agent_trusted_places_ok">موافق</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"يمكنك إضافة مكان موثوق به ليظل هذا الجهاز بدون قفل عند الدخول إلى المكان. 
+
+أمثلة:
+
+- المنزل
+- المكتب"</string>
+    <string name="auth_trust_agent_trusted_places_remove">إزالة</string>
+    <string name="auth_trust_agent_trusted_places_rename">إعادة تسمية</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">تحديد الحساب</string>
+    <string name="auth_trust_agent_trusted_places_unknown">غير معروف</string>
+    <string name="auth_trust_devices_not_available">لا تتوفر ميزة الأجهزة الموثوق بها للاستخدام.</string>
+    <string name="auth_trust_places_not_available">لا تتوفر ميزة الأماكن الموثوق بها للاستخدام.</string>
+    <string name="auth_try_again_button_label">إعادة المحاولة</string>
+    <string name="auth_ui_activity_authenticating">جارٍ المصادقة…</string>
+    <string name="auth_ui_activity_title">‏تسجيل الدخول إلى Google</string>
+    <string name="auth_ui_activity_title_browser_signin">تسجيل الدخول</string>
+    <string name="auth_ui_add_account_title">إعداد الحساب</string>
+    <string name="auth_unexpected_acl_error">حدثت مشكلة أثناء منح أذونات.</string>
+    <string name="auth_use_location_summary">‏السماح لـ Google باستخدام الموقع لتحسين نتائج البحث والخدمات الأخرى</string>
+    <string name="auth_use_location_title">‏الموقع وبحث Google</string>
+    <string name="auth_username">البريد الإلكتروني</string>
+    <string name="auth_visible_actions_title">المشاركة مع...</string>
+    <string name="authorization_dialog">مربع حوار التفويض</string>
+    <string name="cancel">إلغاء</string>
+    <string name="circle_button_add_to_circles">إضافة إلى الدوائر</string>
+    <string name="circle_button_circles">%d من الدوائر</string>
+    <string name="circle_button_follow">متابعة</string>
+    <string name="circle_button_following_circle">المتابعة</string>
+    <string name="circle_button_medium_add_to_circles">إضافة</string>
+    <string name="circle_button_profile_blocked">محظور</string>
+    <string name="common_accessibility_audience_view_editable">تعديل الجمهور</string>
+    <string name="common_add_account_button_label">إضافة حساب</string>
+    <string name="common_add_account_label">إضافة حساب</string>
+    <string name="common_ads_settings_title">الإعلانات</string>
+    <string name="common_android_wear_notification_needs_update_text">‏يتطلب أحد التطبيقات تحديثًا لتطبيق Android Wear.</string>
+    <string name="common_android_wear_update_text">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث تطبيق Android Wear.</string>
+    <string name="common_android_wear_update_title">‏تحديث Android Wear</string>
+    <string name="common_app_name">‏خدمات Google Play</string>
+    <string name="common_cannot_start_hangouts_exception">‏يتعذّر بدء Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">‏يتعذر بدء Hangouts‏ (خطأ في الإذن).</string>
+    <string name="common_car_permission_desc">الدخول إلى خدمة السيارة.</string>
+    <string name="common_car_permission_label">خدمة السيارة</string>
+    <string name="common_chips_label_empty_circles">بلا دوائر</string>
+    <string name="common_chips_label_extended_circles">الدوائر الموسعة</string>
+    <string name="common_chips_label_only_you">أنت فقط</string>
+    <string name="common_chips_label_public">عامة</string>
+    <string name="common_chips_label_your_circles">دوائرك</string>
+    <string name="common_choose_account_label">اختيار حساب</string>
+    <string name="common_clear_app_data_menu_item">محو بيانات التطبيق</string>
+    <string name="common_connected_apps_settings_title">التطبيقات المقترنة</string>
+    <string name="common_fitness_settings_title">الصلاحية</string>
+    <string name="common_games_settings_title">‏ألعاب Play</string>
+    <string name="common_get_verification_code_menu_item">الحصول على رمز التحقق</string>
+    <string name="common_google_play_services_enable_button">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_enable_text">‏لن يعمل هذا التطبيق ما لم يتم تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_enable_title">‏تمكين خدمات Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">خطأ</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">تم الطلب عن طريق %1$s</string>
+    <string name="common_google_play_services_install_button">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_install_text_phone">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في هاتفك.</string>
+    <string name="common_google_play_services_install_text_tablet">‏لن يتم تشغيل هذا التطبيق بدون خدمات Google Play، والتي لا تتوفر في جهازك اللوحي.</string>
+    <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">الحساب الذي تمّ تحديده غير موجود على الجهاز. يُرجى اختيار حساب آخر.</string>
+    <string name="common_google_play_services_invalid_account_title">حساب غير صالح</string>
+    <string name="common_google_play_services_needs_enabling_title">‏يتطلب أحد التطبيقات تمكين خدمات Google Play.</string>
+    <string name="common_google_play_services_network_error_text">‏يتطلب الاتصال بخدمات Google Play وجود اتصال بيانات.</string>
+    <string name="common_google_play_services_network_error_title">خطأ في الشبكة</string>
+    <string name="common_google_play_services_no_restricted_profiles">هذا التطبيق لا يتوافق مع حسابات الملفات الشخصية المقيدة</string>
+    <string name="common_google_play_services_notification_needs_installation_title">‏يتطلب أحد التطبيقات تثبيت خدمات Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">‏يتطلب أحد التطبيقات تحديث خدمات Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
+    <string name="common_google_play_services_unknown_issue">‏حدثت مشكلة غير معروفة في خدمات Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">‏خدمات Google Play التي تستجيب لها بعض تطبيقاتك لا تعمل على جهازك. يُرجى الاتصال بجهة التصنيع للحصول على المساعدة.</string>
+    <string name="common_google_play_services_unsupported_title">‏خدمات Google Play</string>
+    <string name="common_google_play_services_update_button">تحديث</string>
+    <string name="common_google_play_services_update_text">‏لن يتم تشغيل هذا التطبيق ما لم تحدِّث خدمات Google Play.</string>
+    <string name="common_google_play_services_update_title">‏تحديث خدمات Google Play</string>
+    <string name="common_google_settings">‏إعدادات Google</string>
+    <string name="common_list_apps_menu_help">مساعدة</string>
+    <string name="common_list_apps_menu_help_and_feedback">المساعدة والتعليقات</string>
+    <string name="common_location_settings_title">الموقع</string>
+    <string name="common_maps_settings_title">‏خرائط و Latitude</string>
+    <string name="common_mdm_feature_name">‏مدير جهاز Android</string>
+    <string name="common_network_load_failed">غير متاح نظرًا لتعذر اتصال الجهاز بإحدى الشبكات</string>
+    <string name="common_no_network">غير متاح نظرًا لأن الجهاز في وضع عدم الاتصال</string>
+    <string name="common_open_on_phone">فتح على الهاتف</string>
+    <string name="common_plus_settings_title">Google+‎</string>
+    <string name="common_restricted_no_accounts">ليست هناك حسابات لتحديدها</string>
+    <string name="common_search_and_now_settings_title">‏البحث وNow</string>
+    <string name="common_search_settings_title">بحث</string>
+    <string name="common_security_settings_title">التحقق من التطبيقات</string>
+    <string name="common_signin_button_text">تسجيل الدخول</string>
+    <string name="common_signin_button_text_long">‏تسجيل الدخول باستخدام Google</string>
+    <string name="common_storage_settings_title">‏سعة تخزين خدمات Play</string>
+    <string name="common_ui_confirm_deleting_button">حذف</string>
+    <string name="common_ui_confirm_deleting_checkbox">أعي ذلك وأرغب في إجراء الحذف</string>
+    <string name="common_url_load_unsuccessful_message">‏جهاز Android غير متصل بخدمة بيانات. لعرض هذه المعلومات الآن، انتقل إلى %s باستخدام متصفح ويب.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">‏جهاز Android غير متصل بشبكة Wi-Fi. لعرض هذه المعلومات الآن، انتقل إلى %s باستخدام متصفح ويب.</string>
+    <string name="common_url_login_notice">تسجيل الدخول باعتبارك %1$s</string>
+    <string name="common_usage_and_diagnostics">الاستخدام وبيانات التشخيص</string>
+    <string name="country_invalid">هذا البلد غير مسموح به</string>
+    <string name="device_location_acl_no_one">لم يتم تحديد أي شخص</string>
+    <string name="device_location_best_acl_picker_title">تحديد مستوى رؤية الموقع المحدد</string>
+    <string name="device_location_city_acl_picker_title">مستوى رؤية موقع المدينة</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s و%s وآخرون</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">‏&lt;b>%s&lt;/b> و&lt;b>%s&lt;/b> و%d آخرون</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">يجب أن يكون لديك اتصال بيانات للاطلاع على إعدادات مشاركة الموقع؛ الرجاء التحقق من الاتصال أو إعادة المحاولة لاحقًا.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">فتح إعدادات الموقع</string>
+    <string name="device_location_reporting_reminder_dialog_summary">‏لا يؤثر إيقاف مشاركة الموقع في ميزة \"الإبلاغ عن الموقع\" أو \"سجل المواقع\". وقد تحتاج خدمات Google الأخرى التي مكّنتها في وقت سابق إلى موقعك، ومنها Google Now على سبيل المثال. ويمكنك دومًا التحكم في ميزة الإبلاغ عن الموقع وسجل المواقع من خلال \"إعدادات الموقع\".</string>
+    <string name="device_location_reporting_reminder_dialog_title">الإبلاغ عن الموقع</string>
+    <string name="device_location_three_acl_entries" formatted="false">‏&lt;b>%s&lt;/b> و&lt;b>%s&lt;/b> و&lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">‏&lt;b>%s&lt;/b> و&lt;b>%s&lt;/b></string>
+    <string name="disagree">غير موافق</string>
+    <string name="enable_location_reporting_error">تعذّر علينا تشغيل ميزتي الإبلاغ عن الموقع وسجلّ المواقع لحساب %s. ولتشغيل ميزتي الإبلاغ عن الموقع وسجلّ المواقع، انتقل إلى إعدادات الموقع.</string>
+    <string name="enable_location_reporting_error_title">حدث خطأ</string>
+    <string name="enable_location_reporting_title">الإبلاغ عن الموقع</string>
+    <string name="loading">جارٍ التحميل…</string>
+    <string name="location_settings_allow_access_summary">‏السماح لتطبيقات Google باستخدام موقع هذا الجهاز متى كان قيد التشغيل</string>
+    <string name="location_settings_allow_access_title">الدخول إلى الموقع</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"‏لن تتمكن من استعادة سجلّ المواقع مجددًا. 
+
+قد يتوقف Google Now والتطبيقات الأخرى التي تستخدم سجلّ المواقع عن العمل."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">هل تريد الحذف نهائيًا؟</string>
+    <string name="location_settings_delete_auth_error">اسم المستخدم غير صحيح أو كلمة المرور غير صحيحة</string>
+    <string name="location_settings_delete_io_error">تعذّر اتصال الجهاز بإحدى الشبكات</string>
+    <string name="location_settings_delete_location_history">حذف سجِلّ المواقع</string>
+    <string name="location_settings_delete_location_history_in_progress">جارٍ الحذف...</string>
+    <string name="location_settings_delete_offline_error">الجهاز في وضع عدم الاتصال</string>
+    <string name="location_settings_expiration_both_one">الوقت المتبقي: ساعة واحدة ودقيقة واحدة</string>
+    <string name="location_settings_expiration_both_other" formatted="false">الوقت المتبقي: %d ساعات و%d دقيقة</string>
+    <string name="location_settings_expiration_hours_one">الوقت المتبقي: ساعة واحدة و%d دقيقة</string>
+    <string name="location_settings_expiration_minutes">عدد الدقائق المتبقية: %d</string>
+    <string name="location_settings_expiration_minutes_one">الوقت المتبقي %d ساعة ودقيقة واحدة</string>
+    <string name="location_settings_expiration_soon">الوقت المتبقى أقل من 15 دقيقة</string>
+    <string name="location_settings_info_title">معلومات</string>
+    <string name="location_settings_location_history_activity_title">سجل المواقع</string>
+    <string name="location_settings_location_history_summary_full">"‏يتيح هذا الإعداد لـ Google تخزين سجل من بيانات المواقع من الأجهزة التي مكنت عليها الإبلاغ عن الموقع لهذا الحساب. يمكنك الاستفادة من سجل المواقع في الحصول على مزيد من الميزات من Google، على سبيل المثال، قد يتم استخدامه في Google Now لإشعارك بحركة المرور أثناء رحلتك. 
+
+يمكنك الاطلاع على سجل موقعك وإدارته من خلال maps.google.com/locationhistory. يمكنك إيقاف سجل المواقع متى شئت، ولكن لن يؤدي هذا إلى إزالة الإدخالات الحالية. يؤدي النقر على الزر أدناه إلى حذف جميع إدخالات سجل المواقع الحالية على حسابك."</string>
+    <string name="location_settings_location_reporting_activity_title">الإبلاغ عن الموقع</string>
+    <string name="location_settings_location_reporting_summary_full">"‏تستخدم Google هذه الميزة في منتجات مثل Google Now وخرائط Google. 
+
+إن تشغيل الإبلاغ عن الموقع يسمح لأي منتج من منتجات Google يستخدم هذه الميزة بتخزين واستخدام أحدث بيانات الموقع لهذا الجهاز بالارتباط بحسابك في Google."</string>
+    <string name="location_settings_no_network_alert">يجب أن يكون لديك اتصال بيانات للاطلاع على إعدادات مشاركة الموقع؛ الرجاء التحقق من الاتصال أو إعادة المحاولة لاحقًا.</string>
+    <string name="location_settings_not_available_summary">‏ليس لديك حساب في Google.</string>
+    <string name="location_settings_not_available_title">إضافة حساب</string>
+    <string name="location_settings_reporting_summary_off">إيقاف لهذا الجهاز</string>
+    <string name="location_settings_reporting_summary_on">تشغيل لهذا الجهاز</string>
+    <string name="location_settings_save_error">لا يمكن حفظ الإعدادات.</string>
+    <string name="location_settings_saving">جارٍ حفظ الإعدادات...</string>
+    <string name="location_settings_screen_title">‏إعدادات الموقع من Google</string>
+    <string name="location_settings_see_global_settings_dialog_message">"‏لا يتحكم هذا الإعداد إلا في إمكانية الدخول إلى الموقع في تطبيقات Google. 
+
+للتحكم في إمكانية دخول جميع التطبيقات إلى الموقع، انتقل إلى الإعدادات > الدخول إلى الموقع."</string>
+    <string name="location_settings_temporary_sharing_title">مشاركة مؤقتة مع</string>
+    <string name="location_settings_ulr_summary_ambiguous">لا يمكن تحديد الإعداد السابق. تم إيقافه.</string>
+    <string name="location_settings_ulr_summary_auth_error">غير متاح نظرًا لإدخال اسم مستخدم غير صحيح أو كلمة مرور غير صحيحة</string>
+    <string name="location_settings_ulr_summary_error">يتعذر الوصول إلى الخادم لاستعادة الإعدادات. أعد المحاولة لاحقًا.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">تم التعطيل</string>
+    <string name="location_settings_ulr_summary_loading">جارٍ الاسترداد…</string>
+    <string name="location_settings_ulr_summary_off">قيد الإيقاف</string>
+    <string name="location_settings_ulr_summary_offline">غير متاح نظرًا لأن الجهاز في وضع عدم الاتصال</string>
+    <string name="location_settings_ulr_summary_on">قيد التشغيل</string>
+    <string name="location_settings_ulr_summary_restricted">تم التعطيل</string>
+    <string name="location_settings_ulr_summary_unknown">غير معروف</string>
+    <string name="location_settings_ulr_summary_unsupported_country">غير متوفرة في %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">غير متوفر في هذه المنطقة</string>
+    <string name="location_settings_view_all">عرض الكل</string>
+    <string name="location_sharing_settings_acl_title">المشاركة مع %s</string>
+    <string name="location_sharing_settings_choose_acl_button">اختيار أشخاص للمشاركة معهم</string>
+    <string name="location_sharing_settings_city_description">يمكنك استخدام مشاركة الموقع على مستوى المدينة للسماح للأصدقاء والعائلة بالاطلاع على مدينتك.</string>
+    <string name="location_sharing_settings_city_example">مثال: العباسية، القاهرة، جمهورية مصر العربية</string>
+    <string name="location_sharing_settings_city_title">موقع المدينة</string>
+    <string name="location_sharing_settings_description">‏تتيح لك مشاركة الموقع مشاركة موقعك الحالي من ميزة \"الإبلاغ عن الموقع\" على جهازك، مع الأشخاص الذين تختارهم.&lt;br/>&lt;br/> يستطيع الأشخاص الذين تشارك موقعك معهم الاطلاع على موقعك الحالي عبر منتجات Google، بما في ذلك Google+‎ وGoogle Now. كما يمكنهم أيضًا الاطلاع على أماكنك مثل المنزل والعمل. &lt;a href=\"%s\">مزيد من المعلومات&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">‏تتيح لك مشاركة الموقع مشاركة موقعك الحالي من ميزة &lt;a href=\"%1$s\">الإبلاغ عن الموقع&lt;/a> على جهازك، مع الأشخاص الذين تختارهم.&lt;br/>&lt;br/>يستطيع الأشخاص الذين تشارك موقعك معهم الاطلاع على موقعك الحالي عبر منتجات Google، بما في ذلك Google+‎ وGoogle Now. كما يمكنهم أيضًا الاطلاع على أماكنك مثل المنزل والعمل. &lt;a href=\"%2$s\">مزيد من المعلومات&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">تغيير</string>
+    <string name="location_sharing_settings_pinpoint_description">يمكنك استخدام مشاركة الموقع المحدد للسماح لمن تحبهم بالاطلاع على موقعك الحالي بدقة.</string>
+    <string name="location_sharing_settings_pinpoint_example">مثال: 12 شارع الخليفة المأمون، القاهرة، جمهورية مصر العربية</string>
+    <string name="location_sharing_settings_pinpoint_title">الموقع المحدد</string>
+    <string name="location_sharing_settings_title">مشاركة الموقع</string>
+    <string name="location_ulr_ambiguous_setting_text">لا يمكن تحديد الإعداد السابق. هل تريد تشغيله الآن؟</string>
+    <string name="location_ulr_setting_google_location_disabled">‏غير متاحة نظرًا لأن تطبيقات Google لا تملك حق الدخول إلى الموقع</string>
+    <string name="location_ulr_setting_label">‏الإبلاغ عن المواقع من Google</string>
+    <string name="location_ulr_setting_location_disabled">غير متاحة نظرًا لإيقاف تشغيل الموقع</string>
+    <string name="location_ulr_setting_no_account">تم إيقاف التشغيل، فليست هناك حسابات</string>
+    <string name="location_ulr_setting_reporting_only">جارٍ استخدام آخر موقع</string>
+    <string name="location_warning_do_not_show_again">عدم الإظهار مرة أخرى</string>
+    <string name="location_warning_message">‏يمكنك السماح لـ Google بمساعدة التطبيقات في تحديد الموقع. وهذا يعني أنه سيتم إرسال بيانات مجهولة المصدر عن الموقع إلى Google، حتى عند عدم تشغيل أية تطبيقات.</string>
+    <string name="location_warning_title">‏هل تريد استخدام خدمة الموقع من Google؟</string>
+    <string name="mr_media_route_button_content_description">إرسال</string>
+    <string name="mr_media_route_chooser_searching">جارٍ البحث عن الأجهزة…</string>
+    <string name="mr_media_route_chooser_title">الاتصال بجهاز</string>
+    <string name="mr_media_route_controller_disconnect">قطع الاتصال</string>
+    <string name="mr_system_route_name">النظام</string>
+    <string name="mr_user_route_category_name">الأجهزة</string>
+    <string name="notification_ticker">تم طلب الدخول</string>
+    <string name="off">إيقاف</string>
+    <string name="ok">موافق</string>
+    <string name="on">تشغيل</string>
+    <string name="open_location_settings">فتح إعدادات الموقع</string>
+    <string name="phone_number_hint">رقم الهاتف</string>
+    <string name="phone_number_invalid">رقم الهاتف غير صالح</string>
+    <string name="phone_number_invalid_character">حروف غير صالحة في رقم الهاتف</string>
+    <string name="place_address_hint">العنوان</string>
+    <string name="place_address_title">العنوان</string>
+    <string name="place_address_update_hint">تحديث</string>
+    <string name="place_category_hint">تحديد فئة</string>
+    <string name="place_category_title">الفئة</string>
+    <string name="place_name_hint">اسم المكان</string>
+    <string name="place_name_title">الاسم</string>
+    <string name="place_phone_hint">رقم الهاتف الأساسي</string>
+    <string name="place_phone_title">الهاتف</string>
+    <string name="place_picker_adding_a_place">جارٍ إرسال التقرير...</string>
+    <string name="place_picker_cancel">إلغاء</string>
+    <string name="place_picker_cant_add_place">لا يمكن إضافة المكان.</string>
+    <string name="place_picker_label">اختر مكانًا</string>
+    <string name="place_picker_location_off_message">لتحديد موقع، يجب أولاً تشغيل إمكانية الدخول إلى الموقع عبر الإعدادات.</string>
+    <string name="place_picker_nearby_places">الأماكن المجاورة</string>
+    <string name="place_picker_no_search_results">لم يتم العثور على أماكن متطابقة.</string>
+    <string name="place_picker_search_error">لا يمكن تحميل نتائج البحث.</string>
+    <string name="place_picker_search_hint">بحث</string>
+    <string name="place_picker_searching_label">جارٍ البحث…</string>
+    <string name="place_picker_select_a_location_label">حدد موقعًا للحصول على مزيد من المعلومات</string>
+    <string name="place_picker_select_this_location">حدد هذا الموقع</string>
+    <string name="place_picker_settings">الإعدادات</string>
+    <string name="place_picker_updating_location_label">جارٍ تحديث موقعك...</string>
+    <string name="place_picker_updating_nearby_label">جارٍ تحديث الأماكن المجاورة...</string>
+    <string name="place_website_hint">موقع الويب الرسمي</string>
+    <string name="place_website_title">موقع الويب</string>
+    <string name="plus_accessibility_acl_selection">اختيار الجمهور</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">دائرة</string>
+    <string name="plus_accessibility_audience_selection_create_circle">إضافة إلى دائرة جديدة</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">الصورة الرمزية</string>
+    <string name="plus_accessibility_audience_selection_person_circles">الدوائر</string>
+    <string name="plus_accessibility_audience_selection_search_icon">البحث عن أشخاص أو دوائر</string>
+    <string name="plus_accessibility_circle_selection">اختيار الدوائر</string>
+    <string name="plus_accessibility_comment_avatar">الدوائر</string>
+    <string name="plus_accessibility_facl_selection">حدد أعضاء الدائرة المسموح للتطبيق برؤيتهم</string>
+    <string name="plus_accessibility_update_circles">تحديث الدوائر</string>
+    <string name="plus_actionbar_up_button_description">الانتقال لأعلى</string>
+    <string name="plus_add_to_circle_progress">جارٍ الإضافة...</string>
+    <string name="plus_add_to_circles_title_default">إضافة إلى الدوائر</string>
+    <string name="plus_add_to_circles_title_with_user_name">إضافة %1$s</string>
+    <string name="plus_add_to_following_circle_progress">جارٍ المتابعة…</string>
+    <string name="plus_add_to_new_circle_progress_message">جارٍ الإضافة...</string>
+    <string name="plus_app_label">Google+‎</string>
+    <string name="plus_app_name">Google+‎</string>
+    <string name="plus_app_settings_accounts_label">الحساب</string>
+    <string name="plus_app_settings_activity_label">التطبيقات المرتبطة</string>
+    <string name="plus_app_settings_activity_log_label">سجل الأنشطة</string>
+    <string name="plus_app_settings_activity_log_page_label">سجل الأنشطة</string>
+    <string name="plus_app_settings_all_apps_label">جميع التطبيقات والأجهزة</string>
+    <string name="plus_app_settings_apps_page_label">التطبيقات المرتبطة</string>
+    <string name="plus_app_settings_fitness_apps_label">تطبيقات وأجهزة اللياقة البدنية</string>
+    <string name="plus_app_settings_sign_in_apps_label">‏تطبيقات من خلال Google+‎</string>
+    <string name="plus_article_preview_image_description">صورة المعاينة للمقالة</string>
+    <string name="plus_audience_edit_button_label">تعديل</string>
+    <string name="plus_audience_selection_cancel">إلغاء</string>
+    <string name="plus_audience_selection_contacts">جميع جهات الاتصال</string>
+    <string name="plus_audience_selection_contacts_description">يتضمن جهات اتصال تم إنشاؤها في المستقبل</string>
+    <string name="plus_audience_selection_description_acl">مشاركة مع</string>
+    <string name="plus_audience_selection_done">تم</string>
+    <string name="plus_audience_selection_everyone">كل الدوائر</string>
+    <string name="plus_audience_selection_everyone_description">بما في ذلك الدوائر التي يتم إنشاؤها مستقبلاً</string>
+    <string name="plus_audience_selection_header_circles">الدوائر</string>
+    <string name="plus_audience_selection_header_people">الأشخاص</string>
+    <string name="plus_audience_selection_header_search">تم البحث عن</string>
+    <string name="plus_audience_selection_header_suggested">الاقتراحات</string>
+    <string name="plus_audience_selection_hidden_circle">الأشخاص في هذه الدائرة ليسوا متاحين بشكل عام في ملفك الشخصي</string>
+    <string name="plus_audience_selection_loading">جارٍ التحميل...</string>
+    <string name="plus_audience_selection_new_circle">إضافة إلى دائرة جديدة</string>
+    <string name="plus_audience_selection_public_circle">أي شخص على الويب</string>
+    <string name="plus_audience_selection_search_device_results">من جهازك</string>
+    <string name="plus_audience_selection_search_google_results">‏من GOOGLE</string>
+    <string name="plus_audience_selection_title">الجمهور</string>
+    <string name="plus_audience_selection_title_acl">المشاركة مع...</string>
+    <string name="plus_audience_selection_title_search">بحث…</string>
+    <string name="plus_audience_selection_title_update_circles">إضافة إلى دوائر</string>
+    <string name="plus_auth_audience_view_default_description">‏سيرسل %s معلومات عن أنشطتك من هذا التطبيق إلى Google. ويمكنك اختيار الأشخاص الآخرين الذين يمكنهم رؤية هذه الأنشطة على Google.</string>
+    <string name="plus_auth_audience_view_footnote">‏ستستخدم Google هذه المعلومات وفقًا <annotation id="tos">لبنود خدمة</annotation> و<annotation id="google_privacy">سياسة خصوصية</annotation> Google</string>
+    <string name="plus_auth_hide_circles_label">إخفاء جميع الدوائر</string>
+    <string name="plus_auth_info_fragment_app_name">%s يريد أن:</string>
+    <string name="plus_auth_see_circles_label">الاطلاع على جميع الدوائر</string>
+    <string name="plus_avatar_image_description">الصورة الشخصية للمستخدم</string>
+    <string name="plus_bad_name_agree_button_label">إرسال</string>
+    <string name="plus_bad_name_decline_button_label">تغيير الاسم</string>
+    <string name="plus_bad_name_skip_button_label">‏التخطي إلى Google+‎</string>
+    <string name="plus_checking_gplus_signup_state">جارٍ الاتصال…</string>
+    <string name="plus_choose_facl_title">معلومات أساسية يصل إليها %s</string>
+    <string name="plus_circle_creation_circle_name_hint">اسم الدائرة</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">أخفق إنشاء الدائرة؛ أعد المحاولة لاحقًا.</string>
+    <string name="plus_circle_creation_keyboard_action_label">إنشاء</string>
+    <string name="plus_circle_creation_title_default">إنشاء دائرة</string>
+    <string name="plus_circle_creation_title_with_user_name">إضافة %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">زر إغلاق مربع الحوار</string>
+    <string name="plus_close_button_label">إغلاق</string>
+    <string name="plus_create_button_description">زر إضافة دائرة جديدة</string>
+    <string name="plus_cross_client_auth_toast_text">‏مرحبًا بك مرة أخرى في %1$s. أنت مسجّل الدخول باستخدام حساب Google باعتبارك %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">هذا النشاط مرئي لـ:</string>
+    <string name="plus_delete_moment_failed_dialog_message">حدثت مشكلة أثناء حذف الأنشطة، يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="plus_delete_moment_progress_dialog_message">جارٍ الحذف...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">‏حذف كل أنشطة %s على Google أيضًا</string>
+    <string name="plus_disconnect_source_dialog_message">‏لن يحصل %1$s بعد الآن على حق الدخول الذي منحته إياه للدخول إلى حساب Google أو إرسال أنشطة تطبيقاتك إلى Google. قد يستغرق اكتمال ذلك ما يصل إلى ساعة.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">إلغاء</string>
+    <string name="plus_disconnect_source_dialog_positive_button">إلغاء الربط</string>
+    <string name="plus_disconnect_source_dialog_title">هل ترغب في إلغاء الربط؟</string>
+    <string name="plus_disconnect_source_failed_dialog_message">تعذر إلغاء ربط %s.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">‏هل تريد إلغاء الربط بين هذا التطبيق وGoogle؟</string>
+    <string name="plus_disconnect_source_progress_dialog_message">جارٍ إلغاء ربط %s…</string>
+    <string name="plus_domain_default">النطاق</string>
+    <string name="plus_domain_restricted_choice_body">منع نشر المشاركة خارج %s</string>
+    <string name="plus_domain_restricted_choice_title">حصر على %s</string>
+    <string name="plus_done">موافق</string>
+    <string name="plus_facl_default_description">‏اسمك بالكامل وصورة الملف الشخصي ومعرّف +Google والفئة العمرية واللغة وقائمة بالأشخاص في الدوائر المحددة أدناه. تحتوي القائمة على ملفاتهم الشخصية العامة، ولكن ليس أسماء الدوائر التي وضعتهم فيها.</string>
+    <string name="plus_first_name">الأول</string>
+    <string name="plus_gender_prompt">تحديد الجنس</string>
+    <string name="plus_install_app_dialog_checkbox_text">عدم السؤال مرة أخرى.</string>
+    <string name="plus_install_app_dialog_message">‏هل تريد الحصول على تطبيق +Google لعرض المشاركة التي نشرتها لتوك؟</string>
+    <string name="plus_install_app_dialog_negative_button">ليس الآن</string>
+    <string name="plus_install_app_dialog_positive_button">تثبيت</string>
+    <string name="plus_install_app_dialog_title">‏الحصول على Google+‎</string>
+    <string name="plus_internal_error">حدث خطأ داخلي.</string>
+    <string name="plus_invalid_account">حساب غير صالح</string>
+    <string name="plus_last_name">العائلة</string>
+    <string name="plus_list_apps_aspen_empty_message">"‏لم يتم الربط مع أي تطبيق باستخدام ميزة تسجيل الدخول باستخدام +Google.
+
+"<annotation id="learn_more">مزيد من المعلومات</annotation></string>
+    <string name="plus_list_apps_disabled_error">تعذر تحميل التطبيقات المرتبطة هذه المرة. <annotation id="learn_more">مزيد من المعلومات</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">‏لا توجد تطبيقات مرتبطة بحساب Google لديك</string>
+    <string name="plus_list_apps_error">تعذر تحميل التطبيقات، يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="plus_list_apps_error_aspen">"‏تعذر تحميل التطبيقات.
+
+"<annotation id="learn_more">تعرف على المزيد من المعلومات</annotation> حول التطبيقات من خلال تسجيل الدخول باستخدام +Google.</string>
+    <string name="plus_list_apps_error_fitness">"تعذر تحميل التطبيقات أو الأجهزة.
+
+"<annotation id="learn_more">معرفة المزيد</annotation> حول تطبيقات وأجهزة اللياقة البدنية.</string>
+    <string name="plus_list_apps_fitness_empty_message">"‏لم تقم بتوصيل أي تطبيقات أو أجهزة بنظام Google Fit
+
+"<annotation id="learn_more">معرفة المزيد</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">لا توجد أية حسابات.</string>
+    <string name="plus_list_moments_disabled_error">تعذر تحميل سجل الأنشطة هذه المرة. <annotation id="learn_more">مزيد من المعلومات</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">ليس لديك أي أنشطة</string>
+    <string name="plus_list_moments_error">تعذر تحميل الأنشطة، يرجى إعادة المحاولة لاحقًا.</string>
+    <string name="plus_list_moments_filter_empty_message">ليس لديك أنشطة من هذا النوع</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">يتعذّر عرض هذا النشاط من سجلّ الأنشطة. يُرجى الانتقال إلى هذا التطبيق مباشرة.</string>
+    <string name="plus_loading">جارٍ التحميل...</string>
+    <string name="plus_manage_app_acl_description_label">‏الأنشطة التي يشاركها التطبيق مع Google</string>
+    <string name="plus_manage_app_acl_error">تعذر تحديث التطبيق.</string>
+    <string name="plus_manage_app_all_circles_label">كل الدوائر</string>
+    <string name="plus_manage_app_app_icon_desc">رمز</string>
+    <string name="plus_manage_app_disabled_error">تعذر تحميل التطبيق المرتبط هذه المرة. <annotation id="learn_more">مزيد من المعلومات</annotation></string>
+    <string name="plus_manage_app_disconnect_label">إلغاء الربط</string>
+    <string name="plus_manage_app_domain_label">نطاق</string>
+    <string name="plus_manage_app_extended_circles_label">الدوائر الموسعة</string>
+    <string name="plus_manage_app_facl_label">يمكن لهذا التطبيق أن يرى هؤلاء الأشخاص</string>
+    <string name="plus_manage_app_label">التطبيق المرتبط</string>
+    <string name="plus_manage_app_limited_label">تمت المشاركة بشكل خاص</string>
+    <string name="plus_manage_app_no_acl_description">استخدام هذا التطبيق</string>
+    <string name="plus_manage_app_no_circles_label">لا شيء</string>
+    <string name="plus_manage_app_only_you_label">أنت وحدك</string>
+    <string name="plus_manage_app_pacl_label">‏من يمكنهم الاطلاع على أنشطة التطبيقات على Google</string>
+    <string name="plus_manage_app_pacl_sub_label">لا تعمل الخيارات التي تحددها هنا على تغيير مستوى رؤية أي أنشطة حالية في سجل الأنشطة، غير أنها تسري على أنشطة الألعاب.</string>
+    <string name="plus_manage_app_public_label">عام</string>
+    <string name="plus_manage_app_scopes_label">هذا التطبيق يمكنه الوصول إلى:</string>
+    <string name="plus_manage_app_updating_acl">جارٍ التحديث…</string>
+    <string name="plus_manage_aspen_app_label">"‏تطبيق يتم تسجيل الدخول إليه بـاستخدام  Google+‎"</string>
+    <string name="plus_manage_device_disconnect_label">إلغاء الربط</string>
+    <string name="plus_manage_device_label">جهاز متصل</string>
+    <string name="plus_manage_moment_acl">"‏مرئي لـ:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">تعذر تحميل بعض التفاصيل، الرجاء إعادة المحاولة لاحقًا</string>
+    <string name="plus_manage_moment_acl_separator">"، "</string>
+    <string name="plus_manage_moment_delete_confirm">حذف</string>
+    <string name="plus_manage_moment_delete_label">حذف</string>
+    <string name="plus_manage_moment_image_desc">عرض الأنشطة</string>
+    <string name="plus_manage_moment_label">النشاط</string>
+    <string name="plus_manage_moment_no_in_app_delete">تتعذّر إدارة هذا النشاط. <annotation id="learn_more">مزيد من المعلومات</annotation></string>
+    <string name="plus_ok_button_description">زر الموافقة</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">‏التوصية بهذا على Google</string>
+    <string name="plus_one_annotation_none_short">التوصية بهذا</string>
+    <string name="plus_one_app">‏من &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">+10 آلاف</string>
+    <string name="plus_one_description">المس لإضافة \"وأنا أيضًا\" إلى %1$s الحالي</string>
+    <string name="plus_one_description_remove">المس لإزالة \"وأنا أيضًا\" من %1$s الحالي</string>
+    <string name="plus_one_description_standard">المس لاختيار \"وأنا أيضًا\"</string>
+    <string name="plus_one_error">حدثت مشكلة مؤقتة أثناء إجراء 1+. الرجاء إعادة المحاولة.</string>
+    <string name="plus_one_public">عام</string>
+    <string name="plus_one_self">إجراء 1+ باسم %1$s</string>
+    <string name="plus_one_self_removed">تمت إزالة إجراء 1+.</string>
+    <string name="plus_one_share">مشاركة</string>
+    <string name="plus_one_social_annotation_prefix">من ضمنهم %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">بما في ذلك %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s، %2$s</string>
+    <string name="plus_one_social_annotation_suffix">أجرى %1$s 1+ لهذا</string>
+    <string name="plus_one_social_annotation_user">أنت</string>
+    <string name="plus_one_title">لقد أجريت 1+ بشكل عام لهذا كـ</string>
+    <string name="plus_one_undo">تراجع</string>
+    <string name="plus_oob_3p_promo">‏حقق أقصى استفادة من %1$s باستخدام ملف شخصي عام في +Google.</string>
+    <string name="plus_oob_cancel_button_label">إلغاء</string>
+    <string name="plus_oob_default_promo">‏حقق أقصى استفادة من Google باستخدام ملف شخصي عام في +Google.</string>
+    <string name="plus_oob_done_button_label">تم</string>
+    <string name="plus_oob_edit_name_warning">‏يؤدي تغيير اسم ملفك الشخصي في Google+‎ إلى تغييره في جميع منتجات Google الأخرى.</string>
+    <string name="plus_oob_failure_text">‏للأسف، تعذر على Google+‎ إعداد ملفك الشخصي. أعد المحاولة لاحقًا.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">الاسم</string>
+    <string name="plus_oob_first_name_content_description">الاسم الأول</string>
+    <string name="plus_oob_gender_content_description">الجنس</string>
+    <string name="plus_oob_interstitial_cancel_button_label">ليس الآن</string>
+    <string name="plus_oob_interstitial_loading">‏اتصال بـ+Google</string>
+    <string name="plus_oob_interstitial_loading_body">قد يستغرق هذا بضع دقائق.</string>
+    <string name="plus_oob_interstitial_sending">جارٍ الإرسال…</string>
+    <string name="plus_oob_interstitial_sending_body">قد يستغرق هذا بضع دقائق.</string>
+    <string name="plus_oob_join">إنشاء</string>
+    <string name="plus_oob_last_name_content_description">اسم العائلة</string>
+    <string name="plus_oob_loading">جارٍ التحميل…</string>
+    <string name="plus_oob_next">التالي</string>
+    <string name="plus_oob_next_content_description">زر \"التالي\"</string>
+    <string name="plus_oob_no_connection_message">تعذر الاتصال بالخادم.</string>
+    <string name="plus_oob_no_connection_title">لا يتوفر اتصال</string>
+    <string name="plus_oob_pronoun_content_description">الرجاء الإشارة إليّ باعتباري</string>
+    <string name="plus_oob_sending">جارٍ الإرسال…</string>
+    <string name="plus_oob_title_tos">‏الملف الشخصي في Google+‎</string>
+    <string name="plus_oob_tos_accept">قبول</string>
+    <string name="plus_photo_preview_image_description">صورة المعاينة للصورة</string>
+    <string name="plus_plus_icon_image_description">‏صورة رمز Google plus</string>
+    <string name="plus_posted_just_now">للتوّ</string>
+    <string name="plus_pronoun_prompt">حدد</string>
+    <string name="plus_remove_from_circle_progress">جارٍ الإزالة...</string>
+    <string name="plus_replybox_button_description">الرد</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">هل تريد تجاهل هذا الرد؟</string>
+    <string name="plus_replybox_hint_text">إضافة رد</string>
+    <string name="plus_replybox_internal_error">تعذر الرد.</string>
+    <string name="plus_replybox_no_network_connection">لا يمكن إنشاء الرد. الرجاء إعادة المحاولة.</string>
+    <string name="plus_replybox_post_error_message">تعذر نشر الرد.</string>
+    <string name="plus_replybox_post_success">تم نشر الرد.</string>
+    <string name="plus_scope_fragment_extended_circles_label">دوائرك الموسعة</string>
+    <string name="plus_scope_fragment_mixed_label">الدوائر المحددة</string>
+    <string name="plus_scope_fragment_only_you_label">أنت وحدك</string>
+    <string name="plus_scope_fragment_public_label">أي شخص على الويب</string>
+    <string name="plus_scope_fragment_your_circles_label">دوائرك</string>
+    <string name="plus_service_title">+Google</string>
+    <string name="plus_setup_wizard_title">معالج الإعداد</string>
+    <string name="plus_share_button_description">زر المشاركة</string>
+    <string name="plus_sharebox_audience_selection_activity_button">تم</string>
+    <string name="plus_sharebox_audience_selection_activity_title">اختيار المستلمين</string>
+    <string name="plus_sharebox_audience_to_text">إلى:</string>
+    <string name="plus_sharebox_audience_view_icon_description">الجمهور</string>
+    <string name="plus_sharebox_audience_view_name_separator">"، "</string>
+    <string name="plus_sharebox_circles_add_title">دائرة جديدة</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">تعذرت إضافة أشخاص إلى الدائرة</string>
+    <string name="plus_sharebox_circles_button">تم</string>
+    <string name="plus_sharebox_circles_checkbox_label">إضافة %1$s إلى دائرة:</string>
+    <string name="plus_sharebox_circles_create_failed">تعذّر إنشاء الدائرة</string>
+    <string name="plus_sharebox_circles_create_option">إنشاء دائرة جديدة</string>
+    <string name="plus_sharebox_circles_following_circle">متابعة</string>
+    <string name="plus_sharebox_circles_friends_circle">الأصدقاء</string>
+    <string name="plus_sharebox_circles_name_length_warning">اسم الدائرة طويل جدًا.</string>
+    <string name="plus_sharebox_circles_name_used_warning">اسم الدائرة هذا مستخدم من قبل.</string>
+    <string name="plus_sharebox_circles_option">(‏%2$s)‏ %1$s</string>
+    <string name="plus_sharebox_circles_title">إضافة إلى الدائرة</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">هل تريد تجاهل هذه المشاركة؟</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">+Google</string>
+    <string name="plus_sharebox_internal_error">تعذرت المشاركة.</string>
+    <string name="plus_sharebox_load_error">حدثت مشكلة مؤقتة أثناء تحميل مربع حوار المشاركة. الرجاء إعادة المحاولة.</string>
+    <string name="plus_sharebox_next">التالي</string>
+    <string name="plus_sharebox_no_network_connection">تعذّر إنشاء المشاركة. الرجاء إعادة المحاولة.</string>
+    <string name="plus_sharebox_post_body_hint">مشاركة أفكارك..</string>
+    <string name="plus_sharebox_post_body_icon">صورة الملف الشخصي</string>
+    <string name="plus_sharebox_post_error_message">تعذر إنشاء المشاركة. الرجاء إعادة المحاولة.</string>
+    <string name="plus_sharebox_post_error_title">ملاحظة</string>
+    <string name="plus_sharebox_post_pending">جارٍ الإرسال…</string>
+    <string name="plus_sharebox_post_success">تم نشر مشاركتك.</string>
+    <string name="plus_sharebox_preview_loading">جارٍ التحميل…</string>
+    <string name="plus_sharebox_search_hint">أدخل اسمًا أو بريدًا إلكترونيًا أو دائرةً</string>
+    <string name="plus_sharebox_share">مشاركة</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">‏المشاركة أيضًا على +Google</string>
+    <string name="plus_sharebox_share_via_google_plus">‏المشاركة عبر Google+‎</string>
+    <string name="plus_sharebox_under_age_warning_message">عندما تشارك بشكل عام، سيتمكن الأشخاص الذين لم تضفهم إلى دوائرك من مشاهدة مشاركتك وربما سيتمكنون من التعليق عليها.</string>
+    <string name="plus_sharebox_under_age_warning_title">المشاركة بشكل عام</string>
+    <string name="plus_undo_button_description">زر التراجع</string>
+    <string name="plus_unified_setup_activity_title">إنشاء ملف شخصي</string>
+    <string name="plus_unknown_app_name">تطبيق</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">أخفق تحديث الدوائر. يمكنك إعادة المحاولة لاحقًا.</string>
+    <string name="plus_update_circles_not_allowed_default_message">لا يمكنك إضافة هذا المستخدم إلى الدوائر.</string>
+    <string name="plus_update_circles_not_allowed_message">‏لا يمكنك إضافة %1$s إلى الدوائر.</string>
+    <string name="plus_update_circles_progress">جارٍ تحديث الدوائر...</string>
+    <string name="plus_video_preview_image_description">صورة المعاينة للفيديو</string>
+    <string name="recovery_done_button_label">تم</string>
+    <string name="recovery_input_screen_message">‏أخبر Google بكيفية الاتصال بك في حالة نسيان كلمة مرور %s.</string>
+    <string name="recovery_message_set">"‏يمكن نسيان كلمات المرور بسهولة.
+
+قدّم رقم هاتف أو عنوان بريد إلكتروني احتياطيًا الآن. فهذا يساعدك على استعادة الدخول إلى المحتوى في Google وGoogle Play. "<annotation id="help_url">مزيد من المعلومات</annotation></string>
+    <string name="recovery_message_verify">"‏يمكن نسيان كلمات المرور بسهولة.
+
+أكد رقم هاتفك أو عنوان بريدك إلكتروني الاحتياطي الآن. فهذا يساعدك على استعادة الدخول إلى المحتوى في Google وGoogle Play. "<annotation id="help_url">مزيد من المعلومات</annotation></string>
+    <string name="recovery_notification_ticker">الحساب بحاجة إلى العناية</string>
+    <string name="recovery_notification_title">تذكير باستعادة كلمة المرور</string>
+    <string name="recovery_server_error">حدث خطأ أثناء الاتصال بالخادم. الرجاء إعادة المحاولة بعد بعض الوقت.</string>
+    <string name="recovery_title">‏استعادة كلمة مرور Google</string>
+    <string name="recovery_yes_button_label">إعداد خيارات الاستعادة</string>
+    <string name="recovery_yes_button_label_verify">تأكيد خيارات الاستعادة</string>
+    <string name="retry_call_to_action">إعادة المحاولة</string>
+    <string name="secondary_email_hint">البريد الإلكتروني الاحتياطي</string>
+    <string name="secondary_email_invalid">عنوان بريد إلكتروني غير صحيح</string>
+    <string name="secondary_email_same_as_primary">لا يمكن أن يكون كالبريد الإلكتروني الأساسي</string>
+    <string name="selected_location_unknown">غير معروف</string>
+    <string name="sharedUserLabel">‏خدمات Google</string>
+    <string name="sid_lsid_grant_detail">‏مثلما هو الحال مع كلمات المرور، تربط ملفات تعريف الارتباط لمعرف الجلسة (SID) ومعرف الجلسة المحلي (LSID) هويتك بسلسلة من الطلبات من متصفح. وهي تسمح بالدخول الكامل إلى جميع بيانات حسابك. يُسمح فقط للمتصفحات باستخدام ملفات تعريف الارتباط هذه.</string>
+    <string name="sid_lsid_grant_label">‏استخدم ملفات تعريف الارتباط لمعرف الجلسة ومعرف الجلسة المحلي للدخول إلى جميع بيانات حسابك في Google.</string>
+    <string name="storage_management_drive_clear_failure">‏حدث خطأ أثناء محو بيانات Drive. الرجاء إعادة المحاولة لاحقًا.</string>
+    <string name="storage_management_drive_clear_label">محو</string>
+    <string name="storage_management_drive_clear_success">‏تم محو بيانات Drive.</string>
+    <string name="storage_management_drive_clearing">جارٍ المحو…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">‏سيتم حذف كل بيانات Drive المحلية في التطبيقات التي تمكّن Drive نهائيًا. وقد يتضمن هذا التغييرات المعلّقة التي لم يتم تحميلها حتى الآن إلى خادم Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">هل تريد محو جميع البيانات؟</string>
+    <string name="storage_management_drive_descriptive_text">‏تخزن التطبيقات التي تمكّن Drive الملفات على جهازك لتحسين الأداء وتمكين الدخول إليها في وضع عدم الاتصال.</string>
+    <string name="storage_management_drive_get_storage_failure">‏حدث خطأ أثناء حساب السعة التخزينية المستخدمة في Drive. الرجاء إعادة المحاولة لاحقًا.</string>
+    <string name="storage_management_drive_size_label">‏سعة Drive التخزينية المحلية</string>
+    <string name="storage_management_wear_descriptive_text">تستخدم التطبيقات سعة جهازك التخزينية لنسخ البيانات إلى جهاز قابل للارتداء.</string>
+    <string name="storage_management_wear_manage_size_label">إدارة سعة تخزين الجهاز القابل للارتداء</string>
+    <string name="storage_management_wear_size_label">سعة تخزين جهاز قابل للارتداء</string>
+    <string name="storage_managment_all_storage_descriptive_text">‏إجمالي البيانات المستخدمة في خدمات Google Play، بما في ذلك محرك البحث والبيانات الأخرى.</string>
+    <string name="storage_managment_clear_all_data">محو جميع البيانات</string>
+    <string name="storage_managment_computing_size">جارٍ الحساب...</string>
+    <string name="storage_managment_icing_size_label">السعة التخزينية لمحرك البحث</string>
+    <string name="storage_managment_manage_icing_button">إدارة السعة التخزينية للبحث</string>
+    <string name="storage_managment_search_index_descriptive_text">نعمل على الإسراع من وتيرة البحث على هاتفك من خلال توفير محرك بحث لتطبيقاتك.</string>
+    <string name="storage_managment_title">‏السعة التخزينية لخدمات Google Play</string>
+    <string name="storage_managment_total_size_label">إجمالي السعة التخزينية</string>
+    <string name="system_update_activity_battery_low_charging_text">البطارية طاقتها منخفضة جدًا بدرجة لا تسمح بتثبيت تحديث النظام. انتظر حتى يتم شحن البطارية بدرجة كافية.</string>
+    <string name="system_update_activity_battery_low_text">البطارية طاقتها منخفضة جدًا بدرجة لا تسمح بتثبيت تحديث النظام. وصل شاحنًا بالجهاز للمتابعة.</string>
+    <string name="system_update_activity_name">تحديثات النظام</string>
+    <string name="system_update_activity_roaming_text">لا يمكن تنزيل تحديثات النظام أثناء التجوال.</string>
+    <string name="system_update_activity_title">تحديثات النظام</string>
+    <string name="system_update_check_now_button_text">التحقق الآن</string>
+    <string name="system_update_complete_label">تحديث النظام</string>
+    <string name="system_update_complete_ok_button">حسنًا</string>
+    <string name="system_update_connection_lost_button_text">‏الاتصال بـ Wi-Fi</string>
+    <string name="system_update_connection_lost_text">تم فقد اتصال الشبكة.</string>
+    <string name="system_update_countdown_cancel_button">إلغاء التثبيت</string>
+    <string name="system_update_countdown_complete">جارٍ إعادة التشغيل الآن...</string>
+    <string name="system_update_download_button_text">تنزيل</string>
+    <string name="system_update_download_failed_no_space_status_text">لا تتوفر مساحة كافية للتنزيل</string>
+    <string name="system_update_download_failed_status_text">تعذر التنزيل</string>
+    <string name="system_update_download_retry_button_text">إعادة محاولة التنزيل</string>
+    <string name="system_update_download_waiting_status_text">بانتظار التنزيل</string>
+    <string name="system_update_downloading_required_update_text">"‏قد يستغرق هذا ما يصل إلى ‎^1 دقيقة.
+
+وبعدها ستتم إعادة تشغيل الجهاز تلقائيًا."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"‏قد يستغرق هذا ما يصل إلى ‎^1 دقيقة.
+
+وبعدها ستتم إعادة تشغيل الجهاز اللوحي تلقائيًا."</string>
+    <string name="system_update_downloading_required_update_title">جارٍ تنزيل التحديث…</string>
+    <string name="system_update_downloading_status_text">جارٍ التنزيل</string>
+    <string name="system_update_downloading_wifi_status2_text">‏عبر Wi-Fi فقط حتى ‎^1</string>
+    <string name="system_update_install_button_text">إعادة تشغيل وتثبيت</string>
+    <string name="system_update_installing_update_text">"قد يستغرق هذا ما يصل إلى 5 دقائق.
+
+وبعدها ستتمكن من إنهاء إعداد هاتفك."</string>
+    <string name="system_update_installing_update_title">جارٍ تثبيت التحديث...</string>
+    <string name="system_update_last_checkin">‏تم إجراء آخر بحث عن تحديثات ‎^1.</string>
+    <string name="system_update_no_update_content_text">النظام محدث.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">لم ينجح التنزيل. أعد المحاولة.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">تعذر تنزيل تحديث النظام</string>
+    <string name="system_update_not_owner_text">يتوفر تحديث لبرامج النظام، ولكن لا يمكن لأحد تثبيته غير المالك.</string>
+    <string name="system_update_notification_action_download">تنزيل</string>
+    <string name="system_update_notification_action_install">تثبيت</string>
+    <string name="system_update_notification_action_snooze">لاحقًا</string>
+    <string name="system_update_required_update_restart_text">ستتم إعادة تشغيل الجهاز كي يتم تثبيت تحديث النظام.</string>
+    <string name="system_update_required_update_restart_text_tablet">ستتم إعادة تشغيل الجهاز اللوحي كي يتم تثبيت تحديث النظام.</string>
+    <string name="system_update_required_update_restart_title">على وشك إعادة التشغيل</string>
+    <string name="system_update_requires_restart_status_text">يلزم إعادة التشغيل</string>
+    <string name="system_update_restart_button_text">إعادة تشغيل (^1)</string>
+    <string name="system_update_update_available_notification_title">تحديث النظام متاح</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">لا تتوفر مساحة كافية لتنزيل تحديث النظام.</string>
+    <string name="system_update_update_downloaded_notification_title">تم تنزيل تحديث النظام</string>
+    <string name="system_update_verification_failed_text">أخفقت عملية التحقق</string>
+    <string name="system_update_verified_status_text">تم تنزيله والتحقق من صحته</string>
+    <string name="system_update_verifying_status_text">جارٍ التحقق</string>
+    <string name="temporary_sharing_description">‏الأشخاص الذين كنت تشارك موقعك الدقيق معهم من خلال عبر منتجات Google لفترة محدودة من الوقت.</string>
+    <string name="temporary_sharing_title">المشاركة المؤقتة</string>
+    <string name="turn_on_location_reporting_auto_button">تشغيل</string>
+    <string name="usage_and_diagnostics_consent_message">‏ساعدنا في تحسين تجربتك على Android عن طريق إرسال بيانات التشخيص وبيانات الاستخدام إلى Google تلقائيًا. ولن يتم استخدام هذه المعلومات لتحديد هويتك كما أنها تساعد الفرق التي تتعامل مع أشياء كفترة تشغيل البطارية وأداء التطبيقات وميزات Google الجديدة.&lt;br/>&lt;br/>&lt;font color=\"#009688\">مزيد من المعلومات&lt;/font></string>
+    <string name="usage_reporting_off">تم الإيقاف</string>
+    <string name="usage_reporting_on">تم التشغيل</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">متصل</string>
+    <string name="wearable_status_connecting">جارٍ الاتصال...</string>
+    <string name="wearable_status_disconnected">تم قطع الاتصال</string>
+    <string name="wearable_status_starting">جارٍ البدء…</string>
+    <string name="wearable_status_wire_protocol_mismatch">الجهاز القابل للارتداء غير متوافق، الرجاء تطبيق أية تحديثات.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">محو الآن</string>
+    <string name="wearable_storage_managment_title">سعة تخزين جهاز قابل للارتداء</string>
+    <string name="wearable_storage_managment_total_size_label">سعة تخزين جهاز قابل للارتداء</string>
+    <string name="wearable_storage_managment_usage_label">المساحة المستخدمة في التطبيق</string>
+</resources>

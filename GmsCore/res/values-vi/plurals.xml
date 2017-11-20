@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">từ trình duyệt %1$s ở %2$s chưa đầy %3$s phút trước</item>
+        <item quantity="one">từ trình duyệt %1$s ở %2$s chưa đầy %3$s phút trước</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">từ %1$s chưa đầy %2$s phút trước</item>
+        <item quantity="one">từ %1$s chưa đầy %2$s phút trước</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Còn %d giờ</item>
+        <item quantity="one">Còn 1 giờ</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d ngày</item>
+        <item quantity="one">%d ngày</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d giờ</item>
+        <item quantity="one">%d giờ</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d phút</item>
+        <item quantity="one">%d phút</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s người</item>
+        <item quantity="one">%1$s người</item>
+        <item quantity="two">%1$s người</item>
+        <item quantity="few">%1$s người</item>
+        <item quantity="many">%1$s người</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Đang khởi động lại để cài đặt sau %d giây…</item>
+        <item quantity="one">Đang khởi động lại để cài đặt sau 1 giây…</item>
+    </plurals>
+</resources>

@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">"Navega a la pàgina d'inici"</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navega cap a dalt</string>
+    <string name="abc_action_menu_overflow_description">Més opcions</string>
+    <string name="abc_action_mode_done">Fet</string>
+    <string name="abc_activity_chooser_view_see_all">"Mostra'ls tots"</string>
+    <string name="abc_activitychooserview_choose_application">Selecciona una aplicació</string>
+    <string name="abc_searchview_description_clear">Esborra la consulta</string>
+    <string name="abc_searchview_description_query">Consulta de cerca</string>
+    <string name="abc_searchview_description_search">Cerca</string>
+    <string name="abc_searchview_description_submit">Envia la consulta</string>
+    <string name="abc_searchview_description_voice">Cerca per veu</string>
+    <string name="abc_shareactionprovider_share_with">Comparteix amb</string>
+    <string name="abc_shareactionprovider_share_with_application">Comparteix amb %s</string>
+    <string name="account_level_title">Acció necessària al compte</string>
+    <string name="activity_recognition_permission_description">"Permet que una aplicació rebi actualitzacions periòdiques del teu nivell d'activitat per part de Google; per exemple, si vas a peu, en cotxe o en bicicleta o si no et mous."</string>
+    <string name="activity_recognition_permission_label">"reconeixement de l'activitat"</string>
+    <string name="add_a_place_add">Afegeix</string>
+    <string name="add_a_place_call_to_action">Afegeix un lloc</string>
+    <string name="add_a_place_call_to_drag">Arrossega el mapa per col·locar el marcador.</string>
+    <string name="add_a_place_cancel">Cancel·la</string>
+    <string name="add_a_place_next">Següent</string>
+    <string name="agree">Ho accepto</string>
+    <string name="app_label">Ubicació de xarxa</string>
+    <string name="app_level_title">"Sol·licitud d'inici de sessió"</string>
+    <string name="app_level_title_secondary">"Sol·licitud d'inici de sessió de %s"</string>
+    <string name="auth_accept_access">Accepta</string>
+    <string name="auth_account_already_has_gmail">El compte ja té Gmail.</string>
+    <string name="auth_account_setup_title">Compte de Google</string>
+    <string name="auth_ads_settings_title">Anuncis</string>
+    <string name="auth_allow_external_site_access">Obtenir accés a les teves dades de %s</string>
+    <string name="auth_app_label">Gestor de comptes de Google</string>
+    <string name="auth_app_permission_footnote">"%s i Google utilitzaran aquesta informació d'acord amb les seves respectives condicions del servei i polítiques de privadesa."</string>
+    <string name="auth_app_permission_label">AQUESTA APLICACIÓ SOL·LICITA PERMÍS PER</string>
+    <string name="auth_app_permission_ok_footnote">"En continuar, permets que aquesta aplicació i Google facin servir la teva informació d'acord amb els termes i condicions i les polítiques de privadesa respectives."</string>
+    <string name="auth_app_permission_sign_in_footnote">"En tocar Inicia la sessió, permets que aquesta aplicació i Google facin servir la teva informació d'acord amb els termes i condicions i les polítiques de privadesa respectives."</string>
+    <string name="auth_app_permission_title">Inicia la sessió a %s amb Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">"Permet l'inici de sessió"</string>
+    <string name="auth_authzen_action_approved_toast_text">Acció aprovada</string>
+    <string name="auth_authzen_action_canceled_toast_text">Acció cancel·lada</string>
+    <string name="auth_authzen_allow_reset_button_text">Restabl. contr.</string>
+    <string name="auth_authzen_cancel_button_label">Cancel·la</string>
+    <string name="auth_authzen_close_button_text">Tanca</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Permet</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Cancel·la</string>
+    <string name="auth_authzen_default_confirmation_description">"Vols permetre que s'iniciï la sessió al teu compte des de la ubicació %s?"</string>
+    <string name="auth_authzen_default_confirmation_title">Necessitem que ens ho confirmis</string>
+    <string name="auth_authzen_default_incorrect_pin_text">"Has seleccionat un número incorrecte. La sol·licitud s'ha cancel·lat."</string>
+    <string name="auth_authzen_default_request_description">detalls de la sol·licitud desconeguts</string>
+    <string name="auth_authzen_generic_error_text">"S'ha produït un error. Torna-hi."</string>
+    <string name="auth_authzen_google_logo_label">Logotip de Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">"S'ha aprovat l'inici de sessió."</string>
+    <string name="auth_authzen_login_challenge_canceled_text">"S'ha cancel·lat l'inici de sessió."</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">"Permet l'inici de sessió"</string>
+    <string name="auth_authzen_login_challenge_desc_text">"Mires d'iniciar la sessió des de la ubicació %s?"</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">"Google ha impedit l'intent d'inici de sessió."</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Número incorrecte</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">"Toca el número que es mostra a l'altra pantalla. Amb això s'iniciarà la sessió al teu ordinador."</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">"Algú ha intentat iniciar la sessió al teu compte de Google amb la teva contrasenya. Google ha impedit l'inici de sessió."</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Inici de sessió impedit</string>
+    <string name="auth_authzen_login_challenge_title_text">"Proves d'iniciar la sessió?"</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">"Has de verificar la teva identitat per aprovar l'inici de sessió al teu ordinador."</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">"sol·licitud d'inici de sessió des d'un ordinador a %s"</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Jo no ho he sol·licitat.</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Gràcies per comunicar-nos-ho, %s.</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">"Hem pres nota d'aquesta activitat per poder mantenir el teu compte protegit."</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Inicia la sessió</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Cancel·la</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">PIN del compte de Google</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">"D'acord, continua"</string>
+    <string name="auth_authzen_no_button_text">No</string>
+    <string name="auth_authzen_notify_google_default_text">"Google rebrà una notificació en què s'indicarà que algú ha provat d'accedir al teu compte."</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">"Google ha rebut una sol·licitud per canviar la contrasenya. Com que la sol·licitud no era teva, s'ha cancel·lat. No s'ha fet cap canvi al compte."</string>
+    <string name="auth_authzen_ok_button_text">"D'acord"</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">"Toca el número que es mostra a l'altra pantalla. Amb això s'iniciarà la sessió al teu ordinador."</string>
+    <string name="auth_authzen_pin_validation_default_title_text">"Permetre l'inici de sessió"</string>
+    <string name="auth_authzen_profile_picture_label">Foto del perfil</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">"Has provat d'iniciar la sessió a Google?"</string>
+    <string name="auth_authzen_recovery_approved_text">"S'ha aprovat el restabliment de la contrasenya."</string>
+    <string name="auth_authzen_recovery_canceled_text">"S'ha cancel·lat el restabliment de la contrasenya."</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Vols permetre el restabliment de contrasenya des de %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Necessitem la teva confirmació</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">"Google ha impedit l'intent de restabliment de contrasenya."</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Número incorrecte</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">"Toca el número que es mostrarà a l'altra pantalla. Amb aquesta acció es restablirà la contrasenya."</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Permetre el restabliment de contrasenya</string>
+    <string name="auth_authzen_recovery_reject_desc_text">"Algú ha sol·licitat el restabliment de contrasenya del teu compte de Google. Google ha impedit l'intent de restabliment de contrasenya."</string>
+    <string name="auth_authzen_recovery_reject_title_text">Restabliment de contrasenya impedit</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Has sol·licitat el restabliment de la teva contrasenya des de %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Has provat de restablir la contrasenya?</string>
+    <string name="auth_authzen_secure_account_button_text">Protegir compte</string>
+    <string name="auth_authzen_sending_reply_failed_text">"No s'ha pogut enviar la resposta al servidor."</string>
+    <string name="auth_authzen_sending_reply_text">"S'està enviant la resposta al servidor."</string>
+    <string name="auth_authzen_time_display_text">fa menys de: %s minuts</string>
+    <string name="auth_authzen_time_just_now_text">Ara mateix</string>
+    <string name="auth_authzen_wait_text">Espera…</string>
+    <string name="auth_authzen_workflow_title">"Sol·licitud d'autorització de Google"</string>
+    <string name="auth_authzen_yes_button_text">Sí</string>
+    <string name="auth_back_button_label">Enrere</string>
+    <string name="auth_bad_name_title">Vols fer servir aquest nom?</string>
+    <string name="auth_bluetooth_lure_button">Afegeix com a disp. confiança</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Confirmació pantalla bloqueig</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"S'ha emparellat un dispositiu Bluetooth nou.
+Afegeix %s com a dispositiu de confiança per ometre el bloqueig de pantalla quan estigui connectat."</string>
+    <string name="auth_bluetooth_lure_one_line_message">"S'ha emparellat un dispositiu Bluetooth nou."</string>
+    <string name="auth_bluetooth_lure_title">Desbloqueig personal</string>
+    <string name="auth_cancel_button_label">Cancel·la</string>
+    <string name="auth_captcha_instructions">Escriu el text que veus aquí:</string>
+    <string name="auth_captcha_title">"Has d'introduir un CAPTCHA"</string>
+    <string name="auth_communicating_message">El dispositiu està contactant amb Google per desar informació al teu compte. Aquest procés pot trigar fins a cinc minuts.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Estat de les credencials</string>
+    <string name="auth_d2d_source_bt_notice">"S'utilitzarà el Bluetooth."</string>
+    <string name="auth_d2d_source_lock_notice">"El teu dispositiu es bloquejarà i s'haurà de tornar a desbloquejar per continuar."</string>
+    <string name="auth_d2d_source_no_accounts_toast">No es pot utilitzar la funció Toca i restaura perquè no hi ha cap compte en aquest dispositiu.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">No es pot utilitzar la funció Toca i restaura perquè el Bluetooth no està disponible al dispositiu.</string>
+    <string name="auth_d2d_source_notification_text">"Amb aquest dispositiu, el dia ^2 se'n va configurar un de nou (^1) i també es va produir un intent de transferir els comptes de Google següents: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Config. disp. nou completada</string>
+    <string name="auth_d2d_source_progress_message">"S'estan copiant dades al dispositiu nou..."</string>
+    <string name="auth_d2d_source_question">"Vols copiar els comptes i la informació d'aquest dispositiu?"</string>
+    <string name="auth_d2d_source_restricted_user_toast">"No es pot tocar i restaurar a partir d'un perfil d'usuari restringit."</string>
+    <string name="auth_d2d_source_title">Restaura els comptes</string>
+    <string name="auth_d2d_source_unknown_device_name">Dispositiu desconegut</string>
+    <string name="auth_d2d_target_adding_accounts_message">"S'estan afegint comptes..."</string>
+    <string name="auth_d2d_target_connecting_progress_message">"S'està connectant a l'altre servei..."</string>
+    <string name="auth_d2d_target_connection_lost_alert">"S'ha perdut la connexió."</string>
+    <string name="auth_d2d_target_description">"Copia fàcilment comptes de Google, aplicacions amb còpia de seguretat i dades del dispositiu Android existent. Per crear-ne una còpia, fes el següent: 
+
+1. Comprova que l'altre dispositiu estigui engegat i desbloquejat. 
+
+2. Posa en contacte les parts posteriors dels dos dispositius durant un moment i després separa'ls."</string>
+    <string name="auth_d2d_target_more_info">Aquesta funció fa servir NFC per transferir les dades del compte. Si el dispositiu admet NFC, comprova que estigui activat a Configuració > Xarxes i sense fil > Més.</string>
+    <string name="auth_d2d_target_more_info_close">"D'acord"</string>
+    <string name="auth_d2d_target_more_info_link">Més informació</string>
+    <string name="auth_d2d_target_skip_button">Omet</string>
+    <string name="auth_d2d_target_sorry_alert">"S'ha produït un error."</string>
+    <string name="auth_d2d_target_tap_progress_message">"Per continuar, toca D'acord a l'altre dispositiu."</string>
+    <string name="auth_d2d_target_title">Toca per accedir</string>
+    <string name="auth_d2d_target_try_again_button">Torna a provar</string>
+    <string name="auth_d2d_target_unlock_progress_message">"Desbloqueja l'altre dispositiu."</string>
+    <string name="auth_d2d_target_wait_progress_message">"S'estan copiant els comptes i les dades..."</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" El teu domini requereix gestió de dispositius mòbils. Instal·la l'aplicació Google Apps Device Policy perquè s'apliquin les polítiques de seguretat exigides pel compte "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> no utilitza Gmail.</string>
+    <string name="auth_error_account_disabled">"Aquest compte s'ha desactivat. 
+
+(Per veure'n els detalls, visita http://google.com/accounts des d'un navegador web.)"</string>
+    <string name="auth_error_account_not_verified">"Aquest compte no s'ha verificat. Consulta el correu electrònic i segueix l'enllaç que conté per verificar-lo. 
+
+(Per recuperar la informació del compte, vés a http://www.google.com/accounts/recovery al teu equip.)"</string>
+    <string name="auth_error_bad_password">La contrasenya és massa dèbil o conté caràcters que no són vàlids. Torna-ho a provar.</string>
+    <string name="auth_error_bad_username">"Nom d'usuari no vàlid."</string>
+    <string name="auth_error_invalid_second_factor">"Fes servir una contrasenya específica de l'aplicació en lloc de la contrasenya habitual del compte."</string>
+    <string name="auth_error_login_failed">"El teu nom d'usuari i la contrasenya no coincideixen. Torna-ho a provar.
+
+Per recuperar la informació del compte, vés a google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">"Per accedir al compte, has d'iniciar la sessió al web. Toca Següent per començar l'inici de sessió al navegador."</string>
+    <string name="auth_error_not_logged_in">"L'usuari no ha iniciat la sessió."</string>
+    <string name="auth_error_username_unavailable">"El nom d'usuari no està disponible."</string>
+    <string name="auth_existing_account_error_text">Ja hi ha un compte ^1 en aquest dispositiu Android.</string>
+    <string name="auth_existing_account_error_title">El compte ja existeix</string>
+    <string name="auth_exit_menu_item">"Surt de l'inici de sessió al navegador"</string>
+    <string name="auth_facl_scope_details_dialog_title">"Elements que pot veure l'aplicació"</string>
+    <string name="auth_facl_with_warning_label">"Canviar els usuaris visibles per l'aplicació"</string>
+    <string name="auth_field_cant_be_blank">El camp no pot estar en blanc.</string>
+    <string name="auth_fitness_settings_title">Condicionament físic</string>
+    <string name="auth_gls_account_creation_tos">En continuar, acceptes les <annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, així com les <annotation id="play_tos">Termes i condicions de Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">En continuar, acceptes les <annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, les <annotation id="chrome_tos">Termes i condicions</annotation>" i l'"<annotation id="chrome_privacy">Avís de privadesa</annotation> de Chrome, així com les <annotation id="play_tos">Termes i condicions</annotation> de Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">No tornis a perdre mai més les teves dades. Amb un compte de Google, ho tindràs tot sota control.</string>
+    <string name="auth_gls_account_intro_learn_more">Més informació</string>
+    <string name="auth_gls_account_intro_recommended_title">Configura Google al dispositiu</string>
+    <string name="auth_gls_account_intro_required_title">Tecnologia de Google</string>
+    <string name="auth_gls_account_intro_simple_message">Vols afegir un compte existent o bé crear-ne un de nou?</string>
+    <string name="auth_gls_account_intro_title">Compte de Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Tens cap compte de Google?
+
+Si utilitzes Gmail o Google Apps, respon que sí."</string>
+    <string name="auth_gls_account_pre_intro_no">No</string>
+    <string name="auth_gls_account_pre_intro_title">Tens un compte de Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Sí</string>
+    <string name="auth_gls_account_recovery_info">"Si mai perds la contrasenya, pots respondre a una pregunta de seguretat i fer que s'enviï per correu electrònic un enllaç de restabliment a una altra adreça."</string>
+    <string name="auth_gls_account_tos_plus_title">Finalització del registre a Google+</string>
+    <string name="auth_gls_account_tos_title">Finalització del compte</string>
+    <string name="auth_gls_add_a_google_account">Afegeix un compte de Google</string>
+    <string name="auth_gls_alternatives_list_title">"Noms d'usuari suggerits"</string>
+    <string name="auth_gls_answer">" "<b>Resposta</b></string>
+    <string name="auth_gls_backup_consent_message">"Fes servir el compte de Google per fer una còpia de seguretat de les teves aplicacions, de la configuració (com ara les adreces d'interès i les contrasenyes de la Wi-Fi) i d'altres dades. Si anteriorment ja havies fet una còpia de seguretat del compte, ara pots restaurar-la al telèfon.
+
+Pots canviar la configuració de la còpia de seguretat en qualsevol moment a Configuració."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Fes servir el teu compte de Google per fer una còpia de seguretat de les teves aplicacions, de la configuració (com ara les adreces d'interès i les contrasenyes de la Wi-Fi) i d'altres dades.
+
+Pots canviar la configuració de la còpia de seguretat en qualsevol moment a Configuració."</string>
+    <string name="auth_gls_backup_consent_yes_agree">"Crea una còpia de seguretat d'aquest telèfon amb el meu compte de Google"</string>
+    <string name="auth_gls_cant_be_blank">El camp no pot estar en blanc.</string>
+    <string name="auth_gls_checking_account">"S'està comprovant la disponibilitat..."</string>
+    <string name="auth_gls_checking_username_message">"El telèfon està contactant amb Google per comprovar si el nom d'usuari està disponible.
+
+Aquest procés pot trigar uns quants minuts."</string>
+    <string name="auth_gls_choose_a_password">Contrasenya</string>
+    <string name="auth_gls_circles_subtitle">Cercles</string>
+    <string name="auth_gls_circles_text">"La manera més senzilla de compartir en línia tot allò que més t'importa."</string>
+    <string name="auth_gls_confirm_password">Repeteix la contrasenya</string>
+    <string name="auth_gls_create_button_label">Obtén un compte</string>
+    <string name="auth_gls_create_google_account">"Selecció d'un nom d'usuari"</string>
+    <string name="auth_gls_create_google_account_text">"El teu compte de Google inclou Gmail, el correu electrònic de Google. Funciona en tots els dispositius i bloqueja el correu brossa, entre d'altres."</string>
+    <string name="auth_gls_creating_account_title">"S'està desant el compte..."</string>
+    <string name="auth_gls_creating_profile">"S'està creant el teu perfil..."</string>
+    <string name="auth_gls_crop_failure">"No s'ha pogut retallar la foto."</string>
+    <string name="auth_gls_dasher_warning">"L'administrador de %s és el propietari de totes les teves dades de Google+, les gestiona i pot suprimir o modificar el teu perfil sempre que ho vulgui sense el teu permís."</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" El teu domini requereix gestió del dispositiu mòbil. Activa l'aplicació Google Apps Device Policy perquè s'apliquin les polítiques de seguretat exigides pel compte "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Activa</string>
+    <string name="auth_gls_dmagent_activity_download_message">" El teu domini requereix gestió de dispositius mòbils. Instal·la l'aplicació Google Apps Device Policy perquè s'apliquin les polítiques de seguretat exigides pel compte "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Baixa</string>
+    <string name="auth_gls_edit_text_help">Toca qualsevol quadre de text per començar a escriure.</string>
+    <string name="auth_gls_eight_chars_min">8 caràcters com a mínim</string>
+    <string name="auth_gls_enable_web_history">"Activa l'historial web"</string>
+    <string name="auth_gls_error_bad_password">La contrasenya no és prou segura o conté caràcters que no són vàlids. Torna-ho a provar.</string>
+    <string name="auth_gls_error_login_failed">"El teu nom d'usuari i la contrasenya no coincideixen. Torna-ho a provar.
+
+Per recuperar la informació del compte, vés a google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">"Per accedir al teu compte has d'iniciar la sessió al web. Toca Següent per començar l'inici de sessió al navegador."</string>
+    <string name="auth_gls_existing_account_error_text">Ja hi ha un compte ^1 en aquest dispositiu Android.</string>
+    <string name="auth_gls_existing_account_error_title">El compte ja existeix</string>
+    <string name="auth_gls_existing_button_label">Existent</string>
+    <string name="auth_gls_google_play_opt_in">Vull rebre notícies i ofertes de Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" només pot incloure lletres,
+números i punts."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> no conté cap lletra.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> conté menys de 6 o més de 30 caràcters.</string>
+    <string name="auth_gls_huddle_text">Missatgeria en grup per a totes les persones dels teus cercles.</string>
+    <string name="auth_gls_invalid_email">"L'adreça electrònica que has introduït no és vàlida.
+ Exemple: marc@example.com."</string>
+    <string name="auth_gls_invalid_email_primary">"L'adreça de recuperació no pot ser la mateixa que la que estàs creant."</string>
+    <string name="auth_gls_is_not_available">"El nom d'usuari "<b>^1</b> no està disponible.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Més informació</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" El compte de Google et permet:
+
+"<li><ul>Consultar i organitzar tota la teva informació des de qualsevol lloc.</ul></li>"
+
+"<li><ul>Fer còpies de seguretat automàtiques de totes les teves dades, com ara el correu electrònic, els contactes, la música i les fotos.</ul></li>" 
+
+"<li><ul>"Utilitzar els serveis de Google fàcilment des de qualsevol lloc, inclosos Contactes, Calendar, Google Maps i d'altres."</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Quant a Comptes de Google</string>
+    <string name="auth_gls_learn_more_web_history">"L'historial web ajusta els resultats de la cerca en funció del que hagis cercat i dels llocs que hagis visitat per proporcionar-te una experiència de Google personalitzada.
+
+Per visualitzar i per gestionar el teu historial web, així com per activar-lo o per desactivar-lo, consulta http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">"Sobre l'historial web"</string>
+    <string name="auth_gls_name_checking_info_title">"S'està comprovant la informació..."</string>
+    <string name="auth_gls_name_progress_title">Un segon...</string>
+    <string name="auth_gls_name_text">El teu nom es fa servir per personalitzar el teu telèfon i els serveis de Google.</string>
+    <string name="auth_gls_name_text_local">El telèfon fa servir el teu nom per personalitzar algunes aplicacions.</string>
+    <string name="auth_gls_name_title_local">"El propietari d'aquest telèfon és..."</string>
+    <string name="auth_gls_name_title_plus">El teu nom de Google+</string>
+    <string name="auth_gls_network_unreliable">No es pot establir una connexió fiable amb el servidor.</string>
+    <string name="auth_gls_network_unreliable_help">"Podria tractar-se d'un problema temporal, o és possible que el dispositiu Android no tingui serveis de dades. Si el problema continua apareixent, truca al servei d'atenció al client."</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">"És possible que es tracti d'un problema temporal. Torna-ho a provar o connecta't a una altra xarxa Wi-Fi."</string>
+    <string name="auth_gls_new_button_label">Nou</string>
+    <string name="auth_gls_no_network">No tens cap connexió de xarxa.</string>
+    <string name="auth_gls_no_network_help">"Podria tractar-se d'un problema temporal, o és possible que el dispositiu Android no tingui serveis de dades. Torna-ho a provar quan estiguis connectat a una xarxa de telefonia mòbil o bé connecta't a una xarxa Wi-Fi."</string>
+    <string name="auth_gls_no_network_help_wifi_only">"És possible que es tracti d'un problema temporal. Torna-ho a provar o connecta't a una altra xarxa Wi-Fi."</string>
+    <string name="auth_gls_not_now_button_label">Ara no</string>
+    <string name="auth_gls_password_mismatch">Les contrasenyes no coincideixen. Torna-ho a provar.</string>
+    <string name="auth_gls_password_title">"Creació d'una contrasenya"</string>
+    <string name="auth_gls_photo_button_label">Fes una foto</string>
+    <string name="auth_gls_photo_description">La teva foto</string>
+    <string name="auth_gls_photo_failure">"No s'ha pogut iniciar la càmera."</string>
+    <string name="auth_gls_photo_text">"Aquesta foto s'utilitzarà al teu registre de contacte. La pots canviar més tard a l'aplicació Persones."</string>
+    <string name="auth_gls_photo_text_es">Fes una foto perquè la vegin els teus amics de Google+. Més tard en podràs triar una altra.</string>
+    <string name="auth_gls_photo_title">La teva foto</string>
+    <string name="auth_gls_plus_accepted_button_label">Uniu-vos a Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Ara no</string>
+    <string name="auth_gls_plus_failure_new_account_text">"S'ha creat el teu compte de Google, però la teva sol·licitud per unir-te a Google+ no s'ha completat correctament. Torna-ho a provar més tard des de qualsevol navegador web a plus.google.com."</string>
+    <string name="auth_gls_plus_failure_text">"La teva sol·licitud per unir-te a Google+ no s'ha completat correctament. Torna-ho a provar més tard des de qualsevol navegador web a plus.google.com."</string>
+    <string name="auth_gls_plus_failure_title">Unir-se a Google+ més tard</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"A Google+, tindràs un perfil públic per ajudar els teus amics a trobar-te en línia. Tothom que sàpiga quina adreça electrònica tens pot cercar i veure el teu perfil.
+
+Pots fer servir els botons +1 a tot el web per recomanar coses al món. El teu perfil i els +1 apareixeran de manera pública a la cerca, als anuncis i al web.
+
+De moment, el teu perfil només mostrarà el nom (%s %s). Pots afegir una foto, informació biogràfica i altres detalls més endavant, quan comencis a fer servir Google+."</string>
+    <string name="auth_gls_plus_name_check_text">Aquest procés pot trigar uns quants minuts.</string>
+    <string name="auth_gls_plus_name_check_title">"S'està contactant amb Google+..."</string>
+    <string name="auth_gls_plus_query_text">"Google+ fa que compartir al web s'assembli més a compartir a la vida real."</string>
+    <string name="auth_gls_provisioned_incorrect_login">No ets %s?</string>
+    <string name="auth_gls_provisioned_welcome">Hola, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Escriu la contrasenya per a:
+%s"</string>
+    <string name="auth_gls_recovery_title">Informació per a la recuperació</string>
+    <string name="auth_gls_restore_consent_yes_agree">Restaura des del meu compte de Google a aquest telèfon</string>
+    <string name="auth_gls_restoring_message">El telèfon està contactant amb Google per restablir el teu compte. Aquest procés pot trigar una mica.</string>
+    <string name="auth_gls_restoring_title">"S'està restaurant..."</string>
+    <string name="auth_gls_retake_photo_button_label">Torna a fer la foto</string>
+    <string name="auth_gls_secondary_email_label">Adreça electrònica de recuperació</string>
+    <string name="auth_gls_security_questions_title">Preguntes de seguretat</string>
+    <string name="auth_gls_server_error">Problema durant la comunicació amb els servidors de Google.</string>
+    <string name="auth_gls_server_error_help">Torna-ho a provar més tard.</string>
+    <string name="auth_gls_sign_in_agreement">En iniciar la sessió, acceptes les <annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, així com les <annotation id="play_tos">Termes i condicions de Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" En iniciar la sessió, acceptes les "<annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, així com les <annotation id="play_tos">Termes i condicions de Google Play</annotation>".
+
+Recorda: qualsevol altre usuari pot acceptar els permisos d'aplicacions actualitzades en nom teu. Igual que en el cas d'un ordinador, només has de compartir aquesta tauleta amb persones de confiança."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" En iniciar la sessió, acceptes les "<annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, les <annotation id="chrome_tos">Termes i condicions</annotation>" i l'"<annotation id="chrome_privacy">Avís de privadesa</annotation> de Chrome i les <annotation id="play_tos">Termes i condicions</annotation> de Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" En iniciar la sessió, acceptes les "<annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, les <annotation id="chrome_tos">Termes i condicions</annotation>" i l'"<annotation id="chrome_privacy">Avís de privadesa</annotation> de Chrome i les <annotation id="play_tos">Termes i condicions</annotation>" de Google Play. 
+
+TRecorda: qualsevol altre usuari pot acceptar els permisos d'aplicacions actualitzades en nom teu. Igual que en el cas d'un ordinador, només has de compartir aquesta tauleta amb persones de confiança."</string>
+    <string name="auth_gls_submission_title">Ens sap greu...</string>
+    <string name="auth_gls_suggest_username_next_button_label">"Canvia el nom d'usuari"</string>
+    <string name="auth_gls_suggestions_hint">Toca per obtenir suggeriments.</string>
+    <string name="auth_gls_sync_intro_activity_title">Sessió iniciada correctament</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Còpia de seguretat i restauració</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Còpia de seguretat</string>
+    <string name="auth_gls_sync_intro_title">Sincronització del compte</string>
+    <string name="auth_gls_sync_item_title">Sincronitza %s</string>
+    <string name="auth_gls_too_short">Massa curta</string>
+    <string name="auth_gls_ui_activity_authenticating">"S'està autenticant…"</string>
+    <string name="auth_gls_ui_activity_title_checking_in">"S'està preparant…"</string>
+    <string name="auth_gls_uploads_subtitle">Pujada instantània</string>
+    <string name="auth_gls_uploads_text">Sincronitza fàcilment totes les fotos de tots els teus dispositius.</string>
+    <string name="auth_gls_verify_your_profile">Verificació del perfil</string>
+    <string name="auth_gls_wait_for_device_country_msg">"S'està recopilant informació sobre el telèfon. Pot trigar fins a 30 segons."</string>
+    <string name="auth_gls_wait_for_device_country_title">Configuració del compte</string>
+    <string name="auth_google_settings_header_title">Privadesa</string>
+    <string name="auth_google_title_logo">Logotip de Google</string>
+    <string name="auth_google_trust_agent_title">Desbloqueig personal</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Inicia la sessió amb Google+</string>
+    <string name="auth_gsf_notification_login_error">Toca per iniciar la sessió al compte.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"S'ha sol·licitat permís
+per al compte %s."</string>
+    <string name="auth_invalid_login_character">Caràcter no vàlid. Només es permeten 0-9, a-z, A-Z i punts.</string>
+    <string name="auth_invalid_password_character">Caràcter de contrasenya no vàlid.</string>
+    <string name="auth_invalid_scope">"Abast no vàlid utilitzat durant la sol·licitud d'autenticació."</string>
+    <string name="auth_invalid_username">"El text que has escrit no és un nom d'usuari vàlid."</string>
+    <string name="auth_learn_more_title">Més informació</string>
+    <string name="auth_location_neighborhood_level">"Permet que s'enviïn dades d'ubicació anònimes a Google. Permet també que les aplicacions que tinguin permís facin servir dades de fonts com ara les xarxes de telefonia mòbil i Wi-Fi per determinar la teva ubicació aproximada."</string>
+    <string name="auth_location_network_based">"Servei d'ubicació de Google"</string>
+    <string name="auth_location_settings_title">Configuració de la ubicació</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Has escrit una contrasenya incorrecta o bé el teu compte ha canviat. Torna-la a escriure. Si has oblidat la contrasenya i has de recuperar el teu compte, fes clic <annotation id="help_url">aquí</annotation>.</string>
+    <string name="auth_login_activity_task_title">"S'està iniciant la sessió..."</string>
+    <string name="auth_login_activity_title">Inici de sessió</string>
+    <string name="auth_login_task_title">"S'està iniciant la sessió"</string>
+    <string name="auth_login_title">Escriu el correu electrònic i la contrasenya</string>
+    <string name="auth_maps_settings_title">Google Maps i Latitude</string>
+    <string name="auth_minutemaid_title">"Configuració d'un compte de Google"</string>
+    <string name="auth_name_title">El teu nom</string>
+    <string name="auth_network_unreliable">No es pot establir una connexió fiable amb el servidor.</string>
+    <string name="auth_network_unreliable_help">"Podria tractar-se d'un problema temporal, o és possible que el dispositiu Android no tingui serveis de dades. Si el problema continua, truca al servei d'atenció al client."</string>
+    <string name="auth_network_unreliable_help_wifi_only">"És possible que es tracti d'un problema temporal. Torna-ho a provar o connecta't a una altra xarxa Wi-Fi."</string>
+    <string name="auth_next_button_label">Següent</string>
+    <string name="auth_nfc_caution">Protegeix aquesta etiqueta. Un atacant podria copiar-la.</string>
+    <string name="auth_nfc_tag_exists">"%1$s ja s'ha afegit."</string>
+    <string name="auth_nfc_tag_not_supported">"No s'admet el dispositiu de NFC proporcionat."</string>
+    <string name="auth_no_network">No tens cap connexió de xarxa.</string>
+    <string name="auth_no_network_help">"Podria tractar-se d'un problema temporal o pot ser que el dispositiu Android no tingui serveis de dades. Torna-ho a provar quan estiguis connectat a una xarxa mòbil o bé connecta't a una xarxa Wi-Fi."</string>
+    <string name="auth_no_network_help_wifi_only">"És possible que es tracti d'un problema temporal. Torna-ho a provar o connecta't a una altra xarxa Wi-Fi."</string>
+    <string name="auth_ok_button_label">"D'acord"</string>
+    <string name="auth_only_you_acl">"Només l'usuari"</string>
+    <string name="auth_otp_dialog_title">Codi de verificació</string>
+    <string name="auth_otp_done_button">Fet</string>
+    <string name="auth_otp_error">"S'ha produït un problema en generar el codi de verificació."</string>
+    <string name="auth_otp_instruction">Utilitza aquest codi només per iniciar la sessió a Google.</string>
+    <string name="auth_otp_no_accounts_available_message">No hi ha cap compte configurat en aquest dispositiu.</string>
+    <string name="auth_otp_progress_dialog_message">"S'està generant un codi de verificació."</string>
+    <string name="auth_otp_select_account_message">Selecciona un compte</string>
+    <string name="auth_pacl_scope_details_dialog_title">Elements que pot veure Google</string>
+    <string name="auth_password">Contrasenya</string>
+    <string name="auth_personal_unlocking_name">Desbloqueig personal</string>
+    <string name="auth_personal_unlocking_service_name">Desbloqueig personal (Google)</string>
+    <string name="auth_plus_failure_new_account_text">"S'ha creat el teu compte de Google, però la teva sol·licitud per crear un perfil de Google+ no s'ha completat correctament. Torna-ho a provar més tard des de qualsevol navegador web a plus.google.com."</string>
+    <string name="auth_plus_failure_text">"La teva sol·licitud per unir-te a Google+ no s'ha completat correctament. Torna-ho a provar més tard des de qualsevol navegador web a plus.google.com."</string>
+    <string name="auth_plus_failure_title">"Creació d'un perfil de Google+ més tard"</string>
+    <string name="auth_plus_faq_title">Et donem la benvinguda a Google+</string>
+    <string name="auth_plus_name_check_text">Aquest procés pot trigar uns quants minuts.</string>
+    <string name="auth_plus_query_title">"Creació d'un perfil de Google+"</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Hola, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Escriu la contrasenya per a:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">"El dispositiu Chrome s'ha bloquejat."</string>
+    <string name="auth_proximity_auth_device_locked_title">Desbloqueig fàcil</string>
+    <string name="auth_proximity_auth_device_unlocked_content">"El dispositiu Chrome s'ha desbloquejat."</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Desbloqueig fàcil</string>
+    <string name="auth_proximity_auth_setup_completed_content">Amb aquest telèfon no es poden desbloquejar els dispositius Chrome.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Desbloqueig fàcil està activat</string>
+    <string name="auth_proximity_auth_setup_failed_content">Torna-ho a provar al dispositiu Chrome.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Error en configurar Desbloqueig fàcil</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">"S'ha detectat un telèfon. Continua al dispositiu Chrome."</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Configuració de Desbloqueig fàcil</string>
+    <string name="auth_recovery_loading">Carregant...</string>
+    <string name="auth_recovery_sending">"S'està enviant…"</string>
+    <string name="auth_relogin_activity_title">Torna a escriure la contrasenya</string>
+    <string name="auth_scope_acl_edit_desc">Edita</string>
+    <string name="auth_scope_details_dialog_title">Més informació</string>
+    <string name="auth_scope_icon_desc">Icona</string>
+    <string name="auth_scope_info_desc">Informació</string>
+    <string name="auth_scope_warning_desc">Advertiment</string>
+    <string name="auth_search_settings_title">Cerca</string>
+    <string name="auth_server_error">"S'ha produït un problema en comunicar amb els servidors de Google."</string>
+    <string name="auth_server_error_help">Torna-ho a provar més endavant.</string>
+    <string name="auth_setup_wizard_back_button_label">Enrere</string>
+    <string name="auth_setup_wizard_next_button_label">Següent</string>
+    <string name="auth_setup_wizard_services_activity_title">Serveis de Google</string>
+    <string name="auth_setup_wizard_services_backup"><b>Fes una còpia de seguretat del dispositiu a Google</b>" per poder restaurar fàcilment les aplicacions, les dades d'aplicacions, la configuració del sistema i les contrasenyes de xarxes Wi‑Fi."</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Fes una còpia de seguretat de les aplicacions i de les dades</b>" a Google Drive per poder restaurar el dispositiu fàcilment. Les dades inclouen les aplicacions, les dades de les aplicacions, la configuració del sistema i les contrasenyes de xarxes Wi‑Fi. Les còpies de seguretat no afecten el límit d'emmagatzematge."</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">"Les dades inclouen aplicacions, la configuració d'aplicacions, la configuració del sistema i contrasenyes de xarxes Wi-Fi."</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Còpia de seguretat i restauració</string>
+    <string name="auth_setup_wizard_services_communication_heading">Comunicació</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>"Ajuda'ns a millorar la teva experiència a Android"</b>", el rendiment de la bateria, les puntuacions de Play Store i moltes coses més amb l'enviament automàtic de dades de diagnòstic i d'ús del dispositiu a Google."</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">"Les dades inclouen informació sobre el maquinari i la xarxa, l'ús de les aplicacions i del telèfon i informes d'error."</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>"Ajuda'ns a millorar la teva experiència a Android"</b>", el rendiment de la bateria, les puntuacions de Play Store i moltes coses més amb l'enviament automàtic de dades de diagnòstic i d'ús del dispositiu a Google. "<annotation id="learn_more">Més informació</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">"El servei d'ubicació de Google fa servir la connexió Wi-Fi i altres senyals per determinar la ubicació de manera més precisa i ràpida, sovint amb menys ús d'energia que el GPS. És possible que es desin algunes dades al teu dispositiu. Pot ser que es recopilin dades fins i tot quan no s'executi cap aplicació."</string>
+    <string name="auth_setup_wizard_services_location_heading">Ubicació</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>"Utilitza el servei d'ubicació de Google"</b>" perquè les aplicacions puguin determinar millor la teva ubicació. Les dades d'ubicació anònimes del dispositiu s'enviaran a Google."</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan">Permet que les aplicacions i els serveis analitzin les xarxes fins i tot quan la connexió Wi‑Fi estigui desactivada per <b>"ajudar a millorar els serveis d'ubicació"</b>.</string>
+    <string name="auth_setup_wizard_services_play">Mantén-me al dia de les notícies i de les ofertes de Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">"Aquest dispositiu pot rebre actualitzacions i aplicacions de Google, de l'operador de telefonia mòbil i del fabricant del dispositiu."</string>
+    <string name="auth_setup_wizard_title">Auxiliar de configuració</string>
+    <string name="auth_show_error_activity_title">"No s'ha pogut iniciar la sessió"</string>
+    <string name="auth_show_error_title">Error</string>
+    <string name="auth_sign_in_agreement">Si inicies la sessió, acceptes les polítiques de privadesa de <annotation id="google_privacy">Google</annotation>" i altres polítiques  "<annotation id="android_privacy">addicionals</annotation>.</string>
+    <string name="auth_sign_in_agreement_multi_user">En iniciar la sessió, acceptes les <annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google i les <annotation id="play_tos">Termes i condicions de Google Play</annotation>". 
+
+Recorda: qualsevol altre usuari pot acceptar els permisos d'aplicacions actualitzades en nom teu. Igual que en el cas d'un ordinador, només has de compartir aquesta tauleta amb persones de confiança."</string>
+    <string name="auth_sign_in_agreement_with_chrome">En iniciar la sessió, acceptes les <annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, les <annotation id="chrome_tos">Termes i condicions</annotation>" i l'"<annotation id="chrome_privacy">Avís de privadesa</annotation> de Chrome i les <annotation id="play_tos">Termes i condicions</annotation> de Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">En iniciar la sessió, acceptes les <annotation id="tos">Termes i condicions</annotation> i la <annotation id="google_privacy">Política de privadesa</annotation> de Google, les <annotation id="chrome_tos">Termes i condicions</annotation>" i l'"<annotation id="chrome_privacy">Avís de privadesa</annotation> de Chrome i les <annotation id="play_tos">Termes i condicions</annotation>" de Google Play. 
+
+Recorda: qualsevol altre usuari pot acceptar els permisos d'aplicacions actualitzades en nom teu. Igual que en el cas d'un ordinador, només has de compartir aquesta tauleta amb persones de confiança."</string>
+    <string name="auth_sign_in_browser">Inici de sessió al navegador</string>
+    <string name="auth_sign_in_button_label">Inicia la sessió</string>
+    <string name="auth_sign_in_with_google_account_short">Inicia la sessió amb el teu compte de Google:</string>
+    <string name="auth_skip_button_label">Omet</string>
+    <string name="auth_submission_error_text">"S'ha produït un error. Torna-ho a provar."</string>
+    <string name="auth_submission_title">Ens sap greu...</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Apropa el dispositiu a una etiqueta o a un dispositiu amb NFC.</string>
+    <string name="auth_trust_agent_add_nfc_title">Afegeix NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Afegeix un dispositiu de confiança</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Afegeix un lloc de confiança</string>
+    <string name="auth_trust_agent_button_nfc_settings">Configuració de NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Connexió establerta amb seguretat al dispositiu Bluetooth %s</string>
+    <string name="auth_trust_agent_dpm_disabled">"Opció desactivada per l'administrador"</string>
+    <string name="auth_trust_agent_enable_nfc">"Activa l'NFC per afegir un dispositiu amb NFC."</string>
+    <string name="auth_trust_agent_first_use_notification_button">"D'ACORD"</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">mentre estigui connectat a %s, que has definit com a dispositiu de confiança.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Perquè el dispositiu es bloquegi, desactiva la pantalla, activa-la i toca la icona de cadenat.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">mentre sigui a %s, que has definit com a lloc de confiança.</string>
+    <string name="auth_trust_agent_first_use_notification_title">El dispositiu està desbloquejat.</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Nom</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC trobada
+Posa-li un nom."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Desactivat</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Activat</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Millora la coincidència facial</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Cancel·la</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">El dispositiu deixarà de reconèixer la teva cara i es desactivarà la funció de la cara de confiança.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Restableix</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Vols restablir la cara de confiança?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Restablir la cara de confiança</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Cara de confiança</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Connectats</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Cap</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">No connectats</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Dispositius de confiança</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Cap</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Particular</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Desconeguda</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Llocs de confiança</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Feina</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">"Error d'emparellament. Torna-ho a provar."</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Config. NFC no disponible</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Afegeix un dispositiu Bluetooth de confiança perquè aquest dispositiu es mantingui desbloquejat mentre hi estigui connectat. 
+
+Exemples:
+
+- el teu rellotge Bluetooth,
+- el sistema Bluetooth del cotxe."</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth desactivat)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Afegeix un dispositiu de confiança</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">El Bluetooth està desactivat.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Cancel·la</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Tria el dispositiu</string>
+    <string name="auth_trust_agent_trusted_devices_ok">"D'acord"</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Afegeix un dispositiu de confiança perquè aquest dispositiu es mantingui desbloquejat mentre hi estigui connectat. 
+
+Exemples:
+
+- el teu rellotge Bluetooth,
+- el sistema Bluetooth del cotxe, 
+- un adhesiu NFC a la base del telèfon del cotxe."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Vols suprimir aquest dispositiu dels dispositius de confiança?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Dispositiu desconegut</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Afegeix un dispositiu NFC de confiança per desbloquejar el dispositiu només amb un toc. 
+
+Exemples:
+
+- un adhesiu NFC a la base del telèfon del cotxe"</string>
+    <string name="auth_trust_agent_trusted_places_add_account">"Afegeix un compte per recuperar l'adreça particular i la de la feina."</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Cancel·la</string>
+    <string name="auth_trust_agent_trusted_places_ok">"D'acord"</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Afegeix un lloc de confiança perquè, en entrar-hi, aquest dispositiu estigui desbloquejat. 
+
+Exemples:
+
+- casa teva,
+- l'oficina."</string>
+    <string name="auth_trust_agent_trusted_places_remove">Suprimeix</string>
+    <string name="auth_trust_agent_trusted_places_rename">Canvia el nom</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Selecciona un compte</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Desconeguts</string>
+    <string name="auth_trust_devices_not_available">La funció Dispositius de confiança no està disponible.</string>
+    <string name="auth_trust_places_not_available">La funció Llocs de confiança no està disponible.</string>
+    <string name="auth_try_again_button_label">Torna-ho a provar</string>
+    <string name="auth_ui_activity_authenticating">"S'està autenticant…"</string>
+    <string name="auth_ui_activity_title">Inici de sessió a Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Inicia la sessió</string>
+    <string name="auth_ui_add_account_title">Configuració del compte</string>
+    <string name="auth_unexpected_acl_error">"S'ha produït un problema en concedir permisos."</string>
+    <string name="auth_use_location_summary">Permet que Google utilitzi la teva ubicació per millorar els resultats de la cerca i altres serveis.</string>
+    <string name="auth_use_location_title">Ubicació i cerca de Google</string>
+    <string name="auth_username">Correu electrònic</string>
+    <string name="auth_visible_actions_title">Comparteix amb...</string>
+    <string name="authorization_dialog">Quadre de diàleg autorització</string>
+    <string name="cancel">Cancel·la</string>
+    <string name="circle_button_add_to_circles">Afegeix als cercles</string>
+    <string name="circle_button_circles">%d cercles</string>
+    <string name="circle_button_follow">Segueix</string>
+    <string name="circle_button_following_circle">Usuaris que segueixes</string>
+    <string name="circle_button_medium_add_to_circles">Afegeix</string>
+    <string name="circle_button_profile_blocked">Bloquejat</string>
+    <string name="common_accessibility_audience_view_editable">Edita el públic</string>
+    <string name="common_add_account_button_label">Afegeix un compte</string>
+    <string name="common_add_account_label">Afegeix un compte</string>
+    <string name="common_ads_settings_title">Anuncis</string>
+    <string name="common_android_wear_notification_needs_update_text">"Una aplicació necessita que s'actualitzi l'aplicació Android Wear."</string>
+    <string name="common_android_wear_update_text">"Aquesta aplicació no s'executarà fins que no actualitzis l'aplicació Android Wear."</string>
+    <string name="common_android_wear_update_title">Actualitza Android Wear</string>
+    <string name="common_app_name">Serveis de Google Play</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts no es pot iniciar.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts no es pot iniciar (error de permís).</string>
+    <string name="common_car_permission_desc">Accés al servei de cotxes</string>
+    <string name="common_car_permission_label">Servei de cotxes</string>
+    <string name="common_chips_label_empty_circles">Sense cercles</string>
+    <string name="common_chips_label_extended_circles">Cercles ampliats</string>
+    <string name="common_chips_label_only_you">Només tu</string>
+    <string name="common_chips_label_public">Públic</string>
+    <string name="common_chips_label_your_circles">Els teus cercles</string>
+    <string name="common_choose_account_label">Selecciona un compte</string>
+    <string name="common_clear_app_data_menu_item">"Esborra dades de l'aplicació"</string>
+    <string name="common_connected_apps_settings_title">Aplicacions connectades</string>
+    <string name="common_fitness_settings_title">Condicionament físic</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_verification_code_menu_item">Obtén el codi de verificació</string>
+    <string name="common_google_play_services_enable_button">Activa els serveis de Google Play</string>
+    <string name="common_google_play_services_enable_text">Aquesta aplicació no funcionarà si no actives els serveis de Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activa els serveis de Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Error</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Sol·licitada per %1$s</string>
+    <string name="common_google_play_services_install_button">Baixa els serveis de Google Play</string>
+    <string name="common_google_play_services_install_text_phone">"Aquesta aplicació no s'executarà si el telèfon no té instal·lats els serveis de  Google Play."</string>
+    <string name="common_google_play_services_install_text_tablet">Aquesta aplicació no funcionarà si la tauleta no té instal·lats els serveis de Google Play.</string>
+    <string name="common_google_play_services_install_title">Baixa els serveis de Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">El compte especificat no existeix en aquest dispositiu. Tria un compte diferent.</string>
+    <string name="common_google_play_services_invalid_account_title">Compte no vàlid</string>
+    <string name="common_google_play_services_needs_enabling_title">"Una aplicació requereix que s'activin els serveis de Google Play."</string>
+    <string name="common_google_play_services_network_error_text">Es requereix una connexió de dades per connectar amb els serveis de Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Error de xarxa</string>
+    <string name="common_google_play_services_no_restricted_profiles">"L'aplicació no és compatible amb comptes de perfils restringits."</string>
+    <string name="common_google_play_services_notification_needs_installation_title">"Una aplicació requereix que s'instal·lin els serveis de Google Play."</string>
+    <string name="common_google_play_services_notification_needs_update_title">"Una aplicació requereix que s'actualitzin els serveis de Google Play."</string>
+    <string name="common_google_play_services_notification_ticker">Error dels serveis de Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Error desconegut relacionat amb els serveis de Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">El teu dispositiu no és compatible amb els serveis de Google Play, en què es basen les teves aplicacions. Per obtenir assistència, contacta amb el fabricant.</string>
+    <string name="common_google_play_services_unsupported_title">Serveis de Google Play</string>
+    <string name="common_google_play_services_update_button">Actualitza</string>
+    <string name="common_google_play_services_update_text">"Aquesta aplicació no s'executarà si no actualitzes els serveis de Google Play."</string>
+    <string name="common_google_play_services_update_title">Actualitza els serveis de Google Play</string>
+    <string name="common_google_settings">Configuració Google</string>
+    <string name="common_list_apps_menu_help">Ajuda</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ajuda i opinions</string>
+    <string name="common_location_settings_title">Ubicació</string>
+    <string name="common_maps_settings_title">Google Maps i Latitude</string>
+    <string name="common_mdm_feature_name">Gestor de dispositius Android</string>
+    <string name="common_network_load_failed">"No disponible perquè el dispositiu no s'ha pogut connectar a una xarxa"</string>
+    <string name="common_no_network">No disponible perquè el dispositiu no té connexió</string>
+    <string name="common_open_on_phone">Obre al telèfon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">No hi ha cap compte per seleccionar</string>
+    <string name="common_search_and_now_settings_title">Cerca i Now</string>
+    <string name="common_search_settings_title">Cerca</string>
+    <string name="common_security_settings_title">Verifica aplicacions</string>
+    <string name="common_signin_button_text">Inicia sessió</string>
+    <string name="common_signin_button_text_long">Inicia sessió amb Google</string>
+    <string name="common_storage_settings_title">Emmagatzematge dels serveis de Google Play</string>
+    <string name="common_ui_confirm_deleting_button">Suprimeix</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ho entenc i ho vull suprimir</string>
+    <string name="common_url_load_unsuccessful_message">El teu dispositiu Android no està connectat a cap servei de dades. Per mostrar aquesta informació ara, visita %s amb un navegador web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">El teu dispositiu Android no està connectat a una xarxa Wi-Fi. Per visualitzar aquesta informació ara, visita %s amb un navegador web.</string>
+    <string name="common_url_login_notice">Inicia la sessió com a %1$s</string>
+    <string name="common_usage_and_diagnostics">Ús i diagnòstic</string>
+    <string name="country_invalid">Aquest país no està permès</string>
+    <string name="device_location_acl_no_one">Ningú</string>
+    <string name="device_location_best_acl_picker_title">Visibilitat de la ubicació exacta</string>
+    <string name="device_location_city_acl_picker_title">Visibilitat de la indicació de ciutat</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s i altres persones</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> i %d persones més</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Has de tenir una connexió de dades per veure la configuració per compartir la ubicació. Comprova la connexió o bé torna-ho a provar més tard.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Obre la configuració de la ubicació</string>
+    <string name="device_location_reporting_reminder_dialog_summary">"En desactivar l'opció per compartir la ubicació, no desactives els Informes d'Ubicació ni l'Historial d'Ubicacions. Altres serveis de Google que hagis activat anteriorment, com ara Google Now, poden necessitar la teva ubicació. Sempre pots controlar els Informes d'Ubicació i l'Historial d'Ubicacions des de Configuració de la ubicació."</string>
+    <string name="device_location_reporting_reminder_dialog_title">"Informes d'Ubicació"</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> i &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> i &lt;b>%s&lt;/b></string>
+    <string name="disagree">No ho accepto</string>
+    <string name="enable_location_reporting_error">"No hem pogut activar els Informes d'ubicació i l'Historial d'ubicacions per a %s. Per activar-los, vés a la configuració d'ubicació."</string>
+    <string name="enable_location_reporting_error_title">"S'ha produït un error"</string>
+    <string name="enable_location_reporting_title">"Informes d'Ubicació"</string>
+    <string name="friend_locations_enable_reporting_auto_body">"Amb la funció Informes d'ubicació, qualsevol producte de Google que faci servir aquesta funció pot emmagatzemar i fer servir les dades d'ubicació més recents dels teus dispositius. L'opció per compartir la ubicació necessita que els Informes d'ubicació estiguin activats.&lt;br/>&lt;br/>L'Historial d'ubicacions permet que Google emmagatzemi un historial de les teves dades d'ubicació des dels dispositius on hagis activat aquesta funció. &lt;a href=\"%2$s\">Més informació&lt;/a>&lt;br>Vols activar els Informes d'ubicació i l'Historial d'ubicacions per a %1$s?"</string>
+    <string name="friend_locations_enable_reporting_manual_body">"Amb els Informes d'ubicació, qualsevol producte de Google que faci servir aquesta funció pot emmagatzemar i fer servir les dades d'ubicació més recents dels teus dispositius. L'opció per compartir la ubicació necessita que els Informes d'ubicació estiguin activats.&lt;br/>&lt;br/>A la configuració d'ubicació de Google Maps, assegura't que l'opció Informes d'ubicació estigui definida com a Detecta la teva ubicació i que l'opció Informa des d'aquest dispositiu estigui marcada. &lt;a href=\"%s\">Més informació&lt;/a>"</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">"Amb els Informes d'ubicació, qualsevol producte de Google que faci servir aquesta funció pot emmagatzemar i fer servir les dades d'ubicació més recents dels teus dispositius. L'opció per compartir la ubicació necessita que els Informes d'ubicació estiguin activats.&lt;br/>&lt;br/>Inicia la sessió a Google Maps com a %1$s i, a la configuració d'ubicació, assegura't que  l'opció Informes d'ubicació estigui definida com a Detecta la teva ubicació i que l'opció Informa des d'aquest dispositiu estigui marcada. &lt;a href=\"%2$s\">Més informació&lt;/a>."</string>
+    <string name="loading">"S'està carregant…"</string>
+    <string name="location_settings_allow_access_summary">"Permet que les aplicacions de Google utilitzin la ubicació d'aquest dispositiu sempre que estigui activat"</string>
+    <string name="location_settings_allow_access_title">Accés a la ubicació</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"No podràs tornar a obtenir el teu historial d'ubicacions. 
+
+És possible que Google Now i altres aplicacions que utilitzen el teu historial d'ubicacions deixin de funcionar."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Vols suprimir-lo de manera permanent?</string>
+    <string name="location_settings_delete_auth_error">"Nom d'usuari o contrasenya incorrectes"</string>
+    <string name="location_settings_delete_io_error">"El dispositiu no s'ha pogut connectar a una xarxa"</string>
+    <string name="location_settings_delete_location_history">"SUPRIMEIX L'HISTORIAL D'UBICACIONS"</string>
+    <string name="location_settings_delete_location_history_in_progress">"S'ESTÀ SUPRIMINT..."</string>
+    <string name="location_settings_delete_offline_error">El dispositiu no té connexió</string>
+    <string name="location_settings_expiration_both_one">Queda 1 hora i 1 minut.</string>
+    <string name="location_settings_expiration_both_other" formatted="false">Queden %d hores i %d minuts.</string>
+    <string name="location_settings_expiration_hours_one">Queda 1 hora i %d minuts.</string>
+    <string name="location_settings_expiration_minutes">Queden %d minuts.</string>
+    <string name="location_settings_expiration_minutes_one">Queden %d hores i 1 minut.</string>
+    <string name="location_settings_expiration_soon">Queden menys de 15 minuts.</string>
+    <string name="location_settings_info_title">Informació</string>
+    <string name="location_settings_location_history_activity_title">"Historial d'ubicacions"</string>
+    <string name="location_settings_location_history_summary_full">"Aquesta configuració permet que Google emmagatzemi un historial de les dades de la teva ubicació des dels dispositius en què hagis activat la funció Informes d'ubicació per a aquest compte. Amb Historial d'ubicacions pots treure més profit de Google (per exemple, Google Now pot utilitzar-lo per notificar-te el trànsit que trobaràs quan vagis a treballar o quan en tornis). 
+
+Pots consultar i gestionar el teu historial d'ubicacions a maps.google.com/locationhistory. Pots desactivar-lo en qualsevol moment, però si ho fas no se suprimiran les entrades existents. Per suprimir totes les entrades existents a l'historial d'ubicacions del teu compte, fes clic al botó que hi ha a continuació."</string>
+    <string name="location_settings_location_reporting_activity_title">"Informes d'ubicació"</string>
+    <string name="location_settings_location_reporting_summary_full">"Google utilitza aquesta funció en alguns productes, com ara Google Now i Google Maps. 
+
+Si actives els informes d'ubicació, qualsevol producte de Google que utilitzi aquesta funció podrà emmagatzemar i fer servir les dades d'ubicació més recents del teu dispositiu en relació amb el teu compte de Google"</string>
+    <string name="location_settings_no_network_alert">Has de tenir una connexió de dades per veure la configuració per compartir la ubicació. Comprova la connexió o bé torna-ho a provar més tard.</string>
+    <string name="location_settings_not_available_summary">No tens cap compte de Google.</string>
+    <string name="location_settings_not_available_title">Afegir un compte</string>
+    <string name="location_settings_reporting_summary_off">Desactivada en aquest dispositiu</string>
+    <string name="location_settings_reporting_summary_on">Activada en aquest dispositiu</string>
+    <string name="location_settings_save_error">No es pot desar la configuració.</string>
+    <string name="location_settings_saving">"S'està desant configuració..."</string>
+    <string name="location_settings_screen_title">"Configuració d'ubicació de Google"</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Aquesta opció de configuració només controla l'accés a la ubicació d'aplicacions de Google.
+
+Per controlar l'accés a la ubicació de totes les aplicacions, vés a Configuració > Accés a la ubicació."</string>
+    <string name="location_settings_temporary_sharing_title">Es comparteix temporalment amb</string>
+    <string name="location_settings_ulr_summary_ambiguous">"No es pot determinar la configuració anterior. S'ha desactivat."</string>
+    <string name="location_settings_ulr_summary_auth_error">"No disponible perquè el nom d'usuari o la contrasenya no són correctes"</string>
+    <string name="location_settings_ulr_summary_error">No es pot accedir al servidor per recuperar la configuració. Prova-ho més tard.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Desactivat</string>
+    <string name="location_settings_ulr_summary_loading">"S'està recuperant..."</string>
+    <string name="location_settings_ulr_summary_off">Desactivat</string>
+    <string name="location_settings_ulr_summary_offline">No està disponible perquè el dispositiu no té connexió.</string>
+    <string name="location_settings_ulr_summary_on">Activat</string>
+    <string name="location_settings_ulr_summary_restricted">Desactivat</string>
+    <string name="location_settings_ulr_summary_unknown">Desconegut</string>
+    <string name="location_settings_ulr_summary_unsupported_country">No disponible a %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">No està disponible en aquesta regió</string>
+    <string name="location_settings_view_all">Mostra-ho tot</string>
+    <string name="location_sharing_settings_acl_title">"S'està compartint amb %s"</string>
+    <string name="location_sharing_settings_choose_acl_button">Amb qui la vols compartir</string>
+    <string name="location_sharing_settings_city_description">"Fes servir l'opció per compartir la indicació de ciutat per permetre que els amics i els familiars vegin la ciutat on ets."</string>
+    <string name="location_sharing_settings_city_example">Exemple: Vilanova i la Geltrú (Barcelona)</string>
+    <string name="location_sharing_settings_city_title">Indicació de ciutat</string>
+    <string name="location_sharing_settings_description">"La funció Compartir la ubicació et permet compartir la teva ubicació actual des d'Informes d'Ubicació al teu dispositiu amb les persones que triïs.&lt;br/>&lt;br/>Les persones amb què comparteixis la ubicació podran veure la teva ubicació actual en diversos productes de Google, com ara Google+ i Google Now. També podran veure les teves adreces, com ara el domicili i la feina. &lt;a href=\"%s\">Més informació&lt;/a>"</string>
+    <string name="location_sharing_settings_dialog_body">"Amb l'opció per compartir la ubicació pots compartir la teva ubicació actual des d'&lt;a href=\"%1$s\">Informes d'ubicació&lt;/a> al teu dispositiu amb les persones que triïs.&lt;br/>&lt;br/>Les persones amb les quals comparteixis la ubicació podran veure la teva ubicació actual als productes de Google, com ara Google+ i Google Now. També poden veure els teus llocs, com ara el domicili i la feina. &lt;a href=\"%2$s\">Més informació&lt;/a>"</string>
+    <string name="location_sharing_settings_edit_acl_button">Canvia</string>
+    <string name="location_sharing_settings_pinpoint_description">"Fes servir l'opció per compartir la ubicació exacta per permetre que les persones que estimes vegin la teva ubicació precisa i actual."</string>
+    <string name="location_sharing_settings_pinpoint_example">Exemple: Carrer del Nord, 71, Vilanova i la Geltrú (Barcelona)</string>
+    <string name="location_sharing_settings_pinpoint_title">Ubicació exacta</string>
+    <string name="location_sharing_settings_title">Opció per compartir la ubicació</string>
+    <string name="location_ulr_ambiguous_setting_text">No es pot determinar la configuració anterior. La vols activar ara?</string>
+    <string name="location_ulr_setting_google_location_disabled">No disponible perquè les aplicacions de Google no tenen accés a la ubicació.</string>
+    <string name="location_ulr_setting_label">"Informes d'Ubicació de Google"</string>
+    <string name="location_ulr_setting_location_disabled">No està disponible perquè la ubicació està desactivada.</string>
+    <string name="location_ulr_setting_no_account">Desactivat, no hi ha comptes</string>
+    <string name="location_ulr_setting_reporting_only">"S'està fent servir l'última ubicació"</string>
+    <string name="location_warning_do_not_show_again">"No m'ho tornis a mostrar"</string>
+    <string name="location_warning_message">"Permet que Google pugui ajudar les aplicacions a determinar la ubicació, és a dir, que s'enviïn dades d'ubicació anònimes a Google fins i tot quan no s'estigui executant cap aplicació."</string>
+    <string name="location_warning_title">"Vols fer servir el servei d'ubicació de Google?"</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"La meva ubicació 
+Augmenta la precisió a {0} metres"</string>
+    <string name="maps_API_OUTDATED_WARNING">Aquesta aplicació utilitza una versió de Google Maps que no està actualitzada. És possible que no funcioni correctament.</string>
+    <string name="maps_BACK_TO_LIST">Torna a la llista</string>
+    <string name="maps_CLOSE_SOFTKEY">Tanca</string>
+    <string name="maps_COMPASS_ALT_TEXT">Brúixola</string>
+    <string name="maps_LEVEL_ALT_TEXT">Planta {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">La meva ubicació</string>
+    <string name="maps_YOUR_LOCATION">La vostra ubicació actual</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Amplia</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Redueix</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Imatges ©%2$d %3$s, Dades dels mapes ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Imatges ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Dades dels mapes ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Panorama no vàlid.</string>
+    <string name="maps_network_unavailable">"Aquest programa necessita una connexió a dades i ho tornarà a intentar de manera automàtica. Comproveu la intensitat del senyal. El mode d'avió està activat? Les dades d'itinerància estan desactivades?"</string>
+    <string name="maps_no_panorama_data">"No s'han establert dades de panorama."</string>
+    <string name="maps_panorama_disabled">La imatge ja no està disponible.</string>
+    <string name="maps_service_unavailable">El servei Street View no està disponible.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">"S'ha perdut la connexió a dades, s'està tornant a intentar…"</string>
+    <string name="mr_media_route_button_content_description">Emet</string>
+    <string name="mr_media_route_chooser_searching">"S'estan cercant dispositius…"</string>
+    <string name="mr_media_route_chooser_title">Connecta al dispositiu</string>
+    <string name="mr_media_route_controller_disconnect">Desconnecta</string>
+    <string name="mr_system_route_name">Sistema</string>
+    <string name="mr_user_route_category_name">Dispositius</string>
+    <string name="notification_ticker">"S'ha sol·licitat accés"</string>
+    <string name="off">Desactivada</string>
+    <string name="ok">D’acord</string>
+    <string name="on">Activada</string>
+    <string name="open_location_settings">"Obre la configuració d'ubicació"</string>
+    <string name="phone_number_hint">Número de telèfon</string>
+    <string name="phone_number_invalid">Número de telèfon no vàlid</string>
+    <string name="phone_number_invalid_character">Caràcters no vàlids al número de telèfon</string>
+    <string name="place_address_hint">Adreça</string>
+    <string name="place_address_title">Adreça</string>
+    <string name="place_address_update_hint">Actualitza</string>
+    <string name="place_category_hint">Selecciona una categoria</string>
+    <string name="place_category_title">Categoria</string>
+    <string name="place_name_hint">Nom del lloc</string>
+    <string name="place_name_title">Nom</string>
+    <string name="place_phone_hint">Número de telèfon principal</string>
+    <string name="place_phone_title">Telèfon</string>
+    <string name="place_picker_adding_a_place">"S'està enviant informe..."</string>
+    <string name="place_picker_cancel">Cancel·la</string>
+    <string name="place_picker_cant_add_place">Error en afegir lloc</string>
+    <string name="place_picker_label">Selecciona un lloc</string>
+    <string name="place_picker_location_off_message">"Per seleccionar una ubicació, primer has d'activar l'accés a la ubicació a Configuració."</string>
+    <string name="place_picker_nearby_places">Llocs propers</string>
+    <string name="place_picker_no_search_results">No hi ha cap lloc que coincideixi.</string>
+    <string name="place_picker_search_error">Error càrrega resultats</string>
+    <string name="place_picker_search_hint">Cerca</string>
+    <string name="place_picker_searching_label">"S'està cercant..."</string>
+    <string name="place_picker_select_a_location_label">Selecciona una ubicació per obtenir informació.</string>
+    <string name="place_picker_select_this_location">Selecciona aquesta ubicació</string>
+    <string name="place_picker_settings">Configuració</string>
+    <string name="place_picker_updating_location_label">Actualitzant ubicació...</string>
+    <string name="place_picker_updating_nearby_label">Actualitzant llocs propers...</string>
+    <string name="place_website_hint">Lloc web oficial</string>
+    <string name="place_website_title">Lloc web</string>
+    <string name="plus_accessibility_acl_selection">Tria el públic</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Cercle</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Afegeix a un cercle nou</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avatar</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Cercles</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Cerca persones o cercles</string>
+    <string name="plus_accessibility_circle_selection">Tria els cercles</string>
+    <string name="plus_accessibility_comment_avatar">Cercles</string>
+    <string name="plus_accessibility_facl_selection">"Selecciona els membres del cercle que l'aplicació pot veure"</string>
+    <string name="plus_accessibility_update_circles">Actualitza els cercles</string>
+    <string name="plus_actionbar_up_button_description">Navega cap amunt</string>
+    <string name="plus_add_to_circle_progress">"S'està afegint..."</string>
+    <string name="plus_add_to_circles_title_default">Afegeix als cercles</string>
+    <string name="plus_add_to_circles_title_with_user_name">Afegeix %1$s</string>
+    <string name="plus_add_to_following_circle_progress">"S'està seguint…"</string>
+    <string name="plus_add_to_new_circle_progress_message">"S'està afegint..."</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">COMPTE</string>
+    <string name="plus_app_settings_activity_label">Aplicacions connectades</string>
+    <string name="plus_app_settings_activity_log_label">"Registre d'activitat"</string>
+    <string name="plus_app_settings_activity_log_page_label">"Registre d'activitat"</string>
+    <string name="plus_app_settings_all_apps_label">Aplicacions i dispositius</string>
+    <string name="plus_app_settings_apps_page_label">Aplicacions connectades</string>
+    <string name="plus_app_settings_fitness_apps_label">Aplic./disp. de Fitness</string>
+    <string name="plus_app_settings_sign_in_apps_label">Amb inici de sessió de Google+</string>
+    <string name="plus_article_preview_image_description">"Imatge de visualització prèvia de l'article"</string>
+    <string name="plus_audience_edit_button_label">Edita</string>
+    <string name="plus_audience_selection_cancel">Cancel·la</string>
+    <string name="plus_audience_selection_contacts">Tots els contactes</string>
+    <string name="plus_audience_selection_contacts_description">Inclou els contactes que es creïn en el futur</string>
+    <string name="plus_audience_selection_description_acl">COMPARTEIX AMB</string>
+    <string name="plus_audience_selection_done">Fet</string>
+    <string name="plus_audience_selection_everyone">Tots els cercles</string>
+    <string name="plus_audience_selection_everyone_description">Inclou els cercles que creïs en el futur.</string>
+    <string name="plus_audience_selection_header_circles">CERCLES</string>
+    <string name="plus_audience_selection_header_people">PERSONES</string>
+    <string name="plus_audience_selection_header_search">"S'HA CERCAT"</string>
+    <string name="plus_audience_selection_header_suggested">SUGGERITS</string>
+    <string name="plus_audience_selection_hidden_circle">"Els contactes d'aquest cercle no es mostren al teu perfil de manera pública"</string>
+    <string name="plus_audience_selection_loading">"S'està carregant…"</string>
+    <string name="plus_audience_selection_new_circle">Afegeix a un cercle nou</string>
+    <string name="plus_audience_selection_public_circle">tothom al web</string>
+    <string name="plus_audience_selection_search_device_results">DEL DISPOSITIU</string>
+    <string name="plus_audience_selection_search_google_results">DE GOOGLE</string>
+    <string name="plus_audience_selection_title">Públic</string>
+    <string name="plus_audience_selection_title_acl">Comparteix amb…</string>
+    <string name="plus_audience_selection_title_search">Cerca…</string>
+    <string name="plus_audience_selection_title_update_circles">Afegeix als cercles</string>
+    <string name="plus_auth_audience_view_default_description">"%s enviarà informació de les teves activitats des d'aquesta aplicació a Google. Pots triar qui més pot veure aquestes activitats a Google."</string>
+    <string name="plus_auth_audience_view_footnote">"Google farà servir aquesta informació d'acord amb les "<annotation id="tos">Condicions del servei</annotation> i amb la <annotation id="google_privacy">Política de privadesa</annotation> de Google.</string>
+    <string name="plus_auth_hide_circles_label">Amaga tots els cercles</string>
+    <string name="plus_auth_info_fragment_app_name">%s sol·licita permís per:</string>
+    <string name="plus_auth_see_circles_label">Mostra tots els cercles</string>
+    <string name="plus_avatar_image_description">"Imatge d'avatar de l'usuari"</string>
+    <string name="plus_bad_name_agree_button_label">Envia</string>
+    <string name="plus_bad_name_decline_button_label">Canvia el nom</string>
+    <string name="plus_bad_name_skip_button_label">Omet Google+</string>
+    <string name="plus_checking_gplus_signup_state">"S'està connectant…"</string>
+    <string name="plus_choose_facl_title">Informació bàsica de %s:</string>
+    <string name="plus_circle_creation_circle_name_hint">Nom del cercle</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">"No s'ha pogut crear el cercle; torna-ho a provar més tard."</string>
+    <string name="plus_circle_creation_keyboard_action_label">Crea</string>
+    <string name="plus_circle_creation_title_default">Crear un cercle</string>
+    <string name="plus_circle_creation_title_with_user_name">Afegeix %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Botó per tancar el diàleg</string>
+    <string name="plus_close_button_label">Tanca</string>
+    <string name="plus_create_button_description">Botó per afegir elements a un cercle nou</string>
+    <string name="plus_cross_client_auth_toast_text">Benvingut de nou a %1$s. Tens la sessió iniciada a Google com a %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Aquesta activitat és visible per a:</string>
+    <string name="plus_delete_moment_failed_dialog_message">"S'ha produït un problema en suprimir les activitats. Torna-ho a provar més tard."</string>
+    <string name="plus_delete_moment_progress_dialog_message">"S'està suprimint..."</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Suprimeix també totes les teves activitats de %s a Google</string>
+    <string name="plus_disconnect_source_dialog_message">"%1$s deixarà de tenir l'accés que li vas concedir al teu compte de Google i no podrà enviar les teves activitats a l'aplicació a Google. Aquest procés pot trigar fins a una hora a completar-se."</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Cancel·la</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Desconnecta</string>
+    <string name="plus_disconnect_source_dialog_title">Vols desconnectar-la?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">"No s'ha pogut desconnectar %s."</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Vols desconnectar aquesta aplicació de Google?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">"S'està desconnectant %s…"</string>
+    <string name="plus_domain_default">el teu domini</string>
+    <string name="plus_domain_restricted_choice_body">Evita que la publicació es comparteixi fora de %s</string>
+    <string name="plus_domain_restricted_choice_title">Restringeix a %s</string>
+    <string name="plus_done">"D'acord"</string>
+    <string name="plus_facl_default_description">"El nom complet, la foto de perfil, l'id. de Google+, l'interval d'edat i d'idioma i una llista de persones dels cercles que es marquen tot seguit. Conté els perfils públics, però no els noms dels cercles on són."</string>
+    <string name="plus_first_name">Nom</string>
+    <string name="plus_gender_prompt">Selecciona el sexe</string>
+    <string name="plus_install_app_dialog_checkbox_text">"No m'ho tornis a demanar."</string>
+    <string name="plus_install_app_dialog_message">"Vols baixar l'aplicació de Google+ per visualitzar la publicació que acabes de compartir?"</string>
+    <string name="plus_install_app_dialog_negative_button">Ara no</string>
+    <string name="plus_install_app_dialog_positive_button">Instal·la</string>
+    <string name="plus_install_app_dialog_title">Baixa Google+</string>
+    <string name="plus_internal_error">"S'ha produït un error intern."</string>
+    <string name="plus_invalid_account">Compte no vàlid</string>
+    <string name="plus_last_name">Cognoms</string>
+    <string name="plus_list_apps_aspen_empty_message">"No has connectat amb cap aplicació mitjançant l'inici de sessió amb Google+.
+
+"<annotation id="learn_more">Més informació</annotation></string>
+    <string name="plus_list_apps_disabled_error">No es pot carregar Aplicacions connectades en aquest moment. <annotation id="learn_more">Més informació</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">No hi ha cap aplicació connectada amb el teu compte de Google.</string>
+    <string name="plus_list_apps_error">"No s'han pogut carregar les aplicacions. Torna-ho a provar més tard."</string>
+    <string name="plus_list_apps_error_aspen">"No s'han pogut carregar les aplicacions.
+
+"<annotation id="learn_more">Més informació</annotation> sobre les aplicacions amb Inici de sessió amb Google+</string>
+    <string name="plus_list_apps_error_fitness">"No s'han pogut carregar les aplicacions ni els dispositius.
+
+"<annotation id="learn_more">Més informació</annotation> sobre les aplicacions i els dispositius de Fitness</string>
+    <string name="plus_list_apps_fitness_empty_message">"No has connectat cap aplicació ni cap dispositiu a Google Fit.
+
+"<annotation id="learn_more">Més informació</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">No hi ha comptes.</string>
+    <string name="plus_list_moments_disabled_error">"No es pot carregar el registre d'activitat en aquest moment. "<annotation id="learn_more">Més informació</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">No tens cap activitat</string>
+    <string name="plus_list_moments_error">"No s'han pogut carregar les activitats. Torna-ho a provar més tard."</string>
+    <string name="plus_list_moments_filter_empty_message">"No tens cap activitat d'aquest tipus."</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">"No es pot consultar aquesta activitat des del registre d'activitat. Visita aquesta aplicació directament."</string>
+    <string name="plus_loading">"S'està carregant…"</string>
+    <string name="plus_manage_app_acl_description_label">Activitats que aquesta aplicació comparteix amb Google</string>
+    <string name="plus_manage_app_acl_error">"No s'ha pogut actualitzar l'aplicació."</string>
+    <string name="plus_manage_app_all_circles_label">Tots els cercles</string>
+    <string name="plus_manage_app_app_icon_desc">Icona</string>
+    <string name="plus_manage_app_disabled_error">"No s'ha pogut carregar l'aplicació connectada en aquest moment. "<annotation id="learn_more">Més informació</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Desconnecta</string>
+    <string name="plus_manage_app_domain_label">Domini</string>
+    <string name="plus_manage_app_extended_circles_label">Cercles ampliats</string>
+    <string name="plus_manage_app_facl_label">"L'aplicació pot veure aquests usuaris."</string>
+    <string name="plus_manage_app_label">Aplicació connectada</string>
+    <string name="plus_manage_app_limited_label">Compartit en privat</string>
+    <string name="plus_manage_app_no_acl_description">"L'ús que fas d'aquesta aplicació"</string>
+    <string name="plus_manage_app_no_circles_label">Cap</string>
+    <string name="plus_manage_app_only_you_label">Només tu</string>
+    <string name="plus_manage_app_pacl_label">"Qui pot veure les activitats de l'aplicació a Google"</string>
+    <string name="plus_manage_app_pacl_sub_label">"Les opcions que triïs aquí no canvien la visibilitat de les activitats del registre d'activitats, però sí que s'apliquen a l'activitat de jocs."</string>
+    <string name="plus_manage_app_public_label">Pública</string>
+    <string name="plus_manage_app_scopes_label">Aquesta aplicació pot accedir a:</string>
+    <string name="plus_manage_app_updating_acl">"S'està actualitzant..."</string>
+    <string name="plus_manage_aspen_app_label">Aplicació amb inici de sessió amb Google+</string>
+    <string name="plus_manage_device_disconnect_label">Desconnecta</string>
+    <string name="plus_manage_device_label">Dispositiu connectat</string>
+    <string name="plus_manage_moment_acl">"Visible per a:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">"No s'han pogut carregar uns quants detalls; torna-ho a provar més tard."</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Suprimeix</string>
+    <string name="plus_manage_moment_delete_label">SUPRIMEIX</string>
+    <string name="plus_manage_moment_image_desc">Activitat</string>
+    <string name="plus_manage_moment_label">Activitat</string>
+    <string name="plus_manage_moment_no_in_app_delete">No es pot gestionar aquesta activitat. <annotation id="learn_more">Més informació</annotation></string>
+    <string name="plus_ok_button_description">"Botó D'acord"</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">"Recomana'l a Google"</string>
+    <string name="plus_one_annotation_none_short">Recomana-ho</string>
+    <string name="plus_one_app">De &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">Molts</string>
+    <string name="plus_one_description">Toca per afegir un més u al %1$s existent</string>
+    <string name="plus_one_description_remove">Toca per eliminar el més u dels %1$s existents</string>
+    <string name="plus_one_description_standard">Toca per fer més u.</string>
+    <string name="plus_one_error">"S'ha produït un problema temporal amb el teu +1. Torna-ho a provar."</string>
+    <string name="plus_one_public">Públic</string>
+    <string name="plus_one_self">+1 de %1$s</string>
+    <string name="plus_one_self_removed">"S'ha eliminat el teu +1."</string>
+    <string name="plus_one_share">Comparteix</string>
+    <string name="plus_one_social_annotation_prefix">inclòs %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">inclòs %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s hi ha fet +1</string>
+    <string name="plus_one_social_annotation_user">Tu</string>
+    <string name="plus_one_title">Hi has fet +1 públicament com a</string>
+    <string name="plus_one_undo">Desfés</string>
+    <string name="plus_oob_3p_promo">Treu més rendiment de %1$s amb un perfil públic de Google+.</string>
+    <string name="plus_oob_cancel_button_label">Cancel·la</string>
+    <string name="plus_oob_default_promo">Treu més rendiment de Google amb un perfil públic de Google+.</string>
+    <string name="plus_oob_done_button_label">Fet</string>
+    <string name="plus_oob_edit_name_warning">Si canvies el nom del teu perfil de Google+, també es canviarà a la resta de productes de Google.</string>
+    <string name="plus_oob_failure_text">Google+ no ha pogut configurar el teu perfil. Torna-ho a provar més tard.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Nom</string>
+    <string name="plus_oob_first_name_content_description">Nom</string>
+    <string name="plus_oob_gender_content_description">Sexe</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Ara no</string>
+    <string name="plus_oob_interstitial_loading">Cont. Google+…</string>
+    <string name="plus_oob_interstitial_loading_body">Aquest procés pot trigar uns quants minuts.</string>
+    <string name="plus_oob_interstitial_sending">"S'està enviant…"</string>
+    <string name="plus_oob_interstitial_sending_body">Aquest procés pot trigar uns quants minuts.</string>
+    <string name="plus_oob_join">Crea</string>
+    <string name="plus_oob_last_name_content_description">Cognom</string>
+    <string name="plus_oob_loading">Carregant…</string>
+    <string name="plus_oob_next">Següent</string>
+    <string name="plus_oob_next_content_description">Botó Següent</string>
+    <string name="plus_oob_no_connection_message">"No s'ha pogut connectar amb el servidor."</string>
+    <string name="plus_oob_no_connection_title">Sense connexió</string>
+    <string name="plus_oob_pronoun_content_description">Dirigeix-te a mi com a</string>
+    <string name="plus_oob_sending">"S'està enviant…"</string>
+    <string name="plus_oob_title_tos">Perfil de Google+</string>
+    <string name="plus_oob_tos_accept">Accepta</string>
+    <string name="plus_photo_preview_image_description">Imatge de visualització prèvia de la foto</string>
+    <string name="plus_plus_icon_image_description">Imatge de la icona de Google Plus</string>
+    <string name="plus_posted_just_now">Ara mateix</string>
+    <string name="plus_pronoun_prompt">Selecciona</string>
+    <string name="plus_remove_from_circle_progress">"S'està suprimint…"</string>
+    <string name="plus_replybox_button_description">Respon</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Vols descartar aquesta resposta?</string>
+    <string name="plus_replybox_hint_text">Afegeix una resposta</string>
+    <string name="plus_replybox_internal_error">"No s'ha pogut respondre."</string>
+    <string name="plus_replybox_no_network_connection">No es pot crear la resposta. Torna-ho a provar.</string>
+    <string name="plus_replybox_post_error_message">"No s'ha pogut publicar la resposta."</string>
+    <string name="plus_replybox_post_success">"S'ha publicat la teva resposta."</string>
+    <string name="plus_scope_fragment_extended_circles_label">Els teus cercles ampliats</string>
+    <string name="plus_scope_fragment_mixed_label">Cercles seleccionats</string>
+    <string name="plus_scope_fragment_only_you_label">Només tu</string>
+    <string name="plus_scope_fragment_public_label">Tothom al web</string>
+    <string name="plus_scope_fragment_your_circles_label">Els teus cercles</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Auxiliar de configuració</string>
+    <string name="plus_share_button_description">Botó Comparteix</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Fet</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Tria els destinataris</string>
+    <string name="plus_sharebox_audience_to_text">Per a:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Públic</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Cercle nou</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">"No s'han pogut afegir persones al cercle"</string>
+    <string name="plus_sharebox_circles_button">Fet</string>
+    <string name="plus_sharebox_circles_checkbox_label">Afegeix %1$s al cercle:</string>
+    <string name="plus_sharebox_circles_create_failed">"No s'ha pogut crear el cercle"</string>
+    <string name="plus_sharebox_circles_create_option">Crea un cercle nou</string>
+    <string name="plus_sharebox_circles_following_circle">Usuaris seguits</string>
+    <string name="plus_sharebox_circles_friends_circle">Amics</string>
+    <string name="plus_sharebox_circles_name_length_warning">"El nom d'aquest cercle és massa llarg."</string>
+    <string name="plus_sharebox_circles_name_used_warning">Aquest nom de cercle ja està en ús.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Afegir al cercle</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Vols descartar aquesta publicació?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">"No s'ha pogut compartir."</string>
+    <string name="plus_sharebox_load_error">"S'ha produït un problema temporal en carregar el diàleg per compartir. Torna-ho a provar."</string>
+    <string name="plus_sharebox_next">SEGÜENT</string>
+    <string name="plus_sharebox_no_network_connection">No es pot crear la publicació. Torna-ho a provar.</string>
+    <string name="plus_sharebox_post_body_hint">En què penses?</string>
+    <string name="plus_sharebox_post_body_icon">Imatge del perfil</string>
+    <string name="plus_sharebox_post_error_message">No es pot crear la publicació. Torna-ho a provar més tard.</string>
+    <string name="plus_sharebox_post_error_title">Atenció</string>
+    <string name="plus_sharebox_post_pending">"S'està enviant…"</string>
+    <string name="plus_sharebox_post_success">"S'ha compartit la teva publicació."</string>
+    <string name="plus_sharebox_preview_loading">"S'està carregant…"</string>
+    <string name="plus_sharebox_search_hint">Escriu un nom, un correu electrònic o un cercle.</string>
+    <string name="plus_sharebox_share">COMPARTEIX</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Comparteix també a Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Comparteix mitjançant Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Si comparteixes contingut públicament, les persones que no has afegit als cercles podran veure la teva publicació i és possible que puguin fer-hi comentaris.</string>
+    <string name="plus_sharebox_under_age_warning_title">Es comparteix públicament</string>
+    <string name="plus_undo_button_description">Botó Desfés</string>
+    <string name="plus_unified_setup_activity_title">"Creació d'un perfil"</string>
+    <string name="plus_unknown_app_name">Aplicació</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">"No s'han pogut actualitzar els cercles; torna-ho a provar més tard."</string>
+    <string name="plus_update_circles_not_allowed_default_message">No pots afegir aquest usuari als cercles.</string>
+    <string name="plus_update_circles_not_allowed_message">No pots afegir %1$s als cercles.</string>
+    <string name="plus_update_circles_progress">"S'estan actualitzant els cercles..."</string>
+    <string name="plus_video_preview_image_description">Imatge de visualització prèvia del vídeo</string>
+    <string name="recovery_done_button_label">Fet</string>
+    <string name="recovery_input_screen_message">Indica a Google com pot contactar amb tu en cas que oblidis la contrasenya de %s.</string>
+    <string name="recovery_message_set">"Les contrasenyes s'obliden fàcilment.
+
+Proporciona un número de telèfon o una adreça electrònica de seguretat. Això t'ajudarà a recuperar l'accés al contingut que tinguis a Google i a Google Play. "<annotation id="help_url">Més informació</annotation></string>
+    <string name="recovery_message_verify">"Les contrasenyes s'obliden fàcilment.
+
+Confirma el teu número de telèfon o l'adreça electrònica de seguretat. Això t'ajudarà a recuperar l'accés al contingut que tinguis a Google i a Google Play. "<annotation id="help_url">Més informació</annotation></string>
+    <string name="recovery_notification_ticker">El compte necessita atenció</string>
+    <string name="recovery_notification_title">Recordatori recup. contrasenya</string>
+    <string name="recovery_server_error">Error en comunicar amb el servidor. Torna-ho a provar més tard.</string>
+    <string name="recovery_title">Recuperació de la contrasenya de Google</string>
+    <string name="recovery_yes_button_label">Configura les opcions de recuperació</string>
+    <string name="recovery_yes_button_label_verify">Confirma les opcions de recuperació</string>
+    <string name="retry_call_to_action">Torna-ho a provar</string>
+    <string name="secondary_email_hint">Correu electr. seguretat</string>
+    <string name="secondary_email_invalid">Adreça electrònica no vàlida</string>
+    <string name="secondary_email_same_as_primary">No pot ser igual que la princ.</string>
+    <string name="selected_location_unknown">Desconeguda</string>
+    <string name="sharedUserLabel">Serveis de Google</string>
+    <string name="sid_lsid_grant_detail">"De la mateixa manera com passa amb les contrasenyes, les galetes d'identificació de la sessió (SID) i d'identificació de la sessió local (LSID) associen la teva identitat amb una sèrie de sol·licituds del navegador. També permeten l'accés complet a totes les dades del compte. Només els navegadors tenen permís per utilitzar aquestes galetes."</string>
+    <string name="sid_lsid_grant_label">Utilitza galetes SID i LSID per obtenir accés a totes les dades del compte de Google.</string>
+    <string name="storage_management_drive_clear_failure">"S'ha produït un error en esborrar les dades de Drive. Torna-ho a provar més tard."</string>
+    <string name="storage_management_drive_clear_label">Esborra</string>
+    <string name="storage_management_drive_clear_success">"Les dades de Drive s'han esborrat."</string>
+    <string name="storage_management_drive_clearing">"S'està esborrant..."</string>
+    <string name="storage_management_drive_confirm_clear_data_message">"Totes les dades locals de Drive de les aplicacions compatibles amb Drive se suprimiran de manera permanent. Això pot incloure canvis pendents que encara no s'hagin penjat al servidor de Google Drive."</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Vols esborrar totes les dades?</string>
+    <string name="storage_management_drive_descriptive_text">"Les aplicacions activades per a Drive emmagatzemen fitxers al dispositiu per millorar-ne el rendiment i permetre l'accés fora de línia."</string>
+    <string name="storage_management_drive_get_storage_failure">"S'ha produït un error en calcular l'ús d'emmagatzematge de Drive. Torna-ho a provar més tard."</string>
+    <string name="storage_management_drive_size_label">Emmagatzematge local de Drive</string>
+    <string name="storage_management_wear_descriptive_text">"Les aplicacions fan servir l'emmagatzematge del dispositiu per replicar dades a un complement portable."</string>
+    <string name="storage_management_wear_manage_size_label">"Gestiona l'emmagatzematge dels portables"</string>
+    <string name="storage_management_wear_size_label">Emmagatzematge dels portables</string>
+    <string name="storage_managment_all_storage_descriptive_text">Les dades totals que utilitzen els serveis de Google Play, incloses les dades del motor de cerca i altres dades</string>
+    <string name="storage_managment_clear_all_data">Esborrar totes les dades</string>
+    <string name="storage_managment_computing_size">"S'està calculant..."</string>
+    <string name="storage_managment_icing_size_label">Emmagatzem. de motor de cerca</string>
+    <string name="storage_managment_manage_icing_button">"Gestiona l'emmagatz. de cerca"</string>
+    <string name="storage_managment_search_index_descriptive_text">Accelerem la cerca al telèfon proporcionant un motor de cerca que poden fer servir les teves aplicacions.</string>
+    <string name="storage_managment_title">Emmagatzematge de serveis de Google Play</string>
+    <string name="storage_managment_total_size_label">Emmagatzematge total</string>
+    <string name="system_update_activity_battery_low_charging_text">"No queda prou bateria per instal·lar l'actualització del sistema. Espera fins que la bateria no estigui prou carregada."</string>
+    <string name="system_update_activity_battery_low_text">"No queda prou bateria per instal·lar l'actualització del sistema. Connecta el carregador per continuar."</string>
+    <string name="system_update_activity_name">Actualitzacions del sistema</string>
+    <string name="system_update_activity_roaming_text">No es poden baixar les actualitzacions del sistema en itinerància.</string>
+    <string name="system_update_activity_title">Actualitzacions del sistema</string>
+    <string name="system_update_check_now_button_text">Comprova ara</string>
+    <string name="system_update_complete_label">Actualització del sistema</string>
+    <string name="system_update_complete_ok_button">"D'acord"</string>
+    <string name="system_update_connection_lost_button_text">"Connecta't a la Wi-Fi"</string>
+    <string name="system_update_connection_lost_text">"S'ha perdut la connexió a la xarxa."</string>
+    <string name="system_update_countdown_cancel_button">Cancel·la la instal·lació</string>
+    <string name="system_update_countdown_complete">"S'està reiniciant..."</string>
+    <string name="system_update_download_button_text">Baixa</string>
+    <string name="system_update_download_failed_no_space_status_text">No hi ha prou espai disponible per a la baixada.</string>
+    <string name="system_update_download_failed_status_text">"No s'ha pogut baixar."</string>
+    <string name="system_update_download_retry_button_text">Torna a provar de baixar</string>
+    <string name="system_update_download_waiting_status_text">"S'està esperant per baixar."</string>
+    <string name="system_update_downloading_required_update_text">"Això pot tardar fins a ^1 minuts.
+
+A continuació, el dispositiu es reiniciarà automàticament."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Això pot tardar fins a ^1 minuts.
+
+A continuació, la tauleta es reiniciarà automàticament."</string>
+    <string name="system_update_downloading_required_update_title">"S'està baixant l'actualització…"</string>
+    <string name="system_update_downloading_status_text">"S'està baixant."</string>
+    <string name="system_update_downloading_wifi_status2_text">Per Wi-Fi només fins a: ^1.</string>
+    <string name="system_update_install_button_text">Reinicia i instal·la</string>
+    <string name="system_update_installing_update_text">"Això pot tardar fins a 5 minuts.
+
+Després, podràs acabar de configurar el telèfon."</string>
+    <string name="system_update_installing_update_title">"S'està instal·lant l'actualització..."</string>
+    <string name="system_update_last_checkin">"Última comprovació d'actualització: ^1."</string>
+    <string name="system_update_no_update_content_text">El sistema està actualitzat.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">"No s'ha pogut baixar; torna-ho a provar."</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">"No s'ha pogut baixar l'actualització del sistema."</string>
+    <string name="system_update_not_owner_text">Hi ha una actualització del programari del sistema disponible, però només la pot instal·lar el propietari.</string>
+    <string name="system_update_notification_action_download">Baixa</string>
+    <string name="system_update_notification_action_install">Instal·la</string>
+    <string name="system_update_notification_action_snooze">Més tard</string>
+    <string name="system_update_required_update_restart_text">"El dispositiu es reiniciarà perquè es pugui instal·lar l'actualització del sistema."</string>
+    <string name="system_update_required_update_restart_text_tablet">"La tauleta es reiniciarà perquè es pugui instal·lar l'actualització del sistema."</string>
+    <string name="system_update_required_update_restart_title">A punt de reiniciar</string>
+    <string name="system_update_requires_restart_status_text">Cal reiniciar.</string>
+    <string name="system_update_restart_button_text">Reinicia (^1)</string>
+    <string name="system_update_update_available_notification_title">Actualització del sistema disponible</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">"No hi ha prou espai disponible per baixar l'actualització del sistema."</string>
+    <string name="system_update_update_downloaded_notification_title">Actualització del sistema baixada</string>
+    <string name="system_update_verification_failed_text">Error de verificació</string>
+    <string name="system_update_verified_status_text">Baixada i verificada</string>
+    <string name="system_update_verifying_status_text">"S'està verificant."</string>
+    <string name="temporary_sharing_description">Les persones amb les quals comparteixes la teva ubicació exacta als productes de Google durant un període limitat</string>
+    <string name="temporary_sharing_title">Persones amb les quals comparteixes temporalment la teva ubicació</string>
+    <string name="turn_on_location_reporting_auto_button">Activa</string>
+    <string name="usage_and_diagnostics_consent_message">"Ajuda a millorar la teva experiència amb Android enviant de manera automàtica dades de diagnòstic i d'ús a Google. Aquesta informació no s'utilitzarà per identificar-te i pot ajudar els equips que treballen en coses com la durada de la bateria, el rendiment de l'aplicació i altres funcions noves de Google.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Més informació&lt;/font>"</string>
+    <string name="usage_reporting_off">Desactiva</string>
+    <string name="usage_reporting_on">Activa</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Connectat</string>
+    <string name="wearable_status_connecting">"S'està connectant…"</string>
+    <string name="wearable_status_disconnected">Desconnectat</string>
+    <string name="wearable_status_starting">"S'està iniciant..."</string>
+    <string name="wearable_status_wire_protocol_mismatch">Portable no compatible. Fes les actualitzacions necessàries.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Esborra ara</string>
+    <string name="wearable_storage_managment_title">Emmagatzematge dels portables</string>
+    <string name="wearable_storage_managment_total_size_label">Emmagatzematge dels portables</string>
+    <string name="wearable_storage_managment_usage_label">"Utilització d'espai per aplicació"</string>
+</resources>

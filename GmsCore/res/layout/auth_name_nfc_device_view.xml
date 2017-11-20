@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:title="@string/auth_trust_agent_add_nfc_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="24.0sp" android:gravity="top" android:id="@id/auth_trust_agent_nfc_pairing_status_text" android:paddingLeft="20.0dip" android:paddingTop="16.0dip" android:paddingRight="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/auth_trust_agent_nfc_found_prompt" android:textAlignment="center" />
+    <EditText android:id="@id/auth_trust_agent_nfc_device_name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/auth_trust_agent_nfc_device_name_hint" android:inputType="text" />
+    <Button android:layout_gravity="right" android:id="@id/auth_trust_agent_add_nfc_device_ok" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/auth_trust_agent_trusted_devices_ok" />
+</LinearLayout>

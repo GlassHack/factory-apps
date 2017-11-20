@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.glass.tutorial.remote.TutorialLiveCardView android:orientation="vertical" android:id="@id/live_card" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/PaddedCard">
+        <TextView android:textSize="@dimen/list_font_size" android:id="@id/tutorial_title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/OverlayGrayText" />
+        <View android:background="@color/header_divider_line_color" android:layout_width="fill_parent" android:layout_height="@dimen/divider_thickness" android:layout_marginTop="8.0px" />
+        <ListView android:id="@android:id/list" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@color/divider_line_color" android:dividerHeight="@dimen/divider_thickness" />
+    </LinearLayout>
+    <ImageView android:layout_gravity="top|right|center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/bundle_corner" />
+</com.google.glass.tutorial.remote.TutorialLiveCardView>

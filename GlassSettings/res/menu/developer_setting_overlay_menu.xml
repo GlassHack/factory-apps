@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/developer_setting_enable" android:title="@string/developer_setting_menu_choose_overlay" />
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/developer_setting_change_overlay" android:title="@string/developer_setting_menu_change_overlay" />
+    <item android:icon="@drawable/ic_power_50" android:id="@id/developer_setting_disable" android:title="@string/developer_setting_menu_disable" />
+</menu>

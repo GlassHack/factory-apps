@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trigger command="GET_DIRECTIONS">
+    <constraints network="true" />
+    <input />
+</trigger>

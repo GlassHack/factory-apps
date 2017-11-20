@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Yardım ve geri bildirim</string>
+    <string name="plus_app_settings_all_apps_label">Tüm uygulamalar</string>
+    <string name="plus_app_settings_apps_page_label">Bağlı uygulamalar</string>
+    <string name="plus_list_apps_empty_message">Hiçbir uygulamaya bağlanılmadı</string>
+    <string name="plus_manage_app_pacl_label">"Google'da uygulama etkinliklerinizi kimler görebilir?"</string>
+    <string name="plus_manage_app_scopes_label">Bu uygulama şunlara erişebilir:</string>
+</resources>

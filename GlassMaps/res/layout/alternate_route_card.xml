@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/map_background" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:background="@drawable/alternate_route_background" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <RelativeLayout android:layout_gravity="bottom" android:padding="@dimen/navigation_pane_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/status" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_alignParentRight="true" style="@style/alternate_route_text" />
+        <TextView android:ellipsize="end" android:id="@id/route_description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/alternate_route_label_margin" android:singleLine="true" android:layout_toLeftOf="@id/status" android:layout_alignParentLeft="true" style="@style/alternate_route_text" />
+    </RelativeLayout>
+</FrameLayout>

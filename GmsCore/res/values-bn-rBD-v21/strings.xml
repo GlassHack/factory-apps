@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">সহায়তা এবং প্রতিক্রিয়া</string>
+    <string name="plus_app_settings_all_apps_label">সমস্ত অ্যাপ্লিকেশান</string>
+    <string name="plus_app_settings_apps_page_label">সংযুক্ত অ্যাপ্লিকেশানগুলি</string>
+    <string name="plus_list_apps_empty_message">কোনো অ্যাপ্লিকেশান সংযুক্ত করা নেই</string>
+    <string name="plus_manage_app_pacl_label">Google এ কারা অ্যাপ্লিকেশান কার্যকলাপগুলি দেখতে পাবেন</string>
+    <string name="plus_manage_app_scopes_label">এই অ্যাপ্লিকেশানটি এগুলি অ্যাক্সেস করতে পারে:</string>
+</resources>

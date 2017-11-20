@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/captcha" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/auth_setup_wizard_content_frame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/auth_description_text_size" android:id="@id/instructions" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/auth_input_field_vmargins" android:text="@string/auth_captcha_instructions" />
+    <ImageView android:id="@id/captcha_image_view" android:focusable="false" android:clickable="false" android:layout_width="@dimen/auth_captcha_width" android:layout_height="@dimen/auth_captcha_height" android:layout_marginTop="6.0dip" android:src="@drawable/auth_ic_menu_info_holo_dark" android:scaleType="fitXY" />
+    <EditText android:textAppearance="?android:textAppearanceMedium" android:textSize="20.0sp" android:id="@id/captcha_answer_edit" android:layout_height="wrap_content" android:singleLine="true" android:selectAllOnFocus="true" android:inputType="textNoSuggestions" android:imeOptions="actionDone" style="@style/CaptchaEditPositioning" />
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Button android:id="@id/done" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/btn_done" android:layout_alignParentRight="true" style="@style/Canvas.Button.InlineKeyboard" />
+    <ImageButton android:id="@id/backspace" android:paddingLeft="8.0dip" android:paddingRight="8.0dip" android:layout_width="50.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_ime_delete" android:layout_toLeftOf="@id/done" android:layout_alignWithParentIfMissing="true" android:contentDescription="@string/content_description_backspace" style="@style/Canvas.Button.InlineKeyboard.Wide" />
+    <Button android:id="@id/mode_toggle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/backspace" style="@style/Canvas.Button.InlineKeyboard.Wide" />
+    <ViewFlipper android:id="@id/mode_holder" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toLeftOf="@id/mode_toggle">
+        <view android:orientation="horizontal" android:id="@id/alphabet_holder" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.google.android.pano.widget.InlineKeyboard$NavLinearLayout" />
+        <view android:orientation="horizontal" android:id="@id/number_holder" android:layout_width="fill_parent" android:layout_height="wrap_content" class="com.google.android.pano.widget.InlineKeyboard$NavLinearLayout" />
+    </ViewFlipper>
+</merge>

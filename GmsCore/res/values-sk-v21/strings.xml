@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Pomocník a spätná väzba</string>
+    <string name="plus_app_settings_all_apps_label">Všetky aplikácie</string>
+    <string name="plus_app_settings_apps_page_label">Pripojené aplikácie</string>
+    <string name="plus_list_apps_empty_message">Nie sú pripojené žiadne aplikácie</string>
+    <string name="plus_manage_app_pacl_label">Komu sa zobrazujú aktivity aplikácie v službe Google</string>
+    <string name="plus_manage_app_scopes_label">Táto aplikácia má prístup k nasledovnému:</string>
+</resources>

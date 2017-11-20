@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="account_level_title">Неабх. дз. па ўлік. зап.</string>
+    <string name="activity_recognition_permission_description">Дазваляе прыкладанню атрымліваць перыядычныя абнаўлення вашага ўзроўню актыўнасці ад Google, напрыклад, калі вы ідзяце, вядзеце машыну, едзеце на матацыклы або знаходзіцеся на месцы.</string>
+    <string name="activity_recognition_permission_label">распазнанне працэсу</string>
+    <string name="agree">Пагадзіцца</string>
+    <string name="app_label">Размяшчэнне ў сетцы</string>
+    <string name="app_level_title">Запыт на ўваход</string>
+    <string name="app_level_title_secondary">Зап. на ўв.. у сіст. ад: %s</string>
+    <string name="auth_accept_access">Прыняць</string>
+    <string name="auth_account_already_has_gmail">Ва ўліковым запісе ўжо ёсць Gmail.</string>
+    <string name="auth_account_setup_title">Уліковы запіс Google</string>
+    <string name="auth_ads_settings_title">"Аб'явы"</string>
+    <string name="auth_allow_external_site_access">Адкрыць пастаянны доступ да дадзеных на %s</string>
+    <string name="auth_app_label">Менеджэр улiковага запiса Google</string>
+    <string name="auth_app_permission_footnote">Прыкладанне %s і Google будуць выкарыстоўваць гэтую інфармацыю ў адпаведнасці з іх ўмовамі прадастаўлення паслуг і палітыкай прыватнасці.</string>
+    <string name="auth_app_permission_label">ГЭТА ПРЫКЛАДАННЕ IМКНЕЦЦА</string>
+    <string name="auth_app_permission_title">Увайдзіце ў %s з Google</string>
+    <string name="auth_back_button_label">Назад</string>
+    <string name="auth_bad_name_title">Выкарыстоўваць гэтае імя?</string>
+    <string name="auth_cancel_button_label">Адмена</string>
+    <string name="auth_captcha_instructions">Увядзіце тэкст, які вы бачыце тут:</string>
+    <string name="auth_captcha_title">Неабходна ўвесці CAPTCHA</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Ваш дамен патрабуе кіравання мабільнымі прыладамі. Каб забяспечыць выкананне палітык бяспекі для ўліковага запісу карыстальніка "<b>^1</b>, усталюйце прыкладанне палітыкі выкарыстання прылад Google.</string>
+    <string name="auth_doesnt_use_gmail">" Карыстальнiк "<b>^</b> не выкарыстоўвае Gmail.</string>
+    <string name="auth_error_account_disabled">"Гэты ўліковы запіс быў адключаны.
+
+(Каб атрымаць падрабязную інфармацыю, наведайце старонку http://google.com/accounts з вэб-браўзера)."</string>
+    <string name="auth_error_account_not_verified">"Не пацверджаная сапраўднасць гэтага ўліковага запісу. Каб зрабiць гэта, праверце сваю электронную пошту і перайдзіце па спасылцы. 
+
+(Каб аднавіць дадзеныя ўліковага запісу, перайдзіце на http://www.google.com/accounts/recovery на сваiм камп'ютары)."</string>
+    <string name="auth_error_bad_password">Пароль занадта ненадзейны або ўтрымлiвае недапушчальныя сімвалы. Паўтарыце спробу.</string>
+    <string name="auth_error_bad_username">Несапраўднае імя карыстальніка.</string>
+    <string name="auth_error_invalid_second_factor">Выкарыстоўвайце асобны пароль для прыкладанняў замест звычайнага пароля ад уліковага запісу.</string>
+    <string name="auth_error_login_failed">"Iмя карыстальніка і пароль не супадаюць. Паспрабуйце яшчэ раз.
+
+Каб аднавіць рэгістрацыйныя дадзеныя, перайдзіце на старонку google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Каб атрымаць доступ да ўліковага запісу, трэба ўвайсці ў сістэму ў Інтэрнэце. Каб запусціць браўзер і ўвайсцi, націсніце кнопку \"Далей\".</string>
+    <string name="auth_error_not_logged_in">Карыстальнік не ўвайшоў.</string>
+    <string name="auth_error_username_unavailable">Недаступнае iмя карыстальніка.</string>
+    <string name="auth_existing_account_error_text">На гэтай прыладзе Android ужо ёсць улiковы запiс ^1.</string>
+    <string name="auth_existing_account_error_title">Уліковы запіс ужо існуе</string>
+    <string name="auth_exit_menu_item">Скончыць уваход у браўзер</string>
+    <string name="auth_facl_scope_details_dialog_title">Што гэта прыкладанне можа бачыць</string>
+    <string name="auth_facl_with_warning_label">Змяніць спiс тых, каго можа бачыць прыкладанне</string>
+    <string name="auth_field_cant_be_blank">Поле не можа быць пустым.</string>
+    <string name="auth_gls_account_creation_tos">Уваходзячы, вы згаджаецеся з <annotation id="tos">Умовамі выкарыстання Google</annotation>, <annotation id="google_privacy">палітыкай прыватнасці Google</annotation> і <annotation id="play_tos">Ўмовамі выкарыстання Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Уваходзячы, вы згаджаецеся з <annotation id="tos">Умовамі выкарыстання</annotation> і <annotation id="google_privacy">палітыкай прыватнасці</annotation> Google, <annotation id="chrome_tos">Умовамі выкарыстання</annotation> і <annotation id="chrome_privacy">палітыкай прыватнасці</annotation> Chrome і <annotation id="play_tos">Ўмовамі выкарыстання</annotation> Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">Ніколі не губляйце зноў свае дадзеныя. Дзякуючы ўліковаму запісу Google яны ў бяспецы.</string>
+    <string name="auth_gls_account_intro_learn_more">Дадатковыя звесткі</string>
+    <string name="auth_gls_account_intro_recommended_title">Стварыце ўліковы запіс Google</string>
+    <string name="auth_gls_account_intro_required_title">На платформе Google</string>
+    <string name="auth_gls_account_intro_simple_message">Дадаць існуючы ўліковы запіс або стварыць новы?</string>
+    <string name="auth_gls_account_intro_title">Уліковы запіс Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"У вас ёсць улiковы запіс Google?
+
+Калі вы выкарыстоўваеце Gmail ці Google Apps, адкажыце згодай."</string>
+    <string name="auth_gls_account_pre_intro_no">Не</string>
+    <string name="auth_gls_account_pre_intro_title">Ёсць уліковы запіс Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Так</string>
+    <string name="auth_gls_account_recovery_info">Калі згубіце пароль, вы можаце адказаць на сакрэтнае пытанне і атрымаць на iншы адрас электроннай пошты спасылку для яго скіду.</string>
+    <string name="auth_gls_account_tos_plus_title">Завяршыць далучэнне да Google+</string>
+    <string name="auth_gls_account_tos_title">Завяршэнне стварэння уліковага запісу</string>
+    <string name="auth_gls_add_a_google_account">Дадаць уліковы запіс Google</string>
+    <string name="auth_gls_alternatives_list_title">Прапанаваныя імёны карыстальніка</string>
+    <string name="auth_gls_answer">" "<b>Адказ</b></string>
+    <string name="auth_gls_backup_consent_message">"Выкарыстоўвайце свой уліковы запіс Google, каб ствараць рэзервовыя копіі прыкладанняў, налады (напрыклад, закладкі і паролі Wi-Fi) і іншыя дадзеныя. Калі вы зрабілі рэзервовую копію свайго ўліковага запісу раней, зараз можаце аднавіць яго на гэтым тэлефоне.
+
+Заўсёды можна змяніць параметры рэзервовага капіравання ў наладах."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Выкарыстоўвайце свой уліковы запіс Google, каб ствараць рэзервовыя копіі прыкладанняў, налаы (напрыклад, закладак і пароляў Wi-Fi) і іншых дадзеных.
+
+Заўсёды можна змяніць параметры рэзервовага капіравання ў наладах."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Ствараць рэзервовую копiю дадзеных з гэтага тэлефона ў маiм улiковым запiсе Google</string>
+    <string name="auth_gls_cant_be_blank">Поле не можа быць пустым.</string>
+    <string name="auth_gls_checking_account">Праверка даступнасці...</string>
+    <string name="auth_gls_checking_username_message">"Планшэт звязваецца з Google, каб праверыць, ці даступна пажаданае імя карыстальніка.
+
+Гэта можа заняць некалькі хвілін."</string>
+    <string name="auth_gls_choose_a_password">Пароль</string>
+    <string name="auth_gls_circles_subtitle">Кругі</string>
+    <string name="auth_gls_circles_text">Найпрасцейшы спосаб падзяліцца ў сетцы самым цiкавым.</string>
+    <string name="auth_gls_confirm_password">Увядзіце пароль яшчэ раз</string>
+    <string name="auth_gls_create_button_label">Стварыць улiковы запіс</string>
+    <string name="auth_gls_create_google_account">Выберыце імя карыстальніка</string>
+    <string name="auth_gls_create_google_account_text">Ваш улiковы запiс Google пастаўляецца з Gmail, электроннай поштай ад Google. Яна працуе на любой прыладзе, блакiруе спам і робiць многае іншае.</string>
+    <string name="auth_gls_creating_account_title">Захаванне ўліковага запісу...</string>
+    <string name="auth_gls_creating_profile">Стварэнне вашага профілю...</string>
+    <string name="auth_gls_crop_failure">Не атрымалася абрэзаць фатаграфію.</string>
+    <string name="auth_gls_dasher_warning">Адміністратар дамена %s валодае і кіруе ўсімі вашымі дадзенымі з Google+, а таксама можа выдаляць або змяняць ваш профіль у любы час без дазволу.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Ваш дамен патрабуе кіравання мабільнымі прыладамі. Каб забяспечыць выкананне палітык бяспекі для ўліковага запісу "<b>^1</b>, трэба актываваць прыкладанне палітыкі выкарыстання прылад Google.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Актываваць</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Ваш дамен патрабуе кіравання мабільнымі прыладамі. Каб забяспечыць выкананне палітык бяспекі для ўліковага запісу карыстальніка "<b>^1</b>, усталюйце прыкладанне палітыкі выкарыстання прылад Google.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Спампаваць</string>
+    <string name="auth_gls_edit_text_help">Дакраніцеся да любога тэкставага поля, каб пачаць друкаваць</string>
+    <string name="auth_gls_eight_chars_min">мінімум 8 сімвалаў</string>
+    <string name="auth_gls_enable_web_history">Уключыць гісторыю дзеянняў у сетцы</string>
+    <string name="auth_gls_error_bad_password">Пароль занадта ненадзейны або ўтрымлiвае недапушчальныя сімвалы. Паўтарыце спробу.</string>
+    <string name="auth_gls_error_login_failed">"Iмя карыстальніка і пароль не супадаюць. Паспрабуйце яшчэ раз.
+
+Каб аднавіць рэгістрацыйныя дадзеныя, перайдзіце на старонку google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Каб атрымаць доступ да ўліковага запісу, трэба ўвайсці ў сістэму ў Інтэрнэце. Націсніце кнопку \"Далей\", каб запусціць браўзэр і ўвайсцi.</string>
+    <string name="auth_gls_existing_account_error_text">На гэтай прыладзе Android ужо існуе ўліковы запіс ^1.</string>
+    <string name="auth_gls_existing_account_error_title">Уліковы запіс ужо існуе</string>
+    <string name="auth_gls_existing_button_label">Iснуе</string>
+    <string name="auth_gls_google_play_opt_in">Трымаць мяне ў курсе навін і прапаноў ад Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" можа ўтрымліваць толькі літары,
+лічбы і кропкі."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> не ўтрымлівае нiводнай літары.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> ўтрымлівае менш за 6 або больш за 30 сімвалаў.</string>
+    <string name="auth_gls_huddle_text">Групавое паведамленне для ўсіх карыстальнiкаў у вашых колах.</string>
+    <string name="auth_gls_invalid_email">"Уведзены несапраўдны адрас электроннай пошты.
+ Прыклад: lyavon@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Адрас аднаўлення павінен адрознівацца ад таго, які вы ствараеце.</string>
+    <string name="auth_gls_is_not_available">Імя карыстальніка <b>^1</b> недаступнае.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Дадатковая інфармацыя</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Улiковы запiс Google дазваляе вам:
+
+"<li><ul>праглядаць i ўпарадковываць сваю iнфармацыю, дзе б вы нi знаходзiлiся;</ul></li>"
+
+"<li><ul>аўтаматычна ствараць рэзервовыя копiі дадзеных (напрыклад, электроннай пошты, кантактаў, музыкi і выяў).</ul></li>"
+
+"<li><ul>Лёгка карыстайцеся службамі Google у любым месцы, у тым лiку Кантактамі, Календаром, Картамі i многiмі iншымі.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Пра ўліковыя запісы Google</string>
+    <string name="auth_gls_learn_more_web_history">"Гісторыя вэб-пошуку выпраўляе вынікі пошуку на аснове таго, што вы шукалі і якія сайты наведалі, i дапамагае персаналізаваць выкарыстанне Google. 
+
+Каб праглядаць сваю гісторыю вэб-пошуку, кіраваць ёю, а таксама ўключаць і адключаць, гл. старонку http//www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Пра гісторыю вэб-пошуку</string>
+    <string name="auth_gls_name_progress_title">Секунду...</string>
+    <string name="auth_gls_name_text">Ваша імя выкарыстоўваецца для персаналізацыі вашага тэлефона і службаў Google.</string>
+    <string name="auth_gls_name_text_local">Тэлефон выкарыстоўвае вашае імя, каб персаналiзаваць некаторыя прыкладанні.</string>
+    <string name="auth_gls_name_title_local">Гэты тэлефон належыць карыстальніку...</string>
+    <string name="auth_gls_name_title_plus">Ваша імя ў Google+</string>
+    <string name="auth_gls_network_unreliable">Немагчыма ўсталяваць надзейнае падключэнне да сервера.</string>
+    <string name="auth_gls_network_unreliable_help">Гэта можа быць часовая праблема, або вашая прылада Android не падрыхтаваная для службаў перадачы дадзеных. Калі гэта будзе працягвацца, звярніцеся ў службу дапамогі.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Гэта можа быць часовая праблема. Паўтарыце спробу або падлучыцеся да іншай сеткі Wi-Fi.</string>
+    <string name="auth_gls_new_button_label">Новыя</string>
+    <string name="auth_gls_no_network">Няма падключэння да сеткі.</string>
+    <string name="auth_gls_no_network_help">Гэта можа быць часовая праблема, або вашу прыладу Android немагчыма выкарыстоўваць, каб перадаваць дадзеныя. Паспрабуйце яшчэ раз пры падлучэнні да сеткі мабільнага аператара або пры падлучэнні да сеткі Wi-Fi.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Гэта можа быць часовая праблема. Паўтарыце спробу або падлучыцеся да іншай сеткі Wi-Fi.</string>
+    <string name="auth_gls_not_now_button_label">Не зараз</string>
+    <string name="auth_gls_password_mismatch">Паролі не супадаюць. Паўтарыце спробу.</string>
+    <string name="auth_gls_password_title">Стварыць пароль</string>
+    <string name="auth_gls_photo_button_label">Зрабіць фота</string>
+    <string name="auth_gls_photo_description">Ваша фатаграфiя</string>
+    <string name="auth_gls_photo_failure">Не атрымалася запусціць камеру.</string>
+    <string name="auth_gls_photo_text">Гэта фота будзе выкарыстоўвацца ў вашым кантактным запісе. Вы можаце змяніць яго пазней у прыкладаннi \"Кантакты\".</string>
+    <string name="auth_gls_photo_text_es">Зрабіце здымак, які вашы сябры ўбачаць на Google+. Пазней вы зможаце выбраць новы фотаздымак.</string>
+    <string name="auth_gls_photo_title">Ваша фатаграфiя</string>
+    <string name="auth_gls_plus_accepted_button_label">Далучыцца да Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Не зараз</string>
+    <string name="auth_gls_plus_failure_new_account_text">Ваш уліковы запіс Google быў створаны, але запыт на далучэнне да Google+ не прайшоў. Паспрабуйце пазней адкрыць старонку plus.google.com у любым вэб-браўзеры.</string>
+    <string name="auth_gls_plus_failure_text">Запыт на далучэнне да Google+ не прайшоў. Паспрабуйце яшчэ раз адкрыць старонку plus.google.com у любым вэб-браўзеры.</string>
+    <string name="auth_gls_plus_failure_title">Далучыцеся да Google+ пазней</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Агульнадаступны профiль Google+ дапаможа вашым сябрам знайсцi вас у Iнтэрнэце. Яго зможа прагледзець кожны, хто ведае ваш адрас электроннай пошты.
+
+Дадавайце +1, каб рэкамендаваць змесцiва ў Iнтэрнэце сябрам. Ваш профiль i ўсе +1 будуць адлюстроўвацца ў вынiках пошуку, аб'явах i ў Iнтэрнэце.
+
+Зараз у вашым профiлi бачна толькi ваша iмя (%s %s). Калi вы пачнеце выкарыстоўваць Google+, зможаце дадаць фатаграфiю, звесткi пра сябе i iншую iнфармацыю."</string>
+    <string name="auth_gls_plus_name_check_text">Гэта можа заняць некалькі хвілін.</string>
+    <string name="auth_gls_plus_name_check_title">Зварот у Google+...</string>
+    <string name="auth_gls_plus_query_text">Google+ робіць агульны доступ у сетцы больш падобным на адносіны ў сапраўдным жыцці.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Не %s?</string>
+    <string name="auth_gls_provisioned_welcome">Вітаем, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Увядзіце пароль для:
+%s"</string>
+    <string name="auth_gls_recovery_title">Аднаўленне інфармацыі</string>
+    <string name="auth_gls_restore_consent_yes_agree">Аднавіць гэты тэлефон з майго ўліковага запісу Google</string>
+    <string name="auth_gls_restoring_message">Тэлефон звязваецца з Google, каб аднавiць ваш уліковы запіс. Патрабуецца некаторы час.</string>
+    <string name="auth_gls_restoring_title">Аднаўленне...</string>
+    <string name="auth_gls_retake_photo_button_label">Зрабiць фота зноўку</string>
+    <string name="auth_gls_secondary_email_label">Дадатковы адрас электроннай пошты</string>
+    <string name="auth_gls_security_questions_title">Сакрэтныя пытанні</string>
+    <string name="auth_gls_server_error">Праблема звароту да сервераў Google.</string>
+    <string name="auth_gls_server_error_help">Паўтарыце спробу пазней.</string>
+    <string name="auth_gls_sign_in_agreement">Уваходзячы, вы згаджаецеся з <annotation id="tos">Умовамi выкарыстання</annotation>, <annotation id="google_privacy">палiтыкай прыватнасцi</annotation> i <annotation id="play_tos">Умовамi выкарыстання Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Падпісваючы, вы згаджаецеся з "<annotation id="tos">Умовамі прадастаўлення паслуг</annotation>, <annotation id="google_privacy">Палітыкай прыватнасці</annotation> Google і <annotation id="play_tos">Умовамі прадастаўлення паслуг Google Play </annotation>". 
+
+ Памятайце: кожны карыстальнiк можа атрымаць абноўленыя дазволы для прыкладання ад вашага iмя. Як i ў выпадку з камп'ютарам, вы можаце даваць гэты планшэт толькi людзям, якiм давяраеце."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Уваходзячы, вы згаджаецеся з "<annotation id="tos">Умовамі выкарыстання</annotation> і <annotation id="google_privacy">палітыкай прыватнасці</annotation> Google, <annotation id="chrome_tos">Умовамі выкарыстання</annotation> і <annotation id="chrome_privacy">палітыкай прыватнасці</annotation> Chrome і <annotation id="play_tos">Ўмовамі выкарыстання</annotation> Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Уваходзячы, вы згаджаецеся з "<annotation id="tos">Умовамi выкарыстання</annotation> i <annotation id="google_privacy">палiтыкай прыватнасцi</annotation> Google, <annotation id="chrome_tos">Умовамi выкарыстання</annotation> i <annotation id="chrome_privacy">Заявай аб канфiдэнцыяльнасцi</annotation> Google Chrome, а таксама з <annotation id="play_tos">Умовамi выкарыстання</annotation>" Google Play. 
+
+Памятайце: кожны карыстальнiк можа атрымаць абноўленыя дазволы для прыкладання ад вашага iмя. Як i ў выпадку з камп'ютарам, вы можаце даваць гэты планшэт толькi людзям, якiм давяраеце."</string>
+    <string name="auth_gls_submission_title">Выбачайце...</string>
+    <string name="auth_gls_suggest_username_next_button_label">Змянiць імя карыстальніка</string>
+    <string name="auth_gls_suggestions_hint">Дакраніцеся, каб убачыць падказкі</string>
+    <string name="auth_gls_sync_intro_activity_title">Паспяховы ўваход ва ўліковы запіс</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Рэзервовае капіраванне і аднаўленне</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Рэзервовая копія</string>
+    <string name="auth_gls_sync_intro_title">Сінхранізацыя ўліковага запісу</string>
+    <string name="auth_gls_sync_item_title">Сінхранізаваць %s</string>
+    <string name="auth_gls_too_short">Занадта кароткі</string>
+    <string name="auth_gls_ui_activity_authenticating">Аўтэнтыфікацыя...</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Падрыхтоўка...</string>
+    <string name="auth_gls_uploads_subtitle">Аўтаматычная запампоўка</string>
+    <string name="auth_gls_uploads_text">Лёгкая сінхранізацыя усiх вашых фатаграфій з усіх прылад.</string>
+    <string name="auth_gls_verify_your_profile">Праверце свой профіль</string>
+    <string name="auth_gls_wait_for_device_country_msg">Збор інфармацыі аб тэлефоне. Гэта можа заняць да 30 секунд.</string>
+    <string name="auth_gls_wait_for_device_country_title">Усталяванне ўліковага запісу</string>
+    <string name="auth_google_settings_header_title">Прыватнасць</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Увайсці ў Google+</string>
+    <string name="auth_invalid_login_character">Недапушчальны знак. Дазволеныя толькі лічбы 0-9, літары алфавіту (a-z, A-Z) і кропкі.</string>
+    <string name="auth_invalid_password_character">Няправільны сімвал у паролі.</string>
+    <string name="auth_invalid_scope">Недапушчальная вобласць, якая выкарыстоўваецца падчас праверкі сапраўднасці запыту.</string>
+    <string name="auth_invalid_username">Несапраўднае імя карыстальніка.</string>
+    <string name="auth_learn_more_title">Дадатковая інфармацыя</string>
+    <string name="auth_location_neighborhood_level">Дазв. дас. дадз. ананім. месца ў Google. Таксама дазв. пэўным прыкл. выкар. дадз. з Wi-Fi і маб. сетак, каб вызн. прыбл. месцазн.</string>
+    <string name="auth_location_network_based">Служба вызн. месцазнах. Google</string>
+    <string name="auth_location_settings_title">Налады месцазнаходжання</string>
+    <string name="auth_login_activity_task_title">Уваход...</string>
+    <string name="auth_login_activity_title">Увайсцi</string>
+    <string name="auth_login_task_title">Уваход</string>
+    <string name="auth_login_title">Увядзіце адрас электроннай пошты і пароль</string>
+    <string name="auth_maps_settings_title">Карты і Лакатар</string>
+    <string name="auth_name_title">Ваша імя</string>
+    <string name="auth_network_unreliable">Немагчыма ўсталяваць надзейнае падключэнне да сервера.</string>
+    <string name="auth_network_unreliable_help">Гэта можа быць часовая праблема, або вашая прылада Android не падрыхтаваная для службаў перадачы дадзеных. Калі гэта будзе працягвацца, звярніцеся ў службу дапамогі.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Гэта можа быць часовай праблемай. Паўтарыце спробу або падлучыцеся да іншай сеткі Wi-Fi.</string>
+    <string name="auth_next_button_label">Далей</string>
+    <string name="auth_no_network">Няма падключэння да сеткі.</string>
+    <string name="auth_no_network_help">Гэта можа быць часовая праблема, або вашу прыладу Android немагчыма выкарыстоўваць, каб перадаваць дадзеныя. Паспрабуйце яшчэ раз пры падлучэнні да сеткі мабільнага аператара або пры падлучэнні да сеткі Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Гэта можа быць часовая праблема. Паўтарыце спробу або падлучыцеся да іншай сеткі Wi-Fi.</string>
+    <string name="auth_only_you_acl">Толькі вы</string>
+    <string name="auth_pacl_scope_details_dialog_title">Што можа бачыць Google</string>
+    <string name="auth_password">Пароль</string>
+    <string name="auth_plus_failure_new_account_text">Ваш уліковы запіс Google быў створаны, але запыт на далучэнне да Google+ не прайшоў. Паспрабуйце пазней адкрыць старонку plus.google.com у любым вэб-браўзеры.</string>
+    <string name="auth_plus_failure_text">Запыт на далучэнне да Google+ не прайшоў. Паспрабуйце яшчэ раз адкрыць старонку plus.google.com у любым вэб-браўзеры.</string>
+    <string name="auth_plus_failure_title">Стварыце профіль Google+ пазней</string>
+    <string name="auth_plus_faq_title">Вітаем у Google+!</string>
+    <string name="auth_plus_name_check_text">Гэта можа заняць некалькі хвілін.</string>
+    <string name="auth_plus_query_title">Стварыце профіль Google+</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Вітаем, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Увядзіце пароль для:
+%s"</string>
+    <string name="auth_relogin_activity_title">Увядзіце пароль яшчэ раз</string>
+    <string name="auth_scope_acl_edit_desc">Рэдагаваць</string>
+    <string name="auth_scope_details_dialog_title">Дадатковая iнфармацыя</string>
+    <string name="auth_scope_icon_desc">Значок</string>
+    <string name="auth_scope_info_desc">Звесткі</string>
+    <string name="auth_scope_warning_desc">Папярэджанне</string>
+    <string name="auth_search_settings_title">Пошук</string>
+    <string name="auth_server_error">Праблема звароту да сервераў Google.</string>
+    <string name="auth_server_error_help">Паўтарыце спробу пазней.</string>
+    <string name="auth_setup_wizard_title">Майстар наладкі</string>
+    <string name="auth_show_error_activity_title">Не атрымалася ўвайсцт</string>
+    <string name="auth_show_error_title">Памылка</string>
+    <string name="auth_sign_in_agreement">Уваходзячы, вы згаджаецеся з <annotation id="google_privacy">асноўнай і дадатковай</annotation> палітыкамi прыватнасці <annotation id="android_privacy">Google</annotation>.</string>
+    <string name="auth_sign_in_agreement_multi_user">Уваходзячы, вы згаджаецеся з <annotation id="tos">Умовамi выкарыстання</annotation> i <annotation id="google_privacy">палiтыкай прыватнасцi</annotation> Google, а таксама з <annotation id="play_tos">Умовамi выкарыстання Google Play</annotation>". 
+
+Памятайце: кожны карыстальнiк можа атрымаць абноўленыя дазволы для прыкладання ад вашага iмя. Як i ў выпадку з камп'ютарам, вы можаце даваць гэты планшэт толькi людзям, якiм давяраеце."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Уваходзячы, вы згаджаецеся з <annotation id="tos">Умовамі выкарыстання</annotation> і <annotation id="google_privacy">палітыкай прыватнасці</annotation> Google, <annotation id="chrome_tos">Умовамі выкарыстання</annotation> і <annotation id="chrome_privacy">палітыкай прыватнасці</annotation> Chrome і <annotation id="play_tos">Ўмовамі выкарыстання</annotation> Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Уваходзячы, вы згаджаецеся з <annotation id="tos">Умовамi выкарыстання</annotation> i <annotation id="google_privacy">палiтыкай прыватнасцi</annotation> Google, <annotation id="chrome_tos">Умовамi выкарыстання</annotation> i <annotation id="chrome_privacy">Заявай аб канфiдэнцыяльнасцi</annotation> Google Chrome, а таксама з <annotation id="play_tos">Умовамi выкарыстання</annotation>" Google Play. 
+
+Памятайце: кожны карыстальнiк можа атрымаць абноўленыя дазволы для прыкладання ад вашага iмя. Як i ў выпадку з камп'ютарам, вы можаце даваць гэты планшэт толькi людзям, якiм давяраеце."</string>
+    <string name="auth_sign_in_browser">Уваход з браўзера</string>
+    <string name="auth_sign_in_button_label">Увайсцi</string>
+    <string name="auth_sign_in_with_google_account_short">Увайдзіце ў свой уліковы запіс Google:</string>
+    <string name="auth_skip_button_label">Прапусціць</string>
+    <string name="auth_submission_error_text">Памылка. Паўтарыце спробу.</string>
+    <string name="auth_submission_title">Памылка!</string>
+    <string name="auth_try_again_button_label">Паўтарыце спробу</string>
+    <string name="auth_ui_activity_authenticating">Аўтэнтыфікацыя...</string>
+    <string name="auth_ui_activity_title">Уваход у Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Уваход з браўзэра</string>
+    <string name="auth_ui_add_account_title">Усталяванне ўліковага запісу</string>
+    <string name="auth_unexpected_acl_error">Існавала праблема прадастаўлення дазволаў.</string>
+    <string name="auth_use_location_summary">Дазволіць Google выкарыстоўваць інфармацыю аб вашым месцазнаходжанні для паляпшэння вынікаў пошуку і іншых паслуг.</string>
+    <string name="auth_use_location_title">"Месцазнаходжанне і  пошук Google"</string>
+    <string name="auth_username">Электронная пошта</string>
+    <string name="auth_visible_actions_title">Падзяліцца праз...</string>
+    <string name="common_accessibility_audience_view_editable">Змяніць аўдыторыю</string>
+    <string name="common_add_account_button_label">Дадаць уліковы запіс</string>
+    <string name="common_add_account_label">Дадаць уліковы запіс</string>
+    <string name="common_ads_settings_title">"Аб'явы"</string>
+    <string name="common_app_name">Службы Google Play</string>
+    <string name="common_chips_label_empty_circles">Колаў няма</string>
+    <string name="common_chips_label_extended_circles">Пашыраныя кругi</string>
+    <string name="common_chips_label_only_you">Толькі вы</string>
+    <string name="common_chips_label_public">Агульнадаступнае</string>
+    <string name="common_chips_label_your_circles">Вашы кругi</string>
+    <string name="common_choose_account_label">Выберыце ўліковы запіс</string>
+    <string name="common_clear_app_data_menu_item">Выдаліць дадзеныя прыкладанняў</string>
+    <string name="common_games_settings_title">Play Гульні</string>
+    <string name="common_google_play_services_enable_button">Уключыць службы Google Play</string>
+    <string name="common_google_play_services_enable_text">Гэта прыкладанне не будзе працаваць, пакуль вы не ўключыце службы Google Play.</string>
+    <string name="common_google_play_services_enable_title">Уключыць службы Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Памылка</string>
+    <string name="common_google_play_services_install_button">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Гэта прыкладанне не будзе працаваць без службаў Google Play, якіх няма ў вашым тэлефоне.</string>
+    <string name="common_google_play_services_install_text_tablet">Гэта прыкладанне не будзе працаваць без службаў Google Play, якіх няма на вашым планшэце.</string>
+    <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_no_restricted_profiles">Гэта прыкладанне не падтрымлівае ўліковыя запісы для карыстальнікаў з абмежаваннямі</string>
+    <string name="common_google_play_services_unknown_issue">Невядомая праблема са службамі Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">Службы Google Play, да якiх прывязаны некаторыя прыкладаннi, не падтрымлiваюцца на вашай прыладзе. Па дапамогу звярнiцеся да вытворцы.</string>
+    <string name="common_google_play_services_unsupported_title">Службы Google Play</string>
+    <string name="common_google_play_services_update_button">Абнавіць</string>
+    <string name="common_google_play_services_update_text">Гэта прыкладанне не будзе працаваць падчас абнаўлення службаў Google Play.</string>
+    <string name="common_google_play_services_update_title">Абнаўленне службаў Google Play</string>
+    <string name="common_google_settings">Налады Google</string>
+    <string name="common_list_apps_menu_help">Даведка</string>
+    <string name="common_location_settings_title">Месцазнаходжанне</string>
+    <string name="common_maps_settings_title">Карты і Лакатар</string>
+    <string name="common_network_load_failed">Недаступна, бо прылада не можа падлучыцца да сеткі</string>
+    <string name="common_no_network">Недаступна, бо прылада знаходзіцца ў аўтаномным рэжыме</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_search_settings_title">Пошук</string>
+    <string name="common_security_settings_title">Праверыць прыкладанні</string>
+    <string name="common_signin_button_text">Увайсцi</string>
+    <string name="common_signin_button_text_long">Увайсці ў Google</string>
+    <string name="country_invalid">Гэтая краіна не дапускаецца</string>
+    <string name="disagree">Не згадзіцца</string>
+    <string name="location_settings_allow_access_title">Доступ да месцазнаходжання</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Выдаліць назаўсёды?</string>
+    <string name="location_settings_delete_auth_error">Няправільнае імя ці пароль</string>
+    <string name="location_settings_delete_io_error">Прылада не можа падключыцца да сеткі</string>
+    <string name="location_settings_delete_location_history">ВЫДАЛIЦЬ ГIСТОРЫЮ МЕСЦАЗНАХОДЖАННЯ</string>
+    <string name="location_settings_delete_location_history_in_progress">ВЫДАЛЕННЕ...</string>
+    <string name="location_settings_delete_offline_error">Прылада адключана</string>
+    <string name="location_settings_location_history_activity_title">Гiсторыя месцазнаходжанняў</string>
+    <string name="location_settings_location_history_summary_full">"Гэты параметр дазваляе Google захоўваць гісторыю дадзеных аб месцазнаходжанні з прылад, на якіх вы дазволілі адпраўку дадзеных аб месцазнаходжанні для гэтага ўліковага запісу. Гісторыя дадзеных аб месцазнаходжанні дапаможа вам атрымаць больш ад Google, напрыклад, Google Асiстэнт можа выкарыстоўваць яе, каб паведаміць вам аб трафіку на вашым канале перадачы. 
+
+Гісторыю дадзеных аб месцазнаходжанні можна праглядаць, а таксама можна кіраваць ёю на maps.google.com/locationhistory. Можна ў любы момант адключыць гісторыю дадзеных аб месцазнаходжанні, але гэта не выдаліць існуючыя запісы. Пры націску на кнопку ніжэй будуць выдалены ўсе існуючыя запісы гісторыі дадзеных аб месцазнаходжанні для вашага ўліковага запісу."</string>
+    <string name="location_settings_location_reporting_activity_title">Адпраўка дадзеных аб месцазнаходжаннi</string>
+    <string name="location_settings_location_reporting_summary_full">"Google выкарыстоўвае гэту функцыю ў такіх прадуктах, як Google Асiстэнт і Google Карты. 
+
+Уключэнне Адпраўкi дадзеных аб месцазнаходжаннi дазваляе любому прадукту Google, які выкарыстоўвае гэту функцыю, захоўваць і выкарыстоўваць інфармацыю аб апошнім месцазнаходжанні вашай прылады ў сувязі з вашым уліковым запісам Google."</string>
+    <string name="location_settings_screen_title">Налады месцазнаходжанняў Google</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Гэты параметр кіруе толькі доступам да інфармацыі аб месцазнаходжанні прыкладанняў Google. 
+
+Каб кіраваць доступам да інфармацыі аб месцазнаходжанні  для ўсіх прыкладанняў, перайдзіце ў меню Налады > Доступ да інфармацыі аб месцазнаходжанні."</string>
+    <string name="location_settings_ulr_summary_auth_error">Недаступна з-за няправiльнага імя карыстальніка або паролю</string>
+    <string name="location_settings_ulr_summary_error">Немагчыма звязацца з серверам для атрымання настроек. Паўтарыце спробу пазней.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Выключана</string>
+    <string name="location_settings_ulr_summary_loading">Атрыманне...</string>
+    <string name="location_settings_ulr_summary_off">Адключана</string>
+    <string name="location_settings_ulr_summary_offline">Недаступна, бо прылада знаходзіцца ў аўтаномным рэжыме</string>
+    <string name="location_settings_ulr_summary_on">Уключана</string>
+    <string name="location_settings_ulr_summary_restricted">Выключана</string>
+    <string name="location_settings_ulr_summary_unknown">Невядома</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Недаступна ў гэтым рэгіёне</string>
+    <string name="location_warning_message">"Дазволіць службе масцазнаходжання Google збіраць ананімныя дадзеныя аб  месцазнаходжанні. Некаторыя дадзеныя могуць захоўвацца на прыладзе. Дадзеныя могуць збірацца, нават калі няма запушчаных прыкладанняў."</string>
+    <string name="location_warning_title">Згода на месцазнаходжанне</string>
+    <string name="notification_ticker">Доступ запытаны</string>
+    <string name="phone_number_hint">Нумар тэлефону</string>
+    <string name="phone_number_invalid">Несапраўдны нумар тэлефона</string>
+    <string name="phone_number_invalid_character">Недапушчальныя сімвалы ў нумары тэлефона</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Круг</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Аватар</string>
+    <string name="plus_audience_selection_title">Аўдыторыя</string>
+    <string name="plus_circle_size_pattern">(%d)</string>
+    <string name="recovery_done_button_label">Гатова</string>
+    <string name="recovery_input_screen_message">Паведаміце Google, як звязацца з вамі, калі вы забудзецеся на пароль для прылкдання %s.</string>
+    <string name="recovery_message_set">"Пароль лёгка забыць.
+
+Укажыце нумар тэлефона або адрас. Гэта дапаможа аднавiць доступ да Google i Google Play. "<annotation id="help_url">Дадатковая iнфармацыя...</annotation></string>
+    <string name="recovery_message_verify">"Пароль лёгка забыць.
+
+Укажыце нумар тэлефона або адрас. Гэта дапаможа аднавiць доступ да Google i Google Play. "<annotation id="help_url">Дадатковая iнфармацыя...</annotation></string>
+    <string name="recovery_notification_ticker">Уліковы запіс патрабуе ўвагі</string>
+    <string name="recovery_notification_title">Нагадаць пароль для аднаўлення</string>
+    <string name="recovery_server_error">Памылка сувязi з серверам. Паўтарыце спробу праз некаторы час.</string>
+    <string name="recovery_title">Аднаўленне паролю Google</string>
+    <string name="recovery_yes_button_label">Наладка параметраў аднаўлення</string>
+    <string name="recovery_yes_button_label_verify">Пацвердзіце параметры аднаўлення</string>
+    <string name="secondary_email_hint">Рэзервовае капіраванне электроннай пошты</string>
+    <string name="secondary_email_invalid">Несапраўдны адрас электроннай пошты</string>
+    <string name="secondary_email_same_as_primary">Не можа супадаць з асноўным адрасам электроннай пошты</string>
+    <string name="location_settings_allow_access_summary_phone">Дазволіць прыкладанням Google выкарыстоўваць інфармацыю аб месцазнаходжанні гэтага тэлефона ў любы час, калі прылада ўключаная</string>
+    <string name="location_settings_allow_access_summary_tablet">Дазволіць прыкладанням Google выкарыстоўваць інфармацыю аб месцазнаходжанні гэтага планшэта ў любы час, калі прылада ўключаная</string>
+    <string name="location_settings_confirm_deleting_location_history_checkbox">Я разумею і хачу выдаліць</string>
+    <string name="location_settings_confirm_deleting_location_history_confirm">Выдаліць</string>
+    <string name="location_settings_menu_help">Даведка</string>
+</resources>

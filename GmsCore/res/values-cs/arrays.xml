@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kavárna</item>
+        <item>Čerpací stanice</item>
+        <item>Kino</item>
+        <item>Ubytování</item>
+        <item>Noční klub</item>
+        <item>Muzeum</item>
+        <item>Restaurace</item>
+        <item>Nákupní centrum</item>
+        <item>Prodejna</item>
+        <item>Potraviny či supermarket</item>
+        <item>Jiné</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>Slabé</item>
+        <item>Uspokojivé</item>
+        <item>Dobré</item>
+        <item>Silné</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>JV</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>na sever</item>
+        <item>na severovýchod</item>
+        <item>na východ</item>
+        <item>na jihovýchod</item>
+        <item>na jih</item>
+        <item>na jihozápad</item>
+        <item>na západ</item>
+        <item>na severozápad</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Zvolte bezpečností otázku</item>
+        <item>První telefonní číslo?</item>
+        <item>Jméno nejlepšího kamaráda z dětství?</item>
+        <item>Jméno prvního učitele?</item>
+        <item>Jméno šéfa v první práci?</item>
+        <item>SPZ auta?</item>
+    </string-array>
+</resources>

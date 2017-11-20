@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="developer_setting_animation_scale_titles">
+        <item>0.5倍</item>
+        <item>標準</item>
+        <item>1.5倍</item>
+        <item>2倍</item>
+        <item>5倍</item>
+        <item>10倍</item>
+    </string-array>
+    <string-array name="developer_setting_animation_scale_descriptions">
+        <item>アニメは0.5倍の速さで再生されます</item>
+        <item>アニメは通常の速さで再生されます</item>
+        <item>アニメは1.5倍の速さで再生されます</item>
+        <item>アニメは2倍の速さで再生されます</item>
+        <item>アニメは5倍の速さで再生されます</item>
+        <item>アニメは10倍の速さで再生されます</item>
+    </string-array>
+</resources>

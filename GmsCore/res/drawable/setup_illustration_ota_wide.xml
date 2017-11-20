@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:autoMirrored="true"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <bitmap android:gravity="top" android:src="@drawable/auth_illustration_horizontal_tile" android:tileModeX="1" android:tileModeY="-1" />
+    </item>
+    <item android:id="@id/illustration_image">
+        <bitmap android:gravity="top|left|center" android:src="@drawable/setup_illustration_ota_wide_image" />
+    </item>
+</layer-list>

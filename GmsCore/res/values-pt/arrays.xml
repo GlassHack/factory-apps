@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Posto de gasolina</item>
+        <item>Cinema</item>
+        <item>Alojamento</item>
+        <item>Casa noturna</item>
+        <item>Museu</item>
+        <item>Restaurante</item>
+        <item>Shopping center</item>
+        <item>Loja</item>
+        <item>Mercearia ou mercado</item>
+        <item>Outro</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ruim</item>
+        <item>razoável</item>
+        <item>bom</item>
+        <item>forte</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SO</item>
+        <item>O</item>
+        <item>NO</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>norte</item>
+        <item>nordeste</item>
+        <item>leste</item>
+        <item>sudeste</item>
+        <item>sul</item>
+        <item>sudoeste</item>
+        <item>oeste</item>
+        <item>noroeste</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Escolha uma pergunta de segurança</item>
+        <item>Número de telefone principal?</item>
+        <item>Nome do melhor amigo de infância?</item>
+        <item>Nome da primeira professora?</item>
+        <item>Nome do gerente no primeiro emprego?</item>
+        <item>Número de registro do veículo?</item>
+    </string-array>
+</resources>

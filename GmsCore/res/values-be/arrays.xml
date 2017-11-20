@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="auth_gls_passwordStrength">
+        <item>дрэнны</item>
+        <item>ніжэй за сярэдні</item>
+        <item>добры</item>
+        <item>моцны</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Выберыце сакрэтнае пытанне</item>
+        <item>Першы нумар тэлефона?</item>
+        <item>Імя лепшага сябра дзяцінства?</item>
+        <item>Імя першага настаўніка?</item>
+        <item>Імя кіраўніка на першым працоўным месце?</item>
+        <item>Рэгістрацыйны нумар транспартнага сродку?</item>
+    </string-array>
+</resources>

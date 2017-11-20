@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:state_checked="false" android:drawable="@drawable/ic_plusone_tall_disabled" />
+    <item android:state_enabled="false" android:drawable="@drawable/ic_plusone_tall_off_blank" />
+    <item android:state_checked="true" android:state_pressed="true" android:drawable="@drawable/ic_plusone_tall_pressed" />
+    <item android:state_checked="true" android:drawable="@drawable/ic_plusone_tall_on" />
+    <item android:state_checked="false" android:state_pressed="true" android:drawable="@drawable/ic_plusone_tall_pressed" />
+    <item android:state_checked="false" android:drawable="@drawable/ic_plusone_tall_off" />
+</selector>

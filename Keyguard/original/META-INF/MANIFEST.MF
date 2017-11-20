@@ -1,0 +1,327 @@
+Manifest-Version: 1.0
+Created-By: 1.6.0_45 (Sun Microsystems Inc.)
+
+Name: res/drawable-hdpi/ic_media_play.png
+SHA1-Digest: PZaEKuOlopUcX6tfYo2HsGFEiD8=
+
+Name: res/drawable-hdpi/progress_secondary_holo_light.9.png
+SHA1-Digest: H6bJfn4oHHKyfb6j5xhdVWt9cIU=
+
+Name: res/drawable-hdpi/kg_security_grip.9.png
+SHA1-Digest: EgBNc3apVgvSX/S7UobzB1Pf7Co=
+
+Name: res/drawable/keyguard_expand_challenge_handle.xml
+SHA1-Digest: H4BtS+C9GNTdoLEbtAvAFvyK/wo=
+
+Name: res/drawable/ic_action_assist_generic.xml
+SHA1-Digest: /avdbguK/eNFEKBi84jfe0I9+Ng=
+
+Name: res/drawable-hdpi/scrubber_control_normal_holo.png
+SHA1-Digest: QrCYdpwqD+bu0HJB7z4J2cjB0eA=
+
+Name: res/drawable-hdpi/ic_lockscreen_search_normal.png
+SHA1-Digest: 7agxXcJ4MH0+LLTQS2TgG3KWMkQ=
+
+Name: res/drawable-hdpi/scrubber_track_holo_light.9.png
+SHA1-Digest: 64Hdji4KcPDpYfV3Ykx5RYz/e5c=
+
+Name: res/drawable/ic_lockscreen_handle.xml
+SHA1-Digest: TXGL1l/FlvFEyp7WLzDqBUhJjbE=
+
+Name: res/drawable-hdpi/scrubber_secondary_holo.9.png
+SHA1-Digest: 1x0fYgDk7hGGTpverZ358CAEaB0=
+
+Name: res/layout/keyguard_password_view.xml
+SHA1-Digest: er77ACMvxnfS8cqHMX4bgjiZHHI=
+
+Name: res/layout/keyguard_pattern_view.xml
+SHA1-Digest: 2sLakQtRsOh44t0gCk/ZEkkekTk=
+
+Name: res/drawable-hdpi/ic_lockscreen_ime.png
+SHA1-Digest: HACgUAQkptEIYIphyCnDvwIjdWE=
+
+Name: res/drawable-hdpi/ic_lockscreen_soundon_activated.png
+SHA1-Digest: QidhefdKTYPHK1GniV2j2GhpxmY=
+
+Name: res/drawable-hdpi/kg_security_lock_focused.png
+SHA1-Digest: h0TWKFehn1YLWh83SIk2Uitqig0=
+
+Name: res/layout-land/keyguard_widget_pager.xml
+SHA1-Digest: XW3hAPwcaYmGdY4lyNyP+EzQNaE=
+
+Name: res/drawable-hdpi/ic_alarm_small.png
+SHA1-Digest: rmUz62hHgkQm33Pga2Q/OS/rt0k=
+
+Name: res/layout/keyguard_message_area_large.xml
+SHA1-Digest: I45BFQY9PW2U1X5r47pl4AQ0+V8=
+
+Name: res/drawable/ic_lockscreen_unlock.xml
+SHA1-Digest: 9pUiUx7RLV21tAJYZ3Cq0yYbOC0=
+
+Name: res/drawable-hdpi/ic_lockscreen_player_background.9.png
+SHA1-Digest: DSx2XDHrhfbjUujjHDCuSIZDEN0=
+
+Name: res/anim/keyguard_action_assist_enter.xml
+SHA1-Digest: aqQCDo9W+0yEiUhO6t5UlVFEkyQ=
+
+Name: res/layout/keyguard_face_unlock_view.xml
+SHA1-Digest: X8VGdDGvKmL3UQanBmB+l0NqEGk=
+
+Name: res/drawable/ic_lockscreen_silent.xml
+SHA1-Digest: riMqImeZRKxdyeLFr03gf9NV8wY=
+
+Name: res/layout-port/keyguard_host_view.xml
+SHA1-Digest: eDgP1svZVm93rj3uKE8A/qf+924=
+
+Name: resources.arsc
+SHA1-Digest: ea4JpQDhObz3HrWwKvgfNU3Agww=
+
+Name: res/layout/keyguard_account_view.xml
+SHA1-Digest: 3xb5TDAJAPffe0ONz/iayDnDAwk=
+
+Name: res/drawable-hdpi/scrubber_control_focused_holo.png
+SHA1-Digest: vkmhidEu8utpMceEbUrPGCz5mxs=
+
+Name: AndroidManifest.xml
+SHA1-Digest: DVVbtQ1xDeYi3YxXtTFSb7XlJ0g=
+
+Name: res/drawable-hdpi/scrubber_control_disabled_holo.png
+SHA1-Digest: kc2UqQzTUdlwW9Wk5s3FdQq6P0w=
+
+Name: res/drawable-hdpi/progress_bg_holo_light.9.png
+SHA1-Digest: INSaWGs8aNNUvWSYTyp7Km/aUbw=
+
+Name: res/drawable-hdpi/progress_primary_holo_light.9.png
+SHA1-Digest: erPG+lVonsj0qj7l6tUarbZsdRk=
+
+Name: res/drawable-hdpi/ic_lockscreen_search_activated.png
+SHA1-Digest: DXUWNBnupP+iK1mgY2/f/xr7VVg=
+
+Name: res/drawable-hdpi/ic_lockscreen_silent_activated.png
+SHA1-Digest: CblhR6bzqF5o3X+b0R402f0o0iY=
+
+Name: res/layout/keyguard_glow_pad_container.xml
+SHA1-Digest: X9S81U/gDf4yzj2xkuC6aNBXfzU=
+
+Name: res/drawable-hdpi/kg_add_widget_pressed.png
+SHA1-Digest: pKrkwUB45I11XrdlyYkWF0N7wb0=
+
+Name: res/drawable-hdpi/kg_add_widget.png
+SHA1-Digest: b6W53HvB4dllCcyToXOX7sif5Os=
+
+Name: res/drawable-hdpi/sym_keyboard_return_holo.png
+SHA1-Digest: gDvYbY8wBpjGsFsmo3L4NiJt8k8=
+
+Name: res/drawable-hdpi/ic_media_next.png
+SHA1-Digest: VBuvZIxYI00xVs+5AcJjLcgNaR0=
+
+Name: res/drawable-hdpi/ic_lockscreen_unlock_activated.png
+SHA1-Digest: bJa05ute3Id+4WfRqKznE7hALpk=
+
+Name: res/drawable-sw600dp-hdpi/ic_lockscreen_handle_normal.png
+SHA1-Digest: vDKfzBTtq0gusfSXrXEda+Z6VQg=
+
+Name: res/drawable-hdpi/kg_security_lock.png
+SHA1-Digest: 6DRubJfvYsTn5q4Zf/odyCMJXKQ=
+
+Name: res/drawable-hdpi/ic_lockscreen_google_focused.png
+SHA1-Digest: sgayMNZqXH3KJdhG4QhXtSuyg28=
+
+Name: res/layout-land/keyguard_host_view.xml
+SHA1-Digest: Cgb4rAsiLpKrYMFkoKcMHOQdMMM=
+
+Name: res/drawable-sw600dp-hdpi/ic_alarm_small.png
+SHA1-Digest: 45Mv9L0mlOXovg24bQDzRPU5eNc=
+
+Name: res/drawable-hdpi/ic_media_previous.png
+SHA1-Digest: bqaS4mr74Nh/0dw8S/juhyoD2DY=
+
+Name: res/drawable-hdpi/ic_lockscreen_glowdot.png
+SHA1-Digest: pLoclD0FVowsYFuRJ9SRtfrXcQ8=
+
+Name: res/drawable-hdpi/ic_lockscreen_silent_focused.png
+SHA1-Digest: T7jL8DO2LujokVNHnGDxECBArFY=
+
+Name: res/layout/keyguard_emergency_carrier_area_empty.xml
+SHA1-Digest: wtQXtODemSuwG2rNL1Wx4W4U0V4=
+
+Name: res/layout/keyguard_widget_remove_drop_target.xml
+SHA1-Digest: XQ7Kw4fr05MupjLpBUy5Ka2os2E=
+
+Name: res/drawable-hdpi/scrubber_control_pressed_holo.png
+SHA1-Digest: anWTd5NA8yDNyUWJDryHZHyNpxE=
+
+Name: res/drawable-hdpi/ic_lockscreen_sim.png
+SHA1-Digest: wrXdFCLBGO84kguDu0lWDTRGoX0=
+
+Name: res/drawable-hdpi/ic_facial_backup.png
+SHA1-Digest: UdOJ2DW28YLSbPekCSvVrBePtvg=
+
+Name: res/drawable-hdpi/lockscreen_protection_pattern.png
+SHA1-Digest: q7wVmDGKA/T7fG96I26K6ApyxnQ=
+
+Name: res/layout/keyguard_sim_pin_view.xml
+SHA1-Digest: 67mTFsJbqykyJdstpahHPfSiqH8=
+
+Name: res/anim/keyguard_action_assist_exit.xml
+SHA1-Digest: /eDty1Vttwt3lRMqwyfYk/WxMMA=
+
+Name: res/drawable-hdpi/kg_security_lock_pressed.png
+SHA1-Digest: bc2qE4EGedFXWraTTm+cCE4ggKo=
+
+Name: res/drawable/keyguard_add_widget_button.xml
+SHA1-Digest: WFF+FBOTAJPIkkcdIUuQp75lZf8=
+
+Name: res/drawable-hdpi/ic_lockscreen_emergencycall_normal.png
+SHA1-Digest: quKT4v8No4I4lLnc/OHPF59EX7U=
+
+Name: res/layout/keyguard_add_widget.xml
+SHA1-Digest: qwdJu64tmERZc/+1e86RDNMaals=
+
+Name: res/layout/keyguard_selector_view.xml
+SHA1-Digest: ssal6ONKOj+rJttotRcaY5Po0w8=
+
+Name: res/drawable-hdpi/ic_lockscreen_soundon_focused.png
+SHA1-Digest: yU2JmzxBukbrodQCkhczzlF3K4g=
+
+Name: res/layout-sw600dp/keyguard_glow_pad_container.xml
+SHA1-Digest: h89KNvVjY1hW873StC8uz2z8U2M=
+
+Name: res/layout/keyguard_presentation.xml
+SHA1-Digest: eFLwZ3OdxNol9seVE0vNkHQgnkY=
+
+Name: res/drawable-hdpi/kg_widget_bg_padded.9.png
+SHA1-Digest: wWoX3zMo/LHVQ+dvsBgYC4oHim8=
+
+Name: res/drawable-hdpi/ic_action_assist_generic_activated.png
+SHA1-Digest: 8TAzQkfZlEuB/MZ5ZMZxh9XC3/A=
+
+Name: res/layout-port/keyguard_widget_pager.xml
+SHA1-Digest: SY2QDPFQbjPuKgy0g/u9LJUUB08=
+
+Name: res/drawable-hdpi/ic_input_delete.png
+SHA1-Digest: tzG9m6q8RBpMVGStGBBp4zJ+DkI=
+
+Name: res/drawable-hdpi/ic_lockscreen_handle_normal.png
+SHA1-Digest: CyKa5AJZptKUbpHZokU+880MALc=
+
+Name: res/drawable-hdpi/ic_lockscreen_camera_activated.png
+SHA1-Digest: dD9k42TGi0CB+zWGu6A/nbckDw4=
+
+Name: res/drawable-hdpi/ic_action_assist_generic_normal.png
+SHA1-Digest: fMpa6rTP6ZP1C0a/68Rdiz7jr+8=
+
+Name: res/layout/keyguard_multi_user_selector.xml
+SHA1-Digest: 2w8OYhsdHXC27YQsPJ6lVg5EYZI=
+
+Name: res/anim/lock_screen_enter.xml
+SHA1-Digest: bw0K43w9FUR5w+t2guu/6JYe0G8=
+
+Name: res/drawable-hdpi/ic_lockscreen_unlock_normal.png
+SHA1-Digest: L+hXQ3wpLQWV1xMiujooh97wuaQ=
+
+Name: res/drawable/lockscreen_emergency_button.xml
+SHA1-Digest: 1zj7oIn4lulBnLWnFKy+5UqxpeQ=
+
+Name: res/drawable-hdpi/ic_lockscreen_lock_normal.png
+SHA1-Digest: PJtjIdWiBmmbZ8HQvYq0y9Qrgig=
+
+Name: res/drawable-hdpi/ic_lockscreen_emergencycall_pressed.png
+SHA1-Digest: z7/hmlLNen5gm6uBS+2UTB7g7kc=
+
+Name: res/drawable-hdpi/kg_widget_delete_drop_target.png
+SHA1-Digest: 29xdwTcJ4s4pHke7bXjYMYEO7G4=
+
+Name: res/drawable-hdpi/scrubber_primary_holo.9.png
+SHA1-Digest: xFdPD1qb9QjIFazHKRw0O6XNSO0=
+
+Name: res/drawable-hdpi/ic_lockscreen_soundon_normal.png
+SHA1-Digest: Ir1TU3R1XmROT/qwPb5veWzveOQ=
+
+Name: res/drawable/scrubber_control_selector_holo.xml
+SHA1-Digest: FySI8IV4oPKGx2x5EzqVHr+KhQg=
+
+Name: res/layout/keyguard_status_view.xml
+SHA1-Digest: BCtlWkvarSpAUFWQSoC2EwZ7gzs=
+
+Name: res/drawable-hdpi/ic_lockscreen_camera_normal.png
+SHA1-Digest: tGMC2etNQyDqkmHFTNErgcc/gE4=
+
+Name: res/drawable-hdpi/ic_lockscreen_handle_pressed.png
+SHA1-Digest: 3HSBjKZ4lMB0WcFJ7NUvKlcF47k=
+
+Name: res/drawable-hdpi/kg_bouncer_bg_white.9.png
+SHA1-Digest: 7LzILTAno+S64NORW7dJFsTUj+0=
+
+Name: res/layout/keyguard_emergency_carrier_area.xml
+SHA1-Digest: e+nAwcvp2awg6Mz8E/b+S0F4i9Q=
+
+Name: res/drawable-hdpi/ic_lockscreen_google_activated.png
+SHA1-Digest: mK4n3Q1B0QqJlE6D41cLaQ2YpUg=
+
+Name: res/drawable/ic_lockscreen_outerring.xml
+SHA1-Digest: 2lxFga4lUZHbtfhzOK4cQe2PKao=
+
+Name: res/drawable/scrubber_progress_horizontal_holo_light.xml
+SHA1-Digest: rbRiTJvjJBIlpUMGYrzjWTiklVk=
+
+Name: res/drawable-hdpi/ic_lockscreen_lock_pressed.png
+SHA1-Digest: /6LEpXIHFiA2bZ7nLUypyzL54dQ=
+
+Name: res/drawable-hdpi/kg_add_widget_disabled.png
+SHA1-Digest: IGX3gd4B25HfltWcC5q4IdoATD8=
+
+Name: res/layout/keyguard_status_area.xml
+SHA1-Digest: uzmwbDSfUKzkYsLqkjVrHLyAKpc=
+
+Name: res/layout-sw600dp-port/keyguard_host_view.xml
+SHA1-Digest: QlGzADA872oGNGnQWrS159AE4g0=
+
+Name: res/drawable/ic_lockscreen_unlock_phantom.xml
+SHA1-Digest: PICG5NO84xrpbbcE2a2iJl5bu7U=
+
+Name: res/layout/keyguard_multi_user_avatar.xml
+SHA1-Digest: 8WXwvpkGjk86Rewh85a34mZHOLw=
+
+Name: res/drawable-hdpi/ic_lockscreen_google_normal.png
+SHA1-Digest: GSwRVThE3c7Tx8X1wsgFo4K3ahY=
+
+Name: res/drawable-hdpi/kg_security_lock_normal.png
+SHA1-Digest: sZWmwvT4GZ8Mf3SxxVGtfr5XD8I=
+
+Name: res/drawable-hdpi/intro_bg.png
+SHA1-Digest: eo9u4E9o8EFfkPRGrSOWsoRkxWE=
+
+Name: res/layout/keyguard_sim_puk_view.xml
+SHA1-Digest: FotatkKhsQK1dC2SXzoRU7N8F20=
+
+Name: res/layout/keyguard_glow_pad_view.xml
+SHA1-Digest: qRrcdkJwDsKrTYKVxFMVddWtzK4=
+
+Name: res/layout/keyguard_transport_control_view.xml
+SHA1-Digest: tLcW69sNRz1VcMKN5/X6ydeaj90=
+
+Name: res/anim/lock_screen_exit.xml
+SHA1-Digest: mKH9TEA34dVUTcIZk2GIY6s76ns=
+
+Name: res/layout/keyguard_pin_view.xml
+SHA1-Digest: JVA1kVZg8CcHaj/v9DIXUldOgik=
+
+Name: res/drawable-hdpi/ic_lockscreen_silent_normal.png
+SHA1-Digest: Y8r7FYRIZ34h5kbmrtxkuJU+jhY=
+
+Name: res/drawable/ic_lockscreen_soundon.xml
+SHA1-Digest: +3KgMiqjw09IrJqbTdeGEDPIBho=
+
+Name: res/drawable/ic_lockscreen_camera.xml
+SHA1-Digest: iuTtm1S1L2tiQfKA58i3R3w2sEs=
+
+Name: res/drawable-sw600dp-hdpi/ic_lockscreen_handle_pressed.png
+SHA1-Digest: 6f05tB/Zhp8FcSdubnv98e5QnoQ=
+
+Name: classes.dex
+SHA1-Digest: jfq4S4DGigQqK6uxke9JgoRhliE=
+
+Name: res/layout/keyguard_message_area.xml
+SHA1-Digest: j3wRYwjBO1qEfDYACgM0AL6slAE=
+

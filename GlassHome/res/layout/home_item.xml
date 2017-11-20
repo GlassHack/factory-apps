@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:glass="http://schemas.android.com/apk/res/com.google.glass.home">
+    <ImageView android:layout_gravity="center" android:id="@id/wallpaper" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <com.google.glass.widget.ClockView android:textSize="@dimen/home_screen_clock_text_size" android:layout_gravity="center" android:id="@id/clock" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/home_screen_clock_top_margin" style="@style/ClockText" />
+    <com.google.glass.home.timeline.active.GuardPhraseView android:layout_gravity="bottom|center" android:id="@id/guard_phrase_hint" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/guard_phrase_bottom_margin" glass:tip="@string/guard_phrase_hint" style="@style/GuardPhraseText" />
+</FrameLayout>

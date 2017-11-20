@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_max_action_buttons">2</integer>
+    <integer name="google_play_services_version">6111300</integer>
+    <integer name="maps_vm_mylocation_chevron_opaque_percent">54</integer>
+    <integer name="maps_vm_mylocation_dot_opaque_percent">40</integer>
+    <integer name="maximum_showing_circles">4</integer>
+    <integer name="plus_audience_selection_num_suggested_image_columns">3</integer>
+</resources>

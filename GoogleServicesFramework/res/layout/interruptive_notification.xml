@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center" android:background="@color/interruptive_notification_background" android:layout_width="fill_parent" android:layout_height="@dimen/interruptive_notification_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true" />
+    <TextView android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/title" android:layout_alignLeft="@id/title" />
+    <Button android:id="@id/left_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/description" android:layout_alignLeft="@id/title" android:onClick="onLeftClicked" />
+    <Button android:id="@id/right_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/left_button" android:layout_below="@id/description" android:onClick="onRightClicked" />
+    <ImageView android:id="@id/notification_icon" android:layout_width="@dimen/interruptive_notification_icon_width" android:layout_height="@dimen/interruptive_notification_icon_height" android:layout_marginRight="@dimen/interruptive_notification_icon_right_margin" android:scaleType="fitCenter" android:layout_toLeftOf="@id/title" android:layout_centerVertical="true" />
+</RelativeLayout>

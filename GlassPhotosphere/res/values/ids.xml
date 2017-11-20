@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="VIEW_ID" />
+    <item type="id" name="FILENAME" />
+    <item type="id" name="photo_surface">false</item>
+    <item type="id" name="seekBar">false</item>
+    <item type="id" name="camera_preview">false</item>
+    <item type="id" name="preview_overlay">false</item>
+    <item type="id" name="settings_button">false</item>
+    <item type="id" name="tap_to_take_photo">false</item>
+    <item type="id" name="resolution_selector">false</item>
+    <item type="id" name="action">false</item>
+    <item type="id" name="value">false</item>
+    <item type="id" name="gallery">false</item>
+    <item type="id" name="pano_list">false</item>
+    <item type="id" name="content">false</item>
+    <item type="id" name="pano_name">false</item>
+    <item type="id" name="thumbnail1">false</item>
+    <item type="id" name="thumbnail2">false</item>
+    <item type="id" name="thumbnail3">false</item>
+    <item type="id" name="illustration">false</item>
+    <item type="id" name="previous">false</item>
+    <item type="id" name="next">false</item>
+    <item type="id" name="dismiss">false</item>
+    <item type="id" name="new_panorama">false</item>
+    <item type="id" name="my_gallery">false</item>
+    <item type="id" name="help_n_tips">false</item>
+    <item type="id" name="feedback">false</item>
+    <item type="id" name="settings">false</item>
+    <item type="id" name="take_pano">false</item>
+    <item type="id" name="exit">false</item>
+    <item type="id" name="selected_item_title">false</item>
+    <item type="id" name="stitching_icon">false</item>
+    <item type="id" name="stitching_title">false</item>
+    <item type="id" name="stitching_progress">false</item>
+    <item type="id" name="notificationLayout_imageView">false</item>
+    <item type="id" name="notificationLayout_title">false</item>
+    <item type="id" name="notificationLayout_text">false</item>
+    <item type="id" name="gallery_action_stitch_the_unstitched">false</item>
+    <item type="id" name="options">false</item>
+    <item type="id" name="test_stitch">false</item>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>בר</item>
+        <item>בית קפה</item>
+        <item>תחנת דלק</item>
+        <item>בית קולנוע</item>
+        <item>מקום אירוח</item>
+        <item>מועדון לילה</item>
+        <item>מוזיאון</item>
+        <item>מסעדה</item>
+        <item>מרכז קניות</item>
+        <item>חנות</item>
+        <item>חנות מכולת או סופרמרקט</item>
+        <item>אחר</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>חלשה</item>
+        <item>סבירה</item>
+        <item>טובה</item>
+        <item>חזקה</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>צ</item>
+        <item>צ-מז</item>
+        <item>מז</item>
+        <item>ד-מז</item>
+        <item>ד</item>
+        <item>ד-מע</item>
+        <item>מע</item>
+        <item>צ-מע</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>צפון</item>
+        <item>צפון מזרח</item>
+        <item>מזרח</item>
+        <item>דרום מזרח</item>
+        <item>דרום</item>
+        <item>דרום מערב</item>
+        <item>מערב</item>
+        <item>צפון מערב</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>בחר שאלת אבטחה</item>
+        <item>מה היה מספר הטלפון הראשון שלך?</item>
+        <item>מהו שמו של חבר הילדות הטוב ביותר שלך?</item>
+        <item>מהו שמו של המורה הראשון שלך?</item>
+        <item>מהו שמו של המנהל בעבודה הראשונה שלך?</item>
+        <item>מהו מספר רישוי הרכב שלך?</item>
+    </string-array>
+</resources>

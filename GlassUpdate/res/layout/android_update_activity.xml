@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/count_down_wrapper" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="0.3">
+            <ImageView android:background="@color/background_dark_gray" android:layout_width="@dimen/general_purpose_left_images_width" android:layout_height="fill_parent" android:src="@drawable/ic_sync_150" />
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+                <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+                    <TextView android:textSize="40.0px" android:textColor="@android:color/white" android:ellipsize="end" android:gravity="top" android:paddingLeft="30.0px" android:paddingTop="40.0px" android:paddingRight="40.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/android_update_title" android:maxLines="2" android:fontFamily="sans-serif-light" />
+                    <TextView android:textSize="40.0px" android:textColor="@color/update_text_color" android:ellipsize="end" android:gravity="top" android:id="@id/update_name" android:paddingLeft="30.0px" android:paddingRight="40.0px" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/android_update_available" android:singleLine="true" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+                </LinearLayout>
+                <TextView android:textSize="26.0px" android:textColor="@android:color/white" android:ellipsize="end" android:gravity="bottom" android:id="@id/update_timer_text" android:paddingLeft="30.0px" android:paddingTop="40.0px" android:paddingRight="40.0px" android:paddingBottom="40.0px" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/android_update_timer_text" android:maxLines="2" android:layout_weight="1.0" android:fontFamily="sans-serif-light" />
+            </LinearLayout>
+        </LinearLayout>
+        <com.google.glass.widget.SliderView android:id="@id/slider" android:layout_width="fill_parent" android:layout_height="40.0px" android:layout_weight="1.0" />
+    </LinearLayout>
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_small" />
+</RelativeLayout>

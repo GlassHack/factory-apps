@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/accessibility_settings_card" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="@dimen/lhs_width" android:layout_height="fill_parent" style="@style/TimelineLhs">
+        <ImageView android:id="@id/accessiblity_main_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_read_aloud_150" android:contentDescription="@null" />
+    </LinearLayout>
+    <RelativeLayout style="@style/GenericCardRhs">
+        <TextView android:id="@id/read_aloud_mode_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/read_aloud_mode_title" style="@style/MediumOverlayText" />
+        <TextView android:id="@id/read_aloud_mode_enable_state" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/read_aloud_mode_title" style="@style/MediumOverlayText" />
+    </RelativeLayout>
+</LinearLayout>

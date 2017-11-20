@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">από πρόγραμμα περιήγησης %1$s σε %2$s πριν από λιγότερο από %3$s λεπτά</item>
+        <item quantity="one">από πρόγραμμα περιήγησης %1$s σε %2$s πριν από λιγότερο από %3$s λεπτό</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">από %1$s πριν από λιγότερο από %2$s λεπτά</item>
+        <item quantity="one">από %1$s πριν από λιγότερο από %2$s λεπτό</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Απομένουν %d ώρες</item>
+        <item quantity="one">Απομένει 1 ώρα</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d ημέρες</item>
+        <item quantity="one">%d ημέρα</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ώρες</item>
+        <item quantity="one">%d ώρα</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d λεπτά</item>
+        <item quantity="one">%d λεπτό</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s άτομα</item>
+        <item quantity="one">%1$s άτομο</item>
+        <item quantity="two">%1$s άτομα</item>
+        <item quantity="few">%1$s άτομα</item>
+        <item quantity="many">%1$s άτομα</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Επανεκκίνηση για εγκατάσταση σε %d δευτερόλεπτα…</item>
+        <item quantity="one">Επανεκκίνηση για εγκατάσταση σε 1 δευτερόλεπτο…</item>
+    </plurals>
+</resources>

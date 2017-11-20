@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="da_speech_in_x_kilometers">
+        <item quantity="other">Nach %1$s Kilometern</item>
+        <item quantity="one">Nach einem Kilometer</item>
+        <item quantity="few">Nach %1$s Kilometern</item>
+    </plurals>
+    <plurals name="da_speech_continue_for_x_kilometers">
+        <item quantity="other">%1$s Kilometer weiter</item>
+        <item quantity="one">Einen Kilometer weiter</item>
+        <item quantity="few">%1$s Kilometer weiter</item>
+    </plurals>
+    <plurals name="da_speech_continue_on_road_for_x_kilometers">
+        <item quantity="other">Auf %2$s %1$s Kilometer weiter</item>
+        <item quantity="one">Auf %2$s einen Kilometer weiter</item>
+        <item quantity="few">Auf %2$s %1$s Kilometer weiter</item>
+    </plurals>
+    <plurals name="da_speech_in_x_miles">
+        <item quantity="other">Nach %1$s Meilen</item>
+        <item quantity="one">Nach einer Meile</item>
+        <item quantity="few">Nach %1$s Meilen</item>
+    </plurals>
+    <plurals name="da_speech_continue_for_x_miles">
+        <item quantity="other">%1$s Meilen weiter</item>
+        <item quantity="one">Eine Meile weiter</item>
+        <item quantity="few">%1$s Meilen weiter</item>
+    </plurals>
+    <plurals name="da_speech_continue_on_road_for_x_miles">
+        <item quantity="other">Auf %2$s %1$s Meilen weiter</item>
+        <item quantity="one">Auf %2$s eine Meile weiter</item>
+        <item quantity="few">Auf %2$s %1$s Meilen weiter</item>
+    </plurals>
+    <plurals name="time_minutes">
+        <item quantity="other">%d Min.</item>
+        <item quantity="one">%d Min.</item>
+    </plurals>
+    <plurals name="time_hours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+    </plurals>
+    <plurals name="time_days">
+        <item quantity="other">%d Tagen</item>
+        <item quantity="one">%d Tag</item>
+    </plurals>
+    <plurals name="time_weeks">
+        <item quantity="other">%d Wochen</item>
+        <item quantity="one">%d Woche</item>
+    </plurals>
+    <plurals name="time_months">
+        <item quantity="other">%d Monaten</item>
+        <item quantity="one">%d Monat</item>
+    </plurals>
+    <plurals name="time_years">
+        <item quantity="other">%d Jahren</item>
+        <item quantity="one">%d Jahr</item>
+    </plurals>
+    <plurals name="transit_steps_distance_duration">
+        <item quantity="other">%1$s Stopps (%2$s)</item>
+        <item quantity="one">1 Stopp (%2$s)</item>
+    </plurals>
+</resources>

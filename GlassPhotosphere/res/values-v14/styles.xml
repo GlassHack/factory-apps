@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="notification_progress_bar" parent="@android:style/Widget.DeviceDefault.Light.ProgressBar.Horizontal" />
+</resources>

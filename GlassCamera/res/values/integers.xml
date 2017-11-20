@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">6111300</integer>
+    <integer name="card_attribution_delay">1000</integer>
+    <integer name="card_attribution_animation_duration">300</integer>
+    <integer name="card_synchronicity_icon_duration">2000</integer>
+    <integer name="activity_animation_duration_ms">200</integer>
+    <integer name="infos_error_duration_ms">3000</integer>
+    <integer name="infos_success_duration_ms">1000</integer>
+    <integer name="slider_in_out_animation_duration_ms">300</integer>
+    <integer name="horizontal_scroll_deferred_load_animation_duration_ms">200</integer>
+    <integer name="sys_storage_threshold_percentage">5</integer>
+    <integer name="sys_storage_threshold_bytes">209715200</integer>
+    <integer name="fragment_transition_animation_duration">200</integer>
+    <integer name="max_lines_in_phone_call_timeline_card">2</integer>
+    <integer name="max_lines_in_hangouts_timeline_card">5</integer>
+    <integer name="take_picture_animation_duration_ms">500</integer>
+    <integer name="take_picture_animation_acceleration_factor">4</integer>
+    <integer name="take_picture_show_thumbnail_fade_duration_ms">200</integer>
+    <integer name="take_picture_show_vignette_fade_duration_ms">400</integer>
+    <integer name="record_video_show_thumbnail_fade_duration_ms">200</integer>
+    <integer name="show_picture_timeout_ms">3000</integer>
+    <integer name="show_video_timeout_ms">6000</integer>
+</resources>

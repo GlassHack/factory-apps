@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/mosaic_wrapper" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.glass.mosaic.MosaicView android:id="@id/mosaic" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/thumbnail" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:background="@color/background_black" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.7" />
+    <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/overlay_large_strong" />
+</FrameLayout>

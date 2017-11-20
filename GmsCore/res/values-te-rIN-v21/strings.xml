@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">సహాయం &amp; అభిప్రాయం</string>
+    <string name="plus_app_settings_all_apps_label">అన్ని అనువర్తనాలు</string>
+    <string name="plus_app_settings_apps_page_label">కనెక్ట్ అయిన అనువర్తనాలు</string>
+    <string name="plus_list_apps_empty_message">అనువర్తనాలు ఏవీ కనెక్ట్ కాలేదు</string>
+    <string name="plus_manage_app_pacl_label">Googleలో అనువర్తన కార్యాచరణలను ఎవరు చూడగలరు</string>
+    <string name="plus_manage_app_scopes_label">ఈ అనువర్తనం వీటిని ప్రాప్యత చేయగలదు:</string>
+</resources>

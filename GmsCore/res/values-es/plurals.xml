@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">del navegador de un dispositivo %1$s situado en %2$s, hace menos de %3$s minutos</item>
+        <item quantity="one">del navegador de un dispositivo %1$s situado en %2$s, hace menos de %3$s minuto</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">del navegador situado en %1$s, hace menos de %2$s minutos</item>
+        <item quantity="one">del navegador situado en %1$s, hace menos de %2$s minutos</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Faltan %d horas</item>
+        <item quantity="one">Falta 1 hora</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d días</item>
+        <item quantity="one">%d día</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hora</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s personas</item>
+        <item quantity="one">%1$s personas</item>
+        <item quantity="two">%1$s personas</item>
+        <item quantity="few">%1$s personas</item>
+        <item quantity="many">%1$s personas</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">El dispositivo se reiniciará para iniciar la instalación en %d segundos…</item>
+        <item quantity="one">El dispositivo se reiniciará para iniciar la instalación en 1 segundo...</item>
+    </plurals>
+</resources>

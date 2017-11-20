@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/plus_auth_title" layout="@layout/auth_title" />
+    <LinearLayout android:orientation="vertical" android:id="@id/search_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <FrameLayout android:id="@id/fragment_container" android:layout_width="fill_parent" android:layout_height="0.0dip" android:measureAllChildren="true" android:layout_weight="1.0" />
+    <include android:id="@id/action_buttons" layout="@layout/plus_audience_selection_buttons" />
+</LinearLayout>

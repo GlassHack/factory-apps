@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">በ%1$s ውስጥ ከአንድ የ%2$s አሳሽ ከ%3$s ያነሰ ደቂቃዎች በፊት</item>
+        <item quantity="one">በ%1$s ውስጥ ካለ አንድ የ%2$s አሳሽ ከ%3$s ያነሰ ደቂቃ በፊት</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">ከ%1$s ከ%2$s ያነሰ ደቂቃዎች በፊት</item>
+        <item quantity="one">ከ%1$s ከ%2$s ያነሰ ደቂቃ በፊት</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d ሰዓቶች ሰዓቶች ይቀራሉ</item>
+        <item quantity="one">1 ሰዓት ይቀራል</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d ቀኖች</item>
+        <item quantity="one">%d ቀን</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ሰዓቶች</item>
+        <item quantity="one">%d ሰዓት</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d ደቂቃዎች</item>
+        <item quantity="one">%d ደቂቃ</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s ሰዎች</item>
+        <item quantity="one">%1$s ሰው</item>
+        <item quantity="two">%1$s ሰዎች</item>
+        <item quantity="few">%1$s ሰዎች</item>
+        <item quantity="many">%1$s ሰዎች</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">በ%d ሰከንዶች ለመጫን ዳግም በማስነሳት ላይ…</item>
+        <item quantity="one">በ1 ሴኮንድ ውስጥ ለመጫን ዳግም በማስነሳት ላይ....</item>
+    </plurals>
+</resources>

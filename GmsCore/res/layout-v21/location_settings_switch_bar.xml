@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.plus.location.SwitchBar android:enabled="true" android:gravity="center_vertical" android:background="@drawable/switch_bar_background" android:layout_width="fill_parent" android:layout_height="@dimen/action_bar_menu_item_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/talladega_text_size_16" android:textColor="@color/talladega_text_white" android:id="@id/switch_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/friend_locations_list_item_padding_right" android:layout_weight="1.0" />
+    <Switch android:id="@id/switch_toggle" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/friend_locations_normal_padding" />
+</com.google.android.gms.plus.location.SwitchBar>

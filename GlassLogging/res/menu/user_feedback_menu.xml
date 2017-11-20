@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_add_50" android:id="@id/feedback_menu_add_remove_email" android:title="@string/feedback_menu_add_email_address" />
+    <item android:icon="@drawable/ic_remove_50" android:id="@id/feedback_menu_add_remove_system_log" android:title="@string/feedback_menu_remove_system_log" />
+</menu>

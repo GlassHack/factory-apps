@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d секундтан кейін орнату үшін қайта жүктеледі…</item>
+        <item quantity="one">1 секундтан кейін орнату үшін қайта жүктеледі…</item>
+    </plurals>
+</resources>

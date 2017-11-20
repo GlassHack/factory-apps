@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">מדפדפן %1$s ב-%2$s לפני פחות מ-%3$s דקות</item>
+        <item quantity="one">מדפדפן %1$s ב-%2$s לפני פחות מדקה %3$s</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">מ-%1$s לפני פחות מ-%2$s דקות</item>
+        <item quantity="one">מ-%1$s לפני פחות מדקה %2$s</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">נותרו %d שעות</item>
+        <item quantity="one">נותרה שעה אחת</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d ימים</item>
+        <item quantity="one">יום %d</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d שעות</item>
+        <item quantity="one">שעה %d</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d דקות</item>
+        <item quantity="one">דקה %d</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s אנשים</item>
+        <item quantity="one">אדם %1$s</item>
+        <item quantity="two">%1$s אנשים</item>
+        <item quantity="few">%1$s אנשים</item>
+        <item quantity="many">%1$s אנשים</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">מאתחל להתקנה בעוד %d שניות...</item>
+        <item quantity="one">מאתחל להתקנה בעוד שנייה אחת…</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.glass.widget.horizontalscroll.FrameLayoutCard android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/phoneIcon" android:paddingTop="8.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="16.0px" />
+        <TextView android:id="@id/phoneName" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="1" style="@style/LargeOverlayText" />
+    </LinearLayout>
+    <TextView android:gravity="center" android:layout_gravity="bottom|center" android:id="@id/instruction" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="32.0px" android:layout_marginStart="20.0px" android:layout_marginEnd="20.0px" style="@style/SmallOverlayText" />
+</com.google.glass.widget.horizontalscroll.FrameLayoutCard>

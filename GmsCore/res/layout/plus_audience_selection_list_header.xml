@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.plus.audience.AudienceSelectionListHeaderView android:layout_gravity="start" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/plus_solid_grey" android:layout_width="fill_parent" android:layout_height="2.0dip" android:layout_marginBottom="6.0dip" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textSize="@dimen/plus_audience_selection_header_text" android:textStyle="bold" android:textColor="@color/plus_audience_selection_header_color" android:id="@id/audience_selection_header_text" android:paddingLeft="@dimen/plus_audience_selection_list_item_padding" android:paddingRight="@dimen/plus_audience_selection_list_item_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textAllCaps="true" />
+</com.google.android.gms.plus.audience.AudienceSelectionListHeaderView>

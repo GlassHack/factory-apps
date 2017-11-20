@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.google.android.gsf.login.ProportionalOuterFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="bottom" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/name_title" style="@style/setup_wizard_title" />
+        <RelativeLayout android:id="@id/top_divider" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/top_divider_margin_top" android:layout_marginBottom="@dimen/top_divider_margin_bottom" android:layout_below="@id/title">
+            <View android:id="@id/static_divider" style="@style/setup_wizard_top_divider" />
+            <ProgressBar android:id="@id/progress_bar" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="0.0dip" android:layout_marginBottom="0.0dip" android:indeterminate="true" style="?android:attr/progressBarStyleHorizontal" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <com.google.android.gsf.login.BottomScrollView android:id="@id/bottom_scroll_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_above="@id/buttons" android:layout_below="@id/title_area">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:id="@id/message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/name_text" style="@style/setup_wizard_description_text" />
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <View style="@style/InputFieldSideView" />
+                <RelativeLayout style="@style/InputFieldView">
+                    <EditText android:textAppearance="?android:textAppearanceMedium" android:textSize="20.0sp" android:id="@id/last_name_edit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/input_field_vmargins" android:hint="@string/last_name" android:singleLine="true" android:layout_alignParentTop="true" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionNext" />
+                    <EditText android:textAppearance="?android:textAppearanceMedium" android:textSize="20.0sp" android:id="@id/first_name_edit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/input_field_vmargins" android:hint="@string/first_name" android:singleLine="true" android:layout_below="@id/last_name_edit" android:inputType="textPersonName|textCapWords|textNoSuggestions" android:imeOptions="actionDone" />
+                </RelativeLayout>
+                <View style="@style/InputFieldSideView" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.google.android.gsf.login.BottomScrollView>
+    <RelativeLayout android:id="@id/buttons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <RelativeLayout android:id="@id/standard_buttons" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/back_button" android:layout_alignParentLeft="true" android:contentDescription="@string/setup_wizard_back_button_label" android:layout_alignParentStart="true" style="@style/setup_wizard_back_button" />
+            <Button android:id="@id/next_button" android:layout_alignParentRight="true" android:contentDescription="@string/setup_wizard_next_button_label" android:layout_alignParentEnd="true" style="@style/setup_wizard_next_button" />
+        </RelativeLayout>
+        <RelativeLayout android:id="@id/retry_buttons" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:id="@id/next_button2" android:layout_width="fill_parent" android:text="@string/bad_name_decline_button_label" android:layout_alignParentTop="true" style="@style/setup_wizard_button" />
+            <Button android:id="@id/skip_button" android:layout_width="fill_parent" android:text="@string/bad_name_skip_button_label" android:layout_below="@id/next_button2" style="@style/setup_wizard_button" />
+        </RelativeLayout>
+    </RelativeLayout>
+</view>

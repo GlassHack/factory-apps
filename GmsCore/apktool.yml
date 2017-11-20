@@ -1,0 +1,27 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: GmsCore.apk
+compressionType: false
+doNotCompress:
+- arsc
+- enc
+- bin
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '15'
+  targetSdkVersion: '19'
+sharedLibrary: false
+unknownFiles:
+  build-data.properties: '8'
+  jsr305_annotations/Jsr305_annotations.gwt.xml: '8'
+  jsr330_inject/Jsr330_inject.gwt.xml: '8'
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.3.1-f7a872-SNAPSHOT
+versionInfo:
+  versionCode: '6111334'
+  versionName: 6.1.11 (1474901-334)

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="19" android:versionName="4.4.4-3926992" package="com.android.sharedstoragebackup"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_MEDIA_STORAGE" />
+    <application android:allowClearUserData="false" android:permission="android.permission.CONFIRM_FULL_BACKUP" android:backupAgent="SharedStorageAgent">
+        <service android:name=".ObbBackupService" android:enabled="true" android:exported="true" />
+    </application>
+</manifest>

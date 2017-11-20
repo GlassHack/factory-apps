@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Բար</item>
+        <item>Սրճարան</item>
+        <item>Բենզալցակայան</item>
+        <item>Կինոթատրոն</item>
+        <item>Կացարան</item>
+        <item>Գիշերային ակումբ</item>
+        <item>Թանգարան</item>
+        <item>Ռեստորան</item>
+        <item>Առևտրի կենտրոն</item>
+        <item>Խանութ</item>
+        <item>Մթերային կամ սուպերմարկետ</item>
+        <item>Այլ</item>
+    </string-array>
+</resources>

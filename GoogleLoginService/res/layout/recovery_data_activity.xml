@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/recovery_title" style="@style/setup_wizard_title" />
+    <View android:id="@id/top_divider" android:layout_below="@id/title" style="@style/setup_wizard_top_divider" />
+    <com.google.android.gsf.login.BottomScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0" android:layout_above="@id/buttons" android:layout_below="@id/top_divider">
+        <LinearLayout android:orientation="vertical" android:id="@id/inner_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_centerHorizontal="true" style="@style/InputFieldView">
+            <EditText android:textAppearance="?android:textAppearanceMedium" android:textSize="20.0sp" android:id="@id/phone_number_edit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/recovery_input_field_vmargins" android:hint="@string/phone_number_hint" android:singleLine="true" android:selectAllOnFocus="true" android:inputType="phone" android:imeOptions="actionNext" android:fontFamily="sans-serif-light" />
+            <EditText android:textAppearance="?android:textAppearanceMedium" android:textSize="20.0sp" android:id="@id/secondary_email_edit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/recovery_input_field_vmargins" android:hint="@string/secondary_email_hint" android:singleLine="true" android:selectAllOnFocus="true" android:capitalize="none" android:inputType="textEmailAddress" android:imeOptions="actionDone" android:fontFamily="sans-serif-light" />
+            <Spinner android:id="@id/countries" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/recovery_input_field_vmargins" />
+        </LinearLayout>
+    </com.google.android.gsf.login.BottomScrollView>
+    <RelativeLayout android:id="@id/buttons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true">
+        <Button android:id="@id/back_button" android:layout_alignParentLeft="true" android:contentDescription="@string/setup_wizard_back_button_label" style="@style/setup_wizard_back_button" />
+        <Button android:id="@id/next_button" android:layout_alignParentRight="true" android:contentDescription="@string/setup_wizard_next_button_label" style="@style/setup_wizard_next_button" />
+    </RelativeLayout>
+</RelativeLayout>

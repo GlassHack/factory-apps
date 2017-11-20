@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="setup_wizard_title_height">160.0dip</dimen>
+    <dimen name="setup_wizard_heading_margin_top">26.0dip</dimen>
+    <dimen name="setup_wizard_heading_vmargins">26.0dip</dimen>
+    <dimen name="setup_wizard_heading_text_size">24.0sp</dimen>
+    <dimen name="setup_wizard_description_margin_top">26.0dip</dimen>
+    <dimen name="setup_wizard_description_text_size">24.0sp</dimen>
+    <dimen name="setup_wizard_checkbox_margin_top">14.0dip</dimen>
+    <dimen name="setup_wizard_checkbox_margin_bottom">8.0dip</dimen>
+    <dimen name="setup_wizard_checkbox_text_size">18.0sp</dimen>
+    <dimen name="setup_wizard_button_min_width">208.0dip</dimen>
+</resources>

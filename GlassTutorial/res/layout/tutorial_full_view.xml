@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="@dimen/generic_card_padding" android:paddingTop="@dimen/generic_card_padding" android:paddingRight="@dimen/generic_card_padding" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:id="@id/title_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+        <ImageView android:id="@id/title_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <TextView android:ellipsize="end" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0px" android:maxLines="1" android:singleLine="true" style="@style/MediumOverlayText" />
+    </LinearLayout>
+    <View android:id="@id/divider" android:background="@color/header_divider_line_color" android:layout_width="fill_parent" android:layout_height="@dimen/divider_thickness" android:layout_marginTop="15.0px" android:layout_marginBottom="15.0px" android:layout_below="@id/title_bar" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" />
+    <TextView android:textSize="@dimen/content_font_size" android:ellipsize="end" android:id="@id/content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/divider" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" style="@style/MediumOverlayText" />
+    <TextView android:id="@id/action" android:paddingBottom="26.0px" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/SmallOverlayText" />
+</RelativeLayout>

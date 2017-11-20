@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="@color/google_gray" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/add_a_place_search_entry" android:background="@drawable/place_picker_selectable_background" android:layout_width="fill_parent" android:layout_height="72.0dip" android:layout_marginLeft="8.0dip" android:layout_marginRight="8.0dip">
+        <View android:background="#ffdedede" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginStart="56.0dip" />
+        <Button android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/dark_blue" android:ellipsize="end" android:gravity="center_vertical" android:id="@id/add_a_place_button" android:background="@drawable/place_picker_selectable_background" android:layout_width="fill_parent" android:layout_height="71.0dip" android:layout_marginTop="1.0dip" android:text="@string/add_a_place_call_to_action" android:singleLine="true" android:paddingStart="56.0dip" />
+    </FrameLayout>
+</LinearLayout>

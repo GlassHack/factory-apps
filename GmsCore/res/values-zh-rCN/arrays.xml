@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>酒吧</item>
+        <item>咖啡馆</item>
+        <item>加油站</item>
+        <item>电影院</item>
+        <item>住宿</item>
+        <item>夜总会</item>
+        <item>博物馆</item>
+        <item>餐馆</item>
+        <item>购物中心</item>
+        <item>商店</item>
+        <item>杂货店或超市</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>弱</item>
+        <item>尚可</item>
+        <item>良好</item>
+        <item>强</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>蓝牙</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>选择安全问题</item>
+        <item>您的第一个电话号码？</item>
+        <item>最好的儿时伙伴是谁？</item>
+        <item>您的启蒙老师的姓名？</item>
+        <item>第一份工作的经理姓名？</item>
+        <item>您的车牌号是多少？</item>
+    </string-array>
+</resources>

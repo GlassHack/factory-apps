@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">از مرورگر %1$s در %2$s کمتر از %3$s دقیقه پیش</item>
+        <item quantity="one">از مرورگر %1$s در %2$s کمتر از %3$s دقیقه پیش</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">از %1$s کمتر از %2$s دقیقه پیش</item>
+        <item quantity="one">از %1$s کمتر از %2$s دقیقه پیش</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d ساعت مانده است</item>
+        <item quantity="one">۱ ساعت مانده است</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d روز</item>
+        <item quantity="one">%d روز</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ساعت</item>
+        <item quantity="one">%d ساعت</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d دقیقه</item>
+        <item quantity="one">%d دقیقه</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s نفر</item>
+        <item quantity="one">%1$s نفر</item>
+        <item quantity="two">%1$s نفر</item>
+        <item quantity="few">%1$s نفر</item>
+        <item quantity="many">%1$s نفر</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">راه‌اندازی مجدد برای نصب در %d ثانیه...</item>
+        <item quantity="one">راه‌اندازی مجدد برای نصب در ۱ ثانیه...</item>
+    </plurals>
+</resources>

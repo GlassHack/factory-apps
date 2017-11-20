@@ -1,0 +1,40 @@
+.class final enum Lcom/google/c/h/t;
+.super Lcom/google/c/h/r;
+
+
+# direct methods
+.method constructor <init>(Ljava/lang/String;)V
+    .locals 2
+
+    const/4 v0, 0x1
+
+    const/4 v1, 0x0
+
+    invoke-direct {p0, p1, v0, v1}, Lcom/google/c/h/r;-><init>(Ljava/lang/String;IB)V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method final a(Ljava/lang/Class;)Ljava/lang/Class;
+    .locals 1
+
+    invoke-virtual {p1}, Ljava/lang/Class;->isLocalClass()Z
+
+    move-result v0
+
+    if-eqz v0, :cond_0
+
+    const/4 v0, 0x0
+
+    :goto_0
+    return-object v0
+
+    :cond_0
+    invoke-virtual {p1}, Ljava/lang/Class;->getEnclosingClass()Ljava/lang/Class;
+
+    move-result-object v0
+
+    goto :goto_0
+.end method

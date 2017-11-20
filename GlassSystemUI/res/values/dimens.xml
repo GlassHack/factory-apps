@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="slider_height">12.0px</dimen>
+    <dimen name="slider_height_in_layout">24.0px</dimen>
+    <dimen name="slider_gradient_height">50.0px</dimen>
+    <dimen name="tip_gradient_height">180.0px</dimen>
+    <dimen name="glanceable_total_height">102.0px</dimen>
+    <dimen name="glanceable_border_height">2.0px</dimen>
+    <dimen name="glanceable_content_height">100.0px</dimen>
+</resources>

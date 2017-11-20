@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="@android:color/white" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/auth_title" />
+    <ScrollView android:id="@id/scrollview_details" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0">
+        <TextView android:textColor="@color/plus_scope_description_text_color" android:id="@id/scope_details_text" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="10.0dip" />
+    </ScrollView>
+    <include android:layout_gravity="bottom" android:id="@id/action_buttons" layout="@layout/plus_audience_selection_buttons" />
+</LinearLayout>

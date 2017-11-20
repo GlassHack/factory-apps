@@ -1,0 +1,297 @@
+.class public Lcom/google/glass/timeline/TimelineItemId;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Ljava/io/Serializable;
+
+
+# instance fields
+.field private final bundleId:Ljava/lang/String;
+
+.field private final displayTime:J
+
+.field private final isBundleCover:Z
+
+.field private final isPinned:Z
+
+.field private final itemId:Ljava/lang/String;
+
+
+# direct methods
+.method public constructor <init>(Lcom/google/googlex/glass/common/proto/TimelineNano$TimelineItem;)V
+    .locals 7
+
+    .prologue
+    .line 23
+    invoke-virtual {p1}, Lcom/google/googlex/glass/common/proto/TimelineNano$TimelineItem;->getId()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {p1}, Lcom/google/googlex/glass/common/proto/TimelineNano$TimelineItem;->getIsPinned()Z
+
+    move-result v2
+
+    invoke-static {p1}, Lcom/google/glass/timeline/TimelineItemUtils;->getDisplayTime(Lcom/google/googlex/glass/common/proto/TimelineNano$TimelineItem;)J
+
+    move-result-wide v3
+
+    .line 24
+    invoke-virtual {p1}, Lcom/google/googlex/glass/common/proto/TimelineNano$TimelineItem;->getBundleId()Ljava/lang/String;
+
+    move-result-object v5
+
+    invoke-virtual {p1}, Lcom/google/googlex/glass/common/proto/TimelineNano$TimelineItem;->getIsBundleCover()Z
+
+    move-result v6
+
+    move-object v0, p0
+
+    .line 23
+    invoke-direct/range {v0 .. v6}, Lcom/google/glass/timeline/TimelineItemId;-><init>(Ljava/lang/String;ZJLjava/lang/String;Z)V
+
+    .line 25
+    return-void
+.end method
+
+.method public constructor <init>(Ljava/lang/String;ZJLjava/lang/String;Z)V
+    .locals 1
+
+    .prologue
+    .line 28
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    .line 29
+    invoke-static {p1}, Landroid/text/TextUtils;->isEmpty(Ljava/lang/CharSequence;)Z
+
+    move-result v0
+
+    invoke-static {v0}, Lcom/google/glass/predicates/Assert;->assertFalse(Z)V
+
+    .line 30
+    iput-object p1, p0, Lcom/google/glass/timeline/TimelineItemId;->itemId:Ljava/lang/String;
+
+    .line 31
+    iput-boolean p2, p0, Lcom/google/glass/timeline/TimelineItemId;->isPinned:Z
+
+    .line 32
+    iput-wide p3, p0, Lcom/google/glass/timeline/TimelineItemId;->displayTime:J
+
+    .line 33
+    iput-object p5, p0, Lcom/google/glass/timeline/TimelineItemId;->bundleId:Ljava/lang/String;
+
+    .line 34
+    iput-boolean p6, p0, Lcom/google/glass/timeline/TimelineItemId;->isBundleCover:Z
+
+    .line 35
+    return-void
+.end method
+
+
+# virtual methods
+.method public equals(Ljava/lang/Object;)Z
+    .locals 2
+
+    .prologue
+    .line 61
+    instance-of v0, p1, Lcom/google/glass/timeline/TimelineItemId;
+
+    if-eqz v0, :cond_0
+
+    .line 62
+    check-cast p1, Lcom/google/glass/timeline/TimelineItemId;
+
+    .line 63
+    iget-object v0, p0, Lcom/google/glass/timeline/TimelineItemId;->itemId:Ljava/lang/String;
+
+    invoke-virtual {p1}, Lcom/google/glass/timeline/TimelineItemId;->getItemId()Ljava/lang/String;
+
+    move-result-object v1
+
+    invoke-virtual {v0, v1}, Ljava/lang/String;->equals(Ljava/lang/Object;)Z
+
+    move-result v0
+
+    .line 65
+    :goto_0
+    return v0
+
+    :cond_0
+    const/4 v0, 0x0
+
+    goto :goto_0
+.end method
+
+.method public getBundleId()Ljava/lang/String;
+    .locals 1
+
+    .prologue
+    .line 50
+    iget-object v0, p0, Lcom/google/glass/timeline/TimelineItemId;->bundleId:Ljava/lang/String;
+
+    return-object v0
+.end method
+
+.method public getDisplayTime()J
+    .locals 2
+
+    .prologue
+    .line 46
+    iget-wide v0, p0, Lcom/google/glass/timeline/TimelineItemId;->displayTime:J
+
+    return-wide v0
+.end method
+
+.method public getItemId()Ljava/lang/String;
+    .locals 1
+
+    .prologue
+    .line 38
+    iget-object v0, p0, Lcom/google/glass/timeline/TimelineItemId;->itemId:Ljava/lang/String;
+
+    return-object v0
+.end method
+
+.method public hashCode()I
+    .locals 1
+
+    .prologue
+    .line 72
+    iget-object v0, p0, Lcom/google/glass/timeline/TimelineItemId;->itemId:Ljava/lang/String;
+
+    invoke-virtual {v0}, Ljava/lang/String;->hashCode()I
+
+    move-result v0
+
+    return v0
+.end method
+
+.method public isBundleCover()Z
+    .locals 1
+
+    .prologue
+    .line 54
+    iget-boolean v0, p0, Lcom/google/glass/timeline/TimelineItemId;->isBundleCover:Z
+
+    return v0
+.end method
+
+.method public isPinned()Z
+    .locals 1
+
+    .prologue
+    .line 42
+    iget-boolean v0, p0, Lcom/google/glass/timeline/TimelineItemId;->isPinned:Z
+
+    return v0
+.end method
+
+.method public toString()Ljava/lang/String;
+    .locals 9
+
+    .prologue
+    .line 77
+    iget-object v0, p0, Lcom/google/glass/timeline/TimelineItemId;->itemId:Ljava/lang/String;
+
+    invoke-static {v0}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-static {v0}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v0
+
+    iget-boolean v1, p0, Lcom/google/glass/timeline/TimelineItemId;->isPinned:Z
+
+    iget-wide v2, p0, Lcom/google/glass/timeline/TimelineItemId;->displayTime:J
+
+    iget-object v4, p0, Lcom/google/glass/timeline/TimelineItemId;->bundleId:Ljava/lang/String;
+
+    invoke-static {v4}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v4
+
+    invoke-static {v4}, Ljava/lang/String;->valueOf(Ljava/lang/Object;)Ljava/lang/String;
+
+    move-result-object v4
+
+    iget-boolean v5, p0, Lcom/google/glass/timeline/TimelineItemId;->isBundleCover:Z
+
+    new-instance v6, Ljava/lang/StringBuilder;
+
+    invoke-virtual {v0}, Ljava/lang/String;->length()I
+
+    move-result v7
+
+    add-int/lit8 v7, v7, 0x62
+
+    invoke-virtual {v4}, Ljava/lang/String;->length()I
+
+    move-result v8
+
+    add-int/2addr v7, v8
+
+    invoke-direct {v6, v7}, Ljava/lang/StringBuilder;-><init>(I)V
+
+    const-string v7, "{ itemId: "
+
+    invoke-virtual {v6, v7}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v6
+
+    invoke-virtual {v6, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v6, ", isPinned: "
+
+    invoke-virtual {v0, v6}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Z)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v1, ", displayTime: "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0, v2, v3}, Ljava/lang/StringBuilder;->append(J)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v1, ", bundleId: "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v1, ", isBundleCover: "
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0, v5}, Ljava/lang/StringBuilder;->append(Z)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    const-string v1, " }"
+
+    invoke-virtual {v0, v1}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    return-object v0
+.end method

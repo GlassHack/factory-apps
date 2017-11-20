@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="android.uid.system" package="com.google.glass.settings.ui">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS"/>
+    <uses-permission android:name="com.google.glass.entity.permission.ENTITY_PROVIDER"/>
+    <uses-permission android:name="com.google.glass.logging.permission.USER_EVENT_SERVICE"/>
+    <uses-permission android:name="com.google.glass.sync.permission.TIMELINE_PROVIDER"/>
+    <uses-permission android:name="com.google.android.glass.permission.ACCESS_PRIVATE_CACHE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <application android:debuggable="true" android:label="@string/app_name" android:name="com.google.glass.settings.SettingsApplication" android:persistent="true">
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <provider android:authorities="com.google.glass.settings.syncable" android:exported="true" android:name="com.google.glass.settings.syncable.SyncableSettingsProvider" android:writePermission="android.permission.WRITE_SECURE_SETTINGS"/>
+        <receiver android:name="com.google.glass.settings.storage.StorageStateReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.DEVICE_STORAGE_FULL"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_LOW"/>
+                <action android:name="android.intent.action.DEVICE_STORAGE_OK"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.settings.SettingsBootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.glass.settings.connectivity.ConnectivityStatusDirectRenderingService"/>
+        <service android:name="com.google.glass.settings.ui.SettingsService"/>
+        <service android:exported="true" android:name="com.google.glass.settings.ui.BatteryUIDirectRenderingService"/>
+        <activity android:icon="@drawable/ic_gear_50" android:label="@string/settings" android:launchMode="singleTask" android:name="com.google.glass.settings.ui.SettingsActivity">
+            <intent-filter>
+                <action android:name="com.google.glass.action.ACTION_GO_TO_SETTINGS"/>
+                <action android:name="android.settings.BLUETOOTH_SETTINGS"/>
+                <action android:name="android.settings.SOUND_SETTINGS"/>
+                <action android:name="android.settings.WIFI_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="com.google.android.glass.category.DIRECTORY"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="com.google.glass.settings.ui.bluetooth.BluetoothSelectorActivity">
+            <intent-filter>
+                <action android:name="com.google.glass.action.SETUP_BLUETOOTH"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="com.google.glass.settings.ui.bluetooth.BluetoothBondedDevicesActivity"/>
+        <activity android:launchMode="singleTask" android:name="com.google.glass.settings.ui.WifiSelectorActivity" android:permission="com.google.glass.home.permission.SETUP_WIFI">
+            <intent-filter>
+                <action android:name="com.google.glass.action.SETUP_WIFI"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="com.google.glass.settings.ui.HeadWakeAngleChooserActivity" android:theme="@style/GlassTheme.Translucent"/>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.google.glass.settings.ui.DonDoffCalibrationActivity">
+            <intent-filter>
+                <action android:name="com.google.glass.action.ACTION_ON_HEAD_CALIBRATION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.google.glass.settings.ui.LookAtScreenCalibrationActivity">
+            <intent-filter>
+                <action android:name="com.google.glass.action.ACTION_LOOK_AT_SCREEN_CALIBRATION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.google.glass.settings.ui.LookAtScreenPlaypenActivity">
+            <intent-filter>
+                <action android:name="com.google.glass.action.ACTION_LOOK_AT_SCREEN_PLAYPEN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.google.glass.settings.ui.LookAtScreenPracticeActivity">
+            <intent-filter>
+                <action android:name="com.google.glass.action.ACTION_LOOK_AT_SCREEN_PRACTICE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.google.glass.settings.ui.NudgeTutorialActivity">
+            <intent-filter>
+                <action android:name="com.google.glass.action.ACTION_NUDGE_TUTORIAL_ACTIVITY"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:launchMode="singleTask" android:name="com.google.glass.settings.ui.ui.DebugActivity"/>
+        <activity android:exported="false" android:name="com.google.glass.settings.ui.details.MoreDetailsActivity"/>
+        <activity android:exported="false" android:name="com.google.glass.settings.ui.labs.LabsActivity"/>
+        <activity android:name="com.google.glass.settings.ui.ViewLicensesActivity"/>
+        <activity android:name="com.google.glass.settings.ui.FactoryResetActivity"/>
+        <activity android:launchMode="singleTop" android:name="com.google.glass.settings.connectivity.ConnectivityStatusCardMenuActivity" android:theme="@style/GlassTheme.Translucent"/>
+        <activity android:name="com.google.glass.settings.ui.bluetooth.InitiateBluetoothPairingActivity"/>
+        <activity android:name="com.google.glass.settings.ui.RegulatoryInfoActivity"/>
+        <activity android:name="com.google.glass.settings.ui.developer.DeveloperSettingsActivity"/>
+        <activity android:name="com.google.glass.settings.ui.developer.LayoutOverlayActivity"/>
+        <receiver android:name="com.google.glass.settings.HeadGestureSettingsReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.settings.ui.CheckinReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.server.checkin.CHECKIN"/>
+                <action android:name="com.google.android.checkin.CHECKIN_COMPLETE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.settings.connectivity.ConnectivityStatusCardReceiver">
+            <intent-filter>
+                <action android:name="com.google.glass.action.ACTION_SHOW_CONNECTIVITY_STATUS_CARD"/>
+                <action android:name="com.google.glass.action.ACTION_HIDE_CONNECTIVITY_STATUS_CARD"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.settings.ui.developer.DeveloperSettingsReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.glass.settings.CHANGE_DEVELOPER_SETTING"/>
+            </intent-filter>
+        </receiver>
+        <service android:name="com.google.glass.settings.timezone.NewTimeZoneService"/>
+        <service android:name="com.google.glass.settings.battery.BatteryStateService"/>
+        <service android:name="com.google.glass.settings.connectivity.ConnectivityStateService"/>
+        <service android:exported="true" android:name="com.google.glass.settings.BackupRestoreService"/>
+        <service android:exported="true" android:name="com.google.glass.settings.syncable.SettingSyncService">
+            <intent-filter>
+                <action android:name="android.content.SyncAdapter"/>
+            </intent-filter>
+            <meta-data android:name="android.content.SyncAdapter" android:resource="@xml/setting_sync_adapter"/>
+        </service>
+        <service android:name="com.google.glass.settings.ui.developer.LayoutOverlayService"/>
+    </application>
+</manifest>

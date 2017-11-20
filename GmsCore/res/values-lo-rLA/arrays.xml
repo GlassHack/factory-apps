@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>ບາ</item>
+        <item>ຄາເຟ່</item>
+        <item>ປ້ຳນ້ຳມັນ</item>
+        <item>ໂຮງຮູບເງົາ</item>
+        <item>ບ່ອນພັກ</item>
+        <item>ໄນຄລັບ</item>
+        <item>ຫໍພິພິດຕະພັນ</item>
+        <item>ຮ້ານ​ອາ​ຫານ</item>
+        <item>ສູນ​ການ​ຄ້າ</item>
+        <item>ຮ້ານຄ້າ</item>
+        <item>​ຮ້ານ​ຂາຍ​ເຄື່ອງ​ຍ່ອຍ ຫຼື​ຊູ​ເປີ​ມາ​ເກັດ</item>
+        <item>ອື່ນໆ</item>
+    </string-array>
+</resources>

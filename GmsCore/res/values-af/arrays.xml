@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Kroeg</item>
+        <item>Kafee</item>
+        <item>Petrolstasie</item>
+        <item>Fliekteater</item>
+        <item>Verblyf</item>
+        <item>Nagklub</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Winkelsentrum</item>
+        <item>Winkel</item>
+        <item>Kruidenierswinkel of supermark</item>
+        <item>Ander</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>swak</item>
+        <item>redelik</item>
+        <item>goed</item>
+        <item>sterk</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>"Kies 'n sekuriteitsvraag"</item>
+        <item>Eerste foonnommer?</item>
+        <item>Naam van beste maatjie in kinderjare?</item>
+        <item>Eerste onderwyser se naam?</item>
+        <item>Bestuurder se naam by jou eerste werk?</item>
+        <item>Voertuig se registrasienommer?</item>
+    </string-array>
+</resources>

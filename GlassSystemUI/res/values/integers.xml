@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="global_ui_gradient_animation_duration">200</integer>
+    <integer name="global_ui_message_fade_animation_duration">200</integer>
+    <integer name="auto_advance_delay_ms">1000</integer>
+    <integer name="prompt_rotation_ms">4000</integer>
+    <integer name="unlock_attempt_count">10</integer>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/title_logo" android:paddingTop="@dimen/auth_standard_margin" android:paddingBottom="@dimen/auth_standard_margin" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/auth_google_plus_logo" android:layout_centerInParent="true" android:contentDescription="@string/auth_google_title_logo" />
+</RelativeLayout>

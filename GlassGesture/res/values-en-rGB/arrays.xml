@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wink_calibration_first_wink_hints">
+        <item>Wink with your right eye</item>
+        <item>Not too fast, not too slow. Mimic the video</item>
+        <item>Can you see all four corners of the screen?</item>
+        <item>Make sure that your hair is not in the way</item>
+    </string-array>
+    <string-array name="wink_calibration_following_wink_hints">
+        <item>Wink again, with your right eye</item>
+        <item>Not too fast, not too slow. Mimic the video</item>
+        <item>Can you see all four corners of the screen?</item>
+        <item>Make sure that your hair is not in the way</item>
+    </string-array>
+    <string-array name="wink_calibration_tip_card_contents">
+        <item>Gaze through the display when you wink</item>
+        <item>Close only your right eye</item>
+        <item>The display should be fully visible during calibration</item>
+        <item>No hair should be between your eye and the device</item>
+        <item>Calibrate without shades</item>
+        <item>Recalibrate if Wink stops working</item>
+        <item>"Wink still not working? We're on it. Stay tuned"</item>
+    </string-array>
+</resources>

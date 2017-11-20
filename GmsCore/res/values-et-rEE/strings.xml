@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeerimine avaekraanile</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigeerimine üles</string>
+    <string name="abc_action_menu_overflow_description">Rohkem valikuid</string>
+    <string name="abc_action_mode_done">Valmis</string>
+    <string name="abc_activity_chooser_view_see_all">Kuva kõik</string>
+    <string name="abc_activitychooserview_choose_application">Valige rakendus</string>
+    <string name="abc_searchview_description_clear">Päringu tühistamine</string>
+    <string name="abc_searchview_description_query">Otsingupäring</string>
+    <string name="abc_searchview_description_search">Otsing</string>
+    <string name="abc_searchview_description_submit">Päringu esitamine</string>
+    <string name="abc_searchview_description_voice">Häälotsing</string>
+    <string name="abc_shareactionprovider_share_with">Jagamine:</string>
+    <string name="abc_shareactionprovider_share_with_application">Jagamine kasutajaga %s</string>
+    <string name="account_level_title">Vajalik konto toiming</string>
+    <string name="activity_recognition_permission_description">"Lubab rakendusel hankida Google'ist regulaarselt teavet teie tegevuste kohta. Näiteks saab rakendus teada, kas kõnnite, sõidate auto või rattaga või olete paigal."</string>
+    <string name="activity_recognition_permission_label">tegevuste tuvastamine</string>
+    <string name="add_a_place_add">Lisa</string>
+    <string name="add_a_place_call_to_action">Asukoha lisamine</string>
+    <string name="add_a_place_call_to_drag">Lohistage kaarti markeri paigutamiseks</string>
+    <string name="add_a_place_cancel">Tühista</string>
+    <string name="add_a_place_next">Järgmine</string>
+    <string name="agree">Nõustun</string>
+    <string name="app_label">Võrgu asukoht</string>
+    <string name="app_level_title">Sisselogimise taotlus</string>
+    <string name="app_level_title_secondary">Rakend. %s sisselog. taotl.</string>
+    <string name="auth_accept_access">Kinnita</string>
+    <string name="auth_account_already_has_gmail">Kontol on Gmail juba olemas.</string>
+    <string name="auth_account_setup_title">"Google'i konto"</string>
+    <string name="auth_ads_settings_title">Reklaamid</string>
+    <string name="auth_allow_external_site_access">Saada püsivat juurdepääsu teie andmetele saidil %s</string>
+    <string name="auth_app_label">"Google'i kontohaldur"</string>
+    <string name="auth_app_permission_footnote">%s ja Google kasutavad seda teavet nende teenusetingimuste ja privaatsuseeskirjade järgi.</string>
+    <string name="auth_app_permission_label">RAKENDUS SOOVIB JÄRGMIST:</string>
+    <string name="auth_app_permission_ok_footnote">"Kui jätkate, lubate sellel rakendusel ja Google'il kasutada oma teavet vastavalt nende teenusetingimustele ja privaatsuseeskirjadele."</string>
+    <string name="auth_app_permission_sign_in_footnote">"Kui puudutate käsku Logi sisse, lubate sellel rakendusel ja Google'il kasutada oma teavet vastavalt nende teenusetingimustele ja privaatsuseeskirjadele."</string>
+    <string name="auth_app_permission_title">"Google'iga rakend. %s sisselog."</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Luba sisselogimine</string>
+    <string name="auth_authzen_action_approved_toast_text">Toiming on kinnitatud</string>
+    <string name="auth_authzen_action_canceled_toast_text">Toiming on tühistatud</string>
+    <string name="auth_authzen_allow_reset_button_text">Luba parooli läht.</string>
+    <string name="auth_authzen_cancel_button_label">Tühista</string>
+    <string name="auth_authzen_close_button_text">Sule</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Luba</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Tühista</string>
+    <string name="auth_authzen_default_confirmation_description">Kas lubada sisselogimine kontole asukohast %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Meil on vaja teie kinnitust</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Valiti vale number. Teie taotlus on tühistatud.</string>
+    <string name="auth_authzen_default_request_description">taotluse üksikasjad pole teada</string>
+    <string name="auth_authzen_generic_error_text">Ilmnes viga. Proovige uuesti.</string>
+    <string name="auth_authzen_google_logo_label">"Google'i logo"</string>
+    <string name="auth_authzen_login_challenge_approved_text">Sisselogimine on kinnitatud</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Sisselogimine on tühistatud</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Sisselogimise lubamine</string>
+    <string name="auth_authzen_login_challenge_desc_text">Kas püüate logida sisse asukohast %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google peatas sisselogimise katse.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Vale number</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Puudutage teisel ekraanil kuvatud numbrit. See logib teid arvutisse sisse.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">"Keegi proovis just sisse logida teie Google'i kontole, kasutades teie parooli. Google peatas sisselogimiskatse."</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Sisselogimist takistati</string>
+    <string name="auth_authzen_login_challenge_title_text">Kas proovite sisse logida?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Arvutis sisselogimise kinnitamiseks peate kinnitama oma identiteeti</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">sisselogimistaotlus isiku %s arvutist</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Ma ei taotlenud seda</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">%s, täname teid teavitamise eest</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Tegime märkme selle toimingu kohta, et saaksime ka edaspidi teie konto turvalisena hoida.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Logi sisse</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Tühista</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">"Sisestage Google'i konto PIN"</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">OK, jätka</string>
+    <string name="auth_authzen_no_button_text">Ei</string>
+    <string name="auth_authzen_notify_google_default_text">"Google'ile teatatakse, et keegi püüdis hankida juurdepääsu teie kontole."</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google sai taotluse teie parooli muutmiseks. Kuna taotlus ei pärinenud teilt, siis on see tühistatud. Kontot ei muudetud.</string>
+    <string name="auth_authzen_ok_button_text">OK</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Puudutage teisel ekraanil kuvatud numbrit. See logib teid arvutisse sisse.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Sisselogimise lubamine</string>
+    <string name="auth_authzen_profile_picture_label">Profiilipilt</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">"Kas proovisite just Google'isse sisse logida?"</string>
+    <string name="auth_authzen_recovery_approved_text">Parooli lähtestamine on kinnitatud</string>
+    <string name="auth_authzen_recovery_canceled_text">Parooli lähtestamine on tühistatud</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Kas lubada parooli lähtestamine asukohast %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Meil on vaja teie kinnitust</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google peatas parooli lähtestamise katse.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Vale number</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Puudutage teisel ekraanil kuvatud numbrit. See lähtestab parooli.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Parooli lähtestamise lubamine</string>
+    <string name="auth_authzen_recovery_reject_desc_text">"Keegi taotles teie Google'i konto parooli lähtestamist. Google peatas parooli lähtestamise katse."</string>
+    <string name="auth_authzen_recovery_reject_title_text">Takistati parooli lähtestamist</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Kas saatsite asukohast %s taotluse parooli lähtestamiseks?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Kas proovisite parooli lähtestada?</string>
+    <string name="auth_authzen_secure_account_button_text">Konto kaitsmine</string>
+    <string name="auth_authzen_sending_reply_failed_text">Serverile ei õnnestunud vastust saata.</string>
+    <string name="auth_authzen_sending_reply_text">Serverile vastuse saatmine</string>
+    <string name="auth_authzen_time_display_text">vähem kui %s minutit tagasi</string>
+    <string name="auth_authzen_time_just_now_text">Äsja</string>
+    <string name="auth_authzen_wait_text">Oodake …</string>
+    <string name="auth_authzen_workflow_title">"Google'i volitamise viip"</string>
+    <string name="auth_authzen_yes_button_text">Jah</string>
+    <string name="auth_back_button_label">Tagasi</string>
+    <string name="auth_bad_name_title">Kas kasutada seda nime?</string>
+    <string name="auth_bluetooth_lure_button">Lisa usaldusväärse seadmena</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Lukustuskuva kinnitamine</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Uus Bluetoothi seade on seotud.
+Lisa%s usaldusväärse seadmena, et jätta vahele ekraanilukk, kui seade on ühendatud."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Uus Bluetoothi seade on seotud.</string>
+    <string name="auth_bluetooth_lure_title">Isikliku võrguluku eemaldamine</string>
+    <string name="auth_cancel_button_label">Tühista</string>
+    <string name="auth_captcha_instructions">Sisestage siia tekst, mida näete:</string>
+    <string name="auth_captcha_title">Peate sisestama ROBOTILÕKSU</string>
+    <string name="auth_communicating_message">"Teie seade võtab teabe kontole salvestamiseks Google'iga ühendust. Selleks võib kuluda kuni 5 minutit."</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Mandaadi olek</string>
+    <string name="auth_d2d_source_bt_notice">Kasutatakse Bluetoothi.</string>
+    <string name="auth_d2d_source_lock_notice">Seade lukustub ja jätkamiseks tuleb lukustus tühistada.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Funktsiooni Puudutamine ja taastamine ei saa kasutada, sest seadmes pole ühtegi kontot.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Funktsiooni Puudutamine ja taastamine ei saa kasutada, sest Bluetooth pole selles seadmes saadaval.</string>
+    <string name="auth_d2d_source_notification_text">"^2 seadistati selle seadmega uus ^1, muuhulgas prooviti teisaldada järgmiseid Google'i kontosid: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Seadme seadistus on lõppenud</string>
+    <string name="auth_d2d_source_progress_message">Andmete kopeerimine uude seadmesse ...</string>
+    <string name="auth_d2d_source_question">Kas kopeerida selle seadme kontod ja andmed?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Piiratud kasutajaprofiiliga ei saa kasutada funktsiooni Puudutamine ja taastamine.</string>
+    <string name="auth_d2d_source_title">Kontode taastamine</string>
+    <string name="auth_d2d_source_unknown_device_name">Tundmatu seade</string>
+    <string name="auth_d2d_target_adding_accounts_message">Kontode lisamine ...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Ühendamine teise seadmega ...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Ühendus katkes</string>
+    <string name="auth_d2d_target_description">"Kopeerige kiiresti Google'i kontod, varundatud rakendused ja andmed olemasolevast Android-seadmest. Kopeerimiseks toimige järgmiselt. 
+
+1. Veenduge, et teine seade oleks sisse lülitatud ja avatud. 
+
+2. Pange korraks seadmete tagaküljed kokku ja eraldage seadmed seejärel."</string>
+    <string name="auth_d2d_target_more_info">See funktsioon kasutab kontoandmete teisaldamiseks NFC-d. Kui teie seade toetab NFC-d, siis veenduge, et see oleks sisse lülitatud. Selleks tehke valikud Seaded > Traadita ühendus ja võrgud > Rohkem.</string>
+    <string name="auth_d2d_target_more_info_close">Selge</string>
+    <string name="auth_d2d_target_more_info_link">Lisateave</string>
+    <string name="auth_d2d_target_skip_button">Jäta vahele</string>
+    <string name="auth_d2d_target_sorry_alert">Kahjuks läks midagi valesti</string>
+    <string name="auth_d2d_target_tap_progress_message">Jätkamiseks puudutage teises seadmes nuppu OK</string>
+    <string name="auth_d2d_target_title">Puuduta ja mine</string>
+    <string name="auth_d2d_target_try_again_button">Proovi uuesti</string>
+    <string name="auth_d2d_target_unlock_progress_message">Teise seadme avamine</string>
+    <string name="auth_d2d_target_wait_progress_message">Kontode ja andmete kopeerimine ...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Teie domeen nõuab mobiilseadme haldamist. Installige rakendus „Google Appsi seadme eeskirjad”, et jõustada kasutaja "<b>^1</b> konto nõutud turvalisuseeskirjad.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> ei kasuta Gmaili.</string>
+    <string name="auth_error_account_disabled">"See konto on keelatud. 
+
+(Lisateabe saamiseks külastage veebibrauseris aadressi http://google.com/accounts.)"</string>
+    <string name="auth_error_account_not_verified">"See konto pole kinnitatud. Konto kinnitamiseks kontrollige oma meili ja järgige lisatud linki. 
+
+(Kontoteabe taastamiseks minge arvutis aadressile http://www.google.com/accounts/recovery.)"</string>
+    <string name="auth_error_bad_password">Parool on liiga nõrk või sisaldab kehtetuid tähemärke. Proovige uuesti.</string>
+    <string name="auth_error_bad_username">Kehtetu kasutajanimi.</string>
+    <string name="auth_error_invalid_second_factor">Kasutage tavapärase kontoparooli asemel rakendusepõhist parooli.</string>
+    <string name="auth_error_login_failed">"Teie kasutajanimi ja parool ei ole vastavuses. Proovige uuesti.
+
+Kontoteabe taastamiseks minge aadressile google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Kontole juurdepääsu saamiseks peate veebis sisse logima. Brauseris sisselogimise alustamiseks puudutage valikut Edasi.</string>
+    <string name="auth_error_not_logged_in">Kasutaja pole sisse logitud.</string>
+    <string name="auth_error_username_unavailable">Kasutajanimi pole saadaval.</string>
+    <string name="auth_existing_account_error_text">Selles Android-seadmes on juba konto nimega ^1.</string>
+    <string name="auth_existing_account_error_title">Konto on juba olemas</string>
+    <string name="auth_exit_menu_item">Brauseri sisselogimisest väljumine</string>
+    <string name="auth_facl_scope_details_dialog_title">Mida see rakendus näeb</string>
+    <string name="auth_facl_with_warning_label">Muuda, keda see rakendus näeb</string>
+    <string name="auth_field_cant_be_blank">Väli ei tohi olla tühi.</string>
+    <string name="auth_fitness_settings_title">Fitness</string>
+    <string name="auth_gls_account_creation_tos">"Jätkates nõustute Google'i "<annotation id="tos">teenusetingimuste</annotation>, <annotation id="google_privacy">privaatsuseeskirjade</annotation> ja <annotation id="play_tos">Google Play teenusetingimustega</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">"Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimuste</annotation> ja <annotation id="google_privacy">privaatsuseeskirjade</annotation>", Chrome'i "<annotation id="chrome_tos">teenusetingimuste</annotation> ja <annotation id="chrome_privacy">privaatsusteatise</annotation> ning Google Play <annotation id="play_tos">teenusetingimustega</annotation>.</string>
+    <string name="auth_gls_account_intro_default_message">"Ärge laske enam kunagi oma kraamil kaotsi minna. Google'i konto aitab teil kõike ohutult säilitada."</string>
+    <string name="auth_gls_account_intro_learn_more">Lisateave</string>
+    <string name="auth_gls_account_intro_recommended_title">"Google'iga sidumine"</string>
+    <string name="auth_gls_account_intro_required_title">"Toimib Google'i jõul"</string>
+    <string name="auth_gls_account_intro_simple_message">Kas soovite lisada olemasoleva konto või luua uue?</string>
+    <string name="auth_gls_account_intro_title">"Google'i konto"</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Kas teil on Google'i konto olemas?
+
+Kui kasutate Gmaili või Google Appsi, vastake Jah."</string>
+    <string name="auth_gls_account_pre_intro_no">Ei</string>
+    <string name="auth_gls_account_pre_intro_title">"Kas kasutate Google'it?"</string>
+    <string name="auth_gls_account_pre_intro_yes">Jah</string>
+    <string name="auth_gls_account_recovery_info">Kui juhtute oma parooli kaotama, siis võite vastata turvaküsimusele ja lasta saata lähtestuslink mõnele muule e-posti aadressile.</string>
+    <string name="auth_gls_account_tos_plus_title">Viige teenusega Google+ liitumine lõpule</string>
+    <string name="auth_gls_account_tos_title">Viige konto lõpule</string>
+    <string name="auth_gls_add_a_google_account">"Lisage Google'i konto"</string>
+    <string name="auth_gls_alternatives_list_title">Soovitatud kasutajanimed</string>
+    <string name="auth_gls_answer">" "<b>Vastus</b></string>
+    <string name="auth_gls_backup_consent_message">"Kasutage oma Google'i kontot rakenduste, seadete (näiteks järjehoidjad ja WiFi-paroolid) ning muude andmete varundamiseks. Kui olete kontot varem varundanud, siis saate selle nüüd telefonis taastada.
+
+Saate seadetes igal ajal varundamisseadeid muuta."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Kasutage oma Google'i kontot rakenduste, seadete (näiteks järjehoidjad ja WiFi-paroolid) ning muude andmete varundamiseks.
+
+Varundamise seadeid saate igal ajal muuta jaotises Seaded."</string>
+    <string name="auth_gls_backup_consent_yes_agree">"Varunda seda telefoni minu Google'i kontol"</string>
+    <string name="auth_gls_cant_be_blank">Väli ei tohi olla tühi.</string>
+    <string name="auth_gls_checking_account">Saadavuse kontrollimine ...</string>
+    <string name="auth_gls_checking_username_message">"Teie tahvelarvuti võtab ühendust Google'iga, et näha, kas teie soovitud kasutajanimi on saadaval.
+
+Selleks võib kuluda paar minutit."</string>
+    <string name="auth_gls_choose_a_password">Parool</string>
+    <string name="auth_gls_circles_subtitle">Suhtlusringid</string>
+    <string name="auth_gls_circles_text">Lihtsaim viis võrgus tähtsate asjade jagamiseks.</string>
+    <string name="auth_gls_confirm_password">Sisestage parool uuesti</string>
+    <string name="auth_gls_create_button_label">Hangi konto</string>
+    <string name="auth_gls_create_google_account">Kasutajanime valimine</string>
+    <string name="auth_gls_create_google_account_text">"Teie Google'i konto tuleb kaasa Gmailiga – Google'i meiliteenusega. See töötab igal seadmel, blokeerib rämpsposti ja võimaldab muudki."</string>
+    <string name="auth_gls_creating_account_title">Konto salvestamine ...</string>
+    <string name="auth_gls_creating_profile">Profiili loomine ...</string>
+    <string name="auth_gls_crop_failure">Fotot ei saa kärpida.</string>
+    <string name="auth_gls_dasher_warning">Domeeni %s administraator valdab ja haldab kõiki teenuses Google+ olevaid andmeid ning ta võib igal ajal teie loata teie profiili kustutada või seda muuta.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Teie domeen nõuab mobiilseadme haldamist. Aktiveerige rakendus „Google Appsi seadme eeskirjad”, et jõustada kasutaja "<b>^1</b> konto nõutud turvalisuseeskirjad.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Aktiveerimine</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Teie domeen nõuab mobiilseadme haldamist. Installige rakendus „Google Appsi seadme eeskirjad”, et jõustada kasutaja "<b>^1</b> konto nõutud turvalisuseeskirjad.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Allalaadimine</string>
+    <string name="auth_gls_edit_text_help">Puudutage sisestamise alustamiseks mõnd tekstivälja</string>
+    <string name="auth_gls_eight_chars_min">Vähemalt 8 tähemärki</string>
+    <string name="auth_gls_enable_web_history">Lülita sisse veebiajalugu</string>
+    <string name="auth_gls_error_bad_password">Parool on liiga nõrk või sisaldab kehtetuid tähemärke. Proovige uuesti.</string>
+    <string name="auth_gls_error_login_failed">"Teie kasutajanimi ja parool ei ole vastavuses. Proovige uuesti.
+
+Kontoteabe taastamiseks minge aadressile google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Kontole juurdepääsuks tuleb teil veebi sisse logida. Brauseris sisselogimiseks puudutage käsku Edasi.</string>
+    <string name="auth_gls_existing_account_error_text">Konto nimega ^1 on selles Android-seadmes juba olemas.</string>
+    <string name="auth_gls_existing_account_error_title">Konto on juba olemas</string>
+    <string name="auth_gls_existing_button_label">Olemasolev</string>
+    <string name="auth_gls_google_play_opt_in">Hoia mind kursis Google Play uudiste ja pakkumistega.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" võib sisaldada ainult tähti,
+numbreid ja punkte."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> ei sisalda ühtegi tähte.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> sisaldab alla 6 või üle 30 tähemärgi.</string>
+    <string name="auth_gls_huddle_text">Grupisõnumside kõikide suhtlusringides olevate inimestega.</string>
+    <string name="auth_gls_invalid_email">"Sisestatud e-posti aadress ei kehti.
+ Näide: joe@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Taastamisaadress ei tohi loodava aadressiga ühtida.</string>
+    <string name="auth_gls_is_not_available">Kasutajanimi <b>^1</b> pole saadaval.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Lisateave</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Google'i konto abil saate teha järgmist.
+
+"<li><ul>Vaadata ja korrastada oma andmeid asukohast sõltumata.</ul></li>"
+
+"<li><ul>Automaatselt varundada andmeid, nagu meilid, kontod, muusika ja pildid.</ul></li>"
+
+"<li><ul>"Kasutada asukohast sõltumata mugavalt Google'i teenuseid, nagu Kontaktid, Kalender, Maps ja palju muud."</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">"Teave Google'i kontode kohta"</string>
+    <string name="auth_gls_learn_more_web_history">"Veebiajalugu kohandab otsingutulemusi teie otsitud ja külastatud saitide järgi, pakkudes isikupärastatud Google'i kogemust.
+
+Teavet veebiajaloo vaatamise ja haldamise (sh selle sisse- ja väljalülitamise) kohta vaadake aadressilt http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Teave veebiajaloo kohta</string>
+    <string name="auth_gls_name_checking_info_title">Teabe kontrollimine …</string>
+    <string name="auth_gls_name_progress_title">Üks sekund ...</string>
+    <string name="auth_gls_name_text">"Teie nime kasutatakse telefoni ja Google'i teenuste isikupärastamiseks."</string>
+    <string name="auth_gls_name_text_local">Telefon kasutab mõne rakenduse isikupärastamiseks teie nime.</string>
+    <string name="auth_gls_name_title_local">Telefoni omanik on:</string>
+    <string name="auth_gls_name_title_plus">Teie nimi teenuses Google+</string>
+    <string name="auth_gls_network_unreliable">Serveriga ei õnnestu usaldusväärset ühendust luua.</string>
+    <string name="auth_gls_network_unreliable_help">See võib olla ajutine probleem või pole teie Android-seade andmesideteenuste jaoks ette valmistatud. Kui see jätkub, helistage klienditeenindusse.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Tegu võib olla ajutise probleemiga. Proovige uuesti või looge ühendus teise WiFi-võrguga.</string>
+    <string name="auth_gls_new_button_label">Uus</string>
+    <string name="auth_gls_no_network">Teil puudub võrguühendus.</string>
+    <string name="auth_gls_no_network_help">See võib olla ajutine probleem või pole teie Android-seade andmesideteenuste jaoks ette valmistatud. Proovige uuesti, kui olete ühendatud mobiilsidevõrguga, või looge ühendus WiFi-võrguga.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Tegu võib olla ajutise probleemiga. Proovige uuesti või looge ühendus teise WiFi-võrguga.</string>
+    <string name="auth_gls_not_now_button_label">Mitte praegu</string>
+    <string name="auth_gls_password_mismatch">Paroolid ei ühti. Proovige uuesti.</string>
+    <string name="auth_gls_password_title">Parooli loomine</string>
+    <string name="auth_gls_photo_button_label">Tee foto</string>
+    <string name="auth_gls_photo_description">Teie foto</string>
+    <string name="auth_gls_photo_failure">Kaamerat ei õnnestunud käivitada.</string>
+    <string name="auth_gls_photo_text">Fotot kasutatakse teie kontakti kirjes. Saate seda hiljem muuta rakenduses Inimesed.</string>
+    <string name="auth_gls_photo_text_es">Jäädvustage foto, mida teie sõbrad näevad teenuses Google+. Hiljem saate valida uue pildi.</string>
+    <string name="auth_gls_photo_title">Teie foto</string>
+    <string name="auth_gls_plus_accepted_button_label">Liituge teenusega Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Mitte praegu</string>
+    <string name="auth_gls_plus_failure_new_account_text">"Teie Google'i konto on loodud, kuid teenusega Google+ liitumise taotlust ei õnnestunud saata. Proovige hiljem mis tahes veebibrauseris uuesti, külastades aadressi plus.google.com."</string>
+    <string name="auth_gls_plus_failure_text">Teie teenusega Google+ liitumise taotlust ei õnnestunud saata. Proovige hiljem mis tahes veebibrauseris uuesti, külastades aadressi plus.google.com.</string>
+    <string name="auth_gls_plus_failure_title">Liituge teenusega Google+ hiljem</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Teenuses Google+ on teil avalik profiil, mille abil sõbrad teid veebis üles leiavad. Igaüks, kes teab teie e-posti aadressi, saab teie profiili üles otsida ja seda vaadata.
+
+Saate kogu veebis kasutada soovituste andmiseks nuppu +1. Teie profiil ja nupu +1 soovitused ilmuvad avalikult otsingus, reklaamides ja kogu veebis.
+
+Praegu näitab teie profiil ainult nime (%s %s). Kui alustate teenuse Google+ kasutamist, saate lisada foto, eluloo ja muid üksikasju."</string>
+    <string name="auth_gls_plus_name_check_text">Selleks võib kuluda mõni minut.</string>
+    <string name="auth_gls_plus_name_check_title">Teenusega Google+ ühenduse loomine ...</string>
+    <string name="auth_gls_plus_query_text">Google+ muudab veebis jagamise päriselule sarnasemaks.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Pole %s?</string>
+    <string name="auth_gls_provisioned_welcome">Tere, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Sisestage parool:
+%s"</string>
+    <string name="auth_gls_recovery_title">Taasteteave</string>
+    <string name="auth_gls_restore_consent_yes_agree">"Taasta minu Google'i kontolt sellesse telefoni"</string>
+    <string name="auth_gls_restoring_message">"Teie telefon võtab konto taastamiseks Google'iga ühendust. Selleks kulub veidi aega."</string>
+    <string name="auth_gls_restoring_title">Taastamine ...</string>
+    <string name="auth_gls_retake_photo_button_label">Tee foto uuesti</string>
+    <string name="auth_gls_secondary_email_label">E-posti varuaadress</string>
+    <string name="auth_gls_security_questions_title">Turvaküsimus</string>
+    <string name="auth_gls_server_error">"Tekkis probleem suhtlemisel Google'i serveritega."</string>
+    <string name="auth_gls_server_error_help">Proovige hiljem uuesti.</string>
+    <string name="auth_gls_sign_in_agreement">"Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimuste</annotation>, <annotation id="google_privacy">privaatsuseeskirjade</annotation> ja <annotation id="play_tos">Google Play teenusetingimustega</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimuste</annotation>, <annotation id="google_privacy">privaatsuseeskirjade</annotation> ja <annotation id="play_tos">Google Play teenusetingimustega</annotation>". 
+
+Pidage meeles: iga kasutaja saab teie nimel rakenduse värskendatud lube vastu võtta. Nagu muude arvutitega, jagage ka seda tahvelarvutit vaid usaldusväärsete inimestega."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimuste</annotation> ja <annotation id="google_privacy">privaatsuseeskirjade</annotation>", Chrome'i "<annotation id="chrome_tos">teenusetingimuste</annotation> ja <annotation id="chrome_privacy">privaatsusteatise</annotation> ning Google Play <annotation id="play_tos">teenusetingimustega</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimustega</annotation> ja <annotation id="google_privacy">privaatsuseeskirjadega</annotation>", Chrome'i "<annotation id="chrome_tos">teenusetingimustega</annotation> ja <annotation id="chrome_privacy">privaatsusteatisega</annotation> ning Google Play <annotation id="play_tos">teenusetingimustega</annotation>".
+
+Pidage meeles, et kõik teised kasutajad võivad rakenduste värskendatud lubadega teie nimel nõustuda. Nagu iga arvuti puhul, peaksite tahvelarvutit jagama ainult inimestega, keda usaldate."</string>
+    <string name="auth_gls_submission_title">Vabandust ...</string>
+    <string name="auth_gls_suggest_username_next_button_label">Muuda kasutajanime</string>
+    <string name="auth_gls_suggestions_hint">Puudutage soovituste vaatamiseks</string>
+    <string name="auth_gls_sync_intro_activity_title">Kontole sisselogimine õnnestus</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Varundamine ja taastamine</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Varundamine</string>
+    <string name="auth_gls_sync_intro_title">Konto sünkroonimine</string>
+    <string name="auth_gls_sync_item_title">Sünkroonimine: %s</string>
+    <string name="auth_gls_too_short">Liiga lühike</string>
+    <string name="auth_gls_ui_activity_authenticating">Autentimine …</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Ettevalmistamine ...</string>
+    <string name="auth_gls_uploads_subtitle">Automaatne üleslaadimine</string>
+    <string name="auth_gls_uploads_text">Sünkroonige hõlpsasti oma fotosid kõikides seadmetes.</string>
+    <string name="auth_gls_verify_your_profile">Oma profiili kinnitamine</string>
+    <string name="auth_gls_wait_for_device_country_msg">Teabe kogumine telefoni kohta. Selleks võib kuluda kuni 30 sekundit.</string>
+    <string name="auth_gls_wait_for_device_country_title">Konto seadistamine</string>
+    <string name="auth_google_settings_header_title">Privaatsus</string>
+    <string name="auth_google_title_logo">"Google'i logo"</string>
+    <string name="auth_google_trust_agent_title">Isikliku võrguluku eemaldamine</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Logige sisse teenusesse Google+</string>
+    <string name="auth_gsf_notification_login_error">Kontole sisselogimiseks puudutage.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Luba on taotletud
+kontole %s"</string>
+    <string name="auth_invalid_login_character">Kehtetu tähemärk. Lubatud on ainult 0–9, a–z, A–Z ja punktid.</string>
+    <string name="auth_invalid_password_character">Parooli kehtetu tähemärk.</string>
+    <string name="auth_invalid_scope">Autentimistaotluse ajal kasutati vale ulatust.</string>
+    <string name="auth_invalid_username">Sisestatud tekst pole kehtiv kasutajanimi.</string>
+    <string name="auth_learn_more_title">Lisateave</string>
+    <string name="auth_location_neighborhood_level">"Lubage saata Google'ile anon. andmed. Lubage rakend. kasut. andmeid allikatest, nagu WiFi- ja mobiilsidev., et määr. oma asukoht."</string>
+    <string name="auth_location_network_based">"Google'i asukohateenus"</string>
+    <string name="auth_location_settings_title">Asukohaseaded</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Sisestasite vale parooli või teie kontot on muudetud. Sisestage parool uuesti. Kui unustasite oma parooli ja soovite oma konto taastada, klõpsake <annotation id="help_url">siin</annotation>.</string>
+    <string name="auth_login_activity_task_title">Sisselogimine ...</string>
+    <string name="auth_login_activity_title">Sisselogimine</string>
+    <string name="auth_login_task_title">Sisselogimine</string>
+    <string name="auth_login_title">E-posti aadressi ja parooli sisestamine</string>
+    <string name="auth_maps_settings_title">Maps ja Latitude</string>
+    <string name="auth_minutemaid_title">"Google'i konto seadistamine"</string>
+    <string name="auth_name_title">Sinu nimi</string>
+    <string name="auth_network_unreliable">Serveriga ei õnnestu usaldusväärset ühendust luua.</string>
+    <string name="auth_network_unreliable_help">See võib olla ajutine probleem või pole teie Android-seade andmesideteenuste jaoks ette valmistatud. Kui see jätkub, helistage klienditeenindusse.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Tegu võib olla ajutise probleemiga. Proovige uuesti või looge ühendus teise WiFi-võrguga.</string>
+    <string name="auth_next_button_label">Järgmine</string>
+    <string name="auth_nfc_caution">Kaitske seda märgendit. Ründaja võib selle kopeerida.</string>
+    <string name="auth_nfc_tag_exists">%1$s on juba lisatud</string>
+    <string name="auth_nfc_tag_not_supported">Pakutud NFC-seadet ei toetata</string>
+    <string name="auth_no_network">Teil puudub võrguühendus.</string>
+    <string name="auth_no_network_help">See võib olla ajutine probleem või pole teie Android-seade andmesideteenuste jaoks ette valmistatud. Proovige uuesti, kui olete ühendatud mobiilsidevõrguga, või looge ühendus WiFi-võrguga.</string>
+    <string name="auth_no_network_help_wifi_only">Tegu võib olla ajutise probleemiga. Proovige uuesti või looge ühendus teise WiFi-võrguga.</string>
+    <string name="auth_ok_button_label">OK</string>
+    <string name="auth_only_you_acl">Ainult teie</string>
+    <string name="auth_otp_dialog_title">Kinnituskood</string>
+    <string name="auth_otp_done_button">Valmis</string>
+    <string name="auth_otp_error">Kinnituskoodi loomisel ilmnes probleem.</string>
+    <string name="auth_otp_instruction">"Kasutage seda koodi ainult Google'isse sisselogimiseks."</string>
+    <string name="auth_otp_no_accounts_available_message">Selles seadmes pole seadistatud ühtegi kontot.</string>
+    <string name="auth_otp_progress_dialog_message">Kinnituskoodi loomine.</string>
+    <string name="auth_otp_select_account_message">Konto valimine</string>
+    <string name="auth_pacl_scope_details_dialog_title">Mida Google näeb</string>
+    <string name="auth_password">Parool</string>
+    <string name="auth_personal_unlocking_name">Isiklik lukustuse tühistamine</string>
+    <string name="auth_personal_unlocking_service_name">Isiklik avamine (Google)</string>
+    <string name="auth_plus_failure_new_account_text">"Teie Google'i konto on loodud, kuid teenuse Google+ profiili loomise taotlust ei õnnestunud saata. Proovige hiljem mis tahes veebibrauseris uuesti, minnes aadressile plus.google.com."</string>
+    <string name="auth_plus_failure_text">Teie teenusega Google+ liitumise taotlust ei õnnestunud saata. Proovige hiljem mis tahes veebibrauseris uuesti, külastades aadressi plus.google.com.</string>
+    <string name="auth_plus_failure_title">Google+ profiili loomine hiljem</string>
+    <string name="auth_plus_faq_title">Tere tulemast teenusesse Google+!</string>
+    <string name="auth_plus_name_check_text">Selleks võib kuluda mõni minut.</string>
+    <string name="auth_plus_query_title">Google+ profiili loomine</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Tere, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Sisestage parool:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">"Chrome'i seade on lukus."</string>
+    <string name="auth_proximity_auth_device_locked_title">Lihtne avamine</string>
+    <string name="auth_proximity_auth_device_unlocked_content">"Chrome'i seade on avatud."</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Lihtne avamine</string>
+    <string name="auth_proximity_auth_setup_completed_content">"See telefon võib avada teie Chrome'i seadmed."</string>
+    <string name="auth_proximity_auth_setup_completed_title">Lihtne avamine on sisse lülitatud</string>
+    <string name="auth_proximity_auth_setup_failed_content">"Proovige uuesti Chrome'i seadmes."</string>
+    <string name="auth_proximity_auth_setup_failed_title">Viga lihtsa avamise seadistamisel</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">"Telefon leiti. Jätkake Chrome'i seadmes."</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Lihtsa avamise seadistamine</string>
+    <string name="auth_recovery_loading">Laadimine …</string>
+    <string name="auth_recovery_sending">Saatmine ...</string>
+    <string name="auth_relogin_activity_title">Sisestage parool uuesti</string>
+    <string name="auth_scope_acl_edit_desc">Muutmine</string>
+    <string name="auth_scope_details_dialog_title">Lisateave</string>
+    <string name="auth_scope_icon_desc">Ikoon</string>
+    <string name="auth_scope_info_desc">Teave</string>
+    <string name="auth_scope_warning_desc">Hoiatus</string>
+    <string name="auth_search_settings_title">Otsing</string>
+    <string name="auth_server_error">"Tekkis probleem suhtlemisel Google'i serveritega."</string>
+    <string name="auth_server_error_help">Proovige hiljem uuesti.</string>
+    <string name="auth_setup_wizard_back_button_label">Tagasi</string>
+    <string name="auth_setup_wizard_next_button_label">Järgmine</string>
+    <string name="auth_setup_wizard_services_activity_title">"Google'i teenused"</string>
+    <string name="auth_setup_wizard_services_backup"><b>"Varundage seade Google'is"</b>, et saaksite lihtsalt taastada rakendused, rakenduse andmed, süsteemiseaded ja WiFi-paroolid.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Varundage rakendused ja andmed</b>" Google Drive'i, et saaksite seadme lihtsalt taastada. Andmete hulka kuuluvad rakendused, rakenduse andmed, süsteemiseaded ja WiFi-paroolid. Varundamine ei mõjuta talletusruumi limiiti."</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Andmete hulka kuuluvad rakendused, rakenduste seaded, süsteemiseaded ja WiFi-paroolid.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Varundamine ja taastamine</string>
+    <string name="auth_setup_wizard_services_communication_heading">Side</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Aidake täiustada Androidi kasutuskogemust</b>", aku toimivust, Play poe hinnanguid ja muud, saates Google'ile automaatselt selle seadme diagnostika ning kasutusandmeid."</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Andmed sisaldavad teavet riistvara ja võrgu ning rakenduste ja telefoni kasutamise kohta ning krahhiaruandeid.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Aidake täiustada Androidi kasutuskogemust</b>", aku toimivust, Play poe hinnanguid ja muud, saates Google'ile automaatselt selle seadme diagnostika ja kasutusandmeid. "<annotation id="learn_more">Lisateave.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">"Google'i asukohateenused tuvastavad asukoha täpsemalt ja kiiremalt WiFi- ning muude signaalide abil, kasutades selleks sageli vähem toidet kui GPS. Mõned andmed võidakse salvestada teie seadmesse. Andmeid võidakse koguda ka siis, kui ükski rakendus ei tööta."</string>
+    <string name="auth_setup_wizard_services_location_heading">Asukoht</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>"Kasutage Google'i asukohateenust"</b>", et rakendused saaksid asukoha paremini tuvastada. Google'ile saadetakse seadme anonüümsed asukohaandmed."</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Aidake täiustada asukohateenuseid</b>, lubades rakendustel ja teenustel skannida võrkude tuvastamiseks isegi siis, kui WiFi on välja lülitatud.</string>
+    <string name="auth_setup_wizard_services_play">Hoia mind kursis Google Play uudiste ja pakkumistega.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">"Seade võib saada värskendusi ja rakendusi Google'ilt, operaatorilt ning seadme tootjalt."</string>
+    <string name="auth_setup_wizard_title">Seadistusviisard</string>
+    <string name="auth_show_error_activity_title">Sisselogimine ebaõnnestus</string>
+    <string name="auth_show_error_title">Viga</string>
+    <string name="auth_sign_in_agreement">Sisselogimisel nõustute <annotation id="google_privacy">"Google'i"</annotation> ja <annotation id="android_privacy">täiendavate</annotation> privaatsuseeskirjadega.</string>
+    <string name="auth_sign_in_agreement_multi_user">"Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimustega</annotation>, <annotation id="google_privacy">privaatsuseeskirjadega</annotation> ning <annotation id="play_tos">Google Play teenusetingimustega</annotation>". 
+
+Pidage meeles, et kõik teised kasutajad võivad värskendatud rakenduselubadega teie nimel nõustuda. Nagu iga arvuti puhul, peaksite tahvelarvutit jagama ainult inimestega, keda usaldate."</string>
+    <string name="auth_sign_in_agreement_with_chrome">"Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimuste</annotation> ja <annotation id="google_privacy">privaatsuseeskirjade</annotation>", Chrome'i "<annotation id="chrome_tos">teenusetingimuste</annotation> ja <annotation id="chrome_privacy">privaatsusteatise</annotation> ning Google Play <annotation id="play_tos">teenusetingimustega</annotation>.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">"Sisse logides nõustute Google'i "<annotation id="tos">teenusetingimustega</annotation> ja <annotation id="google_privacy">privaatsuseeskirjadega</annotation>", Chrome'i "<annotation id="chrome_tos">teenusetingimustega</annotation> ja <annotation id="chrome_privacy">privaatsusteatisega</annotation> ning Google Play <annotation id="play_tos">teenusetingimustega</annotation>".
+
+Pidage meeles, et kõik teised kasutajad võivad värskendatud rakenduslubadega teie nimel nõustuda. Nagu iga arvuti puhul, peaksite tahvelarvutit jagama ainult inimestega, keda usaldate."</string>
+    <string name="auth_sign_in_browser">Brauseri sisselogimine</string>
+    <string name="auth_sign_in_button_label">Logi sisse</string>
+    <string name="auth_sign_in_with_google_account_short">"Logige sisse oma Google'i kontoga:"</string>
+    <string name="auth_skip_button_label">Jäta vahele</string>
+    <string name="auth_submission_error_text">Ilmnes viga. Proovige uuesti.</string>
+    <string name="auth_submission_title">Vabandust ...</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Seadistamiseks puudutage selle seadmega NFC märki või seadet.</string>
+    <string name="auth_trust_agent_add_nfc_title">NFC lisamine</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Usaldusväärse seadme lisamine</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Usaldusväärse koha lisamine</string>
+    <string name="auth_trust_agent_button_nfc_settings">NFC seaded</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Turvaliselt ühendatud Bluetoothi seadmega %s</string>
+    <string name="auth_trust_agent_dpm_disabled">Administraator on keelanud</string>
+    <string name="auth_trust_agent_enable_nfc">NFC-seadme lisamiseks lubage NFC</string>
+    <string name="auth_trust_agent_first_use_notification_button">SELGE</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">olles ühendatud seadmega %s, mille määrasite usaldusväärseks seadmeks.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Seadme lukustuma sundimiseks lülitage ekraan välja, seejärel uuesti sisse ja puudutage lukuikooni.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">olles kohas %s, mille määrasite usaldusväärseks kohaks.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Seadme lukustus on tühistatud</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Nimi</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC on leitud
+Sisestage nimi."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Keelatud</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Lubatud</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Paranda näosobitust</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Tühista</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Seade ei tunne enam teie nägu ära ja funktsioon Usaldusväärne nägu lülitatakse välja.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Lähtesta</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Kas lähtestada funktsioon Usaldusväärne nägu?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Funktsiooni Usaldusväärne nägu lähtestamine</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Usaldusväärne nägu</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Ühendatud</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Puudub</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Ühendamata</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Usaldusväärsed seadmed</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Puudub</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Kodu</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Teadmata</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Usaldusväärsed kohad</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Töö</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Sidumine ebaõnnestus. Proovige uuesti.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">NFC-seadet ei saa sead.</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Lisage usaldusväärne Bluetoothi seade, et hoida ühenduse ajal seade avatuna. 
+
+Näited.
+
+- Bluetoothi kell
+- Auto Bluetoothi süsteem"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth on välja lülitatud)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Lisa usaldusväärne seade</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth on välja lülitatud.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Tühista</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Vali seade</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Lisage usaldusväärne seade, et hoida ühenduse ajal seade avatuna. 
+
+Näited.
+
+- Bluetoothi kell
+- Auto Bluetoothi süsteem 
+- NFC-kleebis auto telefonidokil"</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Kas soovite usaldusväärse seadme eemaldada?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Tundmatu seade.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Lisage usaldusväärne NFC-seade, et avada seade puudutusega. 
+
+Näited:
+
+- NFC-kleebis auto telefonidokil."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Kodu- ja töökoha aadressi toomiseks lisage konto.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Tühista</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Lisage usaldusväärsne koht, et seade oleks sisenemisel lukustamata. 
+
+Näited:
+
+- kodu
+- kontor"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Eemaldamine</string>
+    <string name="auth_trust_agent_trusted_places_rename">Nimeta ümber</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Konto valimine</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Teadmata</string>
+    <string name="auth_trust_devices_not_available">Funktsioon Usaldusväärsed seadmed ei ole saadaval.</string>
+    <string name="auth_trust_places_not_available">Funktsioon Usaldusväärsed kohad ei ole saadaval.</string>
+    <string name="auth_try_again_button_label">Proovi uuesti</string>
+    <string name="auth_ui_activity_authenticating">Autentimine …</string>
+    <string name="auth_ui_activity_title">"Google'i sisselogimine"</string>
+    <string name="auth_ui_activity_title_browser_signin">Logi sisse</string>
+    <string name="auth_ui_add_account_title">Konto seadistamine</string>
+    <string name="auth_unexpected_acl_error">Lubade andmisel ilmnes probleem.</string>
+    <string name="auth_use_location_summary">"Lubage Google'il otsingutulemuste ja muude teenuste parandamiseks kasutada teie asukohta"</string>
+    <string name="auth_use_location_title">"Asukoht ja Google'i otsing"</string>
+    <string name="auth_username">E-post</string>
+    <string name="auth_visible_actions_title">Jagamine kasutaja(te)ga …</string>
+    <string name="authorization_dialog">Volitamisdialoog</string>
+    <string name="cancel">Tühista</string>
+    <string name="circle_button_add_to_circles">Lisa suhtlusringidesse</string>
+    <string name="circle_button_circles">%d suhtlusringi</string>
+    <string name="circle_button_follow">Jälgi</string>
+    <string name="circle_button_following_circle">Jälgitavad</string>
+    <string name="circle_button_medium_add_to_circles">Lisa</string>
+    <string name="circle_button_profile_blocked">Blokeeritud</string>
+    <string name="common_accessibility_audience_view_editable">Muuda vaatajaskonda</string>
+    <string name="common_add_account_button_label">Lisa konto</string>
+    <string name="common_add_account_label">Konto lisamine</string>
+    <string name="common_ads_settings_title">Reklaamid</string>
+    <string name="common_android_wear_notification_needs_update_text">Rakendus nõuab rakenduse Android Wear värskendamist.</string>
+    <string name="common_android_wear_update_text">Rakendus töötab ainult siis, kui värskendate rakendust Android Wear.</string>
+    <string name="common_android_wear_update_title">Rakenduse Android Wear värskendamine</string>
+    <string name="common_app_name">Google Play teenused</string>
+    <string name="common_cannot_start_hangouts_exception">Hangoutsi ei saa käivitada.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangoutsi ei saa käivitada (loa viga).</string>
+    <string name="common_car_permission_desc">Juurdepääs autoteenusele.</string>
+    <string name="common_car_permission_label">Autoteenus</string>
+    <string name="common_chips_label_empty_circles">Suhtlusringid puuduvad</string>
+    <string name="common_chips_label_extended_circles">Laiendatud suhtlusringid</string>
+    <string name="common_chips_label_only_you">Ainult teie</string>
+    <string name="common_chips_label_public">Avalik</string>
+    <string name="common_chips_label_your_circles">Teie suhtlusringid</string>
+    <string name="common_choose_account_label">Konto valimine</string>
+    <string name="common_clear_app_data_menu_item">Tühjenda rakenduse andmed</string>
+    <string name="common_connected_apps_settings_title">Ühendatud rakendused</string>
+    <string name="common_fitness_settings_title">Fitness</string>
+    <string name="common_games_settings_title">Play mängud</string>
+    <string name="common_get_verification_code_menu_item">Hangi kinnituskood</string>
+    <string name="common_google_play_services_enable_button">Lubage Google Play teenused</string>
+    <string name="common_google_play_services_enable_text">See rakendus ei tööta, kui te ei luba Google Play teenuseid.</string>
+    <string name="common_google_play_services_enable_title">Lubage Google Play teenused</string>
+    <string name="common_google_play_services_error_dialog_title">Viga</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Taotluse esitas %1$s</string>
+    <string name="common_google_play_services_install_button">Hankige Google Play teenused</string>
+    <string name="common_google_play_services_install_text_phone">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie telefonis pole.</string>
+    <string name="common_google_play_services_install_text_tablet">Selle rakenduse käitamiseks on vaja Google Play teenuseid, mida teie tahvelarvutis pole.</string>
+    <string name="common_google_play_services_install_title">Hankige Google Play teenused</string>
+    <string name="common_google_play_services_invalid_account_text">Määratud kontot pole selles seadmes olemas. Valige muu konto.</string>
+    <string name="common_google_play_services_invalid_account_title">Vale konto</string>
+    <string name="common_google_play_services_needs_enabling_title">Rakenduse kasutamiseks peavad olema lubatud Google Play teenused.</string>
+    <string name="common_google_play_services_network_error_text">Google Play teenustega ühenduse loomiseks on vajalik andmesideühendus.</string>
+    <string name="common_google_play_services_network_error_title">Võrgu viga</string>
+    <string name="common_google_play_services_no_restricted_profiles">See rakendus ei toeta piiratud profiilide kontosid</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Rakenduse kasutamiseks peavad olema installitud Google Play teenused.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Rakenduse kasutamiseks tuleb värskendada Google Play teenuseid.</string>
+    <string name="common_google_play_services_notification_ticker">Viga Google Play teenustes</string>
+    <string name="common_google_play_services_unknown_issue">Google Play teenuste tundmatu probleem.</string>
+    <string name="common_google_play_services_unsupported_text">Teie seade ei toeta Google Play teenuseid, millele mõni teie rakendustest toetub. Abi saamiseks võtke ühendust tootjaga.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play teenused</string>
+    <string name="common_google_play_services_update_button">Värskenda</string>
+    <string name="common_google_play_services_update_text">Seda rakendust ei saa käitada, kui te ei värskenda Google Play teenuseid.</string>
+    <string name="common_google_play_services_update_title">Värskendage Google Play teenuseid</string>
+    <string name="common_google_settings">"Google'i seaded"</string>
+    <string name="common_list_apps_menu_help">Abi</string>
+    <string name="common_list_apps_menu_help_and_feedback">Abi ja tagasiside</string>
+    <string name="common_location_settings_title">Asukoht</string>
+    <string name="common_maps_settings_title">Maps ja Latitude</string>
+    <string name="common_mdm_feature_name">Android-seadme haldur</string>
+    <string name="common_network_load_failed">Pole saadaval, kuna seade ei saanud võrguga ühendust</string>
+    <string name="common_no_network">Pole saadaval, kuna seade on võrguühenduseta</string>
+    <string name="common_open_on_phone">Ava telefonis</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Pole ühtegi kontot, mida valida</string>
+    <string name="common_search_and_now_settings_title">Otsing ja Now</string>
+    <string name="common_search_settings_title">Otsing</string>
+    <string name="common_security_settings_title">Rakenduste kinnitamine</string>
+    <string name="common_signin_button_text">Logi sisse</string>
+    <string name="common_signin_button_text_long">"Logi sisse Google'iga"</string>
+    <string name="common_storage_settings_title">Play teenuste talletusruum</string>
+    <string name="common_ui_confirm_deleting_button">Kustuta</string>
+    <string name="common_ui_confirm_deleting_checkbox">Selge, tahan kustutada</string>
+    <string name="common_url_load_unsuccessful_message">Teie Android-seade pole andmesideteenusega ühendatud. Kui soovite teavet kohe vaadata, külastage veebibrauseris aadressi %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Teie Android-seade pole WiFi-võrguga ühendatud. Kui soovite teavet kohe vaadata, külastage veebibrauseris aadressi %s.</string>
+    <string name="common_url_login_notice">Logige sisse kui %1$s</string>
+    <string name="common_usage_and_diagnostics">Kasutus ja diagnostika</string>
+    <string name="country_invalid">See riik pole lubatud</string>
+    <string name="device_location_acl_no_one">Mitte keegi</string>
+    <string name="device_location_best_acl_picker_title">Täpse asukoha nähtavus</string>
+    <string name="device_location_city_acl_picker_title">Linnatasandil asukoha nähtavus</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s ja teised</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> ja veel %d inimest</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Asukoha jagamise seadete nägemiseks peab teil olema andmesideühendus. Kontrollige ühenduse olemasolu või proovige hiljem uuesti.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Ava asukohaseaded</string>
+    <string name="device_location_reporting_reminder_dialog_summary">"Asukoha jagamise väljalülitamine ei mõjuta asukohateavitust ega -ajalugu. Teised Google'i teenused, mille olete varem lubanud, nagu Google Now, võivad teie asukohta vajada. Saate asukohateavitust ja -ajalugu igal ajal asukohaseadete kaudu hallata."</string>
+    <string name="device_location_reporting_reminder_dialog_title">Asukohateavitus</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> ja &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> ja &lt;b>%s&lt;/b></string>
+    <string name="disagree">Ei nõustu</string>
+    <string name="enable_location_reporting_error">Meil ei õnnestunud asukohateavitust ja -ajalugu konto %s puhul sisse lülitada. Asukohateavituse ja -ajaloo sisselülitamiseks avage asukohaseaded.</string>
+    <string name="enable_location_reporting_error_title">Ilmnes viga</string>
+    <string name="enable_location_reporting_title">Asukohateavitus</string>
+    <string name="friend_locations_enable_reporting_auto_body">"Asukohateavitus võimaldab kõigil Google'i toodetel, mis seda funktsiooni kasutavad, talletada ja kasutada teie seadmest pärinevaid kõige hiljutisemaid asukohaandmeid. Asukoha jagamiseks peab asukohateavitus olema sisse lülitatud.&lt;br/>&lt;br/>Asukohaajaloo abil saab Google talletada nendest seadmetest pärinevate asukohaandmete ajalugu, milles olete asukohateavituse lubanud. &lt;a href=\"%2$s\"> Vaadake lisateavet&lt;/a>.&lt;br/>&lt;br/>Kas lülitada asukohateavitus ja -ajalugu konto %1$s puhul sisse?"</string>
+    <string name="friend_locations_enable_reporting_manual_body">"Asukohateavitus võimaldab kõigil Google'i toodetel, mis seda funktsiooni kasutavad, talletada ja kasutada teie seadmest pärinevaid kõige hiljutisemaid asukohaandmeid. Asukoha jagamiseks peab asukohateavitus olema sisse lülitatud.&lt;br/>&lt;br/>Veenduge, et Google Mapsi asukohaseadete suvandi „Asukohateavitus” puhul on valitud „Tuvasta minu asukohta” ning ruut „Teavita sellest seadmest” on märgitud. &lt;a href=\"%s\">Vaadake lisateavet&lt;/a>."</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">"Asukohateavitus võimaldab kõigil Google'i toodetel, mis seda funktsiooni kasutavad, talletada ja kasutada teie seadmest pärinevaid kõige hiljutisemaid asukohaandmeid. Asukoha jagamiseks peab asukohateavitus olema sisse lülitatud.&lt;br/>&lt;br/>Logige Google Mapsi sisse kui %1$s ja veenduge, et asukohaseadete suvandi „Asukohateavitus” puhul on valitud „Tuvasta minu asukohta” ning ruut „Teavita sellest seadmest” on märgitud. &lt;a href=\"%2$s\">Vaadake lisateavet&lt;/a>."</string>
+    <string name="loading">Laadimine…</string>
+    <string name="location_settings_allow_access_summary">"Luba Google'i rakendustel kasutada selle seadme asukohta alati, kui see on sisse lülitatud"</string>
+    <string name="location_settings_allow_access_title">Juurdepääs asukohale</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Asukohaajalugu pole võimalik taastada. 
+
+Google Now ja muud asukohaajalugu kasutavad rakendused võivad lakata töötamast."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Kas kustutada jäädavalt?</string>
+    <string name="location_settings_delete_auth_error">Vale kasutajanimi või parool</string>
+    <string name="location_settings_delete_io_error">Seade ei saanud võrguga ühendust</string>
+    <string name="location_settings_delete_location_history">KUSTUTA ASUKOHAAJALUGU</string>
+    <string name="location_settings_delete_location_history_in_progress">KUSTUTAMINE ...</string>
+    <string name="location_settings_delete_offline_error">Seade on võrguühenduseta</string>
+    <string name="location_settings_expiration_both_one">1 tund ja 1 minut jäänud</string>
+    <string name="location_settings_expiration_both_other" formatted="false">%d tundi ja %d minutit jäänud</string>
+    <string name="location_settings_expiration_hours_one">1 tund ja %d minutit jäänud</string>
+    <string name="location_settings_expiration_minutes">%d minutit jäänud</string>
+    <string name="location_settings_expiration_minutes_one">%d tundi ja 1 minut jäänud</string>
+    <string name="location_settings_expiration_soon">Vähem kui 15 minutit jäänud</string>
+    <string name="location_settings_info_title">Teave</string>
+    <string name="location_settings_location_history_activity_title">Asukohaajalugu</string>
+    <string name="location_settings_location_history_summary_full">"See seade lubab Google'il salvestada asukohaandmete ajalugu seadmetest, kus olete selle konto puhul lubanud asukohateavituse. Asukohaajaloo abil saate kasutada veelgi rohkem Google'i võimalusi, nt võib Google Now edastada selle abil teile edasi-tagasi reisimisel teavet liikluse kohta. 
+
+Asukohaajalugu saate vaadata ja hallata aadressil maps.google.com/locationhistory. Võite asukohaajaloo igal ajal välja lülitada, kuid see ei eemalda olemasolevaid sisestusi. Alloleva nupuga saate kustutada kõik konto olemasolevad asukohaajaloo sisestused."</string>
+    <string name="location_settings_location_reporting_activity_title">Asukohateavitus</string>
+    <string name="location_settings_location_reporting_summary_full">"Google kasutab seda funktsiooni sellistes teenustes nagu Google Now ja Google Maps. 
+
+Kui lülitate sisse funktsiooni Asukohateavitus, siis saab iga Google'i teenus, mis seda funktsiooni kasutab, salvestada ja kasutada koos teie Google'i kontoga seadme kõige uuemaid asukohaandmeid."</string>
+    <string name="location_settings_no_network_alert">Asukoha jagamise seadete nägemiseks peab teil olema andmesideühendus. Kontrollige ühenduse olemasolu või proovige hiljem uuesti.</string>
+    <string name="location_settings_not_available_summary">"Teil pole Google'i kontot."</string>
+    <string name="location_settings_not_available_title">Konto lisamine</string>
+    <string name="location_settings_reporting_summary_off">Selle seadme puhul väljas</string>
+    <string name="location_settings_reporting_summary_on">Selle seadme puhul sees</string>
+    <string name="location_settings_save_error">Seadeid ei saa salvestada.</string>
+    <string name="location_settings_saving">Seadete salvestamine…</string>
+    <string name="location_settings_screen_title">"Google'i asukoha seaded"</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Seade juhib vaid Google'i rakenduste juurdepääsu asukohale. 
+
+Kõikide rakenduste juurdepääsu juhtimiseks avage jaotis Seaded > Juurdepääs asukohale."</string>
+    <string name="location_settings_temporary_sharing_title">Ajutine jagamine:</string>
+    <string name="location_settings_ulr_summary_ambiguous">Eelmist seadet ei õnnestu kindlaks määrata. See on välja lülitatud.</string>
+    <string name="location_settings_ulr_summary_auth_error">Pole saadaval vale kasutajanime või parooli tõttu</string>
+    <string name="location_settings_ulr_summary_error">Serveriga ei saa seadete toomiseks ühendust. Proovige hiljem uuesti.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Keelatud</string>
+    <string name="location_settings_ulr_summary_loading">Toomine …</string>
+    <string name="location_settings_ulr_summary_off">Väljas</string>
+    <string name="location_settings_ulr_summary_offline">Pole saadaval, kuna seade on võrguühenduseta</string>
+    <string name="location_settings_ulr_summary_on">Sees</string>
+    <string name="location_settings_ulr_summary_restricted">Keelatud</string>
+    <string name="location_settings_ulr_summary_unknown">Tundmatu</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Pole saadaval riigis %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Ei ole selles piirkonnas saadaval</string>
+    <string name="location_settings_view_all">Kuva kõik</string>
+    <string name="location_sharing_settings_acl_title">Jagamine vaatajaskonnaga %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Valige inimesed, kellega jagada</string>
+    <string name="location_sharing_settings_city_description">Kasutage linnatasandil asukoha jagamist, kui soovite oma sõpradele ja perele näidata, mis linnas te asute.</string>
+    <string name="location_sharing_settings_city_example">Näide: San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_city_title">Linnatasandil asukoht</string>
+    <string name="location_sharing_settings_description">"Asukoha jagamine võimaldab teil jagada oma hetkeasukohta valitud inimestega, kasutades seadmes asukohateavitust.&lt;br/>&lt;br/> Inimesed, kellega oma asukohta jagate, näevad teie hetkeasukohta kõigis Google'i toodetes, sh teenustes Google+ ja Google Now. Nad näevad ka teie kohti, nagu kodu ja töö. &lt;a href=\"%s\">Lisateave&lt;/a>"</string>
+    <string name="location_sharing_settings_dialog_body">"Asukoha jagamine võimaldab teil jagada oma hetkeasukohta valitud inimestega, kasutades seadmes &lt;a href=\"%1$s\">asukohateavitust&lt;/a>.&lt;br/>&lt;br/>Inimesed, kellega oma asukohta jagate, näevad teie hetkeasukohta kõigis Google'i toodetes, sh teenustes Google+ ja Google Now. Nad näevad ka teie kohti, nagu kodu ja töö. &lt;a href=\"%2$s\">Lisateave&lt;/a>"</string>
+    <string name="location_sharing_settings_edit_acl_button">Muuda</string>
+    <string name="location_sharing_settings_pinpoint_description">Kasutage täpset asukoha jagamist, kui soovite oma lähedastele näidata, kus te hetkel täpselt asute.</string>
+    <string name="location_sharing_settings_pinpoint_example">Näide: 123 Main St, San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_pinpoint_title">Täpne asukoht</string>
+    <string name="location_sharing_settings_title">Asukoha jagamine</string>
+    <string name="location_ulr_ambiguous_setting_text">Eelmist seadet ei õnnestu kindlaks määrata. Kas lülitada praegu sisse?</string>
+    <string name="location_ulr_setting_google_location_disabled">"Pole saadaval, sest Google'i rakendustel pole juurdepääsu asukohale"</string>
+    <string name="location_ulr_setting_label">"Google'i asukohateavitus"</string>
+    <string name="location_ulr_setting_location_disabled">Pole saadaval, sest asukohateenus on välja lülitatud</string>
+    <string name="location_ulr_setting_no_account">Välja lülitatud, kontosid pole</string>
+    <string name="location_ulr_setting_reporting_only">Viimase asukoha kasutamine</string>
+    <string name="location_warning_do_not_show_again">Ära kuva uuesti</string>
+    <string name="location_warning_message">"Lubage Google'il aidata rakendusi asukoha tuvastamisel. See tähendab, et Google'ile saadetakse anonüümseid asukohaandmeid isegi siis, kui ükski rakendus ei tööta."</string>
+    <string name="location_warning_title">"Kas kasutada Google'i asukohateenuseid?"</string>
+    <string name="mr_media_route_button_content_description">Ülekandmine</string>
+    <string name="mr_media_route_chooser_searching">Seadmete otsimine …</string>
+    <string name="mr_media_route_chooser_title">Seadmega ühendamine</string>
+    <string name="mr_media_route_controller_disconnect">Katkesta ühendus</string>
+    <string name="mr_system_route_name">Süsteem</string>
+    <string name="mr_user_route_category_name">Seadmed</string>
+    <string name="notification_ticker">Taotleti juurdepääsu</string>
+    <string name="off">Lülita välja</string>
+    <string name="ok">OK</string>
+    <string name="on">Lülita sisse</string>
+    <string name="open_location_settings">Ava asukohaseaded</string>
+    <string name="phone_number_hint">Telefoninumber</string>
+    <string name="phone_number_invalid">Vale telefoninumber</string>
+    <string name="phone_number_invalid_character">Telefoninumbris on sobimatud tähemärgid</string>
+    <string name="place_address_hint">Aadress</string>
+    <string name="place_address_title">Aadress</string>
+    <string name="place_address_update_hint">Värskendage</string>
+    <string name="place_category_hint">Valige kategooria</string>
+    <string name="place_category_title">Kategooria</string>
+    <string name="place_name_hint">Koha nimi</string>
+    <string name="place_name_title">Nimi</string>
+    <string name="place_phone_hint">Esmane telefoninumber</string>
+    <string name="place_phone_title">Telefon</string>
+    <string name="place_picker_adding_a_place">Aruande saatmine ...</string>
+    <string name="place_picker_cancel">Tühista</string>
+    <string name="place_picker_cant_add_place">Kohta ei saa lisada.</string>
+    <string name="place_picker_label">Koha valimine</string>
+    <string name="place_picker_location_off_message">Asukoha valimiseks peate kõigepealt seadetes sisse lülitama valiku Asukoht.</string>
+    <string name="place_picker_nearby_places">Lähedalasuvad kohad</string>
+    <string name="place_picker_no_search_results">Ühtegi vastavat asukohta ei leitud.</string>
+    <string name="place_picker_search_error">Tulemusi ei saa laadida.</string>
+    <string name="place_picker_search_hint">Otsing</string>
+    <string name="place_picker_searching_label">Otsimine ...</string>
+    <string name="place_picker_select_a_location_label">Lisateabe saamiseks valige koht</string>
+    <string name="place_picker_select_this_location">Vali see asukoht</string>
+    <string name="place_picker_settings">Seaded</string>
+    <string name="place_picker_updating_location_label">Asukoha värskendamine ...</string>
+    <string name="place_picker_updating_nearby_label">Läh. kohtade värskendam.</string>
+    <string name="place_website_hint">Ametlik veebisait</string>
+    <string name="place_website_title">Veebisait</string>
+    <string name="plus_accessibility_acl_selection">Valige sihtpublik</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Suhtlusring</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Lisa uude suhtlusringi</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avatar</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Suhtlusringid</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Otsi inimesi või suhtlusringe</string>
+    <string name="plus_accessibility_circle_selection">Valige suhtlusring</string>
+    <string name="plus_accessibility_comment_avatar">Suhtlusringid</string>
+    <string name="plus_accessibility_facl_selection">Valige sellele rakendusele nähtavad suhtlusringi liikmed</string>
+    <string name="plus_accessibility_update_circles">Uuenda suhtlusringe</string>
+    <string name="plus_actionbar_up_button_description">Navigeeri üles</string>
+    <string name="plus_add_to_circle_progress">Lisamine…</string>
+    <string name="plus_add_to_circles_title_default">Suhtlusringidesse lisamine</string>
+    <string name="plus_add_to_circles_title_with_user_name">Kasutaja %1$s lisamine</string>
+    <string name="plus_add_to_following_circle_progress">Jälgimine…</string>
+    <string name="plus_add_to_new_circle_progress_message">Lisamine…</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">KONTO</string>
+    <string name="plus_app_settings_activity_label">Ühendatud rakendused</string>
+    <string name="plus_app_settings_activity_log_label">Tegevuste logi</string>
+    <string name="plus_app_settings_activity_log_page_label">Tegevuste logi</string>
+    <string name="plus_app_settings_all_apps_label">Kõik rakend. ja seadmed</string>
+    <string name="plus_app_settings_apps_page_label">Ühendatud rakendused</string>
+    <string name="plus_app_settings_fitness_apps_label">Spordirak. ja -seadmed</string>
+    <string name="plus_app_settings_sign_in_apps_label">Google+ sisselog. rakend.</string>
+    <string name="plus_article_preview_image_description">Artikli eelvaatepilt</string>
+    <string name="plus_audience_edit_button_label">Muuda</string>
+    <string name="plus_audience_selection_cancel">Tühista</string>
+    <string name="plus_audience_selection_contacts">Kõik kontaktid</string>
+    <string name="plus_audience_selection_contacts_description">Hõlmab tulevikus loodavaid kontakte</string>
+    <string name="plus_audience_selection_description_acl">JAGAMINE</string>
+    <string name="plus_audience_selection_done">Valmis</string>
+    <string name="plus_audience_selection_everyone">Kõik suhtlusringid</string>
+    <string name="plus_audience_selection_everyone_description">Kaasatakse ka edaspidi loodavad suhtlusringid</string>
+    <string name="plus_audience_selection_header_circles">SUHTLUSRINGID</string>
+    <string name="plus_audience_selection_header_people">INIMESED</string>
+    <string name="plus_audience_selection_header_search">OTSITI:</string>
+    <string name="plus_audience_selection_header_suggested">SOOVITATUD</string>
+    <string name="plus_audience_selection_hidden_circle">Selles suhtlusringis olevad inimesed ei ole teie profiilil avalikud</string>
+    <string name="plus_audience_selection_loading">Laadimine...</string>
+    <string name="plus_audience_selection_new_circle">Lisa uude suhtlusringi</string>
+    <string name="plus_audience_selection_public_circle">kõigile veebis</string>
+    <string name="plus_audience_selection_search_device_results">TEIE SEADMEST</string>
+    <string name="plus_audience_selection_search_google_results">"GOOGLE'IST"</string>
+    <string name="plus_audience_selection_title">Sihtrühm</string>
+    <string name="plus_audience_selection_title_acl">Jagamine…</string>
+    <string name="plus_audience_selection_title_search">Otsige…</string>
+    <string name="plus_audience_selection_title_update_circles">Lisa suhtlusringidesse</string>
+    <string name="plus_auth_audience_view_default_description">"%s saadab Google'ile sellest rakendusest pärinevat teavet teie tegevuste kohta. Saate valida, kellele need tegevused veel Google'is nähtavad on."</string>
+    <string name="plus_auth_audience_view_footnote">"Google kasutab seda teavet vastavalt Google'i "<annotation id="tos">teenusetingimustele</annotation> ja <annotation id="google_privacy">privaatsuseeskirjadele</annotation></string>
+    <string name="plus_auth_hide_circles_label">Peida kõik suhtlusringid</string>
+    <string name="plus_auth_info_fragment_app_name">%s soovib järgmist.</string>
+    <string name="plus_auth_see_circles_label">Kuva kõik suhtlusringid</string>
+    <string name="plus_avatar_image_description">Kasutaja avatari pilt</string>
+    <string name="plus_bad_name_agree_button_label">Esita</string>
+    <string name="plus_bad_name_decline_button_label">Muuda nime</string>
+    <string name="plus_bad_name_skip_button_label">Jäta Google+ vahele</string>
+    <string name="plus_checking_gplus_signup_state">Ühendamine...</string>
+    <string name="plus_choose_facl_title">Põhiteave, mida %s saab</string>
+    <string name="plus_circle_creation_circle_name_hint">Suhtlusringi nimi</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Suhtlusringi loomine ebaõnnestus, proovige hiljem uuesti.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Loo</string>
+    <string name="plus_circle_creation_title_default">Suhtlusringi loomine</string>
+    <string name="plus_circle_creation_title_with_user_name">Kasutaja %1$s lisamine</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Dialoogi sulgemise nupp</string>
+    <string name="plus_close_button_label">Sule</string>
+    <string name="plus_create_button_description">Uude suhtlusringi lisamise nupp</string>
+    <string name="plus_cross_client_auth_toast_text">"Tere tulemast tagasi rakendusse %1$s. Olete logitud sisse Google'i kontoga %2$s."</string>
+    <string name="plus_delete_dialog_acl_label">Selle tegevuse nähtavus:</string>
+    <string name="plus_delete_moment_failed_dialog_message">Tegevuste kustutamisel ilmnes probleem. Proovige hiljem uuesti.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Kustutamine…</string>
+    <string name="plus_disconnect_source_dialog_checkbox">"Kustuta ka kõik rakendusest %s pärinevad tegevused Google'is"</string>
+    <string name="plus_disconnect_source_dialog_message">"%1$s ei pääse edaspidi enam teie Google'i kontole juurde ega saada rakendusest pärinevaid tegevusi Google'ile. Selle lõpuleviimiseks võib kuluda kuni üks tund."</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Loobu</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Katkesta ühendus</string>
+    <string name="plus_disconnect_source_dialog_title">Kas katkestada ühendus?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Rakenduse %s ühendust ei õnnestunud katkestada.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">"Kas soovite selle rakenduse ühenduse Google'iga katkestada?"</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Rak. %s üh. katkestamine…</string>
+    <string name="plus_domain_default">teie domeen</string>
+    <string name="plus_domain_restricted_choice_body">Vältige jagamist väljaspool domeeni %s</string>
+    <string name="plus_domain_restricted_choice_title">Üksnes domeen %s</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">Teie täisnimi, profiilipilt, Google+ ID, vanusevahemik, keel ja allpool märgitud suhtlusringides olevate inimeste loend. Loend sisaldab nende avalikke profiile, kuid mitte suhtlusringide nimesid.</string>
+    <string name="plus_first_name">Eesnimi</string>
+    <string name="plus_gender_prompt">Valige sugu</string>
+    <string name="plus_install_app_dialog_checkbox_text">Ära enam küsi.</string>
+    <string name="plus_install_app_dialog_message">Kas hankida Google+ rakendus, et vaadata postitust, mida te just jagasite?</string>
+    <string name="plus_install_app_dialog_negative_button">Mitte praegu</string>
+    <string name="plus_install_app_dialog_positive_button">Installi</string>
+    <string name="plus_install_app_dialog_title">Google+ hankimine</string>
+    <string name="plus_internal_error">Ilmnes sisemine viga.</string>
+    <string name="plus_invalid_account">Vale konto</string>
+    <string name="plus_last_name">Perekonnanimi</string>
+    <string name="plus_list_apps_aspen_empty_message">"Te ei ole Google+ sisselogimise abil ühegi rakendusega ühendust loonud.
+
+"<annotation id="learn_more">Lisateave</annotation></string>
+    <string name="plus_list_apps_disabled_error">Ühendatud rakendusi ei õnnestu praegu laadida. <annotation id="learn_more">Lisateave</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">"Teie Google'i kontoga ei ole ühendatud ühtegi rakendust"</string>
+    <string name="plus_list_apps_error">Rakendusi ei õnnestunud laadida. Proovige hiljem uuesti.</string>
+    <string name="plus_list_apps_error_aspen">"Rakendusi ei õnnestunud laadida.
+
+"<annotation id="learn_more">Vaadake lisateavet</annotation> Google+ sisselogimisega rakenduste kohta.</string>
+    <string name="plus_list_apps_error_fitness">"Rakendusi või seadmeid ei saanud laadida.
+
+"<annotation id="learn_more">Vt lisateavet</annotation> spordirakenduste ja -seadmete kohta.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Te pole teenusega Google Fit ühtki rakendust ega seadet ühendanud
+
+"<annotation id="learn_more">Lisateave</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Kontosid pole.</string>
+    <string name="plus_list_moments_disabled_error">Tegevuste logi ei õnnestu praegu laadida. <annotation id="learn_more">Lisateave</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Teil pole ühtegi tegevust</string>
+    <string name="plus_list_moments_error">Tegevusi ei õnnestunud laadida. Proovige hiljem uuesti.</string>
+    <string name="plus_list_moments_filter_empty_message">Teil pole seda tüüpi tegevusi</string>
+    <string name="plus_list_moments_time_acl_format">%1$s – %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Seda tegevust ei õnnestu teie tegevuste logist kuvada. Minge otse rakendusse.</string>
+    <string name="plus_loading">Laadimine...</string>
+    <string name="plus_manage_app_acl_description_label">"Tegevused, mida see rakendus Google'iga jagab"</string>
+    <string name="plus_manage_app_acl_error">Rakendust ei õnnestunud uuendada.</string>
+    <string name="plus_manage_app_all_circles_label">Kõik suhtlusringid</string>
+    <string name="plus_manage_app_app_icon_desc">Ikoon</string>
+    <string name="plus_manage_app_disabled_error">Ühendatud rakendust ei õnnestu praegu laadida. <annotation id="learn_more">Lisateave</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Katkesta ühendus</string>
+    <string name="plus_manage_app_domain_label">Domeen</string>
+    <string name="plus_manage_app_extended_circles_label">Laiendatud suhtlusringid</string>
+    <string name="plus_manage_app_facl_label">Rakendus näeb neid inimesi</string>
+    <string name="plus_manage_app_label">Ühendatud rakendus</string>
+    <string name="plus_manage_app_limited_label">Jagatud privaatselt</string>
+    <string name="plus_manage_app_no_acl_description">Rakenduse kasutus</string>
+    <string name="plus_manage_app_no_circles_label">Mitte ühtegi</string>
+    <string name="plus_manage_app_only_you_label">Ainult teie</string>
+    <string name="plus_manage_app_pacl_label">"Rakendustega seotud tegevuse nähtavus Google'is"</string>
+    <string name="plus_manage_app_pacl_sub_label">Siin tehtavad valikud ei muuda juba tegevuste logis olevate tegevuste nähtavust, kuid rakenduvad mängutegevusele.</string>
+    <string name="plus_manage_app_public_label">Avalik</string>
+    <string name="plus_manage_app_scopes_label">Sellel rakendusel on juurdepääs järgnevale:</string>
+    <string name="plus_manage_app_updating_acl">Uuendamine...</string>
+    <string name="plus_manage_aspen_app_label">Google+ sisselogimisega rak.</string>
+    <string name="plus_manage_device_disconnect_label">Katkesta ühendus</string>
+    <string name="plus_manage_device_label">Ühendatud seade</string>
+    <string name="plus_manage_moment_acl">"Nähtavus:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Osasid üksikasju ei õnnestunud laadida, proovige hiljem uuesti</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Kustuta</string>
+    <string name="plus_manage_moment_delete_label">KUSTUTA</string>
+    <string name="plus_manage_moment_image_desc">Kuva tegevus</string>
+    <string name="plus_manage_moment_label">Tegevus</string>
+    <string name="plus_manage_moment_no_in_app_delete">Seda tegevust ei saa hallata. <annotation id="learn_more">Lisateave</annotation></string>
+    <string name="plus_ok_button_description">Nupp OK</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">"Soovitage seda Google'is"</string>
+    <string name="plus_one_annotation_none_short">Soovitage seda</string>
+    <string name="plus_one_app">Rakendusest &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">10 000+</string>
+    <string name="plus_one_description">Puudutage, et lisada oma pluss üks olemasolevale üksusele %1$s</string>
+    <string name="plus_one_description_remove">Puudutage, et eemaldada oma pluss üks olemasolevalt üksuselt %1$s</string>
+    <string name="plus_one_description_standard">Puudutage pluss ühe lisamiseks.</string>
+    <string name="plus_one_error">Teie +1-ga oli ajutine probleem. Proovige uuesti.</string>
+    <string name="plus_one_public">Avalik</string>
+    <string name="plus_one_self">+1 kasutajalt %1$s</string>
+    <string name="plus_one_self_removed">Teie +1 eemaldati.</string>
+    <string name="plus_one_share">Jaga</string>
+    <string name="plus_one_social_annotation_prefix">k.a %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">sh %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s märkis selle +1-ga</string>
+    <string name="plus_one_social_annotation_user">Teie</string>
+    <string name="plus_one_title">Märkisite avalikult +1-ga kasutajana</string>
+    <string name="plus_one_undo">Võta tagasi</string>
+    <string name="plus_oob_3p_promo">Võtke avaliku Google+ profiili abil rakendusest %1$s enamat.</string>
+    <string name="plus_oob_cancel_button_label">Loobu</string>
+    <string name="plus_oob_default_promo">"Võtke avaliku Google+ profiili abil Google'ist enamat."</string>
+    <string name="plus_oob_done_button_label">Valmis</string>
+    <string name="plus_oob_edit_name_warning">"Google+ profiilinime muutmisel muutub see kõigis Google'i toodetes."</string>
+    <string name="plus_oob_failure_text">Kahjuks ei õnnestunud teenusel Google+ teie profiili seadistada. Proovige hiljem uuesti.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Nimi</string>
+    <string name="plus_oob_first_name_content_description">Eesnimi</string>
+    <string name="plus_oob_gender_content_description">Sugu</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Mitte praegu</string>
+    <string name="plus_oob_interstitial_loading">Ühendamine teenusega Google+…</string>
+    <string name="plus_oob_interstitial_loading_body">Selleks võib kuluda mõni minut.</string>
+    <string name="plus_oob_interstitial_sending">Saatmine…</string>
+    <string name="plus_oob_interstitial_sending_body">Selleks võib kuluda mõni minut.</string>
+    <string name="plus_oob_join">Loo</string>
+    <string name="plus_oob_last_name_content_description">Perekonnanimi</string>
+    <string name="plus_oob_loading">Laadimine…</string>
+    <string name="plus_oob_next">Järgmine</string>
+    <string name="plus_oob_next_content_description">Nupp Edasi</string>
+    <string name="plus_oob_no_connection_message">Serveriga ei õnnestunud ühendust luua.</string>
+    <string name="plus_oob_no_connection_title">Ühendus puudub</string>
+    <string name="plus_oob_pronoun_content_description">Viidake mulle kui:</string>
+    <string name="plus_oob_sending">Saatmine…</string>
+    <string name="plus_oob_title_tos">Google+ profiil</string>
+    <string name="plus_oob_tos_accept">Nõustu</string>
+    <string name="plus_photo_preview_image_description">Foto eelvaatepilt</string>
+    <string name="plus_plus_icon_image_description">Google plussi ikooni pilt</string>
+    <string name="plus_posted_just_now">Just äsja</string>
+    <string name="plus_pronoun_prompt">Valige</string>
+    <string name="plus_remove_from_circle_progress">Eemaldamine…</string>
+    <string name="plus_replybox_button_description">Vasta</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Kas loobuda sellest vastusest?</string>
+    <string name="plus_replybox_hint_text">Lisage vastus</string>
+    <string name="plus_replybox_internal_error">Ei õnnestunud vastata.</string>
+    <string name="plus_replybox_no_network_connection">Vastust ei saa luua. Proovige uuesti.</string>
+    <string name="plus_replybox_post_error_message">Vastust ei õnnestunud postitada.</string>
+    <string name="plus_replybox_post_success">Teie vastus on postitatud.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Teie laiendatud suhtlusringid</string>
+    <string name="plus_scope_fragment_mixed_label">Valitud suhtlusringid</string>
+    <string name="plus_scope_fragment_only_you_label">Ainult teie</string>
+    <string name="plus_scope_fragment_public_label">Kõigile veebis</string>
+    <string name="plus_scope_fragment_your_circles_label">Teie suhtlusringid</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Seadistusviisard</string>
+    <string name="plus_share_button_description">Nupp Jaga</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Valmis</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Adressaatide valimine</string>
+    <string name="plus_sharebox_audience_to_text">Saaja(d):</string>
+    <string name="plus_sharebox_audience_view_icon_description">Vaatajad</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Uus suhtlusring</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Inimesi ei saanud suhtlusringi lisada</string>
+    <string name="plus_sharebox_circles_button">Valmis</string>
+    <string name="plus_sharebox_circles_checkbox_label">Lisa %1$s järgmisse suhtlusringi:</string>
+    <string name="plus_sharebox_circles_create_failed">Suhtlusringi ei saanud luua</string>
+    <string name="plus_sharebox_circles_create_option">Loo uus suhtlusring</string>
+    <string name="plus_sharebox_circles_following_circle">Jälgitavad</string>
+    <string name="plus_sharebox_circles_friends_circle">Sõbrad</string>
+    <string name="plus_sharebox_circles_name_length_warning">Suhtlusringi nimi on liiga pikk.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Suhtlusringi nimi on juba kasutusel.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Suhtlusringi lisamine</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Kas loobuda sellest postitusest?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Ei õnnestunud jagada.</string>
+    <string name="plus_sharebox_load_error">Jagamise dialoogi laadimisel tekkis ajutine probleem. Proovige uuesti.</string>
+    <string name="plus_sharebox_next">EDASI</string>
+    <string name="plus_sharebox_no_network_connection">Postitust ei saa luua. Proovige uuesti.</string>
+    <string name="plus_sharebox_post_body_hint">Jagage oma mõtteid…</string>
+    <string name="plus_sharebox_post_body_icon">Profiilipilt</string>
+    <string name="plus_sharebox_post_error_message">Postitust ei saa luua. Proovige uuesti.</string>
+    <string name="plus_sharebox_post_error_title">Tähelepanu</string>
+    <string name="plus_sharebox_post_pending">Saatmine...</string>
+    <string name="plus_sharebox_post_success">Teie postitus on jagatud.</string>
+    <string name="plus_sharebox_preview_loading">Laadimine...</string>
+    <string name="plus_sharebox_search_hint">Sisestage nimi, e-posti aadress või suhtlusring</string>
+    <string name="plus_sharebox_share">JAGA</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Jaga ka teenuses Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Jaga teenuse Google+ kaudu</string>
+    <string name="plus_sharebox_under_age_warning_message">Kui jagate avalikult, näevad inimesed, keda te pole oma suhtlusringidesse lisanud, teie postitust ja võivad seda kommenteerida.</string>
+    <string name="plus_sharebox_under_age_warning_title">Jagatakse avalikult</string>
+    <string name="plus_undo_button_description">Nupp Võta tagasi</string>
+    <string name="plus_unified_setup_activity_title">Profiili loomine</string>
+    <string name="plus_unknown_app_name">Rakendus</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Suhtlusringide uuendamine ebaõnnestus, proovige hiljem uuesti.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Te ei saa seda kasutajat suhtlusringidesse lisada.</string>
+    <string name="plus_update_circles_not_allowed_message">Te ei saa kasutajat %1$s suhtlusringidesse lisada.</string>
+    <string name="plus_update_circles_progress">Suhtlusringide uuendamine...</string>
+    <string name="plus_video_preview_image_description">Video eelvaatepilt</string>
+    <string name="recovery_done_button_label">Valmis</string>
+    <string name="recovery_input_screen_message">"Öelge Google'ile, kuidas teiega ühendust võtta, kui unustate rakenduse %s parooli."</string>
+    <string name="recovery_message_set">"Paroolid ununevad kergesti.
+
+Sisestage kohe telefoninumber või varu e-posti aadress. See aitab taastada juurdepääsu Google'i ja Google Play sisule. "<annotation id="help_url">Lisateave</annotation></string>
+    <string name="recovery_message_verify">"Paroolid ununevad kergesti.
+
+Sisestage kohe telefoninumber või varu e-posti aadress. See aitab taastada juurdepääsu Google'i ja Google Play sisule. "<annotation id="help_url">Lisateave</annotation></string>
+    <string name="recovery_notification_ticker">Konto vajab tähelepanu</string>
+    <string name="recovery_notification_title">Parooli taastamise meeldetul.</string>
+    <string name="recovery_server_error">Viga serveriga suhtlemisel. Proovige mõne aja pärast uuesti.</string>
+    <string name="recovery_title">"Google'i parooli taastamine"</string>
+    <string name="recovery_yes_button_label">Seadista taastamisvalikud</string>
+    <string name="recovery_yes_button_label_verify">Kinnita taastamisvalikud</string>
+    <string name="retry_call_to_action">Proovige uuesti</string>
+    <string name="secondary_email_hint">Varu-meiliaadress</string>
+    <string name="secondary_email_invalid">Vale e-posti aadress</string>
+    <string name="secondary_email_same_as_primary">Ei või olla sama kui 1. e-post</string>
+    <string name="selected_location_unknown">Tundmatu</string>
+    <string name="sharedUserLabel">"Google'i teenused"</string>
+    <string name="sid_lsid_grant_detail">Parooliga sarnaselt on seansi identifitseerimise (SID) ja kohaliku seansi identifitseerimise (LSID) küpsised seotud teie identiteediga brauseri päringuseeria kaudu. Need annavad täieliku juurdepääsu kõigile teie konto andmetele. Neid küpsiseid saavad kasutada vaid brauserid.</string>
+    <string name="sid_lsid_grant_label">"Kasutage SID- ja LSID-küpsiseid juurdepääsu saamiseks kõigile oma Google'i konto andmetele."</string>
+    <string name="storage_management_drive_clear_failure">"Drive'i andmete kustutamisel ilmnes viga. Proovige hiljem uuesti."</string>
+    <string name="storage_management_drive_clear_label">Kustuta</string>
+    <string name="storage_management_drive_clear_success">"Drive'i andmed on kustutatud."</string>
+    <string name="storage_management_drive_clearing">Kustutamine ...</string>
+    <string name="storage_management_drive_confirm_clear_data_message">"Kõik kohalikud Drive'i andmed Drive'i toega rakenduste jaoks kustutatakse jäädavalt. Need võivad sisaldada ootel muudatusi, mis ei ole veel Google Drive'i serverisse üles laaditud."</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Kas kustutada kõik andmed?</string>
+    <string name="storage_management_drive_descriptive_text">"Toimivuse parandamiseks ja võrguühenduseta juurdepääsu võimaldamiseks salvestavad Drive'i toega rakendused failid seadmesse."</string>
+    <string name="storage_management_drive_get_storage_failure">"Drive'i salvestusruumi kasutuse arvutamisel ilmnes viga. Proovige hiljem uuesti."</string>
+    <string name="storage_management_drive_size_label">"Kohalik Drive'i salvestusruum"</string>
+    <string name="storage_management_wear_descriptive_text">Rakendused kasutavad seadme talletusruumi, et kopeerida andmeid kaasaskantavasse seadmesse.</string>
+    <string name="storage_management_wear_manage_size_label">Kaasask. seadme talletusruumi haldamine</string>
+    <string name="storage_management_wear_size_label">Kaasask. seadme talletusruum</string>
+    <string name="storage_managment_all_storage_descriptive_text">Kõik andmed, mida kasutavad Google Play teenused, sh otsingumootorid ja muud andmed.</string>
+    <string name="storage_managment_clear_all_data">Kustuta kõik andmed</string>
+    <string name="storage_managment_computing_size">Arvutamine ...</string>
+    <string name="storage_managment_icing_size_label">Otsingumootori talletus</string>
+    <string name="storage_managment_manage_icing_button">Halda otsingutalletust</string>
+    <string name="storage_managment_search_index_descriptive_text">Kiirendame otsingut telefonis, pakkudes rakendustele kasutamiseks otsingumootorit.</string>
+    <string name="storage_managment_title">Google Play teenuste talletus</string>
+    <string name="storage_managment_total_size_label">Talletatud andmeid kokku</string>
+    <string name="system_update_activity_battery_low_charging_text">Aku energiatase on liiga madal, et seda süsteemivärskendust installida. Oodake, kuni aku on piisavalt laetud.</string>
+    <string name="system_update_activity_battery_low_text">Aku energiatase on süsteemivärskenduse installimiseks liiga madal. Jätkamiseks ühendage laadija.</string>
+    <string name="system_update_activity_name">Süsteemivärskendused</string>
+    <string name="system_update_activity_roaming_text">Süsteemivärskendusi ei saa rändluse ajal alla laadida.</string>
+    <string name="system_update_activity_title">Süsteemivärskendused</string>
+    <string name="system_update_check_now_button_text">Kontrolli kohe</string>
+    <string name="system_update_complete_label">Süsteemivärskendus</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Ühenduse loomine WiFi-võrguga</string>
+    <string name="system_update_connection_lost_text">Võrguühendus katkes.</string>
+    <string name="system_update_countdown_cancel_button">Tühista installimine</string>
+    <string name="system_update_countdown_complete">Taaskäivitan kohe ...</string>
+    <string name="system_update_download_button_text">Laadi alla</string>
+    <string name="system_update_download_failed_no_space_status_text">Allalaadimiseks pole piisavalt ruumi</string>
+    <string name="system_update_download_failed_status_text">Ei saanud alla laadida</string>
+    <string name="system_update_download_retry_button_text">Proovi uuesti alla laadida</string>
+    <string name="system_update_download_waiting_status_text">Allalaadimise ootel</string>
+    <string name="system_update_downloading_required_update_text">"Selleks võib kuluda kuni ^1 minutit.
+
+Pärast seda taaskäivitub seade automaatselt."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Selleks võib kuluda kuni ^1 minutit.
+
+Pärast seda taaskäivitub tahvelarvuti automaatselt."</string>
+    <string name="system_update_downloading_required_update_title">Värskenduse allalaadimine ...</string>
+    <string name="system_update_downloading_status_text">Allalaadimine</string>
+    <string name="system_update_downloading_wifi_status2_text">WiFi kaudu ainult kuni ^1</string>
+    <string name="system_update_install_button_text">Taaskäivita ja installi</string>
+    <string name="system_update_installing_update_text">"Selleks võib kuluda kuni 5 minutit.
+
+Pärast seda saate lõpetada telefoni seadistamise."</string>
+    <string name="system_update_installing_update_title">Värskenduse installimine …</string>
+    <string name="system_update_last_checkin">Viimati otsiti värskendusi ^1.</string>
+    <string name="system_update_no_update_content_text">Teie süsteem on ajakohane.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Laadimine ebaõnnestus, proovige uuesti.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Süsteemivärskendust ei saa alla laadida</string>
+    <string name="system_update_not_owner_text">Saadaval on süsteemitarkvara värskendus, kuid selle saab installida ainult omanik.</string>
+    <string name="system_update_notification_action_download">Laadi alla</string>
+    <string name="system_update_notification_action_install">Installi</string>
+    <string name="system_update_notification_action_snooze">Hiljem</string>
+    <string name="system_update_required_update_restart_text">Seade taaskäivitub süsteemi värskenduse installimiseks.</string>
+    <string name="system_update_required_update_restart_text_tablet">Tahvelarvuti taaskäivitub süsteemi värskenduse installimiseks.</string>
+    <string name="system_update_required_update_restart_title">Taaskäivitub kohe</string>
+    <string name="system_update_requires_restart_status_text">Taaskäivitus kohustuslik</string>
+    <string name="system_update_restart_button_text">Taaskäivitumine (^1)</string>
+    <string name="system_update_update_available_notification_title">Süsteemivärskendus on saadaval</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Süsteemivärskenduse allalaadimiseks pole piisavalt vaba ruumi.</string>
+    <string name="system_update_update_downloaded_notification_title">Süsteemivärskendus on alla laaditud</string>
+    <string name="system_update_verification_failed_text">Kinnitamine ebaõnnestus</string>
+    <string name="system_update_verified_status_text">Alla laaditud ja kontrollitud</string>
+    <string name="system_update_verifying_status_text">Kinnitamas</string>
+    <string name="temporary_sharing_description">"Inimesed, kellega te jagate oma täpset asukohta Google'i toodetes piiratud aja jooksul."</string>
+    <string name="temporary_sharing_title">Ajutine jagamine</string>
+    <string name="turn_on_location_reporting_auto_button">Lülitage sisse</string>
+    <string name="usage_and_diagnostics_consent_message">"Aidake parandada Androidi kasutuskogemust, saates Google'ile automaatselt diagnostika- ja kasutusandmeid. Seda teavet ei kasutata teie tuvastamiseks ja see aitab tiime, kes tegelevad selliste küsimustega nagu aku kestus, rakenduse toimivus ja Google'i uued funktsioonid.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Lisateave&lt;/font>"</string>
+    <string name="usage_reporting_off">Väljas</string>
+    <string name="usage_reporting_on">Sees</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Ühendatud</string>
+    <string name="wearable_status_connecting">Ühendamine ...</string>
+    <string name="wearable_status_disconnected">Eemaldatud</string>
+    <string name="wearable_status_starting">Käivitamine ...</string>
+    <string name="wearable_status_wire_protocol_mismatch">Ühildumatu kaasaskantav seade, rakendage kõik värskendused.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Kustuta nüüd</string>
+    <string name="wearable_storage_managment_title">Kaasaskantava seadme talletusruum</string>
+    <string name="wearable_storage_managment_total_size_label">Kaasaskant. seadme talletusr.</string>
+    <string name="wearable_storage_managment_usage_label">Rakenduse talletusruumi kasutus</string>
+</resources>

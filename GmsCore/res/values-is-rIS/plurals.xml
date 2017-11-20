@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d klukkustundir eftir</item>
+        <item quantity="one">1 klukkustund eftir</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dagar</item>
+        <item quantity="one">%d dagur</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d klst.</item>
+        <item quantity="one">%d klst.</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d mín.</item>
+        <item quantity="one">%d mín.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s aðilar</item>
+        <item quantity="one">%1$s aðili</item>
+        <item quantity="two">%1$s aðilar</item>
+        <item quantity="few">%1$s aðilar</item>
+        <item quantity="many">%1$s aðilar</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Endurræsir og fer í uppsetningu eftir %d sekúndur…</item>
+        <item quantity="one">Endurræsir og fer í uppsetningu eftir 1 sekúndu…</item>
+    </plurals>
+</resources>

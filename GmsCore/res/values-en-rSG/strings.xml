@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_invalid_panorama_data">Invalid panorama.</string>
+    <string name="maps_network_unavailable">This programme requires a data connection and will retry automatically. Please check your signal strength. Is aeroplane mode on? Is roaming data disabled?</string>
+    <string name="maps_no_panorama_data">No panorama data set.</string>
+    <string name="maps_panorama_disabled">Picture no longer available</string>
+    <string name="maps_service_unavailable">Street View service unavailable.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Data connection lost, retrying…</string>
+</resources>

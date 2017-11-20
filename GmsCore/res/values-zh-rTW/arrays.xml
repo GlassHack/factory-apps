@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>酒吧</item>
+        <item>咖啡廳</item>
+        <item>加油站</item>
+        <item>電影院</item>
+        <item>住宿地點</item>
+        <item>夜店</item>
+        <item>博物館</item>
+        <item>餐廳</item>
+        <item>購物中心</item>
+        <item>商店</item>
+        <item>雜貨店或超市</item>
+        <item>其他</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>差</item>
+        <item>可</item>
+        <item>佳</item>
+        <item>強</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>藍牙</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>北</item>
+        <item>東北</item>
+        <item>東</item>
+        <item>東南</item>
+        <item>南</item>
+        <item>西南</item>
+        <item>西</item>
+        <item>西北</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>北</item>
+        <item>東北</item>
+        <item>東</item>
+        <item>東南</item>
+        <item>南</item>
+        <item>西南</item>
+        <item>西</item>
+        <item>西北</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>選擇安全提示問題</item>
+        <item>第一支電話的號碼？</item>
+        <item>最要好的兒時玩伴姓名？</item>
+        <item>第一位老師的姓名？</item>
+        <item>第一份工作的主管姓名？</item>
+        <item>車牌號碼？</item>
+    </string-array>
+</resources>

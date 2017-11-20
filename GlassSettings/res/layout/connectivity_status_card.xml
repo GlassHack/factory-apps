@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/imageCenter" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="50.0px" android:scaleType="center" android:layout_centerInParent="true" />
+        <ImageView android:id="@id/linkImageLeft" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0px" android:layout_marginRight="10.0px" android:src="@drawable/ic_connectivity_g_0" android:layout_toLeftOf="@id/imageCenter" android:layout_alignTop="@id/imageCenter" android:layout_alignBottom="@id/imageCenter" />
+        <ImageView android:id="@id/linkImageRight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="10.0px" android:layout_marginRight="10.0px" android:src="@drawable/ic_connectivity_g_0" android:layout_toRightOf="@id/imageCenter" android:layout_alignTop="@id/imageCenter" android:layout_alignBottom="@id/imageCenter" />
+        <ImageView android:id="@id/imageLeft" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:layout_toLeftOf="@id/linkImageLeft" android:layout_centerVertical="true" />
+        <ImageView android:id="@id/imageRight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:layout_toRightOf="@id/linkImageRight" android:layout_centerVertical="true" />
+        <TextView android:gravity="center" android:id="@id/textCenter" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="25.0px" android:layout_alignLeft="@id/linkImageLeft" android:layout_alignRight="@id/linkImageRight" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="@style/SmallOverlayText" />
+        <TextView android:gravity="center" android:id="@id/textLeft" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignLeft="@id/imageLeft" android:layout_alignTop="@id/textCenter" android:layout_alignRight="@id/imageLeft" style="@style/SmallOverlayText" />
+        <TextView android:gravity="center" android:id="@id/textRight" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignLeft="@id/imageRight" android:layout_alignTop="@id/textCenter" android:layout_alignRight="@id/imageRight" style="@style/SmallOverlayText" />
+    </RelativeLayout>
+    <LinearLayout android:id="@id/cardStatus" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="40.0px" android:layout_marginRight="40.0px" android:layout_marginBottom="20.0px" android:layout_weight="0.0" android:layout_alignParentBottom="true">
+        <TextView android:id="@id/statusText" android:paddingRight="10.0px" android:layout_width="0.0px" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/SmallOverlayText" />
+        <TextView android:id="@id/timestamp" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/timeline_overlay_label_now" android:layout_weight="0.0" style="@style/SmallOverlayText" />
+    </LinearLayout>
+</LinearLayout>

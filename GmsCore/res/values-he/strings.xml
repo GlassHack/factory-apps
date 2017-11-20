@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_BACK_TO_LIST">חזרה לרשימה</string>
+    <string name="maps_LEVEL_ALT_TEXT">רמה {0}</string>
+    <string name="maps_YOUR_LOCATION">המיקום הנוכחי שלך</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Imagery ©%2$d %3$s, נתוני מפות ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Imagery ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - נתוני מפות ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">פנורמה לא חוקית.</string>
+    <string name="maps_network_unavailable">תוכנית זו דורשת חיבור נתונים, ותנסה להתחבר שוב באופן אוטומטי. בדוק את עוצמת האות. האם מצב טיסה מופעל? האם נדידת נתונים מושבתת?</string>
+    <string name="maps_no_panorama_data">לא הוגדרו נתוני פנורמה.</string>
+    <string name="maps_panorama_disabled">התמונה כבר אינה זמינה</string>
+    <string name="maps_service_unavailable">"שירות 'תצוגת הרחוב' אינו זמין."</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">החיבור לנתונים אבד, מנסה שנית…</string>
+</resources>

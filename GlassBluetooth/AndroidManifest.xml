@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:allowBackup="false" android:sharedUserId="android.uid.system" package="com.google.glass.bluetooth">
+    <permission android:name="com.google.glass.bluetooth.permission.COMPANION" android:protectionLevel="signatureOrSystem"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN"/>
+    <uses-permission android:name="android.permission.BROADCAST_STICKY"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.CHANGE_COMPONENT_ENABLED_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.DEVICE_POWER"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.SET_TIME_ZONE"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <uses-permission android:name="com.google.glass.bluetooth.permission.COMPANION"/>
+    <uses-permission android:name="com.google.glass.logging.permission.LOGGING_SECRET_ACCESS"/>
+    <uses-permission android:name="android.permission.READ_FRAME_BUFFER"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.STATUS_BAR"/>
+    <uses-permission android:name="com.google.glass.home.permission.SETUP_WIFI"/>
+    <uses-permission android:name="android.permission.INJECT_EVENTS"/>
+    <uses-permission android:name="com.google.glass.entity.permission.ENTITY_PROVIDER"/>
+    <uses-permission android:name="com.google.glass.logging.permission.USER_EVENT_SERVICE"/>
+    <uses-permission android:name="com.google.glass.sync.permission.TIMELINE_PROVIDER"/>
+    <uses-permission android:name="com.google.android.glass.permission.ACCESS_PRIVATE_CACHE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <application android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:name="com.google.glass.bluetooth.BluetoothApplication" android:persistent="true" android:theme="@style/GlassTheme">
+        <uses-library android:name="com.android.location.provider"/>
+        <service android:name="com.google.glass.bluetooth.location.jb.CompanionLocationService">
+            <intent-filter>
+                <action android:name="com.google.glass.bluetooth.location.jb.CompanionNetworkLocationProvider"/>
+                <action android:name="com.google.glass.bluetooth.location.jb.CompanionGpsLocationProvider"/>
+                <action android:name="com.google.glass.bluetooth.location.jb.CompanionFusedBalancedPowerAccuracyProvider"/>
+                <action android:name="com.google.glass.bluetooth.location.jb.CompanionFusedHighAccuracyProvider"/>
+            </intent-filter>
+        </service>
+        <receiver android:name="com.google.glass.bluetooth.BootCompletedReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.google.glass.bluetooth.pairing.BluetoothPairingReceiver">
+            <intent-filter>
+                <action android:name="android.bluetooth.device.action.PAIRING_REQUEST"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </receiver>
+        <activity android:launchMode="singleTask" android:name="com.google.glass.bluetooth.pairing.BluetoothPairingConfirmationActivity"/>
+        <activity android:launchMode="singleTask" android:name="com.google.glass.bluetooth.pairing.BluetoothPairingConfirmationActivityV2"/>
+        <activity android:exported="true" android:launchMode="singleInstance" android:name="com.google.glass.bluetooth.companion.CnsMyGlassWaitingActivity" android:screenOrientation="landscape" android:theme="@style/GlassTheme"/>
+        <service android:exported="true" android:name="com.google.glass.bluetooth.GlassBluetoothService" android:permission="com.google.glass.bluetooth.permission.COMPANION">
+            <intent-filter>
+                <action android:name="com.google.glass.bluetooth.COMPANION_SERVICE"/>
+            </intent-filter>
+        </service>
+        <service android:name="com.google.glass.bluetooth.tethering.ConnectivityChecker"/>
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+    </application>
+</manifest>

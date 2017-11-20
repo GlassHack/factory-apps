@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">راهنما و بازخورد</string>
+    <string name="plus_app_settings_all_apps_label">همه برنامه‌ها</string>
+    <string name="plus_app_settings_apps_page_label">برنامه‌های مرتبط</string>
+    <string name="plus_list_apps_empty_message">هیچ برنامه‌ای وصل نیست</string>
+    <string name="plus_manage_app_pacl_label">‏افرادی که می‌توانند فعالیت‌های برنامه را در Google ببینند</string>
+    <string name="plus_manage_app_scopes_label">امکان دسترسی این برنامه به:</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bár</item>
+        <item>Kávézó</item>
+        <item>Benzinkút</item>
+        <item>Mozi</item>
+        <item>Szállás</item>
+        <item>Szórakozóhely</item>
+        <item>Múzeum</item>
+        <item>Étterem</item>
+        <item>Bevásárlóközpont</item>
+        <item>Áruház</item>
+        <item>Vegyesbolt/szupermarket</item>
+        <item>Egyéb</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>gyenge</item>
+        <item>közepes</item>
+        <item>megfelelő</item>
+        <item>erős</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>É</item>
+        <item>ÉK</item>
+        <item>K</item>
+        <item>DK</item>
+        <item>D</item>
+        <item>DNY</item>
+        <item>NY</item>
+        <item>ÉNY</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>észak</item>
+        <item>északkelet</item>
+        <item>kelet</item>
+        <item>délkelet</item>
+        <item>dél</item>
+        <item>délnyugat</item>
+        <item>nyugat</item>
+        <item>északnyugat</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Válasszon egy biztonsági kérdést</item>
+        <item>Első telefonszáma?</item>
+        <item>Mi gyermekkori legjobb barátja neve?</item>
+        <item>Első tanárának neve?</item>
+        <item>Főnöke neve az első munkahelyén?</item>
+        <item>Járműve rendszáma?</item>
+    </string-array>
+</resources>

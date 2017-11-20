@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="top|center" android:id="@id/image" android:layout_width="@dimen/qs_tile_icon_size" android:layout_height="@dimen/qs_tile_icon_size" android:layout_marginTop="@dimen/qs_tile_margin_above_icon" android:layout_marginBottom="@dimen/qs_tile_margin_below_icon" android:scaleType="centerInside" />
+    <TextView android:gravity="top|center" android:layout_gravity="top|center" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/TextAppearance.QuickSettings.TileView" />
+</LinearLayout>

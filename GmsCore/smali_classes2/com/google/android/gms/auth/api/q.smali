@@ -1,0 +1,23 @@
+.class final Lcom/google/android/gms/auth/api/q;
+.super Ljava/lang/Exception;
+.source "SourceFile"
+
+
+# instance fields
+.field final synthetic a:Lcom/google/android/gms/auth/api/k;
+
+
+# direct methods
+.method public constructor <init>(Lcom/google/android/gms/auth/api/k;Ljava/lang/String;)V
+    .locals 0
+
+    .prologue
+    .line 759
+    iput-object p1, p0, Lcom/google/android/gms/auth/api/q;->a:Lcom/google/android/gms/auth/api/k;
+
+    .line 760
+    invoke-direct {p0, p2}, Ljava/lang/Exception;-><init>(Ljava/lang/String;)V
+
+    .line 761
+    return-void
+.end method

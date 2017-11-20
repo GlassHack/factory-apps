@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="prompts_choosing">
+        <item>戻るには下にスワイプします</item>
+        <item>1本指と2本指両方のジェスチャーを試せます</item>
+        <item>フックスワイプも使用できます</item>
+    </string-array>
+</resources>

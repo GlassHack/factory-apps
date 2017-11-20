@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="time_minutes">
+        <item quantity="other">%d Min.</item>
+        <item quantity="one">%d Min.</item>
+    </plurals>
+    <plurals name="time_hours">
+        <item quantity="other">%d Stunden</item>
+        <item quantity="one">%d Stunde</item>
+    </plurals>
+    <plurals name="time_days">
+        <item quantity="other">%d Tagen</item>
+        <item quantity="one">%d Tag</item>
+    </plurals>
+    <plurals name="time_weeks">
+        <item quantity="other">%d Wochen</item>
+        <item quantity="one">%d Woche</item>
+    </plurals>
+    <plurals name="time_months">
+        <item quantity="other">%d Monaten</item>
+        <item quantity="one">%d Monat</item>
+    </plurals>
+    <plurals name="time_years">
+        <item quantity="other">%d Jahren</item>
+        <item quantity="one">%d Jahr</item>
+    </plurals>
+</resources>

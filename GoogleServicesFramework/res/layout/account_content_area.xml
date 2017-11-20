@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:gravity="center" android:id="@id/description" android:layout_width="@dimen/width_description" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/pad_left_unsafe_description" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    <FrameLayout android:id="@id/action" android:paddingRight="@dimen/pad_right_unsafe_action" android:layout_width="@dimen/width_action" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/pad_left_unsafe_action" android:layout_toRightOf="@id/description" android:layout_centerVertical="true" />
+</RelativeLayout>

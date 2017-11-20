@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">सहायता और फ़ीडबैक</string>
+    <string name="plus_app_settings_all_apps_label">सभी ऐप्लिकेशन</string>
+    <string name="plus_app_settings_apps_page_label">कनेक्ट किए गए ऐप्लिकेशन</string>
+    <string name="plus_list_apps_empty_message">कोई ऐप्लिकेशन कनेक्ट नहीं हैं</string>
+    <string name="plus_manage_app_pacl_label">Google पर ऐप्लिकेशन गतिविधियों को कौन देख सकता/सकती है</string>
+    <string name="plus_manage_app_scopes_label">यह ऐप्लिकेशन इन तक पहुंच सकता है:</string>
+</resources>

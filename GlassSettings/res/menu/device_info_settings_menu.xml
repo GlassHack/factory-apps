@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_sync_50" android:id="@id/deviceinfo_menu_install_update" android:title="@string/deviceinfo_install_update" />
+    <item android:icon="@drawable/ic_warning_50" android:id="@id/deviceinfo_menu_debug_launcher" android:title="@string/deviceinfo_debug_launcher" />
+    <item android:icon="@drawable/ic_help_50" android:id="@id/deviceinfo_menu_more_details" android:title="@string/deviceinfo_menu_more_details" />
+    <item android:icon="@drawable/ic_gear_50" android:id="@id/deviceinfo_menu_labs" android:title="@string/deviceinfo_menu_labs" />
+    <item android:icon="@drawable/ic_message_50" android:id="@id/deviceinfo_menu_feedback" android:title="@string/deviceinfo_menu_feedback" />
+    <item android:icon="@drawable/ic_legal_50" android:id="@id/deviceinfo_menu_menu_licenses" android:title="VIEW_LICENCES" />
+    <item android:icon="@drawable/ic_document_50" android:id="@id/deviceinfo_menu_regulatory_info" android:title="@string/deviceinfo_menu_regulatory_info" />
+    <item android:icon="@drawable/ic_android_50" android:id="@id/deviceinfo_menu_toggle_adb" android:title="@string/deviceinfo_menu_adb_turn_off" />
+    <item android:icon="@drawable/ic_danger_50" android:id="@id/deviceinfo_menu_reset_device" android:title="@string/deviceinfo_menu_reset" />
+</menu>

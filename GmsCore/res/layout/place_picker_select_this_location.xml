@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/place_picker_select_this_location_background" android:layout_width="fill_parent" android:layout_height="72.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/select_this_location_icon" android:layout_width="32.0dip" android:layout_height="72.0dip" android:layout_marginLeft="16.0dip" android:src="@drawable/ic_place" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/select_this_location_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="64.0dip" android:layout_marginTop="12.0dip" android:text="@string/place_picker_select_this_location" android:singleLine="true" />
+    <TextView android:textAppearance="?android:textAppearanceSmall" android:textColor="#ffffffff" android:ellipsize="end" android:id="@id/select_this_location_info" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="64.0dip" android:layout_marginTop="36.0dip" android:singleLine="true" />
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="#ffffffff" android:ellipsize="end" android:layout_gravity="center_vertical" android:id="@id/select_this_location_hint" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="64.0dip" android:singleLine="true" />
+</FrameLayout>

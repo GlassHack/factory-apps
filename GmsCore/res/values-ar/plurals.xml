@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">من متصفّح %1$s الذي يقع في %2$s قبل أقل من %3$s من الدقائق</item>
+        <item quantity="one">من متصفّح %1$s الذي يقع في %2$s قبل أقل من دقيقة واحدة (%3$s)</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">من %1$s قبل أقل من %2$s من الدقائق</item>
+        <item quantity="one">من %1$s قبل أقل من دقيقة واحدة (%2$s)</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">عدد الساعات المتبقية: %d</item>
+        <item quantity="one">تتبقى ساعة واحدة</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d من الأيام</item>
+        <item quantity="one">%d يوم</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d من الساعات</item>
+        <item quantity="one">%d ساعة</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d من الدقائق</item>
+        <item quantity="one">%d دقيقة</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s من الأشخاص</item>
+        <item quantity="one">شخص واحد (%1$s)</item>
+        <item quantity="two">%1$s من الأشخاص</item>
+        <item quantity="few">%1$s من الأشخاص</item>
+        <item quantity="many">%1$s من الأشخاص</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">جارٍ إعادة التشغيل للتثبيت خلال %d ثانية...</item>
+        <item quantity="one">جارٍ إعادة التشغيل للتثبيت خلال ثانية واحدة...</item>
+    </plurals>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="developer_setting_animation_scale_titles">
+        <item>0.5x</item>
+        <item>1x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+        <item>5x</item>
+        <item>10x</item>
+    </string-array>
+    <string-array name="developer_setting_animation_scale_descriptions">
+        <item>Animations take half as long to run</item>
+        <item>Animations run at normal speed</item>
+        <item>Animations take 1.5 times as long to run</item>
+        <item>Animations take twice as long to run</item>
+        <item>Animations take five times as long to run</item>
+        <item>Animations take ten times as long to run</item>
+    </string-array>
+    <array name="dynamic_text_sizes">
+        <item>64.0px</item>
+        <item>48.0px</item>
+        <item>40.0px</item>
+        <item>32.0px</item>
+    </array>
+    <array name="dynamic_text_baseline_positions">
+        <item>48.0px</item>
+        <item>40.0px</item>
+        <item>32.0px</item>
+        <item>24.0px</item>
+    </array>
+    <array name="dynamic_text_line_spacing_adjustments">
+        <item>5.0px</item>
+        <item>-1.0px</item>
+        <item>1.0px</item>
+        <item>2.0px</item>
+    </array>
+    <array name="contact_colors">
+        <item>@color/contact_red</item>
+        <item>@color/contact_orange</item>
+        <item>@color/contact_yellow</item>
+        <item>@color/contact_green</item>
+        <item>@color/contact_teal</item>
+        <item>@color/contact_blue</item>
+        <item>@color/contact_purple</item>
+    </array>
+    <array name="developer_setting_animation_scales">
+        <item>0.5</item>
+        <item>1</item>
+        <item>1.5</item>
+        <item>2</item>
+        <item>5</item>
+        <item>10</item>
+    </array>
+</resources>

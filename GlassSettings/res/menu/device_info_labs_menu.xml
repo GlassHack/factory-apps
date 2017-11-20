@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_done_50" android:id="@id/deviceinfo_lab_menu_enable" android:title="@string/deviceinfo_lab_menu_enable" />
+    <item android:icon="@drawable/ic_no_50" android:id="@id/deviceinfo_lab_menu_disable" android:title="@string/deviceinfo_lab_menu_disable" />
+</menu>

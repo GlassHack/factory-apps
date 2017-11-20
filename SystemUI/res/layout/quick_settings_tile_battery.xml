@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="top" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.systemui.BatteryMeterView android:layout_gravity="top|center" android:id="@id/image" android:padding="3.0dip" android:layout_width="22.0dip" android:layout_height="32.0dip" android:layout_marginTop="@dimen/qs_tile_margin_above_icon" android:layout_marginBottom="@dimen/qs_tile_margin_below_icon" />
+    <TextView android:gravity="top|center" android:layout_gravity="top|center" android:id="@id/text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/TextAppearance.QuickSettings.TileView" />
+</LinearLayout>

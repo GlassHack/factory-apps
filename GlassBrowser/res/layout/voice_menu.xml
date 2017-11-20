@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:glass="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/voice_menu_container" android:paddingLeft="40.0px" android:paddingTop="30.0px" android:paddingRight="10.0px" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <LinearLayout android:gravity="left" android:layout_gravity="left" android:orientation="vertical" android:id="@id/voice_menu_top_layout" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <com.google.glass.voice.menu.OverscrollView android:gravity="left" android:layout_gravity="left" android:id="@id/voice_menu_primary_scroll_view" android:scrollbars="none" android:fadingEdgeLength="60.0px" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:requiresFadingEdge="vertical">
+                <LinearLayout android:gravity="left" android:layout_gravity="left" android:orientation="vertical" android:id="@id/voice_menu_items" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+            </com.google.glass.voice.menu.OverscrollView>
+            <TextView android:textSize="@dimen/voice_menu_item_size" android:textColor="@android:color/darker_gray" android:ellipsize="end" android:id="@id/empty_secondary_menu_message" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:lineSpacingExtra="5.0px" android:fontFamily="sans-serif-light" />
+        </LinearLayout>
+    </FrameLayout>
+    <ImageView android:layout_gravity="bottom|center" android:id="@id/swipe_forward_tip_gradient" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/overlay_medium" />
+    <com.google.glass.widget.TipsView android:gravity="center_horizontal" android:layout_gravity="bottom" android:id="@id/swipe_forward_tip" android:paddingLeft="40.0px" android:paddingRight="40.0px" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/tip_view_height" android:layout_marginBottom="30.0px" glass:tip="@string/voice_input_swipe_forward_to_view_contacts" style="@style/TipsViewText" />
+</merge>

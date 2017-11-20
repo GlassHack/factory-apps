@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafić</item>
+        <item>Benzinska postaja</item>
+        <item>Kino</item>
+        <item>Smještaj</item>
+        <item>Noćni klub</item>
+        <item>Muzej</item>
+        <item>Restoran</item>
+        <item>Trgovački centar</item>
+        <item>Trgovina</item>
+        <item>Trgovina ili supermarket</item>
+        <item>Ostalo</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>loša</item>
+        <item>solidna</item>
+        <item>dobra</item>
+        <item>jaka</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>S</item>
+        <item>SI</item>
+        <item>I</item>
+        <item>JI</item>
+        <item>J</item>
+        <item>JZ</item>
+        <item>Z</item>
+        <item>SZ</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>sjever</item>
+        <item>sjeveroistok</item>
+        <item>istok</item>
+        <item>jugoistok</item>
+        <item>jug</item>
+        <item>jugozapad</item>
+        <item>zapad</item>
+        <item>sjeverozapad</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Odaberite sigurnosno pitanje</item>
+        <item>Prvi broj telefona?</item>
+        <item>Ime najboljeg prijatelja iz djetinjstva?</item>
+        <item>Ime prve učiteljice?</item>
+        <item>Ime šefa na vašem prvom poslu?</item>
+        <item>Registracijski broj vozila?</item>
+    </string-array>
+</resources>

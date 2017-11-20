@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/auth_setup_wizard_content_frame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/auth_d2d_target_description" style="@style/auth_setup_wizard_description" />
+    <TextView android:id="@id/more_info_link" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/auth_setup_wizard_description_margin_top" android:text="@string/auth_d2d_target_more_info_link" android:layout_below="@id/description" style="@style/auth_setup_wizard_link" />
+</RelativeLayout>

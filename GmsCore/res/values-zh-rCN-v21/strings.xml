@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">帮助和反馈</string>
+    <string name="plus_app_settings_all_apps_label">所有应用</string>
+    <string name="plus_app_settings_apps_page_label">关联的应用</string>
+    <string name="plus_list_apps_empty_message">没有关联任何应用</string>
+    <string name="plus_manage_app_pacl_label">可以在Google上看到应用动态的人</string>
+    <string name="plus_manage_app_scopes_label">此应用可以查看：</string>
+</resources>

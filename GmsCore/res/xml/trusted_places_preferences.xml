@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/auth_trust_agent_pref_trusted_places_title" android:key="auth_trust_agent_pref_trusted_places_list_key"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="@string/auth_trust_agent_pref_trusted_places_home_title" android:key="auth_trust_agent_pref_trusted_places_home_key" android:summary="@string/auth_trust_agent_pref_trusted_places_home_work_default_summary" android:defaultValue="false" />
+    <SwitchPreference android:title="@string/auth_trust_agent_pref_trusted_places_work_title" android:key="auth_trust_agent_pref_trusted_places_work_key" android:summary="@string/auth_trust_agent_pref_trusted_places_home_work_default_summary" android:defaultValue="false" />
+</PreferenceScreen>

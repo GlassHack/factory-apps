@@ -1,0 +1,16 @@
+<entry xmlns:media="http://search.yahoo.com/mrss/"
+       xmlns:gphoto="http://schemas.google.com/photos/2007"
+       xmlns="http://www.w3.org/2005/Atom" >
+    <title type="text">{ALBUM_NAME}</title>
+    <summary type="text" >
+       My panorama photos
+    </summary>
+    <gphoto:access>public</gphoto:access>
+    <gphoto:timestamp>{TIMESTAMP}</gphoto:timestamp>
+    <media:group>
+        <media:keywords>{KEYWORDS}</media:keywords>
+    </media:group>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+              term="http://schemas.google.com/photos/2007#album" >
+    </category>
+</entry>

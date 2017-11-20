@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:sharedUserId="com.google.uid.shared" package="com.google.android.backuptransport">
+    <original-package android:name="com.google.android.backup"/>
+    <uses-permission android:name="android.permission.MODIFY_NETWORK_ACCOUNTING"/>
+    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <uses-permission android:name="android.permission.BACKUP"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.USE_CREDENTIALS"/>
+    <application android:label="@string/app_name" android:process="com.google.process.location">
+        <service android:exported="true" android:name="com.google.android.backup.BackupTransportService" android:permission="android.permission.BACKUP">
+            <intent-filter>
+                <action android:name="com.google.android.backup.SetBackupAccount"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.backup.TRANSPORT_HOST"/>
+            </intent-filter>
+        </service>
+        <activity android:excludeFromRecents="true" android:label="@string/header_set_backup_account" android:name="com.google.android.backup.SetBackupAccountActivity" android:theme="@android:style/Theme.Holo.Dialog">
+            <intent-filter>
+                <action android:name="com.google.android.backup.SetBackupAccountActivity"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <service android:exported="true" android:name="com.google.android.backup.BeginBackupService" android:permission="android.permission.BACKUP">
+            <intent-filter>
+                <action android:name="android.intent.action.START_RESTORE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.google.android.backup.BackupEnabler" android:permission="android.permission.BACKUP">
+            <intent-filter>
+                <action android:name="com.google.android.backup.BackupEnabler"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </service>
+    </application>
+</manifest>

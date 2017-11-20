@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Помощ и отзиви</string>
+    <string name="plus_app_settings_all_apps_label">Всички приложения</string>
+    <string name="plus_app_settings_apps_page_label">Свързани приложения</string>
+    <string name="plus_list_apps_empty_message">Няма свързани приложения</string>
+    <string name="plus_manage_app_pacl_label">Кой може да вижда активността в приложението в Google</string>
+    <string name="plus_manage_app_scopes_label">Това приложение има достъп до:</string>
+</resources>

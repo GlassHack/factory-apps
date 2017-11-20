@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">dintr-un browser %1$s din %2$s, cu mai puțin de %3$s (de) minute în urmă</item>
+        <item quantity="one">dintr-un browser %1$s din %2$s, cu mai puțin de %3$s minut în urmă</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">din %1$s, cu mai puțin de %2$s (de) minute în urmă</item>
+        <item quantity="one">din %1$s, cu mai puțin de %2$s minut în urmă</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Peste %d (de) ore</item>
+        <item quantity="one">Peste o oră</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d zile</item>
+        <item quantity="one">%d zi</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d oră</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d minute</item>
+        <item quantity="one">%d minute</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s de persoane</item>
+        <item quantity="one">%1$s persoană</item>
+        <item quantity="two">%1$s persoane</item>
+        <item quantity="few">%1$s persoane</item>
+        <item quantity="many">%1$s (de) persoane</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Repornește pentru instalare în %d (de) secunde…</item>
+        <item quantity="one">Repornește pentru instalare într-o secundă...</item>
+    </plurals>
+</resources>

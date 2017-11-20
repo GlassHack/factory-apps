@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">менее %1$s мин. назад (устройство: %2$s; место: %3$s)</item>
+        <item quantity="one">менее %1$s мин. назад (устройство: %2$s; место: %3$s)</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">менее %1$s мин. назад (место: %2$s)</item>
+        <item quantity="one">менее %1$s мин. назад (место: %2$s)</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Осталось %d ч.</item>
+        <item quantity="one">Остался 1 час</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d дн.</item>
+        <item quantity="one">%d д.</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d ч.</item>
+        <item quantity="one">%d ч.</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d мин.</item>
+        <item quantity="one">%d мин.</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s чел.</item>
+        <item quantity="one">%1$s чел.</item>
+        <item quantity="two">%1$s чел.</item>
+        <item quantity="few">%1$s чел.</item>
+        <item quantity="many">%1$s чел.</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Перезагрузка будет выполнена через %d сек.</item>
+        <item quantity="one">Перезагрузка будет выполнена через 1 сек.</item>
+    </plurals>
+</resources>

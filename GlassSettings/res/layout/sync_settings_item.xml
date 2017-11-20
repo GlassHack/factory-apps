@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:id="@id/settings_container" android:layout_width="fill_parent" android:layout_height="fill_parent"
+      xmlns:android="http://schemas.android.com/apk/res/android">
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="@dimen/lhs_width" android:layout_height="fill_parent" style="@style/TimelineLhs">
+            <ImageView android:id="@id/sync_setting_icon_done" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_cloud_done_150" />
+            <ImageView android:id="@id/sync_setting_icon_pending" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_cloud_sync_150" />
+            <AbsoluteLayout android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <ImageView android:id="@id/sync_setting_icon_active_outer" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_cloud_syncing_150_outer" />
+                <ImageView android:id="@id/sync_setting_icon_active_center" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@anim/sync_setting_active" android:layout_x="38.0px" android:layout_y="54.0px" />
+            </AbsoluteLayout>
+        </LinearLayout>
+        <include layout="@layout/settings_rhs" />
+    </LinearLayout>
+</FrameLayout>

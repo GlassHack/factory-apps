@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафе</item>
+        <item>Автозаправочная станция</item>
+        <item>Кинотеатр</item>
+        <item>Жилье</item>
+        <item>Ночной клуб</item>
+        <item>Музей</item>
+        <item>Ресторан</item>
+        <item>Торговый центр</item>
+        <item>Магазин</item>
+        <item>Продуктовый магазин/супермаркет</item>
+        <item>Другое</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>ненадежный</item>
+        <item>относительно надежный</item>
+        <item>достаточно надежный</item>
+        <item>надежный</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>С</item>
+        <item>СВ</item>
+        <item>В</item>
+        <item>ЮВ</item>
+        <item>Ю</item>
+        <item>ЮЗ</item>
+        <item>З</item>
+        <item>СЗ</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>север</item>
+        <item>северо-восток</item>
+        <item>восток</item>
+        <item>юго-восток</item>
+        <item>юг</item>
+        <item>юго-запад</item>
+        <item>запад</item>
+        <item>северо-запад</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Выберите секретный вопрос</item>
+        <item>Номер первого телефона</item>
+        <item>Имя друга детства</item>
+        <item>Имя первого учителя</item>
+        <item>Имя начальника на первом месте работы</item>
+        <item>Регистрационный номер автомобиля</item>
+    </string-array>
+</resources>

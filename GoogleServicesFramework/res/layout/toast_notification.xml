@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/toast_layout_root" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:background="@color/toast_notification_background" android:layout_width="fill_parent" android:layout_height="100.0dip">
+        <TextView android:textColor="@color/toast_notification_text_color" android:id="@id/text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+        <ImageView android:id="@id/icon" android:visibility="gone" android:layout_width="80.0dip" android:layout_height="80.0dip" android:scaleType="fitCenter" android:layout_toLeftOf="@id/text" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</FrameLayout>

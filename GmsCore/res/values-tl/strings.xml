@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Mag-navigate patungo sa home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Mag-navigate pataas</string>
+    <string name="abc_action_menu_overflow_description">Higit pang mga opsyon</string>
+    <string name="abc_action_mode_done">Tapos na</string>
+    <string name="abc_activity_chooser_view_see_all">Tingnan lahat</string>
+    <string name="abc_activitychooserview_choose_application">Pumili ng isang app</string>
+    <string name="abc_searchview_description_clear">I-clear ang query</string>
+    <string name="abc_searchview_description_query">Query sa paghahanap</string>
+    <string name="abc_searchview_description_search">Maghanap</string>
+    <string name="abc_searchview_description_submit">Isumite ang query</string>
+    <string name="abc_searchview_description_voice">Paghahanap gamit ang boses</string>
+    <string name="abc_shareactionprovider_share_with">Ibahagi sa/kay</string>
+    <string name="abc_shareactionprovider_share_with_application">Ibahagi sa/kay %s</string>
+    <string name="account_level_title">Account Action Required</string>
+    <string name="activity_recognition_permission_description">Nagbibigay-daan sa isang app na makatanggap ng mga pana-panahong update tungkol sa antas ng iyong aktibidad mula sa Google, halimbawa, kung naglalakad ka, nagmamaneho, nagbibisikleta, o hindi gumagalaw.</string>
+    <string name="activity_recognition_permission_label">pagkilala sa aktibidad</string>
+    <string name="add_a_place_add">Idagdag</string>
+    <string name="add_a_place_call_to_action">Magdagdag ng lugar</string>
+    <string name="add_a_place_call_to_drag">I-drag ang mapa upang iposisyon ang marker</string>
+    <string name="add_a_place_cancel">Kanselahin</string>
+    <string name="add_a_place_next">Susunod</string>
+    <string name="agree">Sumang-ayon</string>
+    <string name="app_label">Lokasyon ng Network</string>
+    <string name="app_level_title">Kahilingan sa Pag-sign in</string>
+    <string name="app_level_title_secondary">Hiling sa Pag-sign-in ng %s</string>
+    <string name="auth_accept_access">Tanggapin</string>
+    <string name="auth_account_already_has_gmail">Mayroon nang Gmail ang account.</string>
+    <string name="auth_account_setup_title">Google Account</string>
+    <string name="auth_ads_settings_title">Mga Ad</string>
+    <string name="auth_allow_external_site_access">Magkaroon ng tuluy-tuloy na access sa iyong data sa %s</string>
+    <string name="auth_app_label">Tagapamahala ng Google Account</string>
+    <string name="auth_app_permission_footnote">Gagamitin ng %s at Google ang impormasyong ito alinsunod sa kani-kanilang mga tuntunin ng serbisyo at patakaran sa privacy.</string>
+    <string name="auth_app_permission_label">GUSTO NG APP NA ITO NA</string>
+    <string name="auth_app_permission_ok_footnote">Kapag nagpatuloy ka, papayagan mo ang app na ito at ang Google na gamitin ang iyong impormasyon alinsunod sa mga naaayong tuntunin ng serbisyo at patakaran sa privacy ng mga ito.</string>
+    <string name="auth_app_permission_sign_in_footnote">Kapag pinindot mo ang Mag-sign in, papayagan mo ang app na ito at ang Google na gamitin ang iyong impormasyon alinsunod sa mga naaayong tuntunin ng serbisyo at patakaran sa privacy ng mga ito.</string>
+    <string name="auth_app_permission_title">Mag-sign in sa %s sa Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Payagan ang pag-login</string>
+    <string name="auth_authzen_action_approved_toast_text">Naaprubahan ang pagkilos</string>
+    <string name="auth_authzen_action_canceled_toast_text">Nakansela ang pagkilos</string>
+    <string name="auth_authzen_allow_reset_button_text">Password reset</string>
+    <string name="auth_authzen_cancel_button_label">Kanselahin</string>
+    <string name="auth_authzen_close_button_text">Isara</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Payagan</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Kanselahin</string>
+    <string name="auth_authzen_default_confirmation_description">Payagan ang pag-sign in sa iyong account mula sa %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Kailangan namin ang iyong pagkumpirma</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Maling numero ang napili. Nakansela ang iyong kahilingan.</string>
+    <string name="auth_authzen_default_request_description">hindi tukoy ang mga detalye ng kahilingan</string>
+    <string name="auth_authzen_generic_error_text">Nagkaroon ng error. Pakisubukang muli.</string>
+    <string name="auth_authzen_google_logo_label">Logo ng Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Naaprubahan ang pag-sign in</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Nakansela ang pag-sign in</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Payagan ang pag-sign in</string>
+    <string name="auth_authzen_login_challenge_desc_text">Sinusubukan mo bang mag-sign in mula sa %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Pinigilan ng Google ang pagtatangkang mag-sign in.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Maling numero</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Pindutin ang numerong ipinapakita sa ibang screen. Isa-sign in ka nito sa iyong computer.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Sinubukan ng isang tao na mag-sign in sa iyong Google Account gamit ang iyong password. Pinigilan ng Google ang pagtatangkang mag-sign in.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Pinigilan ang pag-sign in</string>
+    <string name="auth_authzen_login_challenge_title_text">Sinusubukang mag-sign in?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Upang aprubahan ang pag-sign-in sa iyong computer, kakailanganin mong i-verify ang iyong pagkakakilanlan</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">kahilingan sa pag-sign-in mula sa isang computer ni %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Hindi ko hiniling ito</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Salamat sa pagpapaalam sa amin, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Gumawa kami ng tala ng gawaing ito, upang patuloy naming mapapanatiling secure ang iyong account.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Mag-sign in</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Kanselahin</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Ilagay ang Google Account PIN</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">OK, magpatuloy</string>
+    <string name="auth_authzen_no_button_text">Hindi</string>
+    <string name="auth_authzen_notify_google_default_text">Ino-notify ang Google na may sumubok na mag-access sa iyong account.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Nakatanggap ang Google ng kahilingan upang palitan ang iyong password. Dahil hindi galing sa iyo ang kahilingan, kinansela ito. Walang ginawang mga pagbabago sa iyong account.</string>
+    <string name="auth_authzen_ok_button_text">OK</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Pindutin ang numerong ipinapakita sa ibang screen. Isa-sign in ka nito sa iyong computer.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Payagan ang pag-sign in</string>
+    <string name="auth_authzen_profile_picture_label">Larawan sa profile</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Kakasubok mo lang bang mag-login sa Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Naaprubahan ang pag-reset ng password</string>
+    <string name="auth_authzen_recovery_canceled_text">Nakansela ang pag-reset ng password</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Payagan ang pag-reset ng password mula sa %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Kailangan namin ang iyong pagkumpirma</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Pinigilan ng Google ang pagtatangkang i-reset ang password.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Maling numero</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Pindutin ang numerong ipinapakita sa kabilang screen. Ire-reset nito ang iyong password.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Payagan ang pag-reset ng password</string>
+    <string name="auth_authzen_recovery_reject_desc_text">May humiling na i-reset ang password ng iyong Google Account. Pinigilan ng Google ang pagtatangkang i-reset ang password.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Pinigilan ang pag-reset ng password.</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Hiniling mo ba na i-reset ang iyong password mula sa %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Sinubukang i-reset ang iyong password?</string>
+    <string name="auth_authzen_secure_account_button_text">I-secure account mo</string>
+    <string name="auth_authzen_sending_reply_failed_text">Hindi makapagpadala ng tugon sa server.</string>
+    <string name="auth_authzen_sending_reply_text">Ipinapadala ang tugon sa server</string>
+    <string name="auth_authzen_time_display_text">wala pang %s (na) minuto ang nakalipas</string>
+    <string name="auth_authzen_time_just_now_text">Ngayon Lang</string>
+    <string name="auth_authzen_wait_text">Mangyaring maghintay…</string>
+    <string name="auth_authzen_workflow_title">Prompt ng Pagpapahintulot sa Google</string>
+    <string name="auth_authzen_yes_button_text">Oo</string>
+    <string name="auth_back_button_label">Bumalik</string>
+    <string name="auth_bad_name_title">Gamitin ang pangalang ito?</string>
+    <string name="auth_bluetooth_lure_button">Idagdag bilang pinagkakatiwalaang device</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Kumpirmahin ang iyong lock screen</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Naipares na ang bagong bluetooth device.
+Idagdag ang %s bilang pinagkakatiwalaang device upang laktawan ang pag-lock ng iyong screen habang nakakonekta."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Naipares na ang bagong bluetooth device.</string>
+    <string name="auth_bluetooth_lure_title">Personal na pag-a-unlock</string>
+    <string name="auth_cancel_button_label">Kanselahin</string>
+    <string name="auth_captcha_instructions">I-type ang tekstong nakikita mo rito:</string>
+    <string name="auth_captcha_title">Kailangang Ilagay ang CAPTCHA</string>
+    <string name="auth_communicating_message">Nakikipag-ugnay ang iyong device sa Google upang mag-save ng impormasyon sa iyong account. Maaari itong umabot ng hanggang 5 minuto.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Status ng Mga Kredensyal</string>
+    <string name="auth_d2d_source_bt_notice">Gagamitin ang Bluetooth.</string>
+    <string name="auth_d2d_source_lock_notice">Ila-lock ng iyong device ang sarili nito at dapat ma-unlock muli upang magpatuloy.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Hindi magawang I-tap at Ipanumbalik dahil walang mga account sa device na ito.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Hindi magawang I-tap at Ipanumbalik dahil hindi available ang Bluetooth sa iyong device.</string>
+    <string name="auth_d2d_source_notification_text">"Isang bagong ^1 ang nai-setup noong ^2 gamit ang device na ito, kabilang ang isang pagtatangka na ilipat ang mga sumusunod na Google account: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">New device setup completed</string>
+    <string name="auth_d2d_source_progress_message">Kinokopya ang data patungo sa bago mong device...</string>
+    <string name="auth_d2d_source_question">Kopyahin ang mga account at data mula sa device na ito?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Hindi maaaring Mag-tap at Magpanumbalik mula sa isang pinaghihigpitang profile ng user.</string>
+    <string name="auth_d2d_source_title">I-restore ang Mga Account</string>
+    <string name="auth_d2d_source_unknown_device_name">Hindi Kilalang Device</string>
+    <string name="auth_d2d_target_adding_accounts_message">Nagdaragdag ng mga account...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Kumokonekta sa iyong iba pang device...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Nawala ang koneksyon</string>
+    <string name="auth_d2d_target_description">"Mabilis na kopyahin ang anumang mga Google account, mga na-back up na app at data mula sa iyong umiiral na Android device. Upang kopyahin: 
+
+1. Siguraduhing naka-on at naka-unlock ang isa mo pang device. 
+
+2. Pansamantalang pagdikitin nang magkatalikod ang dalawang device, pagkatapos ay hayaan lang."</string>
+    <string name="auth_d2d_target_skip_button">Laktawan</string>
+    <string name="auth_d2d_target_sorry_alert">Paumanhin, may maling nangyari</string>
+    <string name="auth_d2d_target_tap_progress_message">Upang magpatuloy, pindutin ang OK sa isa mo pang device</string>
+    <string name="auth_d2d_target_title">I-tap at Pumunta</string>
+    <string name="auth_d2d_target_try_again_button">Subukang Muli</string>
+    <string name="auth_d2d_target_unlock_progress_message">I-unlock ang isa mo pang device</string>
+    <string name="auth_d2d_target_wait_progress_message">Pagkopya ng mga account at data...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Kinakailangan ng iyong domain ng pamamahala ng mobile device. I-install ang app na \"Google Apps Device Policy\" upang magpatupad ng mga patakaran sa seguridad na kinakailangan ng account na "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" Hindi gumagamit si "<b>^1</b> ng Gmail.</string>
+    <string name="auth_error_account_disabled">"Hindi pinagana ang account na ito. 
+
+(Para sa mga detalye, bisitahin ang http://google.com/accounts gamit ang isang web browser.)"</string>
+    <string name="auth_error_account_not_verified">"Hindi pa nabe-verify ang account na ito. Tingnan ang iyong email at sundin ang isinamang link upang i-verify ang account na ito. 
+
+(Upang mabawi ang impormasyon ng iyong account, pumunta sa http://www.google.com/accounts/recovery sa iyong computer.)"</string>
+    <string name="auth_error_bad_password">Masyadong mahina o naglalaman ng mga di-wastong character ang password. Subukang muli.</string>
+    <string name="auth_error_bad_username">Di-wastong username.</string>
+    <string name="auth_error_invalid_second_factor">Gumamit ng password na tukoy sa app sa halip na ang iyong regular na password sa account.</string>
+    <string name="auth_error_login_failed">"Hindi nagtutugma ang iyong username at password. Subukang muli.
+
+Upang mabawi ang impormasyon ng iyong account, pumunta sa google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Upang ma-access ang iyong account, dapat kang mag-sign in sa web. Pindutin ang Susunod upang simulan ang Pag-sign in sa browser.</string>
+    <string name="auth_error_not_logged_in">Hindi naka-sign in ang user.</string>
+    <string name="auth_error_username_unavailable">Hindi available ang username.</string>
+    <string name="auth_existing_account_error_text">Mayroon nang account sa ^1 sa Android device na ito.</string>
+    <string name="auth_existing_account_error_title">Umiiral na ang account</string>
+    <string name="auth_exit_menu_item">Lumabas sa pag-sign in sa browser</string>
+    <string name="auth_facl_scope_details_dialog_title">Ang nakikita ng app na ito</string>
+    <string name="auth_facl_with_warning_label">Baguhin kung sino ang nakikita ng app na ito</string>
+    <string name="auth_field_cant_be_blank">Hindi maaaring blangko ang field.</string>
+    <string name="auth_fitness_settings_title">Kalusugan</string>
+    <string name="auth_gls_account_creation_tos">Sa pamamagitan ng pagpapatuloy, sumasang-ayon ka sa <annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo ng Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Sa pamamagitan ng pagpapatuloy, sumasang-ayon ka sa <annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, sa <annotation id="chrome_tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="chrome_privacy">Notification ng Privacy</annotation> ng Chrome, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo</annotation> ng Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">Huwag nang maiwalang muli ang iyong mga bagay kahit kailan. Ligtas na pinapanatili ng isang Google Account ang lahat ng bagay.</string>
+    <string name="auth_gls_account_intro_learn_more">Matuto nang higit pa</string>
+    <string name="auth_gls_account_intro_recommended_title">Gawin itong Google</string>
+    <string name="auth_gls_account_intro_required_title">Pinapagana ng Google</string>
+    <string name="auth_gls_account_intro_simple_message">Gusto mo bang magdagdag ng umiiral nang account o lumikha ng bago?</string>
+    <string name="auth_gls_account_intro_title">Google Account</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Mayroon ka bang Google Account?
+
+Kung gumagamit ka ng Gmail o Google Apps, sumagot ng Oo."</string>
+    <string name="auth_gls_account_pre_intro_no">Wala</string>
+    <string name="auth_gls_account_pre_intro_title">May Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Oo</string>
+    <string name="auth_gls_account_recovery_info">Kung sakaling mawala mo ang iyong password, maaari mong sagutin ang isang panseguridad na tanong at magpa-email ng link sa pag-reset sa ibang address.</string>
+    <string name="auth_gls_account_tos_plus_title">Tapusin ang pagsali sa Google+</string>
+    <string name="auth_gls_account_tos_title">Tapusin ang account</string>
+    <string name="auth_gls_add_a_google_account">Magdagdag ng Google Account</string>
+    <string name="auth_gls_alternatives_list_title">Mga iminumungkahing username</string>
+    <string name="auth_gls_answer">" "<b>Sagot</b></string>
+    <string name="auth_gls_backup_consent_message">"Gamitin ang iyong Google account upang i-back up ang iyong apps, mga setting (gaya ng mga bookmark at password sa Wi-Fi), at iba pang data. Kung na-back up mo dati ang iyong account, maipapanumbalik mo ito sa teleponong ito ngayon.
+
+Mababago mo ang iyong mga setting ng pag-backup anumang oras sa Mga Setting."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Gamitin ang iyong Google account upang i-back up ang iyong apps, mga setting (gaya ng mga bookmark at password sa Wi-Fi), at iba pang data.
+
+Mababago mo ang iyong mga setting ng pag-backup anumang oras sa Mga Setting."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Panatilihing naka-back up ang teleponong ito sa aking Google Account</string>
+    <string name="auth_gls_cant_be_blank">Hindi maaaring blangko ang field.</string>
+    <string name="auth_gls_checking_account">Sinusuri ang availability...</string>
+    <string name="auth_gls_checking_username_message">"Nakikipag-ugnay ang iyong telepono sa Google upang malaman kung available ang gusto mong username.
+
+Maaari itong tumagal nang ilang minuto."</string>
+    <string name="auth_gls_choose_a_password">Password</string>
+    <string name="auth_gls_circles_subtitle">Mga Lupon</string>
+    <string name="auth_gls_circles_text">Ang pinakamadaling paraan upang maibahagi ang pinakamahalaga online.</string>
+    <string name="auth_gls_confirm_password">I-type muli ang password</string>
+    <string name="auth_gls_create_button_label">Kumuha ng account</string>
+    <string name="auth_gls_create_google_account">Pumili ng username</string>
+    <string name="auth_gls_create_google_account_text">Ang iyong Google Account ay may kasamang Gmail, email mula sa Google. Gumagana ito sa anumang device, nagba-block ito ng spam, at marami pang iba.</string>
+    <string name="auth_gls_creating_account_title">Sine-save ang account…</string>
+    <string name="auth_gls_creating_profile">Nililikha ang iyong profile…</string>
+    <string name="auth_gls_crop_failure">Hindi ma-crop ang larawan.</string>
+    <string name="auth_gls_dasher_warning">Pagmamay-ari at pinapamahalaan ng administrator sa %s ang lahat ng iyong data sa Google+ at maaari niyang tanggalin o baguhin ang iyong profile anumang oras nang wala ang iyong pahintulot.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Kinakailangan ng iyong domain ng pamamahala ng mobile device. I-activate ang app na \"Google Apps Device Policy\" upang magpatupad ng mga patakaran sa seguridad na kinakailangan ng account na "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">I-activate</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Kinakailangan ng iyong domain ng pamamahala ng mobile device. I-install ang app na \"Google Apps Device Policy\" upang magpatupad ng mga patakaran sa seguridad na kinakailangan ng account na "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">I-download</string>
+    <string name="auth_gls_edit_text_help">Pindutin ang anumang text box upang magsimulang mag-type</string>
+    <string name="auth_gls_eight_chars_min">minimum na 8 character</string>
+    <string name="auth_gls_enable_web_history">I-on ang kasaysayan sa web</string>
+    <string name="auth_gls_error_bad_password">Masyadong mahina o naglalaman ng mga di-wastong character ang password. Subukang muli.</string>
+    <string name="auth_gls_error_login_failed">"Hindi nagtutugma ang iyong username at password. Subukang muli.
+
+Upang mabawi ang impormasyon ng iyong account, pumunta sa google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Upang ma-access ang iyong account, dapat kang mag-sign in sa web. Pindutin ang Susunod upang simulan ang pag-sign in sa Browser.</string>
+    <string name="auth_gls_existing_account_error_text">Mayroon nang account na ^1 sa Android device na ito.</string>
+    <string name="auth_gls_existing_account_error_title">Umiiral na ang account</string>
+    <string name="auth_gls_existing_button_label">Umiiral</string>
+    <string name="auth_gls_google_play_opt_in">Panatilihin akong napapanahon tungkol sa mga balita at alok mula sa Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" Maaari lang maglaman ng mga titik,
+numero at tuldok ang "<b>^1</b>.</string>
+    <string name="auth_gls_hint_numbers_only">" Hindi naglalaman ng anumang mga titik ang "<b>^1</b>.</string>
+    <string name="auth_gls_hint_size">" Wala pang 6 o mahigit 30 ang mga character na nilalaman ng "<b>^1</b>.</string>
+    <string name="auth_gls_huddle_text">Panggrupong pagmemensahe para sa lahat ng tao sa iyong mga lupon.</string>
+    <string name="auth_gls_invalid_email">"Hindi wasto ang email address na na-type mo.
+ Halimbawa: joe@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Hindi maaaring pareho ang address sa pagbawi sa address na nililikha mo.</string>
+    <string name="auth_gls_is_not_available">Hindi available ang username na <b>^1</b>.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Matuto nang higit pa</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Nagbibigay-daan sa iyo ang isang Google Account na:
+
+"<li><ul>Tingnan at ayusin ang lahat ng iyong impormasyon mula kahit saan.</ul></li>"
+
+"<li><ul>Awtomatikong i-back up ang iyong data, tulad ng email, mga contact, musika, at mga larawan.</ul></li>" 
+
+"<li><ul>Madaling makagamit ng mga serbisyo ng Google mula kahit saan—kasama ang Contacts, Calendar, Maps at higit pa.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Tungkol sa Mga Google Account</string>
+    <string name="auth_gls_learn_more_web_history">"Isinasaayos ng kasaysayan sa web ang mga resulta ng paghahanap batay sa hinanap mo at sa mga website na binisita mo, na nagbibigay ng personalized na karanasan sa Google. 
+
+Upang tingnan at pamahalaan ang iyong kasaysayan sa web, kasama ang pag-off o pag-on nito, tingnan ang http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Tungkol sa kasaysayan sa web</string>
+    <string name="auth_gls_name_checking_info_title">Sinusuri info…</string>
+    <string name="auth_gls_name_progress_title">Sandali lang…</string>
+    <string name="auth_gls_name_text">Ginagamit ang iyong pangalan upang i-personalize ang iyong telepono at mga serbisyo ng Google.</string>
+    <string name="auth_gls_name_text_local">Ginagamit ng telepono ang iyong pangalan upang i-personalize ang ilang apps.</string>
+    <string name="auth_gls_name_title_local">Ang teleponong ito ay kay…</string>
+    <string name="auth_gls_name_title_plus">Ang iyong pangalan sa Google+</string>
+    <string name="auth_gls_network_unreliable">Hindi makapagtatag ng maaasahang koneksyon sa server.</string>
+    <string name="auth_gls_network_unreliable_help">Maaaring isa itong pansamantalang problema o maaaring walang probisyon ang iyong Android device para sa mga serbisyo sa data. Kung magpatuloy ito, tumawag sa Customer Care.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Maaaring isa itong pansamantalang problema. Subukang muli o kumonekta sa isa pang Wi-Fi network.</string>
+    <string name="auth_gls_new_button_label">Bago</string>
+    <string name="auth_gls_no_network">Wala kang koneksyon sa network.</string>
+    <string name="auth_gls_no_network_help">Maaaring isa itong pansamantalang problema o maaaring walang probisyon ang iyong Android device para sa mga serbisyo sa data. Subukang muli kapag nakakonekta sa isang mobile network, o kumonekta sa isang Wi-Fi network.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Maaaring isa itong pansamantalang problema. Subukang muli o kumonekta sa isa pang Wi-Fi network.</string>
+    <string name="auth_gls_not_now_button_label">Hindi ngayon</string>
+    <string name="auth_gls_password_mismatch">Hindi nagtugma ang mga password. Subukang muli.</string>
+    <string name="auth_gls_password_title">Lumikha ng password</string>
+    <string name="auth_gls_photo_button_label">Kumuha ng larawan</string>
+    <string name="auth_gls_photo_description">Ang iyong larawan</string>
+    <string name="auth_gls_photo_failure">Hindi mailunsad ang camera.</string>
+    <string name="auth_gls_photo_text">Gagamitin ang larawang ito sa iyong talaan ng contact. Maaari mo itong palitan sa ibang pagkakataon sa People app.</string>
+    <string name="auth_gls_photo_text_es">Kumuha ng larawang makikita ng iyong mga kaibigan sa Google+. Maaari kang pumili ng bagong larawan sa ibang pagkakataon.</string>
+    <string name="auth_gls_photo_title">Ang iyong larawan</string>
+    <string name="auth_gls_plus_accepted_button_label">Sumali sa Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Hindi ngayon</string>
+    <string name="auth_gls_plus_failure_new_account_text">Nalikha na ang iyong Google Account, ngunit hindi naaprubahan ang iyong kahilingang sumali sa Google+. Subukang muli sa ibang pagkakataon mula sa anumang web browser sa plus.google.com.</string>
+    <string name="auth_gls_plus_failure_text">Hindi naaprubahan ang iyong kahilingang sumali sa Google+. Subukang muli sa ibang pagkakataon mula sa anumang web browser sa plus.google.com.</string>
+    <string name="auth_gls_plus_failure_title">Sumali sa Google+ sa ibang pagkakataon</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Sa Google+, magkakaroon ka ng pampublikong profile upang matulungan ang iyong mga kaibigan na mahanap ka online. Mahahanap at matitingnan ng sinumang nakakaalam ng iyong email address ang iyong profile.
+
+Magagamit mo ang mga button na +1 sa web upang magrekomenda ng mga bagay sa mundo. Pampublikong lalabas ang iyong profile at mga +1 sa paghahanap, sa mga ad, at sa web.
+
+Sa ngayon, ipapakita lang ng iyong profile ang iyong pangalan (%s %s). Makakapagdagdag ka ng larawan, bio, at iba pang mga detalye sa ibang pagkakataon kapag nagsimula ka nang gumamit ng Google+."</string>
+    <string name="auth_gls_plus_name_check_text">Maaari itong tumagal nang ilang minuto.</string>
+    <string name="auth_gls_plus_name_check_title">Nakikipag-ugnay sa Google+…</string>
+    <string name="auth_gls_plus_query_text">Ginagawang mas katulad ng pagbabahagi sa tunay na buhay ng Google+ ang pagbabahagi sa web.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Hindi si %s?</string>
+    <string name="auth_gls_provisioned_welcome">Kamusta, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Ilagay ang iyong password para sa:
+%s"</string>
+    <string name="auth_gls_recovery_title">Impormasyon sa pagbawi</string>
+    <string name="auth_gls_restore_consent_yes_agree">Ipanumbalik mula sa aking Google Account patungo sa teleponong ito</string>
+    <string name="auth_gls_restoring_message">Nakikipag-ugnay ang iyong telepono sa Google upang maipanumbalik ang iyong account. Maaari itong magtagal.</string>
+    <string name="auth_gls_restoring_title">Ipinapanumbalik...</string>
+    <string name="auth_gls_retake_photo_button_label">Kunang muli</string>
+    <string name="auth_gls_secondary_email_label">Email address sa pagbawi</string>
+    <string name="auth_gls_security_questions_title">Mga panseguridad na tanong</string>
+    <string name="auth_gls_server_error">Nagkaproblema sa pakikipag-ugnayan sa mga server ng Google.</string>
+    <string name="auth_gls_server_error_help">Subukang muli mamaya.</string>
+    <string name="auth_gls_sign_in_agreement">Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa <annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo ng Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa "<annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo ng Google Play</annotation>". 
+
+Tandaan: Maaaring tumanggap ng mga na-update na pahintulot sa app ang sinumang iba pang user sa iyong ngalan. Tulad ng sa anumang computer, dapat mo lang ibahagi ang tablet na ito sa mga taong pinagkakatiwalaan mo."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa "<annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, sa <annotation id="chrome_tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="chrome_privacy">Notification ng Privacy</annotation> ng Chrome, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo</annotation> ng Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa "<annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, sa <annotation id="chrome_tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="chrome_privacy">Notification ng Privacy</annotation> ng Chrome, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo</annotation>" ng Google Play. 
+
+Tandaan: Maaaring tumanggap ng mga na-update na pahintulot sa app ang sinumang iba pang user sa iyong ngalan. Tulad ng sa anumang computer, dapat mo lang ibahagi ang tablet na ito sa mga taong pinagkakatiwalaan mo."</string>
+    <string name="auth_gls_submission_title">Paumanhin…</string>
+    <string name="auth_gls_suggest_username_next_button_label">Palitan ang username</string>
+    <string name="auth_gls_suggestions_hint">Pindutin para sa mga suhestiyon</string>
+    <string name="auth_gls_sync_intro_activity_title">Matagumpay ang pag-sign in sa account</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">I-backup at ipanumbalik</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">I-backup</string>
+    <string name="auth_gls_sync_intro_title">Pag-sync ng Account</string>
+    <string name="auth_gls_sync_item_title">I-sync ang %s</string>
+    <string name="auth_gls_too_short">Masyadong maikli</string>
+    <string name="auth_gls_ui_activity_authenticating">Pinapatotohanan…</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Inihahanda…</string>
+    <string name="auth_gls_uploads_subtitle">Instant na Upload</string>
+    <string name="auth_gls_uploads_text">Madaling i-sync ang lahat ng iyong larawan mula sa lahat ng iyong device.</string>
+    <string name="auth_gls_verify_your_profile">I-verify ang iyong profile</string>
+    <string name="auth_gls_wait_for_device_country_msg">Nangangalap ng impormasyon tungkol sa iyong telepono. Maaari itong umabot ng hanggang 30 segundo.</string>
+    <string name="auth_gls_wait_for_device_country_title">Pag-setup ng account</string>
+    <string name="auth_google_settings_header_title">Privacy</string>
+    <string name="auth_google_title_logo">Logo ng Google</string>
+    <string name="auth_google_trust_agent_title">Personal na pag-a-unlock</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Mag-sign in sa Google+</string>
+    <string name="auth_gsf_notification_login_error">Pindutin upang mag-sign in sa iyong account.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Humiling ng pahintulot
+para sa account na %s"</string>
+    <string name="auth_invalid_login_character">Di-wastong character. 0-9, a-z, A-Z, at mga tuldok lang ang pinapayagan.</string>
+    <string name="auth_invalid_password_character">Di-wastong character sa password.</string>
+    <string name="auth_invalid_scope">Di-wastong saklaw ang ginamit sa kahilingan sa pagpapatotoo.</string>
+    <string name="auth_invalid_username">Hindi isang wastong username ang tekstong iyong na-type.</string>
+    <string name="auth_learn_more_title">Matuto nang higit pa</string>
+    <string name="auth_location_neighborhood_level">Payagang maipadala sa Google ang hindi nakikilalang data ng lokasyon. Payagan din ang pinapahintulutang apps na gumamit ng data galing sa mga pinagmumulan gaya ng Wi-Fi at mga mobile network upang matukoy ang iyong tinatayang lokasyon.</string>
+    <string name="auth_location_network_based">Serbisyo sa lokasyon ng Google</string>
+    <string name="auth_location_settings_title">Mga setting ng lokasyon</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Nag-type ka ng maling password o nagbago ang iyong account. I-type muli ang iyong password. Kung nakalimutan mo ang password mo at kailangan mong bawiin ang iyong account, mag-click <annotation id="help_url">dito</annotation>.</string>
+    <string name="auth_login_activity_task_title">Nagsa-sign in…</string>
+    <string name="auth_login_activity_title">Mag-sign in</string>
+    <string name="auth_login_task_title">Nagsa-sign in</string>
+    <string name="auth_login_title">I-type ang Email at Password</string>
+    <string name="auth_maps_settings_title">Maps at Latitude</string>
+    <string name="auth_minutemaid_title">Mag-setup ng Google Account</string>
+    <string name="auth_name_title">Iyong pangalan</string>
+    <string name="auth_network_unreliable">Hindi maitaguyod ang isang maaasahang koneksyon sa server.</string>
+    <string name="auth_network_unreliable_help">Maaaring isa itong pansamantalang problema o maaaring hindi nailaan ang iyong Android device para sa mga serbisyo sa data. Kung magpatuloy ito, tumawag sa Customer Care.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Maaaring isa itong pansamantalang problema. Subukang muli o kumonekta sa isa pang Wi-Fi network.</string>
+    <string name="auth_next_button_label">Susunod</string>
+    <string name="auth_nfc_caution">Protektahan ang tag na ito. Maaari itong makopya ng isang umaatake.</string>
+    <string name="auth_nfc_tag_exists">Naidagdag na ang %1$s</string>
+    <string name="auth_nfc_tag_not_supported">Hindi sinusuportahan ang ibinigay na NFC device</string>
+    <string name="auth_no_network">Wala kang koneksyon sa network.</string>
+    <string name="auth_no_network_help">Maaaring isa itong pansamantalang problema o maaaring hindi nailaan ang iyong Android device para sa mga serbisyo sa data. Subukang muli kapag nakakonekta sa isang mobile network, o kumonekta sa isang Wi-Fi network.</string>
+    <string name="auth_no_network_help_wifi_only">Maaaring isa itong pansamantalang problema. Subukang muli o kumonekta sa isa pang Wi-Fi network.</string>
+    <string name="auth_ok_button_label">OK</string>
+    <string name="auth_only_you_acl">Ikaw lang</string>
+    <string name="auth_otp_dialog_title">Verification code</string>
+    <string name="auth_otp_done_button">Tapos na</string>
+    <string name="auth_otp_error">Nagkaroon ng problema sa pagbuo sa verification code.</string>
+    <string name="auth_otp_instruction">Gamitin ang code na ito para lang sa pag-sign in sa Google.</string>
+    <string name="auth_otp_no_accounts_available_message">Walang account na naka-configure sa device na ito.</string>
+    <string name="auth_otp_progress_dialog_message">Bumubuo ng verification code.</string>
+    <string name="auth_otp_select_account_message">Pumili ng account</string>
+    <string name="auth_pacl_scope_details_dialog_title">Ang nakikita ng Google</string>
+    <string name="auth_password">Password</string>
+    <string name="auth_personal_unlocking_name">Personal na pag-a-unlock</string>
+    <string name="auth_personal_unlocking_service_name">Personal na pag-a-unlock (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Nalikha ang iyong Google Account, ngunit hindi naipagpatuloy ang iyong kahilingang lumikha ng Google+ profile. Subukang muli sa ibang pagkakataon mula sa anumang web browser sa plus.google.com.</string>
+    <string name="auth_plus_failure_text">Hindi naaprubahan ang iyong kahilingang sumali sa Google+. Subukang muli sa ibang pagkakataon mula sa anumang web browser sa plus.google.com.</string>
+    <string name="auth_plus_failure_title">Lumikha ng Google+ profile sa ibang pagkakataon</string>
+    <string name="auth_plus_faq_title">Maligayang Pagdating sa Google+!</string>
+    <string name="auth_plus_name_check_text">Maaari itong tumagal nang ilang minuto.</string>
+    <string name="auth_plus_query_title">Lumikha ng Google+ profile</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Kamusta, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Ilagay ang iyong password para sa:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Naka-lock ang Chrome device.</string>
+    <string name="auth_proximity_auth_device_locked_title">Easy unlock</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Na-unlock ang Chrome device.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Easy unlock</string>
+    <string name="auth_proximity_auth_setup_completed_content">Maaaring i-unlock ng teleponong ito ang iyong mga Chrome device.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Naka-on ang Easy unlock</string>
+    <string name="auth_proximity_auth_setup_failed_content">Pakisubukang muli sa iyong Chrome device.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Nagkaroon ng error habang sine-set up ang Easy unlock</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Nakita na ang telepono. Magpatuloy sa Chrome device.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Setup ng Easy unlock</string>
+    <string name="auth_recovery_loading">Naglo-load…</string>
+    <string name="auth_recovery_sending">Ipinapadala…</string>
+    <string name="auth_relogin_activity_title">Muling i-type ang password</string>
+    <string name="auth_scope_acl_edit_desc">I-edit</string>
+    <string name="auth_scope_details_dialog_title">Higit pang impormasyon</string>
+    <string name="auth_scope_icon_desc">Icon</string>
+    <string name="auth_scope_info_desc">Impormasyon</string>
+    <string name="auth_scope_warning_desc">Babala</string>
+    <string name="auth_search_settings_title">Maghanap</string>
+    <string name="auth_server_error">Nagkaroon ng problema sa pakikipag-ugnay sa mga server ng Google.</string>
+    <string name="auth_server_error_help">Subukang muli sa ibang pagkakataon.</string>
+    <string name="auth_setup_wizard_back_button_label">Bumalik</string>
+    <string name="auth_setup_wizard_next_button_label">Susunod</string>
+    <string name="auth_setup_wizard_services_activity_title">Mga serbisyo ng Google</string>
+    <string name="auth_setup_wizard_services_backup"><b>I-back up ang iyong device sa Google</b> upang madali kang makapag-imbak ng mga app, data ng app, setting ng system at password sa Wi‑Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>I-back up ang iyong mga app at data</b> sa Google Drive upang madali kang makapag-restore ng device. Kasama sa data ang mga app, data ng app, setting ng system at password sa Wi-Fi. Hindi maaapektuhan ng mga pag-back up ang iyong limitasyon sa storage.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Kasama sa data ang mga app, setting ng app, setting ng system at password ng Wi‑Fi.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">I-backup at ipanumbalik</string>
+    <string name="auth_setup_wizard_services_communication_heading">Pakikipag-ugnayan</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Tulungang mapahusay ang iyong karanasan sa Android </b>, pagganap ng baterya, mga pagraranggo sa Play Store at higit pa sa pamamagitan ng awtomatikong pagpapadala sa Google ng mga diagnostic at data ng paggamit tungkol sa device na ito.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Kasama sa data ang impormasyon ng hardware at network, paggamit ng app at telepono at mga ulat ng pag-crash.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Tulungang mapahusay ang iyong karanasan sa Android</b>, pagganap ng baterya, mga pagraranggo sa Play Store at higit pa sa pamamagitan ng awtomatikong pagpapadala sa Google ng mga diagnostic at data ng paggamit tungkol sa device na ito. <annotation id="learn_more">Matuto nang higit pa.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">Gumagamit ang serbisyo ng lokasyon ng Google ng Wi‑Fi at iba pang mga signal upang tumukoy ng lokasyon nang mas tumpak at mabilis, kadalasang may mas kaunting paggamit ng power kaysa sa GPS. Maaaring iimbak sa iyong device ang ilang data. Maaaring kolektahin ang data kahit na walang gumaganang mga app.</string>
+    <string name="auth_setup_wizard_services_location_heading">Lokasyon</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Gamitin ang serbisyo sa lokasyon ng Google</b> upang matulungan ang mga app na mas mahusay na matukoy ang lokasyon. Ipapadala sa Google ang mga anonymous na data ng lokasyon mula sa iyong device.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Tulungang mapahusay ang mga serbisyo sa lokasyon</b> sa pamamagitan ng pagbibigay-daan sa mga app at serbisyo na mag-scan ng mga network kahit na naka-off ang Wi‑Fi.</string>
+    <string name="auth_setup_wizard_services_play">Panatilihin akong napapanahon tungkol sa mga balita at alok mula sa Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">Ang device na ito ay maaaring makatanggap ng mga update at app mula sa Google, sa iyong carrier at sa manufacturer ng device.</string>
+    <string name="auth_setup_wizard_title">Wizard sa Pag-setup</string>
+    <string name="auth_show_error_activity_title">Hindi makapag-sign in</string>
+    <string name="auth_show_error_title">Error</string>
+    <string name="auth_sign_in_agreement">Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa Mga Patakaran sa Privacy ng <annotation id="google_privacy">Google</annotation> at Mga <annotation id="android_privacy">Karagdagang</annotation> Patakaran sa Privacy.</string>
+    <string name="auth_sign_in_agreement_multi_user">Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa <annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo ng Google Play</annotation>". 
+
+Tandaan: Maaaring tumanggap ng mga na-update na pahintulot sa app ang sinumang iba pang user sa iyong ngalan. Tulad ng sa anumang computer, dapat mo lang ibahagi ang tablet na ito sa mga taong pinagkakatiwalaan mo."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa <annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, sa <annotation id="chrome_tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="chrome_privacy">Notification ng Privacy</annotation> ng Chrome, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo</annotation> ng Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Sa pamamagitan ng pag-sign in, sumasang-ayon ka sa <annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google, sa <annotation id="chrome_tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="chrome_privacy">Notification ng Privacy</annotation> ng Chrome, at sa <annotation id="play_tos">Mga Tuntunin ng Serbisyo</annotation>" ng Google Play. 
+
+Tandaan: Maaaring tumanggap ng mga na-update na pahintulot sa app ang sinumang iba pang user sa iyong ngalan. Tulad ng sa anumang computer, dapat mo lang ibahagi ang tablet na ito sa mga taong pinagkakatiwalaan mo."</string>
+    <string name="auth_sign_in_browser">Pag-sign in sa browser</string>
+    <string name="auth_sign_in_button_label">Mag-sign in</string>
+    <string name="auth_sign_in_with_google_account_short">Mag-sign in gamit ang iyong Google Account:</string>
+    <string name="auth_skip_button_label">Laktawan</string>
+    <string name="auth_submission_error_text">Nagkaroon ng error. Subukang muli.</string>
+    <string name="auth_submission_title">Paumanhin…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Upang i-set up, i-tap ang device na ito sa isang NFC tag o device.</string>
+    <string name="auth_trust_agent_add_nfc_title">Magdagdag ng NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Magdagdag ng pinagkakatiwalaang device</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Magdagdag ng pinagkakatiwalaang lugar</string>
+    <string name="auth_trust_agent_button_nfc_settings">Mga Setting ng NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Nakakonekta sa Bluetooth device na %s sa secure na paraan</string>
+    <string name="auth_trust_agent_dpm_disabled">Na-disable ng administrator</string>
+    <string name="auth_trust_agent_enable_nfc">I-enable ang NFC upang makapagdagdag ng NFC device</string>
+    <string name="auth_trust_agent_first_use_notification_button">NAKUHA KO</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">habang nakakonekta sa %s, na itinakda mo bilang isang pinagkakatiwalaang device.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Upang makapag-lock ang iyong device, i-off ang screen, at pagkatapos ay i-on ito at pindutin ang icon na i-lock.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">habang nasa %s, na itinakda mo bilang isang pinagkakatiwalaang lugar.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Naka-unlock ang iyong device</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Pangalan</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"May nakitang NFC
+Bigyan ito ng pangalan."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Naka-disable</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Naka-enable</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Pahusayin ang pagtutugma ng mukha</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Kanselahin</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Hindi na makikilala ng device na ito ang iyong mukha, at mao-off ang feature na trusted face.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">I-reset</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">I-reset ang trusted face?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">I-reset ang trusted face</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Trusted face</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Nakakonekta</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Wala</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Hindi nakakonekta</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Mga pinagkakatiwalaang device</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Wala</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Bahay</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Hindi kilala</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Mga pinagkakatiwalaang lugar</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Trabaho</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Hindi nagawa ang pagpapares. Subukang muli.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Hindi makapag-set up ng NFC device</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Magdagdag ng pinagkakatiwalaang Bluetooth device upang panatilihing naka-unlock ang device na ito kapag nakakonekta. 
+
+Mga halimbawa:
+
+- Ang iyong Bluetooth na relos
+- Ang Bluetooth system ng iyong kotse"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Naka-off ang Bluetooth)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Magdagdag ng pinagkakatiwalaang device</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Naka-off ang Bluetooth.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Kanselahin</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Pumili ng device</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Magdagdag ng pinagkakatiwalaang device upang panatilihing naka-unlock ang device na ito kapag nakakonekta. 
+
+Mga halimbawa:
+
+- Ang iyong Bluetooth na relos
+- Ang Bluetooth system ng iyong kotse 
+- Isang NFC sticker sa dock ng telepono sa iyong kotse."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Alisin ang device na ito mula sa mga pinagkakatiwalaang device?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Hindi nakikilala ang device.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Magdagdag ng pinagkakatiwalaang NFC device upang ma-unlock ang device na ito sa pamamagitan ng pag-tap. 
+
+Mga halimbawa:
+
+- Isang NFC sticker sa dock ng telepono sa iyong kotse."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Mangyaring magdagdag ng account upang makuha ang address ng bahay at trabaho.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Kanselahin</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Magdagdag ng pinagkakatiwalaang lugar upang panatilihing naka-unlock ang device na ito kapag inilagay. 
+
+Mga Halimbawa:
+
+- Iyong bahay
+- Iyong opisina"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Alisin</string>
+    <string name="auth_trust_agent_trusted_places_rename">Palitan ang pangalan</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Pumili ng Account</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Hindi kilala</string>
+    <string name="auth_trust_devices_not_available">Ang feature na mga pinagkakatiwalaang device ay hindi available gamitin.</string>
+    <string name="auth_trust_places_not_available">Ang feature na mga pinagkakatiwalaang lugar ay hindi available gamitin.</string>
+    <string name="auth_try_again_button_label">Subukang muli</string>
+    <string name="auth_ui_activity_authenticating">Pinapatotohanan…</string>
+    <string name="auth_ui_activity_title">Pag-sign in sa Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Mag-sign in</string>
+    <string name="auth_ui_add_account_title">Pag-setup ng account</string>
+    <string name="auth_unexpected_acl_error">Nagkaroon ng problema sa pagbibigay ng mga pahintulot.</string>
+    <string name="auth_use_location_summary">Hayaan ang Google na gamitin ang iyong lokasyon upang mapagbuti ang mga resulta ng paghahanap at ang iba pang mga serbisyo</string>
+    <string name="auth_use_location_title">Lokasyon at paghahanap sa Google</string>
+    <string name="auth_username">Email</string>
+    <string name="auth_visible_actions_title">Ibahagi kay...</string>
+    <string name="authorization_dialog">Dialog ng pagpapahintulot</string>
+    <string name="cancel">Kanselahin</string>
+    <string name="circle_button_add_to_circles">Idagdag sa mga lupon</string>
+    <string name="circle_button_circles">%d (na) lupon</string>
+    <string name="circle_button_follow">Subaybayan</string>
+    <string name="circle_button_following_circle">Sinusubaybayan</string>
+    <string name="circle_button_medium_add_to_circles">Idagdag</string>
+    <string name="circle_button_profile_blocked">Naka-block</string>
+    <string name="common_accessibility_audience_view_editable">I-edit ang madla</string>
+    <string name="common_add_account_button_label">Magdagdag ng account</string>
+    <string name="common_add_account_label">Magdagdag ng account</string>
+    <string name="common_ads_settings_title">Mga Ad</string>
+    <string name="common_android_wear_notification_needs_update_text">Ang isang application ay nangangailangan ng update sa Android Wear app.</string>
+    <string name="common_android_wear_update_text">Hindi gagana ang app na ito hanggang sa i-update mo ang Android Wear app.</string>
+    <string name="common_android_wear_update_title">I-update ang Android Wear</string>
+    <string name="common_app_name">Mga serbisyo ng Google Play</string>
+    <string name="common_cannot_start_hangouts_exception">Hindi masimulan ang Hangouts.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hindi masimulan ang Hangouts (error sa pahintulot).</string>
+    <string name="common_car_permission_desc">Access sa serbisyo ng kotse.</string>
+    <string name="common_car_permission_label">Serbisyo ng Kotse</string>
+    <string name="common_chips_label_empty_circles">Walang mga lupon</string>
+    <string name="common_chips_label_extended_circles">Mga extended na grupo</string>
+    <string name="common_chips_label_only_you">Ikaw lang</string>
+    <string name="common_chips_label_public">Pampubliko</string>
+    <string name="common_chips_label_your_circles">Iyong mga lupon</string>
+    <string name="common_choose_account_label">Pumili ng account</string>
+    <string name="common_clear_app_data_menu_item">I-clear ang data ng app</string>
+    <string name="common_connected_apps_settings_title">Nakakonektang apps</string>
+    <string name="common_fitness_settings_title">Kalusugan</string>
+    <string name="common_games_settings_title">Mga Laro sa Play</string>
+    <string name="common_get_verification_code_menu_item">Kumuha ng verification code</string>
+    <string name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string name="common_google_play_services_enable_text">Hindi gagana ang app na ito maliban kung papaganahin mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_enable_title">Paganahin ang Google Play services</string>
+    <string name="common_google_play_services_error_dialog_title">Error</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Hiniling ng %1$s</string>
+    <string name="common_google_play_services_install_button">Kumuha ng Google Play services</string>
+    <string name="common_google_play_services_install_text_phone">Hindi tatakbo ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong telepono.</string>
+    <string name="common_google_play_services_install_text_tablet">Hindi gagana ang app na ito nang wala ang mga serbisyo ng Google Play, na wala sa iyong tablet.</string>
+    <string name="common_google_play_services_install_title">Kumuha ng mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Hindi umiiral ang tinukoy na account sa device na ito. Mangyaring pumili ng ibang account.</string>
+    <string name="common_google_play_services_invalid_account_title">Di-wasto ang Account</string>
+    <string name="common_google_play_services_needs_enabling_title">Kailangan ng application na na-enable ang Mga Serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_network_error_text">Kailangan ng koneksyon ng data upang makakonekta sa mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_network_error_title">May Error sa Network</string>
+    <string name="common_google_play_services_no_restricted_profiles">Hindi sinusuportahan ng application na ito ang mga account para sa mga pinaghihigpitang profile</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Kailangan ng application na i-install ang Mga Serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Kailangan ng application ng update sa Mga Serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">Error sa Mga Serbisyo ng Google Play</string>
+    <string name="common_google_play_services_unknown_issue">May hindi alam na isyu sa mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">Ang mga serbisyo ng Google Play, kung saan nakadepende ang ilan sa iyong mga application, ay hindi sinusuportahan ng iyong device. Mangyaring makipag-ugnay sa manufacturer para sa tulong.</string>
+    <string name="common_google_play_services_unsupported_title">Mga serbisyo ng Google Play</string>
+    <string name="common_google_play_services_update_button">I-update</string>
+    <string name="common_google_play_services_update_text">Hindi gagana ang app na ito maliban kung i-a-update mo ang mga serbisyo ng Google Play.</string>
+    <string name="common_google_play_services_update_title">I-update ang mga serbisyo ng Google Play</string>
+    <string name="common_google_settings">Mga Setting ng Google</string>
+    <string name="common_list_apps_menu_help">Tulong</string>
+    <string name="common_list_apps_menu_help_and_feedback">Tulong at feedback</string>
+    <string name="common_location_settings_title">Lokasyon</string>
+    <string name="common_maps_settings_title">Maps at Latitude</string>
+    <string name="common_mdm_feature_name">Android Device Manager</string>
+    <string name="common_network_load_failed">Hindi available dahil hindi makakonekta ang device sa isang network</string>
+    <string name="common_no_network">Hindi available dahil offline ang device</string>
+    <string name="common_open_on_phone">Buksan sa telepono</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Walang mga account na pipiliin</string>
+    <string name="common_search_and_now_settings_title">Search at Now</string>
+    <string name="common_search_settings_title">Maghanap</string>
+    <string name="common_security_settings_title">I-verify ang apps</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Mag-sign in sa Google</string>
+    <string name="common_storage_settings_title">Storage ng mga serbisyo ng Play</string>
+    <string name="common_ui_confirm_deleting_button">I-delete</string>
+    <string name="common_ui_confirm_deleting_checkbox">Nauunawaan ko at gusto kong i-delete</string>
+    <string name="common_url_load_unsuccessful_message">Hindi nakakonekta ang iyong Android device sa isang serbisyo ng data. Upang tingnan ang impormasyong ito ngayon, bisitahin ang %s gamit ang isang web browser.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Hindi nakakonekta ang iyong Android device sa isang Wi-Fi network. Upang tingnan ang impormasyong ito ngayon, bisitahin ang %s gamit ang isang web browser.</string>
+    <string name="common_url_login_notice">Mag-sign in bilang %1$s</string>
+    <string name="common_usage_and_diagnostics">Paggamit at mga diagnostic</string>
+    <string name="country_invalid">Di pinapayagan ang bansang ito</string>
+    <string name="device_location_acl_no_one">Walang sinuman</string>
+    <string name="device_location_best_acl_picker_title">Visibility ng Pinpoint na Lokasyon</string>
+    <string name="device_location_city_acl_picker_title">Visibility ng Lokasyon ng Lungsod</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s at iba pa</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> at %d (na) iba pa</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Dapat may koneksyon ka sa data upang makita ang mga setting ng pagbabahagi ng lokasyon. Pakisuri ang iyong koneksyon o subukang muli mamaya.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Buksan ang mga setting ng lokasyon</string>
+    <string name="device_location_reporting_reminder_dialog_summary">Kapag in-off ang Pagbabahagi ng Lokasyon, hindi nito maaapektuhan ang Pag-uulat ng Lokasyon o Kasaysayan ng Lokasyon. Maaaring kailanganin ng iba pang mga serbisyo ng Google kung saan nag-opt in ka dati, gaya ng Google Now, ang iyong lokasyon. Maaari mong kontrolin anumang oras ang Pag-uulat at Kasaysayan ng Lokasyon sa Mga Setting ng Lokasyon.</string>
+    <string name="device_location_reporting_reminder_dialog_title">Pag-uulat ng Lokasyon</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> at &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> at &lt;b>%s&lt;/b></string>
+    <string name="disagree">Hindi Sumasang-ayon</string>
+    <string name="enable_location_reporting_error">Hindi namin mai-on ang Pag-uulat ng Lokasyon at Location History para sa %s. Upang mai-on ang Pag-uulat ng Lokasyon at Location History, pumunta sa mga setting ng Lokasyon.</string>
+    <string name="enable_location_reporting_error_title">Nagkaroon ng error</string>
+    <string name="enable_location_reporting_title">Pag-uulat ng Lokasyon</string>
+    <string name="friend_locations_enable_reporting_auto_body">Nagbibigay-daan ang Pag-uulat ng Lokasyon sa anumang produkto ng Google na gumagamit sa feature na i-store at gamitin ang pinaka-kamakailang data ng lokasyon ng iyong device. Kinakailangan sa Pagbabahagi ng lokasyon na naka-on ang Pag-uulat ng Lokasyon.&lt;br/>&lt;br/>Pinapayagan ng Location History ang Google na mag-store ng kasaysayan ng data ng iyong lokasyon mula sa mga device kung saan pinagana mo na ang Pag-uulat ng Lokasyon. &lt;a href=\"%2$s\"> Matuto nang higit pa&lt;/a>.&lt;br/>&lt;br/>I-on ang Pag-uulat ng Lokasyon at Location History para sa %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">Nagbibigay-daan ang Pag-uulat ng Lokasyon sa anumang produkto ng Google na gumagamit sa feature na i-store at gamitin ang pinaka-kamakailang data ng lokasyon ng iyong mga device. Kinakailangan sa Pagbabahagi ng lokasyon na naka-on ang Pag-uulat ng Lokasyon.&lt;br/>&lt;br/>Sa ilalim ng iyong mga setting ng Lokasyon sa Google Maps, tiyaking nakatakda ang \"Pag-uulat ng Lokasyon\" upang \"Hanapin ang iyong lokasyon\" at may check ang \"Mag-ulat mula sa device na ito.\". &lt;a href=\"%s\">Matuto nang higit pa&lt;/a>.</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">Nagbibigay-daan ang Pag-uulat ng Lokasyon sa anumang produkto ng Google na gumagamit sa feature na i-sotre at gamitin ang pinaka-kamakailang data ng lokasyon ng iyong mga device. Kinakailangan sa Pagbabahagi ng lokasyon na naka-on ang Pag-uulat ng Lokasyon.&lt;br/>&lt;br/>Mag-sign sa Google Maps bilang si %1$s at sa ilalim ng mga setting ng Lokasyon, tiyakin na nakatakda ang \"Pag-uulat ng Lokasyon\" na \"Hanapin ang iyong lokasyon\" at may check ang \"Mag-ulat mula sa device na ito.\" &lt;a href=\"%2$s\">Matuto nang higit pa&lt;/a>.</string>
+    <string name="loading">Naglo-load...</string>
+    <string name="location_settings_allow_access_summary">Hayaan ang Google apps na gamitin ang lokasyon ng device na ito anumang oras na naka-on ito</string>
+    <string name="location_settings_allow_access_title">I-access ang lokasyon</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Hindi mo makukuhang muli ang iyong Kasaysayan ng Lokasyon. 
+
+Maaaring huminto sa paggana ang Google Now at iba pang apps."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Permanenteng tanggalin?</string>
+    <string name="location_settings_delete_auth_error">Maling username o password</string>
+    <string name="location_settings_delete_io_error">Hindi makakonekta ang device sa isang network</string>
+    <string name="location_settings_delete_location_history">TANGGALIN ANG KASAYSAYAN NG LOKASYON</string>
+    <string name="location_settings_delete_location_history_in_progress">TINATANGGAL...</string>
+    <string name="location_settings_delete_offline_error">Offline ang device</string>
+    <string name="location_settings_expiration_both_one">1 oras at 1 minuto ang nalalabi</string>
+    <string name="location_settings_expiration_both_other" formatted="false">%d (na) oras at %d (na) minuto ang nalalabi</string>
+    <string name="location_settings_expiration_hours_one">1 oras at %d (na) minuto ang nalalabi</string>
+    <string name="location_settings_expiration_minutes">%d minuto ang nalalabi</string>
+    <string name="location_settings_expiration_minutes_one">%d (na) oras at 1 minuto ang nalalabi</string>
+    <string name="location_settings_expiration_soon">Wala pang 15 minuto ang nalalabi</string>
+    <string name="location_settings_info_title">Impormasyon</string>
+    <string name="location_settings_location_history_activity_title">Kasaysayan ng Lokasyon</string>
+    <string name="location_settings_location_history_summary_full">"Nagbibigay-daan ang setting na ito sa Google na mag-imbak ng kasaysayan ng iyong data ng lokasyon mula sa mga device kung saan pinagana mo ang Pag-uulat ng lokasyon para sa account na ito. Ang Kasaysayan ng Lokasyon ay tumutulong sa iyong masulit ang Google—halimbawa, maaari itong gamitin ng Google Now upang i-notify ka tungkol sa trapiko sa iyong pag-commute. 
+
+Maaari mong tingnan at pamahalaan ang iyong Kasaysayan ng Lokasyon sa maps.google.com/locationhistory. Maaari mong i-off ang Kasaysayan ng Lokasyon anumang oras, ngunit hindi maaalis ang mga umiiral nang entry kapag ginawa iyon. Tatanggalin ng button sa ibaba ang lahat ng umiiral nang entry sa Kasaysayan ng Lokasyon para sa iyong account."</string>
+    <string name="location_settings_location_reporting_activity_title">Pag-uulat ng Lokasyon</string>
+    <string name="location_settings_location_reporting_summary_full">"Ginagamit ng Google ang feature na ito sa mga produkto tulad ng Google Now at Google Maps. 
+
+Kapag na-on ang Pag-uulat ng Lokasyon, magagawang iimbak at gamitin ng anumang produkto ng Google na gumagamit ng feature na ito ang pinakabagong data ng lokasyon ng iyong device kaugnay ng iyong Google account."</string>
+    <string name="location_settings_no_network_alert">Dapat na mayroon kang koneksyon ng data upang makita ang mga setting ng pagbabahagi ng lokasyon. Pakisuri ang iyong koneksyon o subukang muli sa ibang pagkakataon.</string>
+    <string name="location_settings_not_available_summary">Wala kang Google account</string>
+    <string name="location_settings_not_available_title">Magdagdag ng account</string>
+    <string name="location_settings_reporting_summary_off">Naka-off para sa device na ito</string>
+    <string name="location_settings_reporting_summary_on">Naka-on para sa device na ito</string>
+    <string name="location_settings_save_error">Hindi ma-save ang mga setting.</string>
+    <string name="location_settings_saving">Sine-save ang mga setting…</string>
+    <string name="location_settings_screen_title">Settings ng lokasyon</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Para lang sa Google apps ang kinokontrol na access sa lokasyon ng setting na ito. 
+
+Upang kontrolin ang access sa lokasyon para sa lahat ng apps, pumunta sa Mga Setting > Access sa lokasyon."</string>
+    <string name="location_settings_temporary_sharing_title">Pansamantalang Ibinabahagi kay</string>
+    <string name="location_settings_ulr_summary_ambiguous">Hindi matukoy ang nakaraang setting. Naka-off.</string>
+    <string name="location_settings_ulr_summary_auth_error">Hindi available dahil sa maling username o password</string>
+    <string name="location_settings_ulr_summary_error">Hindi maabot ang server upang kunin ang mga setting. Subukang muli mamaya.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Hindi pinagana</string>
+    <string name="location_settings_ulr_summary_loading">Kinukuha…</string>
+    <string name="location_settings_ulr_summary_off">Naka-off</string>
+    <string name="location_settings_ulr_summary_offline">Hindi available dahil offline ang device</string>
+    <string name="location_settings_ulr_summary_on">Naka-on</string>
+    <string name="location_settings_ulr_summary_restricted">Hindi pinagana</string>
+    <string name="location_settings_ulr_summary_unknown">Hindi Alam</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Hindi available sa %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Hindi available sa rehiyong ito</string>
+    <string name="location_settings_view_all">Tingnan Lahat</string>
+    <string name="location_sharing_settings_acl_title">Ibinabahagi kay/sa %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Pumili ng mga taong babahagian</string>
+    <string name="location_sharing_settings_city_description">Gamitin ang city-level na pagbabahagi ng lokasyon upang bigyang-daan ang iyong mga kaibigan at pamilya na makita ang iyong lungsod.</string>
+    <string name="location_sharing_settings_city_example">Halimbawa: San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_city_title">Lokasyon ng Lungsod</string>
+    <string name="location_sharing_settings_description">Ang Pagbabahagi ng Lokasyon ay nagbibigay-daan sa iyo na ibahagi ang iyong kasalukuyang lokasyon mula sa Pag-uulat ng Lokasyon sa iyong device, sa mga taong iyong pipiliin.&lt;br/>&lt;br/> Makikita ng mga taong binabahagian mo ng iyong lokasyon ang iyong kasalukuyang lokasyon sa mga produkto ng Google, kabilang ang Google+ at Google Now. Makikita din nila ang iyong mga lugar, katulad ng bahay at trabaho. &lt;a href=\"%s\">Matuto nang higit pa&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Baguhin</string>
+    <string name="location_sharing_settings_pinpoint_description">Gumamit ng pagbabahagi ng pinpoint na lokasyon upang bigyang-daan ang mga mahal mo sa buhay na makita ang tumpak at kasalukuyan mong lokasyon.</string>
+    <string name="location_sharing_settings_pinpoint_example">Halimbawa: 123 Main St, San Francisco, CA, USA</string>
+    <string name="location_sharing_settings_pinpoint_title">Pinpoint na Lokasyon</string>
+    <string name="location_sharing_settings_title">Pagbabahagi ng Lokasyon</string>
+    <string name="location_ulr_ambiguous_setting_text">Hindi matukoy ang nakaraang setting. I-on ngayon?</string>
+    <string name="location_ulr_setting_google_location_disabled">Hindi available dahil walang access ang Google apps sa lokasyon</string>
+    <string name="location_ulr_setting_label">Pag-uulat ng Lokasyon ng Google</string>
+    <string name="location_ulr_setting_location_disabled">Hindi available dahil naka-off ang Lokasyon</string>
+    <string name="location_ulr_setting_no_account">Naka-off, walang mga account</string>
+    <string name="location_ulr_setting_reporting_only">Ginagamit ang huling lokasyon</string>
+    <string name="location_warning_do_not_show_again">Huwag ipakitang muli</string>
+    <string name="location_warning_message">Payagan ang Google na tulungan ang mga app na tukuyin ang lokasyon. Nangangahulugan ito na magpapadala ng hindi nakakapagpakilalang data ng lokasyon sa Google, kahit na walang mga app na tumatakbo.</string>
+    <string name="location_warning_title">Gamitin ang serbisyo sa lokasyon ng Google?</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"My Location 
+Accurate hanggang {0} (na) metro"</string>
+    <string name="maps_API_OUTDATED_WARNING">Gumagamit ang app na ito ng isang lumang bersyon ng Maps. Maaaring hindi ito gumana nang maayos.</string>
+    <string name="maps_CLOSE_SOFTKEY">Isara</string>
+    <string name="maps_COMPASS_ALT_TEXT">Compass</string>
+    <string name="maps_LEVEL_ALT_TEXT">Palapag {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Aking Lokasyon</string>
+    <string name="maps_YOUR_LOCATION">Ang iyong kasalukuyang lokasyon</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Mag-zoom in</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Mag-zoom out</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Koleksyon ng Imahe ©%2$d %3$s, Data ng mapa ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Koleksyon ng Imahe ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Data ng mapa ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Hindi wastong panorama.</string>
+    <string name="maps_network_unavailable">Nangangailangan ang programang ito ng koneksyon ng data, at awtomatikong muling susubukan. Pakitingnan ang lakas ng iyong signal. Naka-on ba ang mode ng airplane? Di ba pinagana ang data sa pag-roam?</string>
+    <string name="maps_no_panorama_data">Walang nakatakdang data ng panorama.</string>
+    <string name="maps_panorama_disabled">Hindi na magagamit ang larawan</string>
+    <string name="maps_service_unavailable">Hindi magagamit ang serbisyong View ng Kalye</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Nawala ang koneksyon sa data, muling sinusubukan…</string>
+    <string name="mr_media_route_button_content_description">I-cast</string>
+    <string name="mr_media_route_chooser_searching">Naghahanap ng mga device…</string>
+    <string name="mr_media_route_chooser_title">Kumonekta sa device</string>
+    <string name="mr_media_route_controller_disconnect">Idiskonekta</string>
+    <string name="mr_system_route_name">System</string>
+    <string name="mr_user_route_category_name">Mga Device</string>
+    <string name="notification_ticker">Humiling ng Access</string>
+    <string name="off">I-off</string>
+    <string name="ok">OK</string>
+    <string name="on">I-on</string>
+    <string name="open_location_settings">Buksan mga setting ng lokasyon</string>
+    <string name="phone_number_hint">Numero ng telepono</string>
+    <string name="phone_number_invalid">Di-wastong numero ng telepono</string>
+    <string name="phone_number_invalid_character">Mga di-wastong character sa num ng tel</string>
+    <string name="place_address_hint">Address</string>
+    <string name="place_address_title">Address</string>
+    <string name="place_address_update_hint">I-update</string>
+    <string name="place_category_hint">Pumili ng kategorya</string>
+    <string name="place_category_title">Kategorya</string>
+    <string name="place_name_hint">Pangalan ng lugar</string>
+    <string name="place_name_title">Pangalan</string>
+    <string name="place_phone_hint">Pangunahing numero ng telepono</string>
+    <string name="place_phone_title">Telepono</string>
+    <string name="place_picker_adding_a_place">Ipinapadala ang ulat...</string>
+    <string name="place_picker_cancel">Kanselahin</string>
+    <string name="place_picker_cant_add_place">Di maidagdag.</string>
+    <string name="place_picker_label">Pumili ng isang lugar</string>
+    <string name="place_picker_location_off_message">Upang pumili ng lokasyon, kailangan mo munang i-on ang Access sa lokasyon sa Mga Setting.</string>
+    <string name="place_picker_nearby_places">Mga kalapit na lugar</string>
+    <string name="place_picker_no_search_results">Walang mga tumutugmang lugar.</string>
+    <string name="place_picker_search_error">Di ma-load search result.</string>
+    <string name="place_picker_search_hint">Maghanap</string>
+    <string name="place_picker_searching_label">Naghahanap...</string>
+    <string name="place_picker_select_a_location_label">Pumili ng lokasyon para sa info</string>
+    <string name="place_picker_select_this_location">Piliin ang lokasyong ito</string>
+    <string name="place_picker_settings">Mga Setting</string>
+    <string name="place_picker_updating_location_label">Lokasyon, ina-update...</string>
+    <string name="place_picker_updating_nearby_label">Ina-update...</string>
+    <string name="place_website_hint">Opisyal na website</string>
+    <string name="place_website_title">Website</string>
+    <string name="plus_accessibility_acl_selection">Pumili ng audience</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Lupon</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Idagdag sa bagong lupon</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avatar</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Mga Lupon</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Maghanap ng mga tao o circle</string>
+    <string name="plus_accessibility_circle_selection">Pumili ng mga circle</string>
+    <string name="plus_accessibility_comment_avatar">Mga Lupon</string>
+    <string name="plus_accessibility_facl_selection">Pumili ng mga miyembro ng circle na pinapayagang makita ng app</string>
+    <string name="plus_accessibility_update_circles">I-update ang mga circle</string>
+    <string name="plus_actionbar_up_button_description">Mag-navigate pataas</string>
+    <string name="plus_add_to_circle_progress">Idinaragdag…</string>
+    <string name="plus_add_to_circles_title_default">Idagdag sa mga lupon</string>
+    <string name="plus_add_to_circles_title_with_user_name">Idagdag si %1$s</string>
+    <string name="plus_add_to_following_circle_progress">Sinusubaybayan…</string>
+    <string name="plus_add_to_new_circle_progress_message">Idinaragdag…</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">ACCOUNT</string>
+    <string name="plus_app_settings_activity_label">Nakakonektang apps</string>
+    <string name="plus_app_settings_activity_log_label">Log ng aktibidad</string>
+    <string name="plus_app_settings_activity_log_page_label">Log ng aktibidad</string>
+    <string name="plus_app_settings_all_apps_label">Lahat ng app at device</string>
+    <string name="plus_app_settings_apps_page_label">Mga nakakonektang app</string>
+    <string name="plus_app_settings_fitness_apps_label">Mga fitness app at device</string>
+    <string name="plus_app_settings_sign_in_apps_label">Apps - Google+ Sign-In</string>
+    <string name="plus_article_preview_image_description">Larawan ng preview ng artikulo</string>
+    <string name="plus_audience_edit_button_label">I-edit</string>
+    <string name="plus_audience_selection_cancel">Kanselahin</string>
+    <string name="plus_audience_selection_contacts">Lahat ng contact</string>
+    <string name="plus_audience_selection_contacts_description">Kasama ang mga contact na malilikha sa hinaharap</string>
+    <string name="plus_audience_selection_description_acl">IBAHAGI SA</string>
+    <string name="plus_audience_selection_done">Tapos na</string>
+    <string name="plus_audience_selection_everyone">Lahat ng mga lupon</string>
+    <string name="plus_audience_selection_everyone_description">Isasama ang mga lupon na gagawin sa hinaharap</string>
+    <string name="plus_audience_selection_header_circles">MGA LUPON</string>
+    <string name="plus_audience_selection_header_people">MGA TAO</string>
+    <string name="plus_audience_selection_header_search">NAGHANAP NG</string>
+    <string name="plus_audience_selection_header_suggested">SUHESTIYON</string>
+    <string name="plus_audience_selection_hidden_circle">Ang mga tao sa lupon na ito ay hindi pampubliko sa profile mo</string>
+    <string name="plus_audience_selection_loading">Naglo-load...</string>
+    <string name="plus_audience_selection_new_circle">Idagdag sa bagong lupon</string>
+    <string name="plus_audience_selection_public_circle">sinuman sa web</string>
+    <string name="plus_audience_selection_search_device_results">MULA SA IYONG DEVICE</string>
+    <string name="plus_audience_selection_search_google_results">MULA SA GOOGLE</string>
+    <string name="plus_audience_selection_title">Madla</string>
+    <string name="plus_audience_selection_title_acl">Ibahagi sa...</string>
+    <string name="plus_audience_selection_title_search">Hanapin...</string>
+    <string name="plus_audience_selection_title_update_circles">Idagdag sa mga lupon</string>
+    <string name="plus_auth_audience_view_default_description">Magpapadala si/ang %s ng impormasyon ng mga aktibidad mo mula sa app na ito sa Google. Mapipili mo kung sino pa ang maaaring makakita ng mga aktibidad na ito sa Google.</string>
+    <string name="plus_auth_audience_view_footnote">Gagamitin ng Google ang impormasyong ito ayon sa <annotation id="tos">Mga Tuntunin ng Serbisyo</annotation> at <annotation id="google_privacy">Patakaran sa Privacy</annotation> ng Google</string>
+    <string name="plus_auth_hide_circles_label">Itago ang lahat ng lupon</string>
+    <string name="plus_auth_info_fragment_app_name">Gusto ng %s na:</string>
+    <string name="plus_auth_see_circles_label">Tingnan ang lahat ng lupon</string>
+    <string name="plus_avatar_image_description">Larawan ng avatar ng user</string>
+    <string name="plus_bad_name_agree_button_label">Isumite</string>
+    <string name="plus_bad_name_decline_button_label">Palitan ang pangalan</string>
+    <string name="plus_bad_name_skip_button_label">Laktawan ang Google+</string>
+    <string name="plus_checking_gplus_signup_state">Kumokonekta...</string>
+    <string name="plus_choose_facl_title">Basic impo %s ay kukuha ng</string>
+    <string name="plus_circle_creation_circle_name_hint">Pangalan ng lupon</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Hindi nagawa ang lupon, subukang muli sa ibang pagkakataon.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Gumawa</string>
+    <string name="plus_circle_creation_title_default">Gumawa ng lupon</string>
+    <string name="plus_circle_creation_title_with_user_name">Idagdag si %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Button para sa pagsasara ng dialog</string>
+    <string name="plus_close_button_label">Isara</string>
+    <string name="plus_create_button_description">Button para sa pagdaragdag sa bagong circle</string>
+    <string name="plus_cross_client_auth_toast_text">Maligayang pagbalik sa %1$s. Naka-sign in ka sa Google bilang %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Nakikita ang aktibidad na ito ng/ni:</string>
+    <string name="plus_delete_moment_failed_dialog_message">May problema sa pagtanggal ng mga aktibidad, pakisubukan muli sa ibang pagkakataon.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Tinatanggal...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Tanggalin din lahat ng iyong %s na aktibidad sa Google</string>
+    <string name="plus_disconnect_source_dialog_message">Hindi na magkakaroon ng binigay mong access ang %1$s sa iyong Google Account o ipadala ang iyong mga aktibidad ng app sa Google. Maaaring abutin ito ng hanggang isang oras upang kumpletuhin.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Kanselahin</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Idiskonekta</string>
+    <string name="plus_disconnect_source_dialog_title">Idiskonekta?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Hindi madiskonekta ang %s.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Gusto mo bang idiskonekta ang app na ito mula sa Google+?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Dinidiskonekta ang %s…</string>
+    <string name="plus_domain_default">iyong domain</string>
+    <string name="plus_domain_restricted_choice_body">Pigilang maibahagi ang post sa labas ng %s</string>
+    <string name="plus_domain_restricted_choice_title">Paghigpitan sa %s</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">Buong pangalan, larawan sa profile, Google+ id, range ng edad at wika at listahan ng taong nasa lupong may check sa baba. Laman ang pampublikong profile, pero di ang ngalan ng lupon kung saan nilagay.</string>
+    <string name="plus_first_name">Una</string>
+    <string name="plus_gender_prompt">Pumili ng kasarian</string>
+    <string name="plus_install_app_dialog_checkbox_text">Huwag nang itanong muli.</string>
+    <string name="plus_install_app_dialog_message">Kunin ang Google+ app para tingnan ang post na kakabahagi mo lang?</string>
+    <string name="plus_install_app_dialog_negative_button">Hindi ngayon</string>
+    <string name="plus_install_app_dialog_positive_button">I-install</string>
+    <string name="plus_install_app_dialog_title">Kunin ang Google+</string>
+    <string name="plus_internal_error">Naganap ang panloob na error.</string>
+    <string name="plus_invalid_account">Hindi wastong account</string>
+    <string name="plus_last_name">Huli</string>
+    <string name="plus_list_apps_aspen_empty_message">"Hindi ka kumonekta sa anumang app gamit ang Google+ Sign-In.
+
+"<annotation id="learn_more">Alamin pa </annotation></string>
+    <string name="plus_list_apps_disabled_error">Hindi mai-load ang Mga Konektadong apps sa ngayon. <annotation id="learn_more">Matuto nang higit pa</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Walang mga nakakonektang app sa iyong Google account</string>
+    <string name="plus_list_apps_error">Hindi mai-load ang mga apps. Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="plus_list_apps_error_aspen">"Hindi ma-load ang apps.
+
+"<annotation id="learn_more">Matuto nang higit pa</annotation> tungkol sa apps sa Google+ Sign-In.</string>
+    <string name="plus_list_apps_error_fitness">"Hindi mai-load ang mga app o device. 
+
+"<annotation id="learn_more"> Alamin pa </annotation> ang tungkol sa mga Fitness app at device.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Hindi ka nagkonekta ng anumang app o device sa Google Fit
+
+"<annotation id="learn_more">Alamin pa</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Walang mga account.</string>
+    <string name="plus_list_moments_disabled_error">Hindi mai-load ang iyong log ng Gawain sa ngayon. <annotation id="learn_more">Matuto nang higit pa</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Wala kang mga aktibidad</string>
+    <string name="plus_list_moments_error">Hindi mai-load ang mga gawain. Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="plus_list_moments_filter_empty_message">Wala kang anumang mga aktibidad na ganito ang uri.</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Hindi matingnan ang aktibidad na ito mula sa iyong log ng Aktibidad. Pakibisita nang direkta ang app na ito.</string>
+    <string name="plus_loading">Naglo-load...</string>
+    <string name="plus_manage_app_acl_description_label">Mga aktibidad na ibinabahagi ng app na ito sa Google</string>
+    <string name="plus_manage_app_acl_error">Hindi ma-update ang app.</string>
+    <string name="plus_manage_app_all_circles_label">Lahat ng mga lupon</string>
+    <string name="plus_manage_app_app_icon_desc">Icon</string>
+    <string name="plus_manage_app_disabled_error">Hindi mai-load ang mga konektado mong app sa ngayon. <annotation id="learn_more">Matuto nang higit pa</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Idiskonekta</string>
+    <string name="plus_manage_app_domain_label">Domain</string>
+    <string name="plus_manage_app_extended_circles_label">Mga extended na grupo</string>
+    <string name="plus_manage_app_facl_label">Makikita ng app na ito ang mga taong ito</string>
+    <string name="plus_manage_app_label">Nakakonektang app</string>
+    <string name="plus_manage_app_limited_label">Pribadong ibinahagi</string>
+    <string name="plus_manage_app_no_acl_description">Ang paggamit mo ng app na ito</string>
+    <string name="plus_manage_app_no_circles_label">Wala</string>
+    <string name="plus_manage_app_only_you_label">Ikaw lamang</string>
+    <string name="plus_manage_app_pacl_label">Ang makakakita sa mga aktibidad ng app sa Google</string>
+    <string name="plus_manage_app_pacl_sub_label">Hindi babaguhin ng mga napili mo dito ang pagiging makikita ng anumang umiiral na mga aktibidad sa iyong Log ng Aktibidad ngunit aaplay sa aktibidad ng laro.</string>
+    <string name="plus_manage_app_public_label">Pampubliko</string>
+    <string name="plus_manage_app_scopes_label">Maa-access ng app na ito ang:</string>
+    <string name="plus_manage_app_updating_acl">Ina-update...</string>
+    <string name="plus_manage_aspen_app_label">App na may Google+ Sign-In</string>
+    <string name="plus_manage_device_disconnect_label">Idiskonekta</string>
+    <string name="plus_manage_device_label">Nakakonektang device</string>
+    <string name="plus_manage_moment_acl">"Makikita ng:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Hindi mai-load ang ilang mga detalye, pakisubukan muli sa ibang pagkakataon.</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Tanggalin</string>
+    <string name="plus_manage_moment_delete_label">TANGGALIN</string>
+    <string name="plus_manage_moment_image_desc">Tingnan ang aktibidad</string>
+    <string name="plus_manage_moment_label">Aktibidad</string>
+    <string name="plus_manage_moment_no_in_app_delete">Hindi mapamahalaan ang aktibidad na ito. <annotation id="learn_more">Matuto nang higit pa</annotation></string>
+    <string name="plus_ok_button_description">Button na OK</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Irekomenda ito sa Google</string>
+    <string name="plus_one_annotation_none_short">Irekomenda ito</string>
+    <string name="plus_one_app">Mula sa &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">10K+</string>
+    <string name="plus_one_description">Hipuin upang idagdag ang iyong plus one sa umiiral na %1$s</string>
+    <string name="plus_one_description_remove">Hipuin upang alisin ang iyong plus one mula sa umiiral na %1$s</string>
+    <string name="plus_one_description_standard">Hipuin upang i-plus one.</string>
+    <string name="plus_one_error">May pansamantalang problema sa iyong +1. Pakisubukan muli.</string>
+    <string name="plus_one_public">Pampubliko</string>
+    <string name="plus_one_self">Na-+1 ni %1$s</string>
+    <string name="plus_one_self_removed">Inalis ang iyong +1.</string>
+    <string name="plus_one_share">Ibahagi</string>
+    <string name="plus_one_social_annotation_prefix">Kasama %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">kasama ang %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">+1 ito ni %1$s</string>
+    <string name="plus_one_social_annotation_user">Ikaw</string>
+    <string name="plus_one_title">Pampubliko mong na-+1 ito bilang</string>
+    <string name="plus_one_undo">I-undo</string>
+    <string name="plus_oob_3p_promo">Sulitin ang %1$s gamit ang isang pampublikong profile sa Google+.</string>
+    <string name="plus_oob_cancel_button_label">Kanselahin</string>
+    <string name="plus_oob_default_promo">Makakuha ng higit pa mula sa Google gamit ang isang pampublikong profile sa Google+.</string>
+    <string name="plus_oob_done_button_label">Tapos na</string>
+    <string name="plus_oob_edit_name_warning">Kapag binago mo ang iyong pangalan ng profile sa Google+, magbabago rin ito sa lahat ng produkto ng Google.</string>
+    <string name="plus_oob_failure_text">Sa kasamaang palad, hindi ma-set up ng Google+ ang iyong profile. Subukang muli mamaya.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Pangalan</string>
+    <string name="plus_oob_first_name_content_description">Pangalan</string>
+    <string name="plus_oob_gender_content_description">Kasarian</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Hindi ngayon</string>
+    <string name="plus_oob_interstitial_loading">Kontak Google+…</string>
+    <string name="plus_oob_interstitial_loading_body">Maaaring abutin ito nang ilang minuto.</string>
+    <string name="plus_oob_interstitial_sending">Ipinapadala…</string>
+    <string name="plus_oob_interstitial_sending_body">Maaaring abutin ito nang ilang minuto.</string>
+    <string name="plus_oob_join">Gumawa</string>
+    <string name="plus_oob_last_name_content_description">Apelyido</string>
+    <string name="plus_oob_loading">Naglo-load...</string>
+    <string name="plus_oob_next">Susunod</string>
+    <string name="plus_oob_next_content_description">Button na Susunod</string>
+    <string name="plus_oob_no_connection_message">Hindi makakonekta sa server.</string>
+    <string name="plus_oob_no_connection_title">Walang Koneksyon</string>
+    <string name="plus_oob_pronoun_content_description">Mangyaring tawagin akong</string>
+    <string name="plus_oob_sending">Ipinapadala…</string>
+    <string name="plus_oob_title_tos">Profile sa Google+</string>
+    <string name="plus_oob_tos_accept">Tanggapin</string>
+    <string name="plus_photo_preview_image_description">Imahe sa preview ng larawan</string>
+    <string name="plus_plus_icon_image_description">Larawan ng icon ng Google plus</string>
+    <string name="plus_posted_just_now">Ngayon lang</string>
+    <string name="plus_pronoun_prompt">Pumili</string>
+    <string name="plus_remove_from_circle_progress">Inaalis…</string>
+    <string name="plus_replybox_button_description">Tumugon</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Itapon ang tugon na ito?</string>
+    <string name="plus_replybox_hint_text">Magdagdag ng tugon</string>
+    <string name="plus_replybox_internal_error">Hindi makatugon.</string>
+    <string name="plus_replybox_no_network_connection">Hindi magawa ang tugon. Pakisubukang muli.</string>
+    <string name="plus_replybox_post_error_message">Hindi ma-i-post ang tugon.</string>
+    <string name="plus_replybox_post_success">Ang iyong tugon ay nai-post.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Ang iyong mga extended na grupo</string>
+    <string name="plus_scope_fragment_mixed_label">Mga napiling lupon</string>
+    <string name="plus_scope_fragment_only_you_label">Sa iyo lang</string>
+    <string name="plus_scope_fragment_public_label">Sinuman sa web</string>
+    <string name="plus_scope_fragment_your_circles_label">Iyong mga lupon</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Setup Wizard</string>
+    <string name="plus_share_button_description">Button na Ibahagi</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Tapos na</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Piliin ang mga tatanggap</string>
+    <string name="plus_sharebox_audience_to_text">Kay:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Audience</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Bagong lupon</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Hindi makapagdagdag ng mga tao sa lupon</string>
+    <string name="plus_sharebox_circles_button">Tapos na</string>
+    <string name="plus_sharebox_circles_checkbox_label">Magdagdag ng %1$s sa lupon:</string>
+    <string name="plus_sharebox_circles_create_failed">Hindi makagawa ng lupon</string>
+    <string name="plus_sharebox_circles_create_option">Gumawa ng bagong lupon</string>
+    <string name="plus_sharebox_circles_following_circle">Sinusubaybayan</string>
+    <string name="plus_sharebox_circles_friends_circle">Mga Kaibigan</string>
+    <string name="plus_sharebox_circles_name_length_warning">Masyadong mahaba pangalan ng lupong ito.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Ginagamit na ang pangalan ng lupon na ito..</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Idagdag sa lupon</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Itapon ang post na ito?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Hindi maibahagi.</string>
+    <string name="plus_sharebox_load_error">May pansamantalang problema sa paglo-load ng dialog ng pagbabahagi. Pakisubukang muli.</string>
+    <string name="plus_sharebox_next">SUSUNOD</string>
+    <string name="plus_sharebox_no_network_connection">Hindi magawa ang post. Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="plus_sharebox_post_body_hint">Ibahagi isip...</string>
+    <string name="plus_sharebox_post_body_icon">Larawan sa profile</string>
+    <string name="plus_sharebox_post_error_message">Hindi magawa ang post. Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="plus_sharebox_post_error_title">Atensyon</string>
+    <string name="plus_sharebox_post_pending">Ipinapadala…</string>
+    <string name="plus_sharebox_post_success">Naibahagi na ang iyong post.</string>
+    <string name="plus_sharebox_preview_loading">Naglo-load...</string>
+    <string name="plus_sharebox_search_hint">Mag-type ng pangalan, e-mail, o lupon</string>
+    <string name="plus_sharebox_share">IBAHAGI</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Ibahagi din sa Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Ibahagi sa pamamagitan ng Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Kapag pampubliko kang nagbahagi, matitingnan ng mga taong hindi mo naidagdag sa iyong mga lupon ang iyong post at maaari silang makapagkomento.</string>
+    <string name="plus_sharebox_under_age_warning_title">Ibinabahagi sa publiko</string>
+    <string name="plus_undo_button_description">Button na I-undo</string>
+    <string name="plus_unified_setup_activity_title">Lumikha ng profile</string>
+    <string name="plus_unknown_app_name">App</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Nabigong i-update ang mga lupon, subukan ulit mamaya.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Hindi mo maidaragdag ang user na ito sa mga lupon.</string>
+    <string name="plus_update_circles_not_allowed_message">Hindi mo maidaragdag si %1$s sa mga lupon.</string>
+    <string name="plus_update_circles_progress">Ina-update ang mga lupon...</string>
+    <string name="plus_video_preview_image_description">Larawan ng preview ng video</string>
+    <string name="recovery_done_button_label">Tapos na</string>
+    <string name="recovery_input_screen_message">Sabihin sa Google kung paano makikipag-ugnay sa iyo kung sakaling makalimutan mo ang password para sa %s.</string>
+    <string name="recovery_message_set">"Madaling makalimutan ang mga password.
+
+Magbigay ng numero ng telepono o backup na email address ngayon. Makakatulong ito sa iyo na mabawi ang access sa iyong nilalaman sa Google at Google Play. "<annotation id="help_url">Matuto nang higit pa</annotation></string>
+    <string name="recovery_message_verify">"Madaling makalimutan ang mga password.
+
+Kumpirmahin ang numero ng iyong telepono o backup na email address ngayon. Makakatulong ito sa iyo na mabawi ang access sa iyong nilalaman sa Google at Google Play. "<annotation id="help_url">Matuto nang higit pa</annotation></string>
+    <string name="recovery_notification_ticker">Kailangan ng pansin ng account</string>
+    <string name="recovery_notification_title">Paalala sa pagbawi ng password</string>
+    <string name="recovery_server_error">Error sa pakikipag-usap sa server. Pakisubukan uli sa ilang sandali.</string>
+    <string name="recovery_title">Pagbawi ng password sa Google</string>
+    <string name="recovery_yes_button_label">I-set up ang mga opsyon sa pagbawi</string>
+    <string name="recovery_yes_button_label_verify">Kumpirmahin ang mga opsyon sa pagbawi</string>
+    <string name="retry_call_to_action">Subukang muli</string>
+    <string name="secondary_email_hint">Backup na email</string>
+    <string name="secondary_email_invalid">Di-wastong email address</string>
+    <string name="secondary_email_same_as_primary">Di maaari pareho primary email</string>
+    <string name="selected_location_unknown">Hindi alam</string>
+    <string name="sharedUserLabel">Mga Serbisyo ng Google</string>
+    <string name="sid_lsid_grant_detail">Halos katulad ng isang password, iniuugnay ng cookies na Session Identification (SID) at Local Session Identification (LSID) ang iyong pagkakakilanlan sa mga serye ng kahilingan mula sa isang browser. Pinapayagan ng mga ito ang ganap na access sa lahat ng data ng iyong account. Ang mga browser lang ang may lehitimong paggamit sa mga cookies na ito.</string>
+    <string name="sid_lsid_grant_label">Gamitin ang cookies na SID at LSID upang magkaroon ng access sa lahat ng data ng iyong Google account.</string>
+    <string name="storage_management_drive_clear_failure">Nagkaroon ng error sa pag-clear sa data sa Drive. Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="storage_management_drive_clear_label">I-clear</string>
+    <string name="storage_management_drive_clear_success">Na-clear na ang data ng Drive.</string>
+    <string name="storage_management_drive_clearing">Kini-clear…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Permanenteng tatanggalin ang lahat ng data sa lokal na Drive para sa mga app na naka-enable ang Drive. Maaaring kasama rito ang mga nakabinbing pagbabago na hindi pa naa-upload sa server ng Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">I-clear ang lahat ng data?</string>
+    <string name="storage_management_drive_descriptive_text">Nag-iimbak ng mga file sa iyong device ang mga app na naka-enable ang Drive upang mapahusay ang pagganap at ma-enable ang offline na access.</string>
+    <string name="storage_management_drive_get_storage_failure">Nagkaroon ng error sa pagkalkula sa paggamit ng storage ng Drive. Pakisubukang muli sa ibang pagkakataon.</string>
+    <string name="storage_management_drive_size_label">Lokal na storage ng Drive</string>
+    <string name="storage_management_wear_descriptive_text">Ginagamit ng mga app ang storage ng iyong device upang kumopya ng data patungo sa isang wearable.</string>
+    <string name="storage_management_wear_manage_size_label">Pamahalaan ang wearable storage</string>
+    <string name="storage_management_wear_size_label">Wearable storage</string>
+    <string name="storage_managment_all_storage_descriptive_text">Kabuuang data na ginagamit ng mga serbisyo ng Google Play, kabilang ang search engine at iba pang data.</string>
+    <string name="storage_managment_clear_all_data">I-clear ang lahat ng data</string>
+    <string name="storage_managment_computing_size">Kino-compute…</string>
+    <string name="storage_managment_icing_size_label">Storage ng search engine</string>
+    <string name="storage_managment_manage_icing_button">Pamahalaan storage ng paghanap</string>
+    <string name="storage_managment_search_index_descriptive_text">Pinapabilis namin ang paghahanap sa iyong telepono sa pamamagitan ng pagbibigay ng search engine na magagamit ng iyong Apps.</string>
+    <string name="storage_managment_title">Storage ng mga serbisyo ng Google Play</string>
+    <string name="storage_managment_total_size_label">Kabuuang storage</string>
+    <string name="system_update_activity_battery_low_charging_text">Masyadong mahina ang baterya upang i-install ang update sa system. Hintaying sapat na makapag-charge ang baterya.</string>
+    <string name="system_update_activity_battery_low_text">Masyadong mahina ang baterya upang i-install ang update sa system. Ikonekta ang charger upang magpatuloy.</string>
+    <string name="system_update_activity_name">Mga update sa system</string>
+    <string name="system_update_activity_roaming_text">Hindi mada-download ang mga update sa system habang naka-roaming.</string>
+    <string name="system_update_activity_title">Mga update sa system</string>
+    <string name="system_update_check_now_button_text">Tingnan ngayon</string>
+    <string name="system_update_complete_label">Update sa system</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Kumonekta sa Wi-Fi</string>
+    <string name="system_update_connection_lost_text">Nawala ang koneksyon sa network.</string>
+    <string name="system_update_countdown_cancel_button">Kanselahin ang pag-install</string>
+    <string name="system_update_countdown_complete">Nagre-reboot ngayon…</string>
+    <string name="system_update_download_button_text">I-download</string>
+    <string name="system_update_download_failed_no_space_status_text">Walang available na sapat na espasyo upang makapag-download</string>
+    <string name="system_update_download_failed_status_text">Hindi makapag-download</string>
+    <string name="system_update_download_retry_button_text">Subukang muli ang pag-download</string>
+    <string name="system_update_download_waiting_status_text">Hinihintay na ma-download</string>
+    <string name="system_update_downloading_required_update_text">"Maaari itong magtagal nang hanggang ^1 minuto.
+
+Pagkatapos, awtomatikong magre-restart ang device."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Maaari itong magtagal nang hanggang ^1 minuto.
+
+Pagkatapos, awtomatikong magre-restart ang tablet."</string>
+    <string name="system_update_downloading_required_update_title">Dina-download ang update…</string>
+    <string name="system_update_downloading_status_text">Nagda-download</string>
+    <string name="system_update_downloading_wifi_status2_text">Sa pamamagitan lang ng Wi-Fi hanggang ^1</string>
+    <string name="system_update_install_button_text">I-restart at i-install</string>
+    <string name="system_update_installing_update_text">"Maaari itong magtagal nang hanggang 5 minuto.
+
+Pagkatapos, matatapos mo na ang pagse-set up sa iyong telepono"</string>
+    <string name="system_update_installing_update_title">Ini-install ang update…</string>
+    <string name="system_update_last_checkin">Huling sinuri para sa pag-update ^1.</string>
+    <string name="system_update_no_update_content_text">Napapanahon ang iyong system.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Hindi matagumpay ang pag-download. Subukang muli.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Hindi ma-download ang update sa system</string>
+    <string name="system_update_not_owner_text">May available na update sa system software, ngunit ang may-ari lang ang makakapag-install nito.</string>
+    <string name="system_update_notification_action_download">I-download</string>
+    <string name="system_update_notification_action_install">I-install</string>
+    <string name="system_update_notification_action_snooze">Sa iba panahon</string>
+    <string name="system_update_required_update_restart_text">Magre-restart ang device upang ma-install ang update sa iyong system.</string>
+    <string name="system_update_required_update_restart_text_tablet">Magre-restart ang tablet upang ma-install ang update sa iyong system.</string>
+    <string name="system_update_required_update_restart_title">Magre-restart na</string>
+    <string name="system_update_requires_restart_status_text">Nangangailangan ng pag-restart</string>
+    <string name="system_update_restart_button_text">I-restart (^1)</string>
+    <string name="system_update_update_available_notification_title">May available na update sa system</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Walang available na sapat na espasyo upang ma-download ang update sa system.</string>
+    <string name="system_update_update_downloaded_notification_title">Na-download na ang update sa system</string>
+    <string name="system_update_verification_failed_text">Nabigo ang pag-verify</string>
+    <string name="system_update_verified_status_text">Na-download at na-verify</string>
+    <string name="system_update_verifying_status_text">Bine-verify</string>
+    <string name="temporary_sharing_description">Mga tao kung kanino mo ibinabahagi ang iyong tumpak na lokasyon sa kabuuan ng mga produkto ng Google sa loob ng limitadong tagal ng panahon.</string>
+    <string name="temporary_sharing_title">Pansamantalang Pagbabahagi</string>
+    <string name="turn_on_location_reporting_auto_button">I-on</string>
+    <string name="usage_and_diagnostics_consent_message">Tumulong na pahusayin ang iyong karanasan sa Android sa pamamagitan ng awtomatikong pagpapadala ng diagnostic na data at data ng paggamit sa Google. Hindi gagamitin ang impormasyong ito upang kilalanin ka at nakakatulong sa mga team na nagtatrabaho sa mga bagay tulad ng tagal ng baterya, pagganap ng app at mga bagong feature ng Google.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Matuto nang higit pa&lt;/font></string>
+    <string name="usage_reporting_off">Naka-off</string>
+    <string name="usage_reporting_on">Naka-on</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Nakakonekta</string>
+    <string name="wearable_status_connecting">Kumokonekta…</string>
+    <string name="wearable_status_disconnected">Naalis sa pagkakakonekta</string>
+    <string name="wearable_status_starting">Nagsisimula…</string>
+    <string name="wearable_status_wire_protocol_mismatch">Hindi tumutugmang nasusuot, pakilapat ang anumang mga update.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">I-clear ngayon</string>
+    <string name="wearable_storage_managment_title">Wearable storage</string>
+    <string name="wearable_storage_managment_total_size_label">Wearable storage</string>
+    <string name="wearable_storage_managment_usage_label">Paggamit ng espasyo ayon sa app</string>
+</resources>

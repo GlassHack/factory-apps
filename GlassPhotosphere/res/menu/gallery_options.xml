@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/gallery_action_stitch_the_unstitched" android:visibility="visible" android:title="@string/stitch_unstitched_sessions" android:alphabeticShortcut="s" android:showAsAction="never" />
+</menu>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Mi ubicación 
+Precisión  {0} metros"</string>
+    <string name="maps_API_OUTDATED_WARNING">Esta aplicación está usando una versión anterior de Google Maps. En consecuencia, es posible que no funcione correctamente.</string>
+    <string name="maps_CLOSE_SOFTKEY">Cerrar</string>
+    <string name="maps_COMPASS_ALT_TEXT">Brújula</string>
+    <string name="maps_LEVEL_ALT_TEXT">Nivel {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Mi ubicación</string>
+    <string name="maps_YOUR_LOCATION">Tu ubicación actual</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Acercar</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Alejar</string>
+    <string name="maps_dav_map_copyrights_full">%1$dGoogle Imágenes © %2$d %3$s , datos de mapas ©%4$d%5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">%1$dGoogle</string>
+    <string name="maps_dav_map_copyrights_imagery_only">%1$d Google Imágenes %2$d%3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">© %1$d Google , Datos de mapas © %2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Panorama no válido.</string>
+    <string name="maps_network_unavailable">Este programa requiere una conexión de datos y volverá a intentar restaurarla automáticamente. Verifique la intensidad de señal. ¿Está encendido el modo avión? ¿Está desactivado datos móviles?</string>
+    <string name="maps_no_panorama_data">No se establecieron datos de panorama.</string>
+    <string name="maps_panorama_disabled">La imagen ya no está disponible</string>
+    <string name="maps_service_unavailable">El servicio Street View no está disponible.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Se ha perdido la conexión con los datos. Intentando restaurarla.</string>
+</resources>

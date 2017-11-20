@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baa</item>
+        <item>Mkahawa</item>
+        <item>Kituo cha Mafuta</item>
+        <item>Ukumbi wa Sinema</item>
+        <item>Vyumba vya kupanga kwa muda</item>
+        <item>Klabu ya Usiku</item>
+        <item>Makavazi</item>
+        <item>Mkahawa</item>
+        <item>Madukani</item>
+        <item>Duka</item>
+        <item>Duka la bidhaa ama Duka kuu</item>
+        <item>Nyingine</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>mbovu</item>
+        <item>nzuri vya kutosha</item>
+        <item>nzuri</item>
+        <item>thabiti</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Chagua swali la usalama</item>
+        <item>Nambari ya kwanza ya simu?</item>
+        <item>Jina la rafiki wako mpendwa wa utotoni?</item>
+        <item>Jina la mwalimu wa kwanza?</item>
+        <item>Jina la meneja katika kazi ya kwanza?</item>
+        <item>Nambari ya usajili wa gari?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wink_calibration_first_wink_hints">
+        <item>右目でウィンクしてください</item>
+        <item>動画と同じスピードでウィンクしてください</item>
+        <item>画面の四隅がすべて見えますか？</item>
+        <item>髪の毛が入らないようにしてください</item>
+    </string-array>
+    <string-array name="wink_calibration_following_wink_hints">
+        <item>右目でもう一度ウィンクしてください</item>
+        <item>速すぎず遅すぎないスピードで動画の動きを真似してください</item>
+        <item>画面の四隅がすべて見えますか？</item>
+        <item>髪の毛が入らないようにしてください</item>
+    </string-array>
+    <string-array name="wink_calibration_tip_card_contents">
+        <item>ディスプレイを見つめながらウィンクしてください</item>
+        <item>右目だけ閉じてください</item>
+        <item>調整中はディスプレイの全体が見えている必要があります</item>
+        <item>目とデバイスの間に髪の毛が入らないようにしてください</item>
+        <item>シェードなしで調整してください</item>
+        <item>ウィンクが機能しなくなった場合は再調整してください</item>
+        <item>ウィンクが機能しませんか？引き続き機能の改善に努めておりますので、次のリリースまでお待ちください</item>
+    </string-array>
+</resources>

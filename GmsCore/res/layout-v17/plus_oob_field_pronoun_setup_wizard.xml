@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <view android:textAppearance="?android:textAppearanceMedium" android:id="@id/oob_field_pronoun_spinner" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setup_wizard_checkbox_margin_top" android:minWidth="@dimen/plus_oob_pronoun_spinner_min_width" android:contentDescription="@string/plus_oob_pronoun_content_description" android:layout_marginStart="@dimen/setup_wizard_content_margin_sides" class="com.google.android.gms.plus.oob.GenderSpinner"
+      xmlns:android="http://schemas.android.com/apk/res/android" />
+    <TextView android:id="@id/oob_field_pronoun_example_label" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/setup_wizard_text_primary_small" />
+</LinearLayout>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.plus.audience.AudienceSelectionListCircleView android:id="@id/audience_selection_circle_view" android:paddingLeft="@dimen/plus_facl_audience_selection_list_item_padding" android:paddingRight="@dimen/plus_facl_audience_selection_list_item_padding" android:layout_width="fill_parent" android:layout_height="@dimen/plus_audience_selection_list_item_height" style="@style/common_SelectableItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/top_border" layout="@layout/plus_audience_selection_list_divider" />
+    <ImageView android:id="@id/audience_selection_circle_icon" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/ic_circles_24dp" android:scaleType="centerInside" android:layout_centerVertical="true" android:contentDescription="@string/plus_accessibility_audience_selection_circle_icon" style="@style/plus_authImage" />
+    <CheckBox android:id="@id/audience_selection_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="16.0dip" android:minHeight="@dimen/plus_facl_audience_selection_list_item_height" android:layout_toLeftOf="@id/audience_selection_checkbox" android:layout_toRightOf="@id/audience_selection_circle_icon">
+        <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/plus_facl_text_color" android:ellipsize="end" android:layout_gravity="left|center" android:id="@id/audience_selection_circle_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" />
+            <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/plus_facl_text_color_light" android:gravity="left|center" android:id="@id/audience_selection_circle_count" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="12.0dip" android:singleLine="true" />
+        </LinearLayout>
+        <TextView android:textSize="12.0sp" android:textColor="@color/plus_audience_selection_text_light_color" android:id="@id/audience_selection_circle_description" android:paddingTop="4.0dip" android:paddingBottom="4.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.google.android.gms.plus.audience.AudienceSelectionListCircleView>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/PaddedCard"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_width="@dimen/card_cover_art_width" android:layout_height="@dimen/card_cover_art_height">
+        <ImageView android:id="@id/song_card_cover_art" android:background="@color/background_dark_gray" android:layout_width="fill_parent" android:layout_height="fill_parent" android:scaleType="centerCrop" android:layout_centerInParent="true" />
+        <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/album_sheen" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/divider_size">
+        <TextView android:id="@id/song_card_title" android:maxLines="2" style="@style/card_primary_text_large" />
+        <TextView android:id="@id/song_card_artist" android:maxLines="2" style="@style/card_secondary_text_large" />
+        <ImageView android:layout_gravity="left" android:id="@id/song_card_offline_icon" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/tip_view_height" android:src="@drawable/ic_music_keep_50" />
+    </LinearLayout>
+</LinearLayout>

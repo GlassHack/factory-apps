@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicaţie</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți la %s</string>
+    <string name="account_level_title">Acţiune în cont necesară</string>
+    <string name="activity_recognition_permission_description">Permite unei aplicații să primească de la Google actualizări periodice ale activității dvs., de exemplu, dacă mergeți pe jos, sunteți la volan, călătoriți cu bicicleta sau nu vă deplasați.</string>
+    <string name="activity_recognition_permission_label">recunoaștere activitate</string>
+    <string name="add_a_place_add">Adăugați</string>
+    <string name="add_a_place_call_to_action">Adăugați o locație</string>
+    <string name="add_a_place_call_to_drag">Glisați harta pentru a poziționa marcatorul</string>
+    <string name="add_a_place_cancel">Anulați</string>
+    <string name="add_a_place_next">Înainte</string>
+    <string name="agree">Acceptaţi</string>
+    <string name="app_label">Locaţie de reţea</string>
+    <string name="app_level_title">Solicitare de conectare</string>
+    <string name="app_level_title_secondary">%s solicită conectarea</string>
+    <string name="auth_accept_access">Sunt de acord</string>
+    <string name="auth_account_already_has_gmail">Contul utilizează deja Gmail.</string>
+    <string name="auth_account_setup_title">Cont Google</string>
+    <string name="auth_ads_settings_title">Anunțuri</string>
+    <string name="auth_allow_external_site_access">Beneficiaţi de acces continuu la datele dvs. pe %s</string>
+    <string name="auth_app_label">Manager conturi Google</string>
+    <string name="auth_app_permission_footnote">%s şi Google vor utiliza aceste informaţii în conformitate cu termenii şi condiţiile şi cu politicile de confidenţialitate specifice fiecăruia.</string>
+    <string name="auth_app_permission_label">ACEASTĂ APLICAȚIE DOREȘTE SĂ</string>
+    <string name="auth_app_permission_ok_footnote">Dacă continuați, permiteți acestei aplicații și companiei Google să utilizeze informațiile dvs. în conformitate cu termenii și condițiile și cu politicile de confidențialitate.</string>
+    <string name="auth_app_permission_sign_in_footnote">Dacă atingeți „Conectați-vă”, permiteți acestei aplicații și companiei Google să utilizeze informațiile dvs. în conformitate cu termenii și condițiile și cu politicile de confidențialitate.</string>
+    <string name="auth_app_permission_title">Conectați-vă la %s cu Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Permiteți conectarea</string>
+    <string name="auth_authzen_action_approved_toast_text">Acțiune aprobată</string>
+    <string name="auth_authzen_action_canceled_toast_text">Acțiune anulată</string>
+    <string name="auth_authzen_allow_reset_button_text">Reset. parolă</string>
+    <string name="auth_authzen_cancel_button_label">Anulați</string>
+    <string name="auth_authzen_close_button_text">Închideți</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Permiteți</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Anulați</string>
+    <string name="auth_authzen_default_confirmation_description">Permiteți conectarea la cont din %s?</string>
+    <string name="auth_authzen_default_confirmation_title">Avem nevoie de confirmarea dvs.</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Număr incorect selectat. Solicitarea dvs. a fost anulată</string>
+    <string name="auth_authzen_default_request_description">nu se cunosc detaliile solicitării</string>
+    <string name="auth_authzen_generic_error_text">A apărut o eroare. Încercați din nou.</string>
+    <string name="auth_authzen_google_logo_label">Siglă Google</string>
+    <string name="auth_authzen_login_challenge_approved_text">Conectare aprobată</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Conectare anulată</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Permiteți conectarea</string>
+    <string name="auth_authzen_login_challenge_desc_text">Încercați să vă conectați din %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google a oprit încercarea de conectare.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Număr incorect</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Atingeți numărul afișat pe celălalt ecran. Prin această acțiune vă veți conecta de pe computer.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Cineva a încercat să se conecteze la contul Google cu parola dvs. Google a oprit încercarea de conectare.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Conectare oprită</string>
+    <string name="auth_authzen_login_challenge_title_text">Încercați să vă conectați?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Pentru a aproba conectarea de pe computerul dvs., va trebui să vă confirmați identitatea</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">cerere de conectare de la un computer din %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Nu am solicitat conectarea</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Vă mulțumim că ne-ați informat, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">Am înregistrat această activitate pentru a păstra în continuare securitatea contului dvs.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Conectați-vă</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Anulați</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Intr. PIN pt. Contul Google</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">Ok, continuați</string>
+    <string name="auth_authzen_no_button_text">Nu</string>
+    <string name="auth_authzen_notify_google_default_text">Va fi trimisă o notificare la Google despre încercarea de accesare a contului dvs.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google a primit o solicitare de schimbare a parolei dvs. Solicitarea a fost anulată deoarece nu provine de la dvs. Nu a fost efectuată nicio schimbare în contul dvs.</string>
+    <string name="auth_authzen_ok_button_text">OK</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Atingeți numărul afișat pe celălalt ecran. Prin această acțiune vă veți conecta de pe computer.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Permiteți conectarea</string>
+    <string name="auth_authzen_profile_picture_label">Fotografie de profil</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Ați încercați să vă conectați la Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Resetarea parolei a fost aprobată</string>
+    <string name="auth_authzen_recovery_canceled_text">Resetarea parolei a fost anulată</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Permiteți resetarea parolei din %s?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">Avem nevoie de confirmarea dvs.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google a oprit încercarea de resetare a parolei.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Număr incorect</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Atingeți numărul afișat pe celălalt ecran. Ca urmare a acestei acțiuni, parola va fi resetată.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Permiteți resetarea parolei</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Cineva a solicitat resetarea parolei pentru Contul dvs. Google. Google a oprit încercarea de resetare a parolei.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Resetarea parolei a fost împiedicată</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Ați solicitat resetarea parolei din %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Ați încercat să resetați parola?</string>
+    <string name="auth_authzen_secure_account_button_text">Menț. securit. cont</string>
+    <string name="auth_authzen_sending_reply_failed_text">Nu s-a putut trimite răspuns la server.</string>
+    <string name="auth_authzen_sending_reply_text">Se trimite răspuns către server</string>
+    <string name="auth_authzen_time_display_text">cu mai puțin de %s (de) minute în urmă</string>
+    <string name="auth_authzen_time_just_now_text">Adineauri</string>
+    <string name="auth_authzen_wait_text">Așteptați…</string>
+    <string name="auth_authzen_workflow_title">Solicitare de autorizare Google</string>
+    <string name="auth_authzen_yes_button_text">Da</string>
+    <string name="auth_back_button_label">Înapoi</string>
+    <string name="auth_bad_name_title">Utilizaţi acest nume?</string>
+    <string name="auth_bluetooth_lure_button">Adăug. ca dispoz. de încredere</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Confirmați ecranul de blocare</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Dispozitiv Bluetooth nou asociat. 
+Adăugați%s ca dispozitiv de încredere pentru a omite blocarea ecranului când acesta este conectat."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Dispozitiv Bluetooth nou asociat.</string>
+    <string name="auth_bluetooth_lure_title">Deblocare personală</string>
+    <string name="auth_cancel_button_label">Anulaţi</string>
+    <string name="auth_captcha_instructions">Introduceţi aici textul pe care îl vedeţi:</string>
+    <string name="auth_captcha_title">Trebuie să introduceţi CAPTCHA</string>
+    <string name="auth_communicating_message">Dispozitivul contactează Google pentru a salva informațiile în contul dvs. Procesul poate dura până la 5 minute.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Starea datelor de conectare</string>
+    <string name="auth_d2d_source_notification_text">"Un nou dispozitiv ^1 a fost configurat la ^2 utilizând acest dispozitiv, inclusiv o încercare de transferare a următoarelor conturi Google: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Noul disp. a fost configurat</string>
+    <string name="auth_d2d_source_progress_message">Se copie datele pe noul dispozitiv...</string>
+    <string name="auth_d2d_source_question">Copiați conturile și datele de pe acest dispozitiv?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Nu se poate utiliza funcția Atingeți și restabiliți dintr-un profil de utilizator cu drepturi limitate.</string>
+    <string name="auth_d2d_source_title">Restabiliți conturile</string>
+    <string name="auth_d2d_source_unknown_device_name">Dispozitiv necunoscut</string>
+    <string name="auth_d2d_target_adding_accounts_message">Se adaugă conturi...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Se realizează conectarea la celălalt dispozitiv...</string>
+    <string name="auth_d2d_target_connection_lost_alert">Conexiunea a fost întreruptă</string>
+    <string name="auth_d2d_target_description">"Copiați rapid orice conturi Google, aplicații și date cu backup de pe dispozitivul dvs. Android existent. Pentru a copia: 
+
+1. asigurați-vă că celălalt dispozitiv este pornit și deblocat; 
+
+2. plasați cele două dispozitive spate în spate pentru puțin timp, apoi îndepărtați-le."</string>
+    <string name="auth_d2d_target_skip_button">Ignorați</string>
+    <string name="auth_d2d_target_sorry_alert">Ne pare rău, a apărut o eroare</string>
+    <string name="auth_d2d_target_tap_progress_message">Pentru a continua, atingeți OK pe celălalt dispozitiv</string>
+    <string name="auth_d2d_target_title">Atingeți și începeți</string>
+    <string name="auth_d2d_target_try_again_button">Încercați din nou</string>
+    <string name="auth_d2d_target_unlock_progress_message">Deblocați celălalt dispozitiv</string>
+    <string name="auth_d2d_target_wait_progress_message">Se copie conturile și datele...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Domeniul dvs. necesită gestionarea dispozitivelor mobile. Instalați aplicația „Google Apps Device Policy” pentru a aplica politicile de securitate cerute de contul "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> nu utilizează Gmail.</string>
+    <string name="auth_error_account_disabled">"Acest cont a fost dezactivat. 
+
+(Pentru detalii, accesaţi http://google.com/accounts cu un browser web.)"</string>
+    <string name="auth_error_account_not_verified">"Acest cont nu a fost confirmat. Verificaţi e-mailurile primite şi accesaţi linkul inclus pentru a confirma acest cont. 
+
+(Pentru a recupera informaţiile contului, accesaţi http://www.google.com/accounts/recovery de pe computer.)"</string>
+    <string name="auth_error_bad_password">Parola este prea slabă sau conţine caractere nevalide. Încercaţi din nou.</string>
+    <string name="auth_error_bad_username">Nume de utilizator nevalid.</string>
+    <string name="auth_error_invalid_second_factor">Utilizaţi o parolă specifică aplicaţiei în loc de parola obişnuită a contului dvs.</string>
+    <string name="auth_error_login_failed">"Numele de utilizator şi parola nu se potrivesc. Încercaţi din nou.
+
+Pentru a recupera informaţiile contului, accesaţi google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">Pentru a vă accesa contul, trebuie să vă conectați pe web. Atingeți Înainte pentru a porni conectarea în browser.</string>
+    <string name="auth_error_not_logged_in">Utilizatorul nu este conectat.</string>
+    <string name="auth_error_username_unavailable">Numele de utilizator nu este disponibil.</string>
+    <string name="auth_existing_account_error_text">Există deja un cont ^1 pe acest gadget Android.</string>
+    <string name="auth_existing_account_error_title">Contul există deja</string>
+    <string name="auth_exit_menu_item">Părăsiți conectarea în browser</string>
+    <string name="auth_facl_scope_details_dialog_title">Ce poate vedea această aplicație</string>
+    <string name="auth_facl_with_warning_label">Schimbați persoanele vizibile în aplicație</string>
+    <string name="auth_field_cant_be_blank">Câmpul nu poate fi necompletat.</string>
+    <string name="auth_fitness_settings_title">Fitness</string>
+    <string name="auth_gls_account_creation_tos">Continuând, sunteți de acord cu <annotation id="tos">Termenii și condițiile</annotation> și <annotation id="google_privacy">Politica de confidențialitate</annotation> Google și cu <annotation id="play_tos">Termenii și condițiile Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Continuând, sunteți de acord cu <annotation id="tos">Termenii și condițiile</annotation> și <annotation id="google_privacy">Politica de confidențialitate</annotation> Google, cu <annotation id="chrome_tos">Termenii și condițiile</annotation> și <annotation id="chrome_privacy">Notificarea privind confidențialitatea</annotation> Chrome și cu <annotation id="play_tos">Termenii și condițiile</annotation> Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">Nu mai pierdeți niciodată lucrurile importante. Un Cont Google păstrează totul în condiții de siguranță.</string>
+    <string name="auth_gls_account_intro_learn_more">Aflați mai multe</string>
+    <string name="auth_gls_account_intro_recommended_title">Configurați Google</string>
+    <string name="auth_gls_account_intro_required_title">Un produs Google</string>
+    <string name="auth_gls_account_intro_simple_message">Doriți să adăugați un cont existent sau să creați unul nou?</string>
+    <string name="auth_gls_account_intro_title">Cont Google</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Aveți un Cont Google?
+
+Dacă utilizați Gmail sau Google Apps, răspundeți Da."</string>
+    <string name="auth_gls_account_pre_intro_no">Nu</string>
+    <string name="auth_gls_account_pre_intro_title">Aveți un Cont Google?</string>
+    <string name="auth_gls_account_pre_intro_yes">Da</string>
+    <string name="auth_gls_account_recovery_info">Dacă pierdeți vreodată parola, puteți răspunde la o întrebare de securitate și veți primi un link de resetare a acesteia la o altă adresă de e-mail.</string>
+    <string name="auth_gls_account_tos_plus_title">Finalizați înscrierea la Google+</string>
+    <string name="auth_gls_account_tos_title">Finalizați contul</string>
+    <string name="auth_gls_add_a_google_account">Adăugați un Cont Google</string>
+    <string name="auth_gls_alternatives_list_title">Nume de utilizator sugerate</string>
+    <string name="auth_gls_answer">" "<b>Răspuns</b></string>
+    <string name="auth_gls_backup_consent_message">"Utilizați Contul Google pentru a crea copii de rezervă pentru aplicații, setări (de ex., marcaje și parole Wi-Fi) și pentru alte date ale dvs. Dacă anterior ați creat o copie de rezervă pentru cont, o puteți acum restabili pe acest telefon.
+
+Puteți să schimbați oricând setările pentru copiile de rezervă în Setări."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Utilizați Contul Google pentru a crea copii de rezervă pentru aplicații, setări (de ex., marcaje și parole Wi-Fi) și pentru alte date ale dvs.
+
+Puteți să schimbați oricând setările pentru copiile de rezervă în Setări."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Păstrați o copie de rezervă a telefonului folosind Contul Google</string>
+    <string name="auth_gls_cant_be_blank">Câmpul nu poate fi necompletat.</string>
+    <string name="auth_gls_checking_account">Se verifică disponibilitatea…</string>
+    <string name="auth_gls_checking_username_message">"Telefonul dvs. contactează Google pentru a verifica dacă numele de utilizator dorit este disponibil.
+
+Aceasta poate dura câteva minute."</string>
+    <string name="auth_gls_choose_a_password">Parolă</string>
+    <string name="auth_gls_circles_subtitle">Cercuri</string>
+    <string name="auth_gls_circles_text">Cel mai simplu mod de a arăta online lucrurile care contează cu adevărat.</string>
+    <string name="auth_gls_confirm_password">Reintroduceți parola</string>
+    <string name="auth_gls_create_button_label">Creați un cont</string>
+    <string name="auth_gls_create_google_account">Alegeți un nume de utilizator</string>
+    <string name="auth_gls_create_google_account_text">Contul Google include Gmail, serviciul de e-mail oferit de Google, care funcționează pe orice dispozitiv, blochează spamul și are multe alte funcții.</string>
+    <string name="auth_gls_creating_account_title">Se salvează contul…</string>
+    <string name="auth_gls_creating_profile">Se creează profilul…</string>
+    <string name="auth_gls_crop_failure">Fotografia nu a putut fi decupată.</string>
+    <string name="auth_gls_dasher_warning">Administratorul de la %s deține și gestionează toate datele dvs. din Google+ și vă poate șterge sau modifica oricând profilul, fără permisiunea dvs.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Domeniul dvs. necesită gestionarea dispozitivelor mobile. Activați aplicația „Google Apps Device Policy” pentru a aplica politicile de securitate cerute de contul "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Activați</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Domeniul dvs. necesită gestionarea dispozitivelor mobile. Instalați aplicația „Google Apps Device Policy” pentru a aplica politicile de securitate cerute de contul "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Descărcați</string>
+    <string name="auth_gls_edit_text_help">Atingeți orice casetă de text pentru a începe să introduceți text</string>
+    <string name="auth_gls_eight_chars_min">Minimum 8 caractere</string>
+    <string name="auth_gls_enable_web_history">Activați Istoricul web</string>
+    <string name="auth_gls_error_bad_password">Parola este prea slabă sau conține caractere nevalide. Încercați din nou.</string>
+    <string name="auth_gls_error_login_failed">"Numele de utilizator și parola nu se potrivesc. Încercați din nou.
+
+Pentru a recupera informațiile contului, accesați google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">Pentru a vă accesa contul, trebuie să vă conectați pe web. Atingeți Înainte pentru a porni conectarea în browser.</string>
+    <string name="auth_gls_existing_account_error_text">Există deja un cont ^1 pe acest dispozitiv Android.</string>
+    <string name="auth_gls_existing_account_error_title">Contul există deja</string>
+    <string name="auth_gls_existing_button_label">Existent</string>
+    <string name="auth_gls_google_play_opt_in">Doresc să primesc știri și oferte actualizate de la Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" poate conține numai litere,
+cifre și puncte."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> nu conține litere.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> conține mai puțin de 6 sau mai mult de 30 de caractere.</string>
+    <string name="auth_gls_huddle_text">Trimiteți mesaje în grup pentru toate persoanele din cercurile dvs.</string>
+    <string name="auth_gls_invalid_email">"Adresa de e-mail introdusă nu este validă.
+ Exemplu: ion@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Adresa pentru recuperare nu poate fi aceeași cu cea pe care o creați.</string>
+    <string name="auth_gls_is_not_available">Numele de utilizator <b>^1</b> nu este disponibil.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Aflați mai multe</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Cu un Cont Google puteți:
+
+"<li><ul>să vedeți și să organizați toate informațiile dvs., de oriunde;</ul></li>"
+
+"<li><ul>să creați automat copii de rezervă pentru datele dvs., cum ar fi e-mailurile, agenda, muzica și fotografiile;</ul></li>" 
+
+"<li><ul>să utilizați serviciile Google cu ușurință, de oriunde, inclusiv Agenda Google, Google Calendar, Hărți Google și altele.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Despre Conturile Google</string>
+    <string name="auth_gls_learn_more_web_history">"Istoricul web ajustează rezultatele căutării pe baza interogărilor dvs. de căutare și a site-urilor pe care le-ați accesat, oferindu-vă o experiență Google personalizată. 
+
+Pentru a afișa și a gestiona Istoricul web, inclusiv pentru a-l activa sau a-l dezactiva, accesați http://www.google.com/history."</string>
+    <string name="auth_gls_learn_more_web_history_title">Despre Istoricul web</string>
+    <string name="auth_gls_name_checking_info_title">Se verif. info.</string>
+    <string name="auth_gls_name_progress_title">O secundă…</string>
+    <string name="auth_gls_name_text">Numele dvs. este utilizat pentru a personaliza telefonul și serviciile dvs. Google.</string>
+    <string name="auth_gls_name_text_local">Telefonul utilizează numele dvs. pentru a personaliza anumite aplicații.</string>
+    <string name="auth_gls_name_title_local">Acest telefon aparține…</string>
+    <string name="auth_gls_name_title_plus">Numele dvs. Google+</string>
+    <string name="auth_gls_network_unreliable">Nu se poate stabili o conexiune de date sigură la server.</string>
+    <string name="auth_gls_network_unreliable_help">Este posibil ca aceasta să fie o problemă temporară sau ca dispozitivul Android să nu fie pregătit pentru servicii de date. Dacă problema persistă, apelați Serviciul de relații cu clienții.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Aceasta ar putea fi o problemă temporară. Încercați din nou sau conectați-vă la altă rețea Wi-Fi.</string>
+    <string name="auth_gls_new_button_label">Nou</string>
+    <string name="auth_gls_no_network">Nu aveți o conexiune la rețea.</string>
+    <string name="auth_gls_no_network_help">Este posibil ca aceasta să fie o problemă temporară sau ca dispozitivul Android să nu fie pregătit pentru servicii de date. Încercați din nou când veți fi conectat(ă) la o rețea mobilă sau conectați-vă la o rețea Wi-Fi.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Aceasta ar putea fi o problemă temporară. Încercați din nou sau conectați-vă la altă rețea Wi-Fi.</string>
+    <string name="auth_gls_not_now_button_label">Nu acum</string>
+    <string name="auth_gls_password_mismatch">Parolele nu s-au potrivit. Încercați din nou.</string>
+    <string name="auth_gls_password_title">Creați o parolă</string>
+    <string name="auth_gls_photo_button_label">Faceți o fotografie</string>
+    <string name="auth_gls_photo_description">Fotografia dvs.</string>
+    <string name="auth_gls_photo_failure">Camera foto nu a putut fi lansată.</string>
+    <string name="auth_gls_photo_text">Această fotografie va fi utilizată în informațiile de contact. Puteți să o schimbați mai târziu, în aplicația Persoane.</string>
+    <string name="auth_gls_photo_text_es">Realizați o fotografie pe care prietenii dvs. o vor vedea pe Google+. Puteți să alegeți altă fotografie mai târziu.</string>
+    <string name="auth_gls_photo_title">Fotografia dvs.</string>
+    <string name="auth_gls_plus_accepted_button_label">Creați cont Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Nu acum</string>
+    <string name="auth_gls_plus_failure_new_account_text">Contul dvs. Google a fost creat, dar solicitarea de înscriere la Google+ nu a fost primită. Încercați din nou mai târziu din orice browser web la plus.google.com.</string>
+    <string name="auth_gls_plus_failure_text">Solicitarea dvs. de înscriere la Google+ nu a fost primită. Încercați din nou mai târziu din orice browser web la plus.google.com.</string>
+    <string name="auth_gls_plus_failure_title">Creați un cont Google+ mai târziu</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Pe Google+ veți avea un profil public pentru a-i ajuta pe prietenii dvs. să vă găsească online. Oricine cunoaște adresa dvs. de e-mail poate găsi și vedea profilul dvs.
+
+Puteți să utilizați butoanele +1 pe web pentru a recomanda lucruri lumii întregi. Profilul dvs. și +1rile vor apărea în mod public la căutare, în anunțuri și pe web.
+
+Pentru moment, profilul va afișa numai numele dvs. (%s %s). Ulterior, atunci când începeți să utilizați Google+, puteți să adăugați o fotografie, biografia dvs., precum și alte detalii."</string>
+    <string name="auth_gls_plus_name_check_text">Procesul poate dura câteva minute.</string>
+    <string name="auth_gls_plus_name_check_title">Se contactează Google+…</string>
+    <string name="auth_gls_plus_query_text">Cu Google+, distribuirea pe web seamănă mai mult cu schimbul de idei și lucruri din viața reală.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Nu sunteți %s?</string>
+    <string name="auth_gls_provisioned_welcome">Bună ziua, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Introduceți parola pentru:
+%s"</string>
+    <string name="auth_gls_recovery_title">Informații pentru recuperare</string>
+    <string name="auth_gls_restore_consent_yes_agree">Restabiliți datele din Contul Google pe acest telefon</string>
+    <string name="auth_gls_restoring_message">Telefonul contactează Google pentru a restabili contul dvs. Acest proces poate dura un timp.</string>
+    <string name="auth_gls_restoring_title">Se restabilește…</string>
+    <string name="auth_gls_retake_photo_button_label">Refaceți fotografia</string>
+    <string name="auth_gls_secondary_email_label">Adresa de e-mail pentru recuperare</string>
+    <string name="auth_gls_security_questions_title">Întrebări de securitate</string>
+    <string name="auth_gls_server_error">A apărut o problemă de comunicare cu serverele Google.</string>
+    <string name="auth_gls_server_error_help">Încercați din nou mai târziu.</string>
+    <string name="auth_gls_sign_in_agreement">Conectându-vă, sunteți de acord cu <annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate</annotation> Google, precum și cu <annotation id="play_tos">Termenii și condițiile Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Conectându-vă, sunteți de acord cu "<annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate </annotation>Google, precum și cu <annotation id="play_tos">Termenii și condițiile Google Play </annotation>". 
+
+Rețineți că orice alt utilizator poate accepta permisiunile aplicațiilor actualizate în numele dvs. Ca pentru orice alt computer, trebuie să permiteți accesul la această tabletă numai persoanelor în care aveți încredere."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Conectându-vă, sunteți de acord cu "<annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate</annotation> Google, cu <annotation id="chrome_tos">Termenii și condițiile</annotation> și cu <annotation id="chrome_privacy">Notificarea privind confidențialitatea</annotation> Chrome, precum și cu <annotation id="play_tos">Termenii și condițiile</annotation> Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Conectându-vă, sunteți de acord cu "<annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate</annotation> Google, cu <annotation id="chrome_tos">Termenii și condițiile</annotation> și cu <annotation id="chrome_privacy">Notificarea privind confidențialitatea</annotation> Chrome, precum și cu <annotation id="play_tos">Termenii și condițiile</annotation>" Google Play. 
+
+Rețineți că orice alt utilizator poate accepta permisiunile aplicațiilor actualizate în numele dvs. Ca pentru orice alt computer, trebuie să permiteți accesul la această tabletă numai persoanelor în care aveți încredere."</string>
+    <string name="auth_gls_submission_title">Ne pare rău…</string>
+    <string name="auth_gls_suggest_username_next_button_label">Schimbați numele de utilizator</string>
+    <string name="auth_gls_suggestions_hint">Atingeți pentru sugestii</string>
+    <string name="auth_gls_sync_intro_activity_title">Conectare la cont reușită</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Creați și restabiliți copii de rezervă</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Copie de rezervă</string>
+    <string name="auth_gls_sync_intro_title">Sincronizați contul</string>
+    <string name="auth_gls_sync_item_title">Sincronizați %s</string>
+    <string name="auth_gls_too_short">Prea scurtă</string>
+    <string name="auth_gls_ui_activity_authenticating">Se autentifică…</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Se pregătește…</string>
+    <string name="auth_gls_uploads_subtitle">Încărcare instant</string>
+    <string name="auth_gls_uploads_text">Sincronizați cu ușurință toate fotografiile de pe toate dispozitivele dvs.</string>
+    <string name="auth_gls_verify_your_profile">Confirmați profilul</string>
+    <string name="auth_gls_wait_for_device_country_msg">Se culeg informații despre telefon. Poate dura până la 30 de secunde.</string>
+    <string name="auth_gls_wait_for_device_country_title">Configurarea contului</string>
+    <string name="auth_google_settings_header_title">Confidențialitatea</string>
+    <string name="auth_google_title_logo">Siglă Google</string>
+    <string name="auth_google_trust_agent_title">Deblocare personală</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Conectați-vă cu Google+</string>
+    <string name="auth_gsf_notification_login_error">Atingeți pentru a vă conecta la contul dvs.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Permisiune solicitată
+pentru contul %s"</string>
+    <string name="auth_invalid_login_character">Caracter nevalid. Sunt permise numai cifre 0 – 9, litere minuscule a – z, litere majuscule A – Z şi puncte.</string>
+    <string name="auth_invalid_password_character">Caracter nevalid în parolă.</string>
+    <string name="auth_invalid_scope">Domeniu nevalid utilizat la solicitarea autentificării.</string>
+    <string name="auth_invalid_username">Textul introdus nu reprezintă un nume de utilizator valid.</string>
+    <string name="auth_learn_more_title">Aflaţi mai multe</string>
+    <string name="auth_location_neighborhood_level">Permiteți trimiterea de date anonime de localizare la Google. Permiteți aplic. acceptate să utilizeze date din surse ca rețelele Wi-Fi sau mobile pt. a determina locația aprox.</string>
+    <string name="auth_location_network_based">Serviciul de localizare Google</string>
+    <string name="auth_location_settings_title">Setări privind locația</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">Ați introdus o parolă incorectă sau datele contului dvs. s-au schimbat. Reintroduceți parola. Dacă ați uitat parola și este nevoie să vă recuperați contul, dați clic <annotation id="help_url">aici</annotation>.</string>
+    <string name="auth_login_activity_task_title">Conectarea…</string>
+    <string name="auth_login_activity_title">Conectaţi-vă</string>
+    <string name="auth_login_task_title">Conectarea</string>
+    <string name="auth_login_title">Introduceţi adresa de e-mail şi parola</string>
+    <string name="auth_maps_settings_title">Hărți Google și Latitude</string>
+    <string name="auth_minutemaid_title">Creați un Cont Google</string>
+    <string name="auth_name_title">Numele dvs.</string>
+    <string name="auth_network_unreliable">Nu se poate stabili o conexiune de date sigură la server.</string>
+    <string name="auth_network_unreliable_help">Este posibil ca aceasta să fie o problemă temporară sau ca gadgetul Android să nu fie pregătit pentru servicii de date. Dacă problema persistă apelaţi Serviciul de relaţii cu clienţii.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Aceasta ar putea fi o problemă temporară. Încercaţi din nou sau conectaţi-vă la altă reţea Wi-Fi.</string>
+    <string name="auth_next_button_label">Înainte</string>
+    <string name="auth_nfc_caution">Protejați această etichetă. Un atacator ar putea să o copieze.</string>
+    <string name="auth_nfc_tag_exists">%1$s deja s-a adăugat</string>
+    <string name="auth_nfc_tag_not_supported">Dispozitivul NFC furnizat nu este acceptat</string>
+    <string name="auth_no_network">Nu aveţi o conexiune la reţea.</string>
+    <string name="auth_no_network_help">Este posibil ca aceasta să fie o problemă temporară sau ca gadgetul Android să nu fie pregătit pentru servicii de date. Încercaţi din nou când veţi fi conectat(ă) la o reţea mobilă sau conectaţi-vă la o reţea Wi-Fi.</string>
+    <string name="auth_no_network_help_wifi_only">Aceasta ar putea fi o problemă temporară. Încercaţi din nou sau conectaţi-vă la altă reţea Wi-Fi.</string>
+    <string name="auth_ok_button_label">OK</string>
+    <string name="auth_only_you_acl">Numai dvs.</string>
+    <string name="auth_otp_dialog_title">Cod de verificare</string>
+    <string name="auth_otp_done_button">Terminat</string>
+    <string name="auth_otp_error">A apărut o problemă la generarea codului de verificare.</string>
+    <string name="auth_otp_instruction">Utilizați acest cod numai pentru a vă conecta la Google.</string>
+    <string name="auth_otp_no_accounts_available_message">Nu există niciun cont configurat pe acest dispozitiv.</string>
+    <string name="auth_otp_progress_dialog_message">Se generează un cod de verificare.</string>
+    <string name="auth_otp_select_account_message">Selectați un cont</string>
+    <string name="auth_pacl_scope_details_dialog_title">Ce poate vedea Google</string>
+    <string name="auth_password">Parolă</string>
+    <string name="auth_personal_unlocking_name">Deblocare personală</string>
+    <string name="auth_personal_unlocking_service_name">Deblocare personală (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Contul Google a fost creat, dar solicitarea de a crea un profil Google+ nu a fost acceptată. Încercați din nou mai târziu din orice browser web la plus.google.com.</string>
+    <string name="auth_plus_failure_text">Solicitarea dvs. de înscriere la Google+ nu a fost primită. Încercaţi din nou mai târziu din orice browser web la plus.google.com.</string>
+    <string name="auth_plus_failure_title">Creați un profil Google+ mai târziu</string>
+    <string name="auth_plus_faq_title">Bun venit la Google+!</string>
+    <string name="auth_plus_name_check_text">Procesul poate dura câteva minute.</string>
+    <string name="auth_plus_query_title">Creați un profil Google+</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Bună ziua, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Introduceți parola pentru:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Dispozitiv Chrome blocat.</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Dispozitiv Chrome deblocat.</string>
+    <string name="auth_proximity_auth_setup_completed_content">Acest telefon vă poate debloca dispozitivele Chrome.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Modul Deblocare ușoară este activat</string>
+    <string name="auth_proximity_auth_setup_failed_content">Încercați din nou pe dispozitivul Chrome.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Eroare la configurarea modului Deblocare ușoară</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Telefon găsit. Continuați pe dispozitivul Chrome.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Configurarea modului Deblocare ușoară</string>
+    <string name="auth_recovery_loading">Se încarcă…</string>
+    <string name="auth_recovery_sending">Se trimite…</string>
+    <string name="auth_relogin_activity_title">Introduceţi din nou parola</string>
+    <string name="auth_scope_acl_edit_desc">Editați</string>
+    <string name="auth_scope_details_dialog_title">Mai multe informaţii</string>
+    <string name="auth_scope_icon_desc">Pictogramă</string>
+    <string name="auth_scope_info_desc">Informații</string>
+    <string name="auth_scope_warning_desc">Avertisment</string>
+    <string name="auth_search_settings_title">Căutare</string>
+    <string name="auth_server_error">A apărut o problemă de comunicare cu serverele Google.</string>
+    <string name="auth_server_error_help">Încercaţi din nou mai târziu.</string>
+    <string name="auth_setup_wizard_title">Aplicaţie-asistent de configurare</string>
+    <string name="auth_show_error_activity_title">Nu v-ați conectat</string>
+    <string name="auth_show_error_title">Eroare</string>
+    <string name="auth_sign_in_agreement">Conectându-vă, sunteţi de acord cu Politicile de confidenţialitate <annotation id="google_privacy">Google</annotation> şi cu cele <annotation id="android_privacy">suplimentare</annotation>.</string>
+    <string name="auth_sign_in_agreement_multi_user">Conectându-vă, sunteți de acord cu <annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate</annotation> Google, precum și cu <annotation id="play_tos">Termenii și condițiile Google Play</annotation>". 
+
+Rețineți că orice alt utilizator poate accepta permisiunile aplicațiilor actualizate în numele dvs. Ca pentru orice alt computer, trebuie să permiteți accesul la această tabletă numai persoanelor în care aveți încredere."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Conectându-vă, sunteți de acord cu <annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate</annotation> Google, cu <annotation id="chrome_tos">Termenii și condițiile</annotation> și cu <annotation id="chrome_privacy">Notificarea privind confidențialitatea</annotation> Chrome, precum și cu <annotation id="play_tos">Termenii și condițiile</annotation> Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Conectându-vă, sunteți de acord cu <annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate</annotation> Google, cu <annotation id="chrome_tos">Termenii și condițiile</annotation> și cu <annotation id="chrome_privacy">Notificarea privind confidențialitatea</annotation> Chrome, precum și cu <annotation id="play_tos">Termenii și condițiile</annotation>" Google Play. 
+
+Rețineți că orice alt utilizator poate accepta permisiunile aplicațiilor actualizate în numele dvs. Ca pentru orice alt computer, trebuie să permiteți accesul la această tabletă numai persoanelor în care aveți încredere."</string>
+    <string name="auth_sign_in_browser">Conectare în browser</string>
+    <string name="auth_sign_in_button_label">Conectaţi-vă</string>
+    <string name="auth_sign_in_with_google_account_short">Conectaţi-vă utilizând Contul Google:</string>
+    <string name="auth_skip_button_label">Omiteţi</string>
+    <string name="auth_submission_error_text">A apărut o eroare, încercaţi din nou.</string>
+    <string name="auth_submission_title">Ne pare rău…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Pt. configurare, atingeți dispoz. de o etichetă sau de un dispoz. NFC.</string>
+    <string name="auth_trust_agent_add_nfc_title">Adăugați NFC</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Adăugați un dispozitiv de încredere</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Adăugați locație de încredere</string>
+    <string name="auth_trust_agent_button_nfc_settings">Setări NFC</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Conectarea la dispozitivul Bluetooth %s a reușit</string>
+    <string name="auth_trust_agent_dpm_disabled">Setare dezactivată de administrator</string>
+    <string name="auth_trust_agent_enable_nfc">Activați NFC pentru a adăuga un dispozitiv NFC</string>
+    <string name="auth_trust_agent_first_use_notification_button">AM ÎNȚELES</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">în timp ce este conectat la %s, dispozitiv pe care l-ați setat ca fiind de încredere.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Pentru a forța dispozitivul să se blocheze, închideți ecranul, apoi deschideți-l și atingeți pictograma de blocare.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">în timp ce se află la %s, locație pe care ați setat-o ca fiind de încredere.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Dispozitivul dvs. este deblocat</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Nume</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC găsit
+Introduceți un nume pentru acesta."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Dezactivat</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Activat</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Îmbunătățiți recunoașterea feței</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Anulați</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Acest dispozitiv nu vă mai recunoaște fața, iar funcția Trusted face va fi dezactivată.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Resetați</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Resetați Trusted face?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Resetați Trusted face</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Trusted face</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Conectat</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Niciunul</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Neconectat</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Dispozitive de încredere</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Niciunul</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Acasă</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Adresă neprecizată</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Locații de încredere</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Serviciu</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Conectarea a eșuat. Încercați din nou.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Nu se poate seta dispoz. NFC</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Adăugați un dispozitiv de încredere pentru a menține dispozitivul deblocat când este conectat. 
+
+Exemple:
+
+- ceasul cu bluetooth;
+- sistemul bluetooth din mașină."</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth este dezactivat)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Adăugați un dispozitiv de încredere</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth este dezactivat.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Anulați</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Alegeți dispozitivul</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Adăugați un dispozitiv de încredere pentru a menține dispozitivul deblocat când este conectat. 
+
+Exemple:
+
+- ceasul cu bluetooth;
+- sistemul bluetooth din mașină;
+ - un sticker NFC de pe dispozitivul de andocare al telefonului din mașină."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Eliminați acest dispozitiv din lista de dispozitive de încredere?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Dispozitiv necunoscut.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Adăugați un dispozitiv NFC de încredere pentru a debloca acest dispozitiv cu o atingere. 
+
+Exemple:
+
+- un sticker NFC de pe dispozitivul de andocare al telefonului din mașină."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Adăugați contul pentru a prelua adresa domiciliului și a serviciului.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Anulați</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Adăugați un dispozitiv de încredere pentru a păstra acest dispozitiv deblocat la accesare. 
+
+Exemple:
+
+- acasă;
+- la birou."</string>
+    <string name="auth_trust_agent_trusted_places_remove">Eliminați</string>
+    <string name="auth_trust_agent_trusted_places_rename">Redenumiți</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Selectați un cont</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Necunoscut</string>
+    <string name="auth_trust_devices_not_available">Funcția Dispozitive de încredere nu este disponibilă pentru utilizare.</string>
+    <string name="auth_trust_places_not_available">Funcția Locații de încredere nu este disponibilă pentru utilizare.</string>
+    <string name="auth_try_again_button_label">Încercaţi din nou</string>
+    <string name="auth_ui_activity_authenticating">Se autentifică…</string>
+    <string name="auth_ui_activity_title">Conectare la Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Conectare</string>
+    <string name="auth_ui_add_account_title">Configurarea contului</string>
+    <string name="auth_unexpected_acl_error">A apărut o problemă la acordarea permisiunilor.</string>
+    <string name="auth_use_location_summary">Permiteți Google să utilizeze locația dvs. pt. îmbunătățirea rezultatelor căutării și a serviciilor</string>
+    <string name="auth_use_location_title">Locația și Căutarea Google</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_visible_actions_title">Distribuiţi…</string>
+    <string name="authorization_dialog">Dialog de autorizare</string>
+    <string name="cancel">Anulează</string>
+    <string name="circle_button_add_to_circles">Adaugă în cercuri</string>
+    <string name="circle_button_circles">%d (de) cercuri</string>
+    <string name="circle_button_follow">Urmărește</string>
+    <string name="circle_button_following_circle">Persoane urmărite</string>
+    <string name="circle_button_medium_add_to_circles">Adaugă</string>
+    <string name="circle_button_profile_blocked">Blocat(ă)</string>
+    <string name="common_accessibility_audience_view_editable">Editați publicul</string>
+    <string name="common_add_account_button_label">Adăugaţi un cont</string>
+    <string name="common_add_account_label">Adăugaţi un cont</string>
+    <string name="common_ads_settings_title">Anunțuri</string>
+    <string name="common_android_wear_notification_needs_update_text">O aplicație necesită actualizarea aplicației Android Wear.</string>
+    <string name="common_android_wear_update_text">Această aplicație nu va rula dacă nu actualizați aplicația Android Wear.</string>
+    <string name="common_android_wear_update_title">Actualizați Android Wear</string>
+    <string name="common_app_name">Servicii Google Play</string>
+    <string name="common_cannot_start_hangouts_exception">Aplicația Hangouts nu poate fi pornită.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Aplicația Hangouts nu poate fi pornită (eroare de permisiune).</string>
+    <string name="common_car_permission_desc">Accesul la service-ul de mașini.</string>
+    <string name="common_car_permission_label">Service de mașini</string>
+    <string name="common_chips_label_empty_circles">Niciun cerc</string>
+    <string name="common_chips_label_extended_circles">Cercuri extinse</string>
+    <string name="common_chips_label_only_you">Numai dvs.</string>
+    <string name="common_chips_label_public">Public</string>
+    <string name="common_chips_label_your_circles">Cercurile dvs.</string>
+    <string name="common_choose_account_label">Alegeţi un cont</string>
+    <string name="common_clear_app_data_menu_item">Ștergeți datele aplicației</string>
+    <string name="common_connected_apps_settings_title">Aplicații conectate</string>
+    <string name="common_fitness_settings_title">Fitness</string>
+    <string name="common_games_settings_title">Jocuri Play</string>
+    <string name="common_get_verification_code_menu_item">Obțineți codul de verificare</string>
+    <string name="common_google_play_services_enable_button">Activaţi Servicii Google Play</string>
+    <string name="common_google_play_services_enable_text">Această aplicaţie nu va funcţiona decât dacă activaţi Servicii Google Play.</string>
+    <string name="common_google_play_services_enable_title">Activaţi Servicii Google Play</string>
+    <string name="common_google_play_services_error_dialog_title">Eroare</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Solicitată de %1$s</string>
+    <string name="common_google_play_services_install_button">Obţineţi Servicii Google Play</string>
+    <string name="common_google_play_services_install_text_phone">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe telefon.</string>
+    <string name="common_google_play_services_install_text_tablet">Această aplicaţie nu poate rula fără Servicii Google Play, care lipsesc de pe tabletă.</string>
+    <string name="common_google_play_services_install_title">Descărcaţi Servicii Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Contul menționat nu există pe acest dispozitiv. Alegeți alt cont.</string>
+    <string name="common_google_play_services_invalid_account_title">Cont nevalid</string>
+    <string name="common_google_play_services_needs_enabling_title">O aplicație necesită activarea serviciilor Google Play.</string>
+    <string name="common_google_play_services_network_error_text">Este necesară o conexiune de date pentru a vă conecta la serviciile Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Eroare de reţea</string>
+    <string name="common_google_play_services_no_restricted_profiles">Această aplicație nu acceptă conturi pentru profilurile cu permisiuni limitate</string>
+    <string name="common_google_play_services_notification_needs_installation_title">O aplicație necesită instalarea serviciilor Google Play.</string>
+    <string name="common_google_play_services_notification_needs_update_title">O aplicație necesită o actualizare pentru serviciile Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Problemă necunoscută privind Servicii Google Play.</string>
+    <string name="common_google_play_services_unsupported_text">Gadgetul nu acceptă serviciile Google Play, pe care se bazează unele dintre aplicații. Pentru asistență, contactați producătorul gadgetului.</string>
+    <string name="common_google_play_services_unsupported_title">Servicii Google Play</string>
+    <string name="common_google_play_services_update_button">Actualizaţi</string>
+    <string name="common_google_play_services_update_text">Această aplicaţie nu poate rula decât dacă actualizaţi Servicii Google Play.</string>
+    <string name="common_google_play_services_update_title">Actualizaţi Servicii Google Play</string>
+    <string name="common_google_settings">Setări Google</string>
+    <string name="common_list_apps_menu_help">Ajutor</string>
+    <string name="common_list_apps_menu_help_and_feedback">Ajutor și feedback</string>
+    <string name="common_location_settings_title">Locație</string>
+    <string name="common_maps_settings_title">Hărți Google și Latitude</string>
+    <string name="common_mdm_feature_name">Manager de dispozitiv Android</string>
+    <string name="common_network_load_failed">Indisponibil, deoarece dispozitivul nu s-a putut conecta la o rețea</string>
+    <string name="common_no_network">Indisponibil, deoarece dispozitivul este offline</string>
+    <string name="common_open_on_phone">Deschideți pe telefon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Nu există conturi de selectat.</string>
+    <string name="common_search_and_now_settings_title">Căutare și Now</string>
+    <string name="common_search_settings_title">Căutare</string>
+    <string name="common_security_settings_title">Verificați aplicațiile</string>
+    <string name="common_signin_button_text">Conectați</string>
+    <string name="common_signin_button_text_long">Conectați-vă cu Google</string>
+    <string name="common_storage_settings_title">Spațiu de stocare pentru servicii Play</string>
+    <string name="common_ui_confirm_deleting_button">Ștergeți</string>
+    <string name="common_ui_confirm_deleting_checkbox">Înțeleg și șterg</string>
+    <string name="common_url_load_unsuccessful_message">Dispozitivul Android nu este conectat la niciun serviciu de date. Afișați informațiile accesând %s cu un browser web.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Dispozitivul Android nu este conectat la nicio rețea Wi-Fi. Afișați informațiile accesând %s cu un browser web.</string>
+    <string name="common_url_login_notice">Conectați-vă ca %1$s</string>
+    <string name="common_usage_and_diagnostics">Utilizare și diagnosticare</string>
+    <string name="country_invalid">Țara nu este acceptată</string>
+    <string name="device_location_acl_no_one">Nimeni</string>
+    <string name="device_location_best_acl_picker_title">Vizibilitatea locației indicate</string>
+    <string name="device_location_city_acl_picker_title">Vizibilitatea orașului</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s și alții</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> și încă %d (de) persoane</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Trebuie să ai o conexiune de date pentru a vedea setările pentru afișarea locației. Verifică-ți conexiunea sau încearcă din nou mai târziu.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Deschide setările pentru locație</string>
+    <string name="device_location_reporting_reminder_dialog_summary">Dacă dezactivezi Afișarea locației, funcțiile Raportarea locației și Istoricul locațiilor nu sunt afectate. Locația poate fi necesară pentru alte servicii Google pe care le-ai activat anterior, precum Google Now. Poți oricând să stabilești setările pentru Raportarea locației și pentru Istoricul locațiilor din Setările locației.</string>
+    <string name="device_location_reporting_reminder_dialog_title">Raportarea locației</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> și &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> și &lt;b>%s&lt;/b></string>
+    <string name="disagree">Nu sunt de acord</string>
+    <string name="enable_location_reporting_error">Nu au putut fi activate funcțiile Raportarea locației și Istoricul locațiilor pentru %s. Pentru a activa Raportarea locației și Istoricul locațiilor accesează Setările locației.</string>
+    <string name="enable_location_reporting_error_title">A apărut o eroare</string>
+    <string name="enable_location_reporting_title">Raportarea locației</string>
+    <string name="friend_locations_enable_reporting_auto_body">Produsele Google care folosesc Raportarea locației pot să stocheze și să folosească datele despre cele mai recente locații de pe dispozitivele tale. Pentru afișarea locației este necesară activarea funcției Raportarea locației.&lt;br/>&lt;br/>Istoricul locațiilor permite serviciului Google să stocheze un istoric al datelor despre locațiile tale de pe dispozitivele pe care ai activat Raportarea locației. &lt;a href=\"%2$s\">Află mai multe&lt;/a>.&lt;br>Activezi Raportarea locației și Istoricul pentru %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">Produsele Google care folosesc Raportarea locației pot să stocheze și să folosească datele despre cele mai recente locații de pe dispozitivele tale. Pentru afișarea locației este necesară activarea funcției Raportarea locației.&lt;br/>&lt;br/>Din Setările locației din Google Maps, asigură-te că la „Raportarea locației” este setată opțiunea „Detectează-ți locația” și că opțiunea „Raportează de pe acest dispozitiv” este bifată. &lt;a href=\"%s\">Află mai multe&lt;/a>.</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">Produsele Google care folosesc Raportarea locației pot să stocheze și să folosească datele despre cele mai recente locații de pe dispozitivele tale. Pentru afișarea locației este necesară activarea funcției Raportarea locației.&lt;br/>&lt;br/>Conectează-te la Google Maps ca %1$s și, din Setările locației, asigură-te că la „Raportarea locației” este setată opțiunea „Detectează-ți locația” și că opțiunea „Raportează de pe acest dispozitiv” este bifată. &lt;a href=\"%2$s\">Află mai multe&lt;/a>.</string>
+    <string name="loading">Se încarcă…</string>
+    <string name="location_settings_allow_access_summary">Permiteți aplicațiilor Google să utilizeze locația dispozitivului când acesta este pornit</string>
+    <string name="location_settings_allow_access_title">Acces la locație</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"Nu vă veți mai putea recupera Istoricul locațiilor. 
+
+Este posibil ca Google Now și alte aplicații care utilizează Istoricul locațiilor să nu mai funcționeze."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Ștergeți definitiv?</string>
+    <string name="location_settings_delete_auth_error">Nume de utilizator sau parolă incorecte</string>
+    <string name="location_settings_delete_io_error">Dispozitivul nu s-a putut conecta la o rețea</string>
+    <string name="location_settings_delete_location_history">ȘTERGEȚI ISTORICUL LOCAȚIILOR</string>
+    <string name="location_settings_delete_location_history_in_progress">SE ȘTERGE...</string>
+    <string name="location_settings_delete_offline_error">Dispozitivul este offline</string>
+    <string name="location_settings_expiration_both_one">Peste o oră și un minut</string>
+    <string name="location_settings_expiration_both_other" formatted="false">Peste %d (de) ore și %d (de) minute</string>
+    <string name="location_settings_expiration_hours_one">Peste o oră și %d (de) minute</string>
+    <string name="location_settings_expiration_minutes">Peste %d</string>
+    <string name="location_settings_expiration_minutes_one">Peste %d (de) ore și un minut</string>
+    <string name="location_settings_expiration_soon">Peste mai puțin de 15 minute</string>
+    <string name="location_settings_info_title">Informații</string>
+    <string name="location_settings_location_history_activity_title">Istoricul locațiilor</string>
+    <string name="location_settings_location_history_summary_full">"Această setare permite Google să stocheze un istoric al datelor despre locație de pe dispozitivele pe care ați activat raportarea locației pentru acest cont. Istoricul locațiilor vă ajută să beneficiați mai mult de Google – de exemplu, Google Now îl poate utiliza pentru a vă trimite notificări despre traficul de pe traseele pe care faceți naveta. 
+
+Puteți vedea și gestiona Istoricul locațiilor la maps.google.com/locationhistory. Puteți dezactiva Istoricul locațiilor în orice moment, dar în acest fel nu se vor elimina intrările existente. Apăsând pe butonul de mai jos veți șterge toate intrările existente din Istoricul locațiilor pentru contul dvs."</string>
+    <string name="location_settings_location_reporting_activity_title">Raportarea locației</string>
+    <string name="location_settings_location_reporting_summary_full">"Google utilizează această funcție în produse cum ar fi Google Now și Google Maps. 
+
+Prin activarea raportării locației, permiteți tuturor produselor Google care utilizează această funcție să stocheze și să folosească cele mai recente date despre locație de pe dispozitiv și să le asocieze contului Google."</string>
+    <string name="location_settings_no_network_alert">Trebuie să ai o conexiune de date pentru a vedea setările pentru afișarea locației. Verifică-ți conexiunea sau încearcă din nou mai târziu.</string>
+    <string name="location_settings_not_available_summary">Nu aveți un cont Google.</string>
+    <string name="location_settings_not_available_title">Adăugați un cont</string>
+    <string name="location_settings_reporting_summary_off">Dezactiv. pe acest dispozitiv</string>
+    <string name="location_settings_reporting_summary_on">Activată pe acest dispozitiv</string>
+    <string name="location_settings_save_error">Setările nu pot fi salvate.</string>
+    <string name="location_settings_saving">Se salvează setările…</string>
+    <string name="location_settings_screen_title">Setări de localizare Google</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Această setare stabilește accesul la locație numai pentru aplicațiile Google. 
+
+Dacă doriți să setați accesul la locație pentru toate aplicațiile, accesați Setări > Acces la locație."</string>
+    <string name="location_settings_temporary_sharing_title">Persoanele care-ți văd temporar locația:</string>
+    <string name="location_settings_ulr_summary_ambiguous">Nu se poate stabili setarea anterioară. Serviciul a fost oprit.</string>
+    <string name="location_settings_ulr_summary_auth_error">Indisponibil, deoarece numele de utilizator sau parola este incorectă</string>
+    <string name="location_settings_ulr_summary_error">Nu s-a putut contacta serverul pentru preluarea setărilor. Încercați mai târziu.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Dezactivat</string>
+    <string name="location_settings_ulr_summary_loading">Se preiau setările…</string>
+    <string name="location_settings_ulr_summary_off">Dezactivat</string>
+    <string name="location_settings_ulr_summary_offline">Indisponibil, deoarece dispozitivul este offline</string>
+    <string name="location_settings_ulr_summary_on">Activat</string>
+    <string name="location_settings_ulr_summary_restricted">Dezactivat</string>
+    <string name="location_settings_ulr_summary_unknown">Necunoscut</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Funcția nu este disponibilă în %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Nu este disponibil în această regiune</string>
+    <string name="location_settings_view_all">Afișează-le pe toate</string>
+    <string name="location_sharing_settings_acl_title">Se afișează pentru %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Alege persoanele care-ți văd locația</string>
+    <string name="location_sharing_settings_city_description">Dacă afișezi orașul în care te afli, prietenii și familia îl vor vedea.</string>
+    <string name="location_sharing_settings_city_example">Exemplu: Timișoara, TM, RO</string>
+    <string name="location_sharing_settings_city_title">Orașul</string>
+    <string name="location_sharing_settings_description">Dacă îți afișezi locația, poți să arăți cui vrei locația actuală din Raportarea locației de pe dispozitiv.&lt;br/>&lt;br/>Persoanele pentru care afișezi locația pot să vadă locația ta actuală în produsele Google, inclusiv în Google+ și în Google Now. Acestea pot să vadă și locațiile tale, precum cea de acasă și de la serviciu. &lt;a href=\"%s\">Află mai multe&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">Dacă îți afișezi locația, poți să arăți cui vrei locația actuală din &lt;a href=\"%1$s\">Raportarea locației&lt;/a> de pe dispozitiv.&lt;br/>&lt;br/>Persoanele pentru care afișezi locația pot să vadă locația ta actuală în produsele Google, inclusiv în Google+ și în Google Now. Acestea pot să vadă și locațiile tale, precum cea de acasă și de la serviciu. &lt;a href=\"%2$s\">Află mai multe&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Schimbă</string>
+    <string name="location_sharing_settings_pinpoint_description">Afișează locația indicată pentru ca cei dragi să poată vedea cu precizie locația ta actuală.</string>
+    <string name="location_sharing_settings_pinpoint_example">Exemplu: Bd. Magheru, nr. 32, București, România</string>
+    <string name="location_sharing_settings_pinpoint_title">Locație indicată</string>
+    <string name="location_sharing_settings_title">Afișarea locației</string>
+    <string name="location_ulr_ambiguous_setting_text">Nu se poate stabili setarea anterioară. Porniți serviciul acum?</string>
+    <string name="location_ulr_setting_google_location_disabled">Indisponibil, deoarece aplicațiile Google nu au acces la locație</string>
+    <string name="location_ulr_setting_label">Raportarea locației Google</string>
+    <string name="location_ulr_setting_location_disabled">Indisponibil, deoarece Localizarea este dezactivată</string>
+    <string name="location_ulr_setting_no_account">Dezactivat, deoarece nu există niciun cont</string>
+    <string name="location_ulr_setting_reporting_only">Se utilizează ultima locație</string>
+    <string name="location_warning_do_not_show_again">Nu mai afișa</string>
+    <string name="location_warning_message">Permiteți ajutor de la Google la determinarea locației de către aplicații. Aceasta înseamnă trimiterea datelor de localizare anonime la Google, chiar și când nu rulează nicio aplicație.</string>
+    <string name="location_warning_title">Utilizați serviciul de localizare Google?</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Locația mea 
+Cu toleranță de {0} metri"</string>
+    <string name="maps_API_OUTDATED_WARNING">Această aplicație folosește o versiune învechită de Hărți Google. Este posibil să nu funcționeze corect.</string>
+    <string name="maps_BACK_TO_LIST">Înapoi la listă</string>
+    <string name="maps_CLOSE_SOFTKEY">Închidere</string>
+    <string name="maps_COMPASS_ALT_TEXT">Busolă</string>
+    <string name="maps_LEVEL_ALT_TEXT">Etajul {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Locaţia mea</string>
+    <string name="maps_YOUR_LOCATION">Locația actuală</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Măriţi</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Micşoraţi</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Imagini ©%2$d %3$s, Date hartă ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Imagini ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Date hartă ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Panoramă nevalidă.</string>
+    <string name="maps_network_unavailable">Acest program necesită o conexiune de date şi va reîncerca automat. Verificaţi puterea semnalului. Sunteţi în modul Avion? Aveţi dezactivată conexiunea de date în roaming?</string>
+    <string name="maps_no_panorama_data">Nu au fost setate datele de panoramare.</string>
+    <string name="maps_panorama_disabled">Imaginea nu mai este disponibilă.</string>
+    <string name="maps_service_unavailable">Serviciul Street View nu este disponibil.</string>
+    <string name="maps_street_range_name_format">%2$s %1$s</string>
+    <string name="maps_waiting_for_network">Conexiune pierdută; se reînc…</string>
+    <string name="mr_media_route_button_content_description">Trimiteți</string>
+    <string name="mr_media_route_chooser_searching">Se caută dispozitive...</string>
+    <string name="mr_media_route_chooser_title">Conectați-vă la dispozitiv</string>
+    <string name="mr_media_route_controller_disconnect">Deconectați-vă</string>
+    <string name="mr_system_route_name">Sistem</string>
+    <string name="mr_user_route_category_name">Dispozitive</string>
+    <string name="notification_ticker">Acces solicitat</string>
+    <string name="off">Dezactivată</string>
+    <string name="ok">OK</string>
+    <string name="on">Activată</string>
+    <string name="open_location_settings">Deschide setările pentru locație</string>
+    <string name="phone_number_hint">Număr de telefon</string>
+    <string name="phone_number_invalid">Număr de telefon nevalid</string>
+    <string name="phone_number_invalid_character">Caractere nevalide în numărul de telefon</string>
+    <string name="place_address_hint">Adresă</string>
+    <string name="place_address_title">Adresă</string>
+    <string name="place_address_update_hint">Actualizați</string>
+    <string name="place_category_hint">Selectați o categorie</string>
+    <string name="place_category_title">Categorie</string>
+    <string name="place_name_hint">Denumirea locației</string>
+    <string name="place_name_title">Nume</string>
+    <string name="place_phone_hint">Nr. de telefon principal</string>
+    <string name="place_phone_title">Telefon</string>
+    <string name="place_picker_adding_a_place">Se trimite raport...</string>
+    <string name="place_picker_cancel">Anulați</string>
+    <string name="place_picker_cant_add_place">Eroare adăugare loc.</string>
+    <string name="place_picker_label">Alegeți o locație</string>
+    <string name="place_picker_location_off_message">Pentru a selecta o locație, trebuie mai întâi să activați Accesul la locație în Setări.</string>
+    <string name="place_picker_nearby_places">Locații din apropiere</string>
+    <string name="place_picker_no_search_results">Nicio locație găsită.</string>
+    <string name="place_picker_search_error">Eroare încărc. rez. căut.</string>
+    <string name="place_picker_search_hint">Căutați</string>
+    <string name="place_picker_searching_label">Se caută...</string>
+    <string name="place_picker_select_a_location_label">Selectați loc. pt. alte inf.</string>
+    <string name="place_picker_select_this_location">Selectați această locație</string>
+    <string name="place_picker_settings">Setări</string>
+    <string name="place_picker_updating_location_label">Se actualiz. locația...</string>
+    <string name="place_picker_updating_nearby_label">Actualiz. loc. din aprop.</string>
+    <string name="place_website_hint">Site oficial</string>
+    <string name="place_website_title">Site</string>
+    <string name="plus_accessibility_acl_selection">Alege publicul</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Cerc</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Adaugă în cercul nou</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avatar</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Cercuri</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Caută persoane sau cercuri</string>
+    <string name="plus_accessibility_circle_selection">Alege cercuri</string>
+    <string name="plus_accessibility_comment_avatar">Cercuri</string>
+    <string name="plus_accessibility_facl_selection">Selectează membrii din cercuri pe care aplicația poate să-i vadă</string>
+    <string name="plus_accessibility_update_circles">Actualizează cercurile</string>
+    <string name="plus_actionbar_up_button_description">Navighează în sus</string>
+    <string name="plus_add_to_circle_progress">Se adaugă…</string>
+    <string name="plus_add_to_circles_title_default">Adaugă în cercuri</string>
+    <string name="plus_add_to_circles_title_with_user_name">Adaugă-l(o) pe %1$s</string>
+    <string name="plus_add_to_following_circle_progress">Se abonează…</string>
+    <string name="plus_add_to_new_circle_progress_message">Se adaugă…</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">CONT</string>
+    <string name="plus_app_settings_activity_label">Aplicații conectate</string>
+    <string name="plus_app_settings_activity_log_label">Jurnalul de activități</string>
+    <string name="plus_app_settings_activity_log_page_label">Jurnalul de activități</string>
+    <string name="plus_app_settings_all_apps_label">Aplicații și dispozitive</string>
+    <string name="plus_app_settings_apps_page_label">Aplicații conectate</string>
+    <string name="plus_app_settings_fitness_apps_label">Aplic. și disp. fitness</string>
+    <string name="plus_app_settings_sign_in_apps_label">Aplic. Conectare Google+</string>
+    <string name="plus_article_preview_image_description">Imaginea previzualizării articolului</string>
+    <string name="plus_audience_edit_button_label">Editează</string>
+    <string name="plus_audience_selection_cancel">Anulează</string>
+    <string name="plus_audience_selection_contacts">Toate persoanele</string>
+    <string name="plus_audience_selection_contacts_description">Include intrările în Agendă create ulterior</string>
+    <string name="plus_audience_selection_description_acl">PERMITE ACCESUL</string>
+    <string name="plus_audience_selection_done">Terminat</string>
+    <string name="plus_audience_selection_everyone">Toate cercurile</string>
+    <string name="plus_audience_selection_everyone_description">Include cercurile create ulterior</string>
+    <string name="plus_audience_selection_header_circles">CERCURI</string>
+    <string name="plus_audience_selection_header_people">PERSOANE</string>
+    <string name="plus_audience_selection_header_search">AI CĂUTAT</string>
+    <string name="plus_audience_selection_header_suggested">SUGERATE</string>
+    <string name="plus_audience_selection_hidden_circle">Persoanele din acest cerc nu sunt publice în profilul tău</string>
+    <string name="plus_audience_selection_loading">Se încarcă...</string>
+    <string name="plus_audience_selection_new_circle">Adaugă în cercul nou</string>
+    <string name="plus_audience_selection_public_circle">oricine de pe web</string>
+    <string name="plus_audience_selection_search_device_results">DE PE DISPOZITIV</string>
+    <string name="plus_audience_selection_search_google_results">DIN GOOGLE</string>
+    <string name="plus_audience_selection_title">Public</string>
+    <string name="plus_audience_selection_title_acl">Trimite...</string>
+    <string name="plus_audience_selection_title_search">Caută...</string>
+    <string name="plus_audience_selection_title_update_circles">Adaugă în cercuri</string>
+    <string name="plus_auth_audience_view_default_description">%s va trimite informații despre activitățile tale din această aplicație în Google. Poți alege cine mai poate vedea aceste activități în Google.</string>
+    <string name="plus_auth_audience_view_footnote">Google va utiliza aceste informații în conformitate cu <annotation id="tos">Termenii și condițiile</annotation> și cu <annotation id="google_privacy">Politica de confidențialitate</annotation> Google.</string>
+    <string name="plus_auth_hide_circles_label">Ascunde toate cercurile</string>
+    <string name="plus_auth_info_fragment_app_name">%s solicită permisiunile:</string>
+    <string name="plus_auth_see_circles_label">Afișează toate cercurile</string>
+    <string name="plus_avatar_image_description">Imaginea avatarului utilizatorului</string>
+    <string name="plus_bad_name_agree_button_label">Trimite</string>
+    <string name="plus_bad_name_decline_button_label">Schimbă numele</string>
+    <string name="plus_bad_name_skip_button_label">Omite Google+</string>
+    <string name="plus_checking_gplus_signup_state">Se conectează…</string>
+    <string name="plus_choose_facl_title">Informații obținute de %s</string>
+    <string name="plus_circle_creation_circle_name_hint">Numele cercului</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Cercul nu a putut fi creat. Încearcă din nou mai târziu.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Creează</string>
+    <string name="plus_circle_creation_title_default">Creează un cerc</string>
+    <string name="plus_circle_creation_title_with_user_name">Adaugă-l(o) pe %1$s</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Buton pentru închiderea casetei de dialog</string>
+    <string name="plus_close_button_label">Închide</string>
+    <string name="plus_create_button_description">Buton pentru adăugarea unui cerc nou</string>
+    <string name="plus_cross_client_auth_toast_text">Bine ai revenit la %1$s! Te-ai conectat cu Google folosind contul %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Această activitate este vizibilă pentru:</string>
+    <string name="plus_delete_moment_failed_dialog_message">A apărut o problemă la ștergerea activităților. Încearcă din nou mai târziu.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Se șterge...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Șterge și toate activitățile din %s de pe Google</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s nu va mai avea accesul pe care i l-ai acordat la Contul Google și nici nu se vor mai trimite activitățile tale din aplicație în Google. Finalizarea acestei acțiuni poate dura maximum o oră.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Anulează</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Deconectează</string>
+    <string name="plus_disconnect_source_dialog_title">Deconectezi?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">%s nu a putut fi deconectată.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Vrei să deconectezi această aplicație de la Google?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">Se deconectează %s…</string>
+    <string name="plus_domain_default">domeniul tău</string>
+    <string name="plus_domain_restricted_choice_body">Permite trimiterea postării doar în %s</string>
+    <string name="plus_domain_restricted_choice_title">Limitată la %s</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">Numele tău complet, poza de profil, id Google+, vârsta, limba și o listă de persoane din cercurile bifate. Lista conține profilurile lor publice, dar nu și numele cercurilor din care fac parte.</string>
+    <string name="plus_first_name">Prenume</string>
+    <string name="plus_gender_prompt">Selectează sexul</string>
+    <string name="plus_install_app_dialog_checkbox_text">Nu doresc să fiu întrebat(ă) din nou.</string>
+    <string name="plus_install_app_dialog_message">Descarci aplicația Google+ pentru a vedea postarea pe care tocmai ai trimis-o?</string>
+    <string name="plus_install_app_dialog_negative_button">Nu acum</string>
+    <string name="plus_install_app_dialog_positive_button">Instalează</string>
+    <string name="plus_install_app_dialog_title">Descarcă Google+</string>
+    <string name="plus_internal_error">A apărut o eroare internă.</string>
+    <string name="plus_invalid_account">Cont nevalid</string>
+    <string name="plus_last_name">Nume</string>
+    <string name="plus_list_apps_aspen_empty_message">"Nu te-ai conectat la nicio aplicație folosind Conectarea Google+.
+
+"<annotation id="learn_more">Află mai multe</annotation></string>
+    <string name="plus_list_apps_disabled_error">Aplicațiile conectate nu au putut fi încărcate momentan. <annotation id="learn_more">Află mai multe</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Nu există aplicații conectate la contul tău Google</string>
+    <string name="plus_list_apps_error">Aplicațiile nu s-au putut încărca. Încearcă din nou mai târziu.</string>
+    <string name="plus_list_apps_error_aspen">"Aplicațiile nu au putut fi încărcate.
+
+"<annotation id="learn_more">Aflați mai multe</annotation> despre aplicații cu Conectare Google+.</string>
+    <string name="plus_list_apps_error_fitness">"Nu s-au putut încărca dispozitivele sau aplicațiile.
+
+"<annotation id="learn_more">Află mai multe</annotation> despre dispozitivele și aplicațiile de fitness.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Nu ți-ai conectat aplicații sau dispozitive la Google Fit
+
+"<annotation id="learn_more">Află mai multe</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Niciun cont.</string>
+    <string name="plus_list_moments_disabled_error">Jurnalul de activități nu a putut fi încărcat în acest moment. <annotation id="learn_more">Află mai multe</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Nu ai nicio activitate</string>
+    <string name="plus_list_moments_error">Activitățile nu s-au putut încărca. Încearcă din nou mai târziu.</string>
+    <string name="plus_list_moments_filter_empty_message">Nu ai nicio activitate de acest tip</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Această activitate nu poate fi văzută din Jurnalul de activități. Accesează direct aplicația.</string>
+    <string name="plus_loading">Se încarcă...</string>
+    <string name="plus_manage_app_acl_description_label">Activitățile pe care această aplicație le transmite la Google</string>
+    <string name="plus_manage_app_acl_error">Nu se poate actualiza aplicația</string>
+    <string name="plus_manage_app_all_circles_label">Toate cercurile</string>
+    <string name="plus_manage_app_app_icon_desc">Pictogramă</string>
+    <string name="plus_manage_app_disabled_error">Aplicația conectată nu a putut fi încărcată în acest moment. <annotation id="learn_more">Află mai multe</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Deconectează</string>
+    <string name="plus_manage_app_domain_label">Domeniu</string>
+    <string name="plus_manage_app_extended_circles_label">Cercuri extinse</string>
+    <string name="plus_manage_app_facl_label">Aplicația poate vedea aceste persoane</string>
+    <string name="plus_manage_app_label">Aplicații conectate</string>
+    <string name="plus_manage_app_limited_label">Trimise privat</string>
+    <string name="plus_manage_app_no_acl_description">Activitățile tale în această aplicație</string>
+    <string name="plus_manage_app_no_circles_label">Niciunul</string>
+    <string name="plus_manage_app_only_you_label">Numai tu</string>
+    <string name="plus_manage_app_pacl_label">Cine îți poate vedea pe Google activitățile din aplicații</string>
+    <string name="plus_manage_app_pacl_sub_label">Setările stabilite aici nu modifică vizibilitatea activităților existente în Jurnalul de activități, însă se vor aplica activităților în jocuri.</string>
+    <string name="plus_manage_app_public_label">Public</string>
+    <string name="plus_manage_app_scopes_label">Această aplicație are acces la:</string>
+    <string name="plus_manage_app_updating_acl">Se actualizează…</string>
+    <string name="plus_manage_aspen_app_label">Aplicație cu Conectare Google+</string>
+    <string name="plus_manage_device_disconnect_label">Deconectează-l</string>
+    <string name="plus_manage_device_label">Conectează dispozitivul</string>
+    <string name="plus_manage_moment_acl">"Vizibilă pentru:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Unele detalii nu s-au putut încărca. Încearcă din nou mai târziu</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Șterge</string>
+    <string name="plus_manage_moment_delete_label">ȘTERGE</string>
+    <string name="plus_manage_moment_image_desc">Vezi activitatea</string>
+    <string name="plus_manage_moment_label">Activitate</string>
+    <string name="plus_manage_moment_no_in_app_delete">Această activitate nu poate fi gestionată. <annotation id="learn_more">Află mai multe</annotation></string>
+    <string name="plus_ok_button_description">Butonul OK</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Recomandă materialul pe Google</string>
+    <string name="plus_one_annotation_none_short">Recomandă</string>
+    <string name="plus_one_app">Din &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">>10.000</string>
+    <string name="plus_one_description">Atinge pentru a da +1 pentru %1$s</string>
+    <string name="plus_one_description_remove">Atinge pentru a elimina +1 pentru %1$s</string>
+    <string name="plus_one_description_standard">Atinge pentru a da +1.</string>
+    <string name="plus_one_error">A apărut o problemă temporară legată de +1. Încearcă din nou.</string>
+    <string name="plus_one_public">Public</string>
+    <string name="plus_one_self">+1 de la %1$s</string>
+    <string name="plus_one_self_removed">S-a eliminat +1 de la tine.</string>
+    <string name="plus_one_share">Distribuie</string>
+    <string name="plus_one_social_annotation_prefix">inclusiv %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">inclusiv %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">+1 de la %1$s</string>
+    <string name="plus_one_social_annotation_user">Tu</string>
+    <string name="plus_one_title">Ai dat +1 public pentru aceasta, ca</string>
+    <string name="plus_one_undo">Anulează</string>
+    <string name="plus_oob_3p_promo">Folosește mai multe funcții din %1$s cu un profil public Google+.</string>
+    <string name="plus_oob_cancel_button_label">Anulează</string>
+    <string name="plus_oob_default_promo">Folosește mai multe funcții din Google cu un profil public Google+.</string>
+    <string name="plus_oob_done_button_label">Terminat</string>
+    <string name="plus_oob_edit_name_warning">Dacă îți schimbi numele de profil Google+, acesta se va modifica în toate produsele Google.</string>
+    <string name="plus_oob_failure_text">Din păcate, Google+ nu ți-a putut configura profilul. Încearcă din nou mai târziu.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Nume</string>
+    <string name="plus_oob_first_name_content_description">Prenume</string>
+    <string name="plus_oob_gender_content_description">Sex</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Nu acum</string>
+    <string name="plus_oob_interstitial_loading">Se contact. Google+</string>
+    <string name="plus_oob_interstitial_loading_body">Acțiunea poate dura câteva minute.</string>
+    <string name="plus_oob_interstitial_sending">Se trimite…</string>
+    <string name="plus_oob_interstitial_sending_body">Acțiunea poate dura câteva minute.</string>
+    <string name="plus_oob_join">Creează</string>
+    <string name="plus_oob_last_name_content_description">Nume de familie</string>
+    <string name="plus_oob_loading">Se încarcă...</string>
+    <string name="plus_oob_next">Înainte</string>
+    <string name="plus_oob_next_content_description">Butonul Înainte</string>
+    <string name="plus_oob_no_connection_message">Imposibil de stabilit conexiunea la server.</string>
+    <string name="plus_oob_no_connection_title">Nicio conexiune</string>
+    <string name="plus_oob_pronoun_content_description">Pentru a mă desemna folosește</string>
+    <string name="plus_oob_sending">Se trimite…</string>
+    <string name="plus_oob_title_tos">Profil Google+</string>
+    <string name="plus_oob_tos_accept">Accept</string>
+    <string name="plus_photo_preview_image_description">Imaginea previzualizării fotografiei</string>
+    <string name="plus_plus_icon_image_description">Imaginea pictogramei Google+</string>
+    <string name="plus_posted_just_now">Adineauri</string>
+    <string name="plus_pronoun_prompt">Selectează</string>
+    <string name="plus_remove_from_circle_progress">Se elimină…</string>
+    <string name="plus_replybox_button_description">Răspunde</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Renunți la acest răspuns?</string>
+    <string name="plus_replybox_hint_text">Adaugă un răspuns</string>
+    <string name="plus_replybox_internal_error">Nu s-a putut trimite răspunsul.</string>
+    <string name="plus_replybox_no_network_connection">Comentariul nu poate fi creat. Încearcă din nou.</string>
+    <string name="plus_replybox_post_error_message">Nu s-a putut posta răspunsul.</string>
+    <string name="plus_replybox_post_success">Răspunsul a fost postat.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Cercurile tale extinse</string>
+    <string name="plus_scope_fragment_mixed_label">Cercurile selectate</string>
+    <string name="plus_scope_fragment_only_you_label">Numai tu</string>
+    <string name="plus_scope_fragment_public_label">Oricine de pe web</string>
+    <string name="plus_scope_fragment_your_circles_label">Cercurile tale</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Asistent pentru configurare</string>
+    <string name="plus_share_button_description">Butonul Distribuie</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Terminat</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Alege destinatarii</string>
+    <string name="plus_sharebox_audience_to_text">Către:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Public</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Cerc nou</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Nu s-au putut adăuga persoane în cerc</string>
+    <string name="plus_sharebox_circles_button">Terminat</string>
+    <string name="plus_sharebox_circles_checkbox_label">Adaugă %1$s persoane în cercul:</string>
+    <string name="plus_sharebox_circles_create_failed">Cercul nu a putut fi creat</string>
+    <string name="plus_sharebox_circles_create_option">Creează un cerc nou</string>
+    <string name="plus_sharebox_circles_following_circle">Urmărești</string>
+    <string name="plus_sharebox_circles_friends_circle">Prieteni</string>
+    <string name="plus_sharebox_circles_name_length_warning">Acest nume de cerc este prea lung.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Acest nume de cerc este deja utilizat.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Adaugă în cerc</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Renunți la această postare?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Nu s-a trimis.</string>
+    <string name="plus_sharebox_load_error">A apărut o problemă temporară la încărcarea dialogului de distribuire. Încearcă din nou.</string>
+    <string name="plus_sharebox_next">ÎNAINTE</string>
+    <string name="plus_sharebox_no_network_connection">Postarea nu poate fi creată. Încearcă din nou.</string>
+    <string name="plus_sharebox_post_body_hint">Spune ce gândești…</string>
+    <string name="plus_sharebox_post_body_icon">Imagine de profil</string>
+    <string name="plus_sharebox_post_error_message">Imposibil de creat postarea. Încearcă din nou mai târziu.</string>
+    <string name="plus_sharebox_post_error_title">Atenție</string>
+    <string name="plus_sharebox_post_pending">Se trimite…</string>
+    <string name="plus_sharebox_post_success">Postarea ta a fost trimisă.</string>
+    <string name="plus_sharebox_preview_loading">Se încarcă...</string>
+    <string name="plus_sharebox_search_hint">Introdu un nume, un e-mail sau un cerc</string>
+    <string name="plus_sharebox_share">TRIMITE</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Trimite și pe Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Trimite prin Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Atunci când trimiți în mod public, persoanele pe care nu le-ai adăugat în cercuri vor putea vedea postarea ta și vor putea comenta.</string>
+    <string name="plus_sharebox_under_age_warning_title">Se trimite public</string>
+    <string name="plus_undo_button_description">Butonul Anulează</string>
+    <string name="plus_unified_setup_activity_title">Creează un profil</string>
+    <string name="plus_unknown_app_name">Aplicație</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Cercurile nu au fost actualizate. Încearcă din nou mai târziu.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Nu-l poți adăuga pe acest utilizator în cercuri.</string>
+    <string name="plus_update_circles_not_allowed_message">Nu poți adăuga utilizatorul %1$s în cercuri.</string>
+    <string name="plus_update_circles_progress">Se actualizează cercurile...</string>
+    <string name="plus_video_preview_image_description">Imaginea previzualizării videoclipului</string>
+    <string name="recovery_done_button_label">Terminat</string>
+    <string name="recovery_input_screen_message">Indicați companiei Google cum să vă contacteze dacă vă uitați parola pentru %s.</string>
+    <string name="recovery_message_set">"Parolele sunt ușor de uitat.
+
+Introduceți acum un număr de telefon sau o adresă de e-mail de rezervă. Astfel, veți putea să recuperați accesul la conținutul dvs. Google și la Google Play. "<annotation id="help_url">Aflați mai multe</annotation></string>
+    <string name="recovery_message_verify">"Parolele sunt ușor de uitat.
+
+Confirmați acum numărul de telefon sau adresa de e-mail de rezervă. Astfel, veți putea să recuperați accesul la conținutul dvs. Google și la Google Play. "<annotation id="help_url">Aflați mai multe</annotation></string>
+    <string name="recovery_notification_ticker">Contul necesită atenția dvs.</string>
+    <string name="recovery_notification_title">Memento recuperare parolă</string>
+    <string name="recovery_server_error">Eroare la conexiunea cu serverul. Încercați mai târziu.</string>
+    <string name="recovery_title">Recuperarea parolei Google</string>
+    <string name="recovery_yes_button_label">Configurați opțiunile de recuperare</string>
+    <string name="recovery_yes_button_label_verify">Confirmați opțiunile de recuperare</string>
+    <string name="retry_call_to_action">Reîncercați</string>
+    <string name="secondary_email_hint">Adresă e-mail de rezervă</string>
+    <string name="secondary_email_invalid">Adresă de e-mail nevalidă</string>
+    <string name="secondary_email_same_as_primary">Să difere de adresa principală</string>
+    <string name="selected_location_unknown">Necunoscută</string>
+    <string name="sharedUserLabel">Servicii Google</string>
+    <string name="sid_lsid_grant_detail">Ca în cazul parolelor, cookie-urile de identificare a sesiunii (SID) și cele de identificare a sesiunii locale (LSID) vă asociază identitatea cu o serie de solicitări generate de un browser. Acestea permit accesul complet la toate datele din contul dvs. Numai browserele utilizează aceste cookie-uri în mod justificat.</string>
+    <string name="sid_lsid_grant_label">Utilizați cookie-uri SID și LSID pentru a avea acces la toate datele din contul Google.</string>
+    <string name="storage_management_drive_clear_failure">A apărut o eroare la ștergerea datelor din Drive. Încercați din nou mai târziu.</string>
+    <string name="storage_management_drive_clear_label">Ștergeţi</string>
+    <string name="storage_management_drive_clear_success">Datele din Drive au fost șterse.</string>
+    <string name="storage_management_drive_clearing">Se șterge...</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Toate datele locale din Drive pentru aplicații compatibile cu Drive vor fi șterse definitiv. Acestea pot include modificări în așteptare care nu au fost încă încărcate pe serverul Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Ștergeți toate datele?</string>
+    <string name="storage_management_drive_descriptive_text">Aplicațiile compatibile cu Drive stochează fișiere pe dispozitiv pentru a îmbunătăți performanța și pentru a permite accesul offline.</string>
+    <string name="storage_management_drive_get_storage_failure">A apărut o eroare la calcularea utilizării spațiului de stocare în Drive. Încercați din nou mai târziu.</string>
+    <string name="storage_management_drive_size_label">Spațiu de stocare locală Drive</string>
+    <string name="storage_management_wear_descriptive_text">Aplicațiile utilizează stocarea dispozitivului pentru a reproduce date pe un accesoriu inteligent.</string>
+    <string name="storage_management_wear_manage_size_label">Gestion. stoc. pe accesorii inteligente</string>
+    <string name="storage_management_wear_size_label">Stoc. pe accesorii inteligente</string>
+    <string name="storage_managment_all_storage_descriptive_text">Totalul datelor utilizate de serviciile Google Play, inclusiv motorul de căutare și alte date.</string>
+    <string name="storage_managment_clear_all_data">Ștergeți toate datele</string>
+    <string name="storage_managment_computing_size">Se calculează...</string>
+    <string name="storage_managment_icing_size_label">Stocarea motorului de căutare</string>
+    <string name="storage_managment_manage_icing_button">Gestion. stocare motor căutare</string>
+    <string name="storage_managment_search_index_descriptive_text">Accelerăm căutarea pe telefon, oferind un motor de căutare pentru a fi utilizat de aplicațiile dvs.</string>
+    <string name="storage_managment_title">Stocare servicii Google Play</string>
+    <string name="storage_managment_total_size_label">Stocare totală</string>
+    <string name="system_update_activity_battery_low_charging_text">Bateria este prea descărcată pentru a instala actualizarea de sistem. Așteptați până ce bateria se va încărca suficient.</string>
+    <string name="system_update_activity_battery_low_text">Bateria este prea descărcată pentru a instala actualizarea de sistem. Conectați un încărcător pentru a continua.</string>
+    <string name="system_update_activity_name">Actualizări de sistem</string>
+    <string name="system_update_activity_roaming_text">Actualizările de sistem nu se pot descărca în roaming.</string>
+    <string name="system_update_activity_title">Actualizări de sistem</string>
+    <string name="system_update_check_now_button_text">Verificați acum</string>
+    <string name="system_update_complete_label">Actualizare de sistem</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Conectați-vă la o rețea Wi-Fi</string>
+    <string name="system_update_connection_lost_text">S-a pierdut conexiunea la rețea.</string>
+    <string name="system_update_countdown_cancel_button">Anulați instalarea</string>
+    <string name="system_update_countdown_complete">Repornește acum...</string>
+    <string name="system_update_download_button_text">Descărcați</string>
+    <string name="system_update_download_failed_no_space_status_text">Spațiu disponibil insuficient pentru descărcare</string>
+    <string name="system_update_download_failed_status_text">Descărcarea nu a reușit</string>
+    <string name="system_update_download_retry_button_text">Încercați din nou să descărcați</string>
+    <string name="system_update_download_waiting_status_text">Se așteaptă descărcarea</string>
+    <string name="system_update_downloading_required_update_text">"Această operație ar putea dura până la ^1 (de) minut(e).
+
+După aceasta, dispozitivul va reporni automat."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Această operație ar putea dura până la ^1 (de) minut(e).
+
+După aceasta, tableta va reporni automat."</string>
+    <string name="system_update_downloading_required_update_title">Se descarcă actualizarea…</string>
+    <string name="system_update_downloading_status_text">Se descarcă</string>
+    <string name="system_update_downloading_wifi_status2_text">Numai prin Wi-Fi până la ^1</string>
+    <string name="system_update_install_button_text">Reporniți și instalați</string>
+    <string name="system_update_installing_update_text">"Această operație ar putea dura până la 5 minute.
+
+După aceasta, veți putea finaliza configurarea telefonului."</string>
+    <string name="system_update_installing_update_title">Se instalează actualizarea…</string>
+    <string name="system_update_last_checkin">Ultima verificare a actualizării s-a efectuat ^1.</string>
+    <string name="system_update_no_update_content_text">Sistemul dvs. este actualizat.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Descărcarea nu a reușit. Încercați din nou.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Nu s-au putut descărca actualizări ale sistemului</string>
+    <string name="system_update_not_owner_text">Este disponibilă o actualizare de software de sistem, dar numai proprietarul o poate instala.</string>
+    <string name="system_update_notification_action_download">Descărcați</string>
+    <string name="system_update_notification_action_install">Instalați</string>
+    <string name="system_update_notification_action_snooze">Mai târziu</string>
+    <string name="system_update_required_update_restart_text">Dispozitivul va reporni, pentru ca actualizarea de sistem să poată fi instalată.</string>
+    <string name="system_update_required_update_restart_text_tablet">Tableta va reporni, pentru ca actualizarea de sistem să poată fi instalată.</string>
+    <string name="system_update_required_update_restart_title">Pregătit pentru repornire</string>
+    <string name="system_update_requires_restart_status_text">Este necesară repornirea</string>
+    <string name="system_update_restart_button_text">Repornește (^1)</string>
+    <string name="system_update_update_available_notification_title">Actualizare de sistem disponibilă</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Nu este suficient spațiu disponibil pentru a descărca actualizarea de sistem.</string>
+    <string name="system_update_update_downloaded_notification_title">Actualizare de sistem descărcată</string>
+    <string name="system_update_verification_failed_text">Verificarea nu a reușit</string>
+    <string name="system_update_verified_status_text">Descărcat și verificat</string>
+    <string name="system_update_verifying_status_text">În curs de verificare</string>
+    <string name="temporary_sharing_description">Persoanele cărora le arăți locația exactă în serviciile Google pentru o perioadă limitată.</string>
+    <string name="temporary_sharing_title">Afișarea temporară a locației</string>
+    <string name="turn_on_location_reporting_auto_button">Activează</string>
+    <string name="usage_and_diagnostics_consent_message">Contribuiți la îmbunătățirea experienței Android trimițând automat datele de diagnostic și de utilizare la Google. Aceste informații nu vor fi utilizate pentru a vă identifica și ajută echipele care lucrează la îmbunătățirea performanței aplicației, a autonomiei bateriei și la funcții noi Google.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Aflați mai multe&lt;/font></string>
+    <string name="usage_reporting_off">Dezactivat</string>
+    <string name="usage_reporting_on">Activat</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Conectat</string>
+    <string name="wearable_status_connecting">Se conectează...</string>
+    <string name="wearable_status_disconnected">Deconectat</string>
+    <string name="wearable_status_starting">Se începe…</string>
+    <string name="wearable_status_wire_protocol_mismatch">Aplicație Android Wear incompatibilă. Aplicați actualizările.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Ștergeți acum</string>
+    <string name="wearable_storage_managment_title">Stocare pt. aplicații Android Wear</string>
+    <string name="wearable_storage_managment_total_size_label">Stocare pt. apl. Android Wear</string>
+    <string name="wearable_storage_managment_usage_label">Spațiu utilizat de aplicație</string>
+</resources>

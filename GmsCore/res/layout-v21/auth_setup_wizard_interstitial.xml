@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/interstitial" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ProgressBar android:id="@id/progress_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/auth_setup_wizard_progress_bar_margin_top" android:indeterminate="true" style="?android:attr/progressBarStyleHorizontal" />
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/auth_setup_wizard_content_frame">
+        <TextView android:id="@id/description_text" style="@style/auth_setup_wizard_description" />
+    </FrameLayout>
+</LinearLayout>

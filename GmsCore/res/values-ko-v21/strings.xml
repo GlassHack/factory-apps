@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">도움말 및 의견</string>
+    <string name="plus_app_settings_all_apps_label">모든 앱</string>
+    <string name="plus_app_settings_apps_page_label">연결된 앱</string>
+    <string name="plus_list_apps_empty_message">연결된 앱이 없습니다.</string>
+    <string name="plus_manage_app_pacl_label">Google에서 앱 활동을 볼 수 있는 사용자:</string>
+    <string name="plus_manage_app_scopes_label">이 앱이 액세스할 수 있는 대상:</string>
+</resources>

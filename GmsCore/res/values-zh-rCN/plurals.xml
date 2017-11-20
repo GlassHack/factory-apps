@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">请求来源：位于%1$s的%2$s浏览器（不到%3$s分钟前）</item>
+        <item quantity="one">请求来源：位于%1$s的%2$s浏览器（不到%3$s分钟前）</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">请求来源：%1$s（不到%2$s分钟前）</item>
+        <item quantity="one">请求来源：%1$s（不到%2$s分钟前）</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">还有%d小时</item>
+        <item quantity="one">还有1小时</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d天</item>
+        <item quantity="one">%d天</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d小时</item>
+        <item quantity="one">%d小时</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d分钟</item>
+        <item quantity="one">%d分钟</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s个人</item>
+        <item quantity="one">%1$s个人</item>
+        <item quantity="two">%1$s个人</item>
+        <item quantity="few">%1$s个人</item>
+        <item quantity="many">%1$s个人</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">%d秒后重启设备并安装更新…</item>
+        <item quantity="one">1秒后重启设备并安装更新…</item>
+    </plurals>
+</resources>

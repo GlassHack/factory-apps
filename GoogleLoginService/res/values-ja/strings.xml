@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_notification_needs_installation_title">アプリではGoogle Play開発者サービスをインストールする必要があります</string>
+    <string name="common_google_play_services_notification_needs_update_title">アプリではGoogle Play開発者サービスを更新する必要があります</string>
+    <string name="common_android_wear_notification_needs_update_text">Android Wearアプリの更新が必要です。</string>
+    <string name="common_google_play_services_needs_enabling_title">アプリではGoogle Play開発者サービスを有効にする必要があります</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$sによるリクエスト</string>
+    <string name="common_google_play_services_install_title">Play開発者サービスの入手</string>
+    <string name="common_google_play_services_install_text_phone">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いの携帯端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_text_tablet">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。</string>
+    <string name="common_google_play_services_install_button">Play開発者サービスの入手</string>
+    <string name="common_google_play_services_enable_title">Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_enable_text">このアプリの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_button">Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_update_title">Play開発者サービスの更新</string>
+    <string name="common_android_wear_update_title">Android Wearの更新</string>
+    <string name="common_google_play_services_update_text">このアプリの実行には、Google Play開発者サービスの更新が必要です。</string>
+    <string name="common_android_wear_update_text">Android Wearアプリを使用するにはアプリの更新が必要です。</string>
+    <string name="common_google_play_services_network_error_title">ネットワークエラー</string>
+    <string name="common_google_play_services_network_error_text">Google Play開発者サービスに接続するには、データ接続が必要です。</string>
+    <string name="common_google_play_services_invalid_account_title">無効なアカウント</string>
+    <string name="common_google_play_services_invalid_account_text">指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。</string>
+    <string name="common_google_play_services_unknown_issue">Google Play開発者サービスで原因不明の問題が発生しました。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play開発者サービス</string>
+    <string name="common_google_play_services_unsupported_text">一部のアプリが使用しているGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは、端末メーカーまでお問い合わせください。</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleでログイン</string>
+    <string name="common_open_on_phone">端末で開く</string>
+    <string name="app_name">SetupWizardCommon</string>
+    <string name="setup_wizard_title">セットアップウィザード</string>
+    <string name="setup_wizard_next_button_label">次へ</string>
+    <string name="setup_wizard_back_button_label">戻る</string>
+    <string name="setup_wizard_services_activity_title">Googleサービス</string>
+    <string name="setup_wizard_services_backup_restore_heading">バックアップと復元</string>
+    <string name="setup_wizard_services_location_heading">位置情報</string>
+    <string name="setup_wizard_services_communication_heading">通信</string>
+    <string name="setup_wizard_services_backup">Googleアカウントにデータをバックアップします。</string>
+    <string name="setup_wizard_services_backup_restore">Googleアカウントにデータをバックアップします。この端末に以前のバックアップを復元します。</string>
+    <string name="setup_wizard_services_backup_restore_footnote">データにはアプリ、アプリの設定、システム設定、Wi‑Fiパスワードが含まれています。</string>
+    <string name="setup_wizard_services_location_sharing">高精度の現在地特定をアプリに許可します。匿名の現在地データが収集され、Googleに送信されます。</string>
+    <string name="setup_wizard_services_location_wifi_scan">精度向上などの目的のために、Wi‑FiがOFFのときでもWi‑Fiネットワークをスキャンします。</string>
+    <string name="setup_wizard_services_location_footnote">Googleの位置情報サービスはWi‑Fiなどの信号からGPSよりもよりすばやく正確に現在地を特定します。一般に消費電力はGPSよりも抑えられます。一部のデータは端末に保存される場合があります。データ収集はアプリが起動していなくても行われることがあります。</string>
+    <string name="setup_wizard_services_play">Google Playから最新のニュースやクーポンを受信します。</string>
+    <string name="sharedUserLabel">Googleサービス</string>
+    <string name="app_label">Googleアカウントマネージャー</string>
+    <string name="gls_label">Google</string>
+    <string name="default_device_name">Android</string>
+    <string name="down_button_label">もっと見る</string>
+    <string name="sign_in_button_label">ログイン</string>
+    <string name="create_button_label">アカウントを作成</string>
+    <string name="not_now_button_label">今は設定しない</string>
+    <string name="skip_button_label">スキップ</string>
+    <string name="new_button_label">新しいアカウント</string>
+    <string name="existing_button_label">既存のアカウント</string>
+    <string name="first_name">名</string>
+    <string name="last_name">姓</string>
+    <string name="done">OK</string>
+    <string name="cancel_button_label">キャンセル</string>
+    <string name="try_again_button_label">再試行</string>
+    <string name="close_button_label">閉じる</string>
+    <string name="edit_text_help">文字入力エリアをタップして入力します</string>
+    <string name="add_a_google_account">Googleアカウントを追加</string>
+    <string name="captcha_title">CAPTCHAを入力する必要があります</string>
+    <string name="show_error_title">エラー</string>
+    <string name="server_error">Googleサーバーとの通信で問題が発生しました。</string>
+    <string name="server_error_help">後でもう一度お試しください。</string>
+    <string name="network_unreliable">サーバーとの安定した接続を確立できません。</string>
+    <string name="network_unreliable_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。引き続き問題が発生する場合は、お客様サポートにお問い合わせください。</string>
+    <string name="network_unreliable_help_wifi_only">一時的な問題の可能性があります。もう一度お試しいただくか別のWi-Fiネットワークに接続してください。</string>
+    <string name="invalid_login_character">無効な文字です。使用できるのは0～9、a～z、A～Z、ピリオドのみです。</string>
+    <string name="invalid_password_character">パスワードの文字が無効です。</string>
+    <string name="cant_be_blank">フィールドは空にできません。</string>
+    <string name="calendar">Googleカレンダー</string>
+    <string name="talk">Googleトーク</string>
+    <string name="email">Google Mail</string>
+    <string name="url_load_unsuccessful_message">Android搭載端末がデータサービスに接続されていません。この情報を表示するにはウェブブラウザで %s にアクセスしてください。</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android搭載端末がWi-Fiネットワークに接続されていません。この情報を表示するにはウェブブラウザで %s にアクセスしてください。</string>
+    <string name="field_cant_be_blank">フィールドは空にできません。</string>
+    <string name="plus_query_title">Google+へのアップグレード</string>
+    <string name="plus_query_text">Google+は、現実の世界と同じような情報共有をウェブ上で可能にします。</string>
+    <string name="circles_subtitle">同じ趣味の人を探そう</string>
+    <string name="circles_text">親しい友だちとつながって、共通の趣味を探せます。</string>
+    <string name="uploads_subtitle">写真の自動バックアップ</string>
+    <string name="uploads_text">撮影時に写真を無料のパーソナルストレージに自動的にバックアップします。</string>
+    <string name="huddle_subtitle">ビデオ通話とメッセージング</string>
+    <string name="huddle_text">ハングアウトでテキストメッセージ送信、写真、グループビデオ通話を楽しめます。</string>
+    <string name="plus_declined_button_label">今は設定しない</string>
+    <string name="plus_accepted_button_label">ご利用開始</string>
+    <string name="plus_name_check_title">Google+に問い合わせ中...</string>
+    <string name="plus_name_check_text">これには数分かかることがあります。</string>
+    <string name="plus_faq_title">Google+へようこそ</string>
+    <string name="plus_faq_text" formatted="false">"Google+では、友だちに見つけてもらうための公開プロフィールを作成します。あなたのメールアドレスを知っている人なら誰でも、プロフィールを検索して表示できます。
+
+ウェブのいたるところにある+1ボタンをクリックするとおすすめの内容を世界と共有することができます。あなたのプロフィールと+1した内容は検索、広告、ウェブ上で公開されます。
+
+今のところプロフィールには名前（%s %s）だけが表示されています。画像や略歴などの情報はGoogle+を使い始めてから追加できます。"</string>
+    <string name="dasher_warning">%sの管理者はすべてのGoogle+データを所有しており、あなたの許可なくいつでもプロフィールを削除/変更できます。</string>
+    <string name="profile_info_title">プロフィール</string>
+    <string name="profile_text">プロフィールの基本的な情報を提供します。画像などの情報はGoogle+を使い始めてから追加できます。</string>
+    <string name="occupation">職業</string>
+    <string name="current_city">今住んでいる地域</string>
+    <string name="picassa_info_title">PicasaとGoogle+</string>
+    <string name="picassa_info_text" formatted="false">Picasaウェブアルバムの画像と動画をGoogle+でも利用できます。コメントの名前は「%s」ではなく「%s %s」となります。Google+で画像を共有すると、その相手はさらに別のユーザーとその画像を共有できます。アルバムの表示設定は変更されません。いつでも設定を変更して他での共有を制限できます。</string>
+    <string name="name_title">名前</string>
+    <string name="name_title_plus">あなたのGoogle+名</string>
+    <string name="name_title_local">この携帯端末の所有者...</string>
+    <string name="name_text">名前は端末やGoogleサービスのカスタマイズに使用されます。</string>
+    <string name="name_text_local">携帯端末では一部のアプリをカスタマイズする際にユーザーの名前が使用されます。</string>
+    <string name="name_progress_title">少々お待ちください…</string>
+    <string name="bad_name_title">この名前を使用</string>
+    <string name="invalid_name_title">この名前は使用できません</string>
+    <string name="bad_name_display">%1$s %2$s</string>
+    <string name="bad_name_text">"この名前をGoogle+で使用するにはGoogleチームの審査を受ける必要があります。ご希望の名前がGoogleの名前付けポリシーに違反している場合、プロフィールが停止されることがあります。プロフィールが停止されると、有効なプロフィールが必要とされるGoogleサービスの利用が制限されます。
+
+"<annotation id="learn_more">詳細</annotation></string>
+    <string name="invalid_name_text">この名前は無効な文字を含んでいるためGoogle+では使用できません。</string>
+    <string name="invalid_nickname_text">この名前は無効な文字を含んでいるためGoogle+では使用できません。ニックネーム、以前の名前、肩書きを使用したい場合は、参加後にプロフィールに追加できます。</string>
+    <string name="invalid_other_text">この名前はGoogle+では使用できません。</string>
+    <string name="bad_name_agree_text">上記の利用規約に同意し、この名前を使用します。</string>
+    <string name="bad_name_decline_button_label">名前を変更</string>
+    <string name="bad_name_agree_button_label">審査のため名前を送信</string>
+    <string name="bad_name_skip_button_label">Google+をスキップ</string>
+    <string name="photo_title">あなたの写真</string>
+    <string name="photo_text">この写真は連絡先レコードで使用されます。後で連絡帳アプリで変更できます。</string>
+    <string name="photo_text_es">Google+で友だちに公開する写真を撮影します。後で新しい画像を選ぶことができます。</string>
+    <string name="photo_button_label">写真を撮影</string>
+    <string name="retake_photo_button_label">写真を撮り直す</string>
+    <string name="photo_failure">カメラを起動できませんでした。</string>
+    <string name="crop_failure">写真をトリミングできませんでした。</string>
+    <string name="photo_description">あなたの写真</string>
+    <string name="communicating_message">携帯端末からGoogleに接続してアカウントにログインしようとしています。この作業には最大5分かかります。</string>
+    <string name="creating_account_title">アカウントを保存中...</string>
+    <string name="checking_username_message">"お使いの端末はご希望の名前が使用できるかどうかGoogleに確認しています。
+
+この処理には数分かかることがあります。"</string>
+    <string name="plus_failure_title">しばらくしてからGoogle+への参加をお試しください</string>
+    <string name="plus_failure_new_account_text">Googleアカウントが作成されましたが、Google+への参加リクエストは正常に処理されませんでした。ウェブブラウザから plus.google.com にアクセスしてもう一度お試しください。</string>
+    <string name="plus_failure_text">Google+への参加リクエストが正常に処理されませんでした。ウェブブラウザから plus.google.com にアクセスしてもう一度お試しください。</string>
+    <string name="provisioned_login_title">パスワードの入力</string>
+    <string name="provisioned_welcome">こんにちは、%sさん</string>
+    <string name="provisioned_welcome_2">"パスワードを入力してください:
+%s"</string>
+    <string name="provisioned_incorrect_login">%sさんではありませんか？</string>
+    <string name="login_title">メールとパスワードを入力</string>
+    <string name="login_task_title">ログインしています</string>
+    <string name="password">パスワード</string>
+    <string name="sign_in_agreement">ログインすると、Google<annotation id="tos">利用規約</annotation>、<annotation id="google_privacy">プライバシーポリシー</annotation>、<annotation id="play_tos">Google Play利用規約</annotation>に同意したことになります。</string>
+    <string name="sign_in_agreement_multi_user">ログインすると、Googleの<annotation id="tos">利用規約</annotation>、<annotation id="google_privacy">プライバシーポリシー</annotation>、<annotation id="play_tos">Google Playの利用規約</annotation>"に同意したことになります。 
+
+注: 他のユーザーは更新されたアプリの許可をあなたの代わりに承認できます。パソコンの場合と同様、このタブレットは信頼できる人とのみ共有してください。"</string>
+    <string name="sign_in_agreement_with_chrome">ログインすることで、Googleの<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>に同意したことになります。</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">ログインすると、Googleの<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>"に同意したことになります。 
+
+注: 他のユーザーは更新されたアプリの許可をあなたの代わりに承認できます。パソコンの場合と同様、このタブレットは信頼できる人とのみ共有してください。"</string>
+    <string name="create_prompt">" Googleアカウントをお持ちでない場合、"<annotation id="create_account">今すぐアカウントを作成</annotation>できます。</string>
+    <string name="sign_in_with_google_account_short">Googleアカウントでログイン:</string>
+    <string name="invalid_username">入力したユーザー名は無効です。</string>
+    <string name="captcha_instructions">表示されているテキストをここに入力してください:</string>
+    <string name="create_google_account">ユーザー名の選択</string>
+    <string name="create_google_account_text">GoogleアカウントにはGoogleのメールサービスであるGmailが付属しています。Gmailはどの端末でも使用でき、迷惑メールのブロックなどの機能を備えています。</string>
+    <string name="account_already_has_gmail">このアカウントでは既にGmailを使用しています。</string>
+    <string name="error_account_disabled">"このアカウントは無効になっています。
+
+（詳しくはウェブブラウザで http://google.co.jp/accounts にアクセスしてください。）"</string>
+    <string name="no_network">ネットワークに接続していません。</string>
+    <string name="no_network_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。モバイルネットワークに接続された状態でもう一度試すか、Wi-Fiネットワークに接続してください。</string>
+    <string name="no_network_help_wifi_only">一時的な問題の可能性があります。もう一度お試しいただくか別のWi-Fiネットワークに接続してください。</string>
+    <string name="error_login_failed">"ユーザー名とパスワードが一致しません。もう一度お試しください。
+
+アカウント情報を復元するには、google.com/accounts/recovery/にアクセスします。"</string>
+    <string name="error_account_not_verified">"このアカウントは確認されていません。メールを確認し、メールに記載されているリンク先にアクセスしてこのアカウントを確認してください。
+
+（アカウント情報を忘れた場合は、パソコンで http://www.google.co.jp/accounts/recovery にアクセスしてください。）"</string>
+    <string name="exit_menu_item">ブラウザログインを終了</string>
+    <string name="creating_profile">プロフィールを作成しています...</string>
+    <string name="checking_account">使用できるか確認しています...</string>
+    <string name="is_not_available">ユーザー名<b>^1</b>は使用できません。</string>
+    <string name="suggestions_hint">タップして候補を表示</string>
+    <string name="suggest_username_next_button_label">ユーザー名の変更</string>
+    <string name="hint_size">" "<b>^1</b>が6文字未満か30文字を超えています。</string>
+    <string name="hint_numbers_only">" "<b>^1</b>に文字が含まれていません。</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>"に使用できるのは、文字、数字、
+ピリオドのみです。"</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b>ではGmailを使用していません。</string>
+    <string name="sign_in_browser">ブラウザログイン</string>
+    <string name="alternatives_list_title">ユーザー名候補</string>
+    <string name="password_title">パスワードを作成</string>
+    <string name="choose_a_password">パスワード</string>
+    <string name="confirm_password">パスワードの再入力</string>
+    <string name="too_short">短すぎます</string>
+    <string name="security_questions_title">セキュリティ保護用の質問</string>
+    <string name="answer">" "<b>回答</b></string>
+    <string name="password_mismatch">パスワードが一致しませんでした。もう一度お試しください。</string>
+    <string name="eight_chars_min">8文字以上</string>
+    <string name="verify_your_profile">プロフィールの確認</string>
+    <string name="error_not_logged_in">ログインしていません。</string>
+    <string name="error_username_unavailable">ユーザー名は使用できません。</string>
+    <string name="error_bad_password">パスワードの安全性が低いか無効な文字が含まれています。別のパスワードをお試しください。</string>
+    <string name="error_bad_username">ユーザー名が無効です。</string>
+    <string name="existing_account_error_title">アカウントが既に存在します</string>
+    <string name="existing_account_error_text">アカウント^1は既にこのAndroid搭載携帯に追加されています。</string>
+    <string name="submission_title">申し訳ありません...</string>
+    <string name="submission_error_text">エラーが発生しました。やり直してください。</string>
+    <string name="sync_intro_title">アカウントの同期</string>
+    <string name="account_tos_title">アカウントを完了</string>
+    <string name="account_tos_plus_title">Google+への参加の完了</string>
+    <string name="i_accept">同意する</string>
+    <string name="i_decline">アカウントを作成しない場合</string>
+    <string name="android_privacy_policy_title">プライバシーポリシーの続き</string>
+    <string name="google_terms_of_service_title">Google利用規約</string>
+    <string name="google_privacy_policy_title">Googleプライバシーポリシー</string>
+    <string name="google_plus_privacy_policy_title">Google+プライバシーポリシー</string>
+    <string name="google_play_tos_title">Google Play利用規約</string>
+    <string name="chrome_tos_title">Chrome利用規約</string>
+    <string name="chrome_privacy_title">Chromeのプライバシーに関するお知らせ</string>
+    <string name="allow_personalized_content">Google以外のウェブサイトでコンテンツや広告をカスタマイズできるよう、Googleに個人情報の使用を許可する。</string>
+    <string name="enable_web_history">ウェブ履歴を有効にする</string>
+    <string name="learn_more"><annotation id="learn_more">詳細</annotation></string>
+    <string name="account_creation_tos">続行すると、Googleの<annotation id="tos">利用規約</annotation>、<annotation id="google_privacy">プライバシーポリシー</annotation>、<annotation id="play_tos">Google Playの利用規約</annotation>に同意したことになります。</string>
+    <string name="account_creation_tos_with_chrome">続行するとGoogleの<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>に同意したことになります。</string>
+    <string name="gender_prompt">性別</string>
+    <string name="gender_hint">性別</string>
+    <string name="account_pre_intro_title">Googleアカウントをお持ちですか？</string>
+    <string name="account_pre_intro_default_message">"Googleアカウントをお持ちですか？
+
+GmailやGoogle Appsをご利用なら既にアカウントがあります。"</string>
+    <string name="account_pre_intro_yes">はい</string>
+    <string name="account_pre_intro_no">いいえ</string>
+    <string name="account_intro_title">Googleアカウント</string>
+    <string name="account_intro_required_title">Powered by Google</string>
+    <string name="account_intro_recommended_title">Googleを利用する</string>
+    <string name="account_intro_default_message">Googleアカウントがあればすべてのデータを安全に保管できます。</string>
+    <string name="account_intro_simple_message">既存のアカウントを追加するか、新しいアカウントを作成しますか？</string>
+    <string name="account_intro_learn_more">詳細</string>
+    <string name="learn_more_title">詳細</string>
+    <string name="learn_more_account_intro">"Googleアカウントを使用すると、次のメリットがあります:
+
+"<li><ul>どこからでも検索履歴などの自分の情報を閲覧し、整理することができます。</ul></li>"
+
+"<li><ul>メールや連絡先、音楽、写真などのデータを自動的にバックアップできます。</ul></li>"
+
+"<li><ul>連絡先、カレンダー、マップなど他にもいろいろなGoogleサービスをどこからでも簡単に利用できます。</ul></li></string>
+    <string name="learn_more_account_intro_title">Googleアカウントについて</string>
+    <string name="learn_more_bad_name">Google+では実名を使用する必要があります。プロフィールは企業、組織、家族などではなく個人を表すものです。名前には姓と名の両方を含め、1つの言語で指定してください。職業上の肩書きや、不要な句読点は含めないでください。登録が完了したら、プロフィールの[他の名前]フィールドで関連付けされたニックネームや別名を指定できます。</string>
+    <string name="learn_more_bad_name_title">名前付けポリシーについて</string>
+    <string name="wait_for_device_country_title">アカウント設定</string>
+    <string name="wait_for_device_country_msg">携帯端末の情報を収集中。この処理には最大30秒かかります。</string>
+    <string name="recovery_title">Googleパスワードの再設定</string>
+    <string name="recovery_wait_title">Googleに問い合わせ中…</string>
+    <string name="cannot_talk_to_server_msg">端末がGoogleにアクセスできませんでした。</string>
+    <string name="recovery_skip_label">スキップ</string>
+    <string name="recovery_retry_label">再試行</string>
+    <string name="recovery_message_set">"もしパスワードを忘れたら、パスワードを再設定する方法が必要になります。
+
+GoogleはSMSまたは予備のメールアドレスを使用してパスワードを再設定する方法を提供しています。
+
+この方法を強くおすすめします。"<annotation id="help_url">詳細</annotation></string>
+    <string name="recovery_message_verify">"パスワードは忘れやすいものです。
+
+今すぐ電話番号かバックアップ用のメールアドレスを確認してください。確認しておくと、GoogleとGoogle Playのコンテンツへのアクセスを回復できます。詳しくは"<annotation id="help_url">こちら</annotation>をご覧ください。</string>
+    <string name="recovery_yes_button_label">再設定オプションをセットアップ</string>
+    <string name="recovery_yes_button_label_verify">再設定オプションを確認</string>
+    <string name="recovery_later_button_label">後で</string>
+    <string name="recovery_input_screen_message">この再設定情報は「%s」に適用されます。</string>
+    <string name="secondary_email_hint">バックアップ用のメール</string>
+    <string name="secondary_email_invalid">メールアドレスが無効です</string>
+    <string name="secondary_email_same_as_primary">メインのアドレスは指定できません</string>
+    <string name="phone_number_hint">電話番号</string>
+    <string name="phone_number_invalid_character">電話番号に無効な文字が含まれています</string>
+    <string name="phone_number_invalid">電話番号が無効です</string>
+    <string name="country_invalid">この国は指定できません</string>
+    <string name="recovery_server_error">サーバーとの通信中にエラーが発生しました。後でもう一度お試しください。</string>
+    <string name="account_recovery_info">パスワードを忘れた場合は、セキュリティ保護用の質問に答えて再設定リンクを別のメールアドレスに送信できます。</string>
+    <string name="secondary_email_label">予備のメールアドレス</string>
+    <string name="invalid_email">"入力したメールアドレスが無効です。
+例: joe@example.com"</string>
+    <string name="invalid_email_primary">予備のメールアドレスには、作成するアカウントとは違うアドレスを指定してください</string>
+    <string name="backup_consent_message">"Googleアカウントを使用して、アプリ、設定（ブックマーク、Wi-Fiパスワードなど）、その他のデータをバックアップします。このアカウントで以前にバックアップしている場合は、今この携帯端末にそれを復元できます。
+
+バックアップ設定は[設定]からいつでも変更できます。"</string>
+    <string name="backup_consent_message_no_restore">"Googleアカウントを使用して、アプリ、設定（ブックマーク、Wi-Fiパスワードなど）、その他のデータをバックアップします。
+
+バックアップの設定は[設定]からいつでも変更できます。"</string>
+    <string name="restoring_title">復元しています...</string>
+    <string name="restoring_message">お使いの携帯端末はGoogleに接続してアカウントを復元しようとしています。これには時間がかかることがあります。</string>
+    <string name="gls_notification_login_error">タップしてアカウントにログインします。</string>
+    <string name="gls_ui_add_account_title">アカウント設定</string>
+    <string name="gls_ui_activity_title">ログイン</string>
+    <string name="gls_ui_activity_title_browser_signin">ログイン</string>
+    <string name="gls_ui_activity_title_checking_in">準備中...</string>
+    <string name="gls_ui_activity_authenticating">認証中...</string>
+    <string name="gls_dmagent_activity_activate_message">" このドメインでは携帯端末管理が必要です。「Google Apps端末ポリシー」アプリを有効にして、アカウント「 "<b>^1</b> 」に必要なセキュリティポリシーを適用してください。</string>
+    <string name="gls_dmagent_activity_activate_retry_button">有効にする</string>
+    <string name="gls_dmagent_activity_download_message">" このドメインでは携帯端末管理が必要です。「Google Apps端末ポリシー」アプリをインストールして、アカウント「 "<b>^1</b> 」に必要なセキュリティポリシーを適用してください。</string>
+    <string name="gls_dmagent_activity_download_retry_button">ダウンロード</string>
+    <string name="gls_login_activity_loginfail_text_pwonly">間違ったパスワードを入力したか、アカウントが変更されています。パスワードを入力し直してください。</string>
+    <string name="permlab_googleAuthPassword">Googleアカウントのパスワードにアクセスする</string>
+    <string name="permdesc_googleAuthPassword">設定したGoogleアカウントのパスワードに直接アクセスすることをアプリに許可します。</string>
+    <string name="permlab_googleMailSwitch">GmailまたはGoogle Mailを選択してください</string>
+    <string name="permdesc_googleMailSwitch">「Gmail」と「Google Mail」の表示名の切り替えをアプリに許可します。</string>
+    <string name="sync_item_title">%sを同期</string>
+    <string name="grant_credentials_permission_message_footer">次の権限がリクエストされています:</string>
+    <string name="grant_credentials_permission_message_app">次のアプリが以降Googleアカウントにアクセスすることを求めています:</string>
+    <string name="grant_permissions_header_text">権限のリクエスト</string>
+    <string name="allow">アクセスの許可</string>
+    <string name="deny">スキップ</string>
+    <string name="permission_request_notification_with_subtitle">"次のアカウントにアクセスする権限が
+リクエストされました: %s"</string>
+    <string name="notification_title">ログインエラー: %1$s</string>
+    <string name="account_setup_title">Googleアカウント</string>
+    <string name="login_activity_title">ログイン</string>
+    <string name="relogin_activity_title">パスワードの再入力</string>
+    <string name="show_error_activity_title">ログインできませんでした</string>
+    <string name="login_activity_task_title">ログイン中...</string>
+    <string name="login_activity_task_msg">この処理には数分かかることがあります。</string>
+    <string name="prepare_account_setup_task_title">アカウントの設定を準備しています…</string>
+    <string name="prepare_account_setup_task_msg">この処理には数分かかることがあります。</string>
+    <string name="sync_intro_activity_title_first_account">バックアップと復元</string>
+    <string name="sync_intro_activity_title_first_created_account">バックアップ</string>
+    <string name="sync_intro_activity_title">アカウントにログインしました</string>
+    <string name="username">メール</string>
+    <string name="error_invalid_second_factor">アカウントの通常のパスワードではなく、アプリ固有のパスワードを使用してください。</string>
+    <string name="error_needs_browser">アカウントにアクセスするには、ウェブでログインする必要があります。[次へ]をタップしてブラウザログインを開始します。</string>
+    <string name="google_play_opt_in">Google Playから最新のニュースやクーポンを受信する。</string>
+    <string name="google_settings_header_title">プライバシー</string>
+    <string name="maps_settings_title">Googleマップ＆Latitude</string>
+    <string name="location_settings_title">現在地情報</string>
+    <string name="search_settings_title">検索</string>
+    <string name="plus_settings_title">Google+</string>
+    <string name="ads_settings_title">広告</string>
+    <string name="location_network_based">Googleの位置情報サービス</string>
+    <string name="location_neighborhood_level">匿名の現在地データのGoogleへの送信を許可します。Wi-Fi、モバイルネットワークなどのデータを使用したおおよその位置の特定もアプリに許可します。</string>
+    <string name="use_location_title">現在地とGoogle検索</string>
+    <string name="use_location_summary">検索結果やサービスの品質向上にGoogleが現在地情報を使用することを許可する</string>
+    <string name="services_activity_title">Googleサービス</string>
+    <string name="services_backup_heading">バックアップ</string>
+    <string name="services_location_heading">位置情報</string>
+    <string name="services_security_heading">セキュリティ</string>
+    <string name="services_personalization_heading">カスタマイズ</string>
+    <string name="services_communication_heading">通信</string>
+    <string name="security_verify_apps_summary">端末またはデータのセキュリティに影響を及ぼす可能性のある不正な動作についてすべてのインストール済みアプリをGoogleがチェックすることを許可します。</string>
+    <string name="backup_consent_yes_agree">Googleアカウントを使用してアプリ、設定（ブックマークやWi-Fiパスワードなど）、その他のデータをバックアップします。</string>
+    <string name="restore_consent_yes_agree">以前にGoogleアカウントにバックアップしていたアプリや設定などのデータをこの携帯電話に復元します。</string>
+    <string name="audit_logging_summary">端末のイベントや診断情報をGoogleに自動送信して、サービス向上や端末の保護に役立てられます。</string>
+    <string name="no_back_msg">前に戻ることはできません。</string>
+</resources>

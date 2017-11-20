@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">iz brskalnika v napravi %1$s na lokaciji %2$s pred manj kot %3$s min</item>
+        <item quantity="one">iz brskalnika v napravi %1$s na lokaciji %2$s pred manj kot %3$s min</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">z lokacije %1$s pred manj kot %2$s min</item>
+        <item quantity="one">z lokacije %1$s pred manj kot %2$s min</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Preostane še %d h</item>
+        <item quantity="one">Preostane še 1 ura</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dan</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d ura</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min.</item>
+        <item quantity="one">%d minuta</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">Št. oseb: %1$s</item>
+        <item quantity="one">%1$s oseba</item>
+        <item quantity="two">Št. oseb: %1$s</item>
+        <item quantity="few">Št. oseb: %1$s</item>
+        <item quantity="many">Št. oseb: %1$s</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Ponovni zagon za namestitev čez %d s…</item>
+        <item quantity="one">Ponovni zagon za namestitev čez 1 s ...</item>
+    </plurals>
+</resources>

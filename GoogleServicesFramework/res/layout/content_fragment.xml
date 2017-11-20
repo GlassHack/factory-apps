@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.pano.widget.FrameLayoutWithShadows android:id="@id/shadow_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" pano:defaultShadow="@drawable/APKTOOL_DUMMY_0"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pano="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:paddingLeft="@dimen/content_fragment_left_padding" android:paddingRight="@dimen/content_fragment_delimiter_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:id="@id/icon" android:layout_width="@dimen/content_fragment_icon_width" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/content_fragment_delimiter_padding" android:scaleType="fitCenter" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="@style/Canvas.Image.Dialog.Content.Icon" />
+        <TextView android:ellipsize="end" android:gravity="right" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="2" android:layout_toLeftOf="@id/icon" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true" style="@style/Canvas.Text.Dialog.Content.Title" />
+        <TextView android:ellipsize="end" android:id="@id/breadcrumb" android:layout_width="wrap_content" android:layout_height="wrap_content" android:singleLine="true" android:layout_toLeftOf="@id/icon" android:layout_above="@id/title" android:layout_alignWithParentIfMissing="true" style="@style/Canvas.Text.Dialog.Content.Breadcrumb" />
+        <TextView android:ellipsize="end" android:id="@id/description" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="6" android:layout_toLeftOf="@id/icon" android:layout_below="@id/title" android:layout_alignWithParentIfMissing="true" style="@style/Canvas.Text.Dialog.Content.Description" />
+    </RelativeLayout>
+</com.google.android.pano.widget.FrameLayoutWithShadows>

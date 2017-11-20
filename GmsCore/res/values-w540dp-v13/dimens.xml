@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="plus_oob_layout_margin_left_gender">10.0dip</dimen>
+    <dimen name="plus_oob_layout_margin_side">20.0dip</dimen>
+    <dimen name="plus_oob_scroll_element_gap_gender">33.0dip</dimen>
+    <dimen name="plus_oob_scroll_element_gap_large">40.0dip</dimen>
+    <dimen name="plus_oob_scroll_element_gap_large_small_delta">20.0dip</dimen>
+    <dimen name="plus_oob_scroll_element_gap_medium">30.0dip</dimen>
+    <dimen name="plus_oob_scroll_element_gap_small">20.0dip</dimen>
+    <dimen name="plus_oob_scroll_margin_bottom">30.0dip</dimen>
+    <dimen name="plus_oob_scroll_margin_top">20.0dip</dimen>
+    <dimen name="plus_oob_wide_ux_max_width">600.0dip</dimen>
+</resources>

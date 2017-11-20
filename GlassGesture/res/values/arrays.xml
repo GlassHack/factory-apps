@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wink_calibration_first_wink_hints">
+        <item>Wink with your right eye</item>
+        <item>Not too fast, not too slow. Mimic the video</item>
+        <item>Can you see all four corners of the screen?</item>
+        <item>Make sure your hair is not in the way</item>
+    </string-array>
+    <string-array name="wink_calibration_following_wink_hints">
+        <item>Wink again, with your right eye</item>
+        <item>Not too fast, not too slow. Mimic the video</item>
+        <item>Can you see all four corners of the screen?</item>
+        <item>Make sure your hair is not in the way</item>
+    </string-array>
+    <string-array name="wink_calibration_tip_card_contents">
+        <item>Gaze through the display when you wink</item>
+        <item>Close only your right eye</item>
+        <item>The display should be fully visible during calibration</item>
+        <item>No hair should be between your eye and the device</item>
+        <item>Calibrate without shades</item>
+        <item>Recalibrate if Wink stops working</item>
+        <item>"Wink still not working? We're on it. Stay tuned"</item>
+    </string-array>
+    <array name="dynamic_text_sizes">
+        <item>64.0px</item>
+        <item>48.0px</item>
+        <item>40.0px</item>
+        <item>32.0px</item>
+    </array>
+    <array name="dynamic_text_baseline_positions">
+        <item>48.0px</item>
+        <item>40.0px</item>
+        <item>32.0px</item>
+        <item>24.0px</item>
+    </array>
+    <array name="dynamic_text_line_spacing_adjustments">
+        <item>5.0px</item>
+        <item>-1.0px</item>
+        <item>1.0px</item>
+        <item>2.0px</item>
+    </array>
+    <array name="contact_colors">
+        <item>@color/contact_red</item>
+        <item>@color/contact_orange</item>
+        <item>@color/contact_yellow</item>
+        <item>@color/contact_green</item>
+        <item>@color/contact_teal</item>
+        <item>@color/contact_blue</item>
+        <item>@color/contact_purple</item>
+    </array>
+</resources>

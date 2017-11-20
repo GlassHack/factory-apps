@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="alpha" name="list_item_selected_title_text_alpha">1.0</item>
+    <item type="alpha" name="list_item_selected_description_text_alpha">0.5</item>
+    <item type="alpha" name="list_item_selected_chevron_background_alpha">0.1</item>
+    <item type="alpha" name="list_item_unselected_text_alpha">0.25</item>
+    <item type="alpha" name="list_item_unselected_description_text_alpha">0.1</item>
+    <item type="alpha" name="list_item_unselected_checkmark_alpha">0.0</item>
+    <item type="alpha" name="list_item_disabled_title_text_alpha">0.1</item>
+    <item type="alpha" name="list_item_disabled_description_text_alpha">0.25</item>
+    <item type="alpha" name="list_item_disabled_chevron_background_alpha">0.05</item>
+    <item type="alpha" name="picker_item_visible_column_item_alpha">0.1</item>
+    <item type="alpha" name="picker_item_invisible_column_item_alpha">0.0</item>
+    <item type="alpha" name="picker_item_separator_alpha">0.1</item>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Bantuan &amp; m/balas</string>
+    <string name="plus_app_settings_all_apps_label">Semua apl</string>
+    <string name="plus_app_settings_apps_page_label">Apl disambungkan</string>
+    <string name="plus_list_apps_empty_message">Tiada apl yang disambungkan</string>
+    <string name="plus_manage_app_pacl_label">Orang yang dapat melihat aktiviti apl di Google</string>
+    <string name="plus_manage_app_scopes_label">Apl ini boleh mengakses:</string>
+</resources>

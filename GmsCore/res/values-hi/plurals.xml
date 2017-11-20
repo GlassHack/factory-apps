@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">%1$s में %2$s ब्राउज़र से %3$s मिनट से कम समय में</item>
+        <item quantity="one">%1$s में %2$s ब्राउज़र से %3$s मिनट से कम समय में</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">%1$s से %2$s मिनट से कम समय में</item>
+        <item quantity="one">%1$s से %2$s मिनट से कम समय में</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d घंटे शेष हैं</item>
+        <item quantity="one">1 घंटा शेष है</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d दिन</item>
+        <item quantity="one">%d दिन</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d घंटे</item>
+        <item quantity="one">%d घंटा</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d मिनट</item>
+        <item quantity="one">%d मिनट</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s लोग</item>
+        <item quantity="one">%1$s व्यक्ति</item>
+        <item quantity="two">%1$s लोग</item>
+        <item quantity="few">%1$s लोग</item>
+        <item quantity="many">%1$s लोग</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">इंस्टॉल करने के लिए %d सेकंड में रीबूट कर रहा है…</item>
+        <item quantity="one">इंस्टॉल करने के लिए 1 सेकंड में रीबूट कर रहा है…</item>
+    </plurals>
+</resources>

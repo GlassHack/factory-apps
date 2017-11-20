@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Café</item>
+        <item>Tankstation</item>
+        <item>Bioscoop</item>
+        <item>Accommodatie</item>
+        <item>Nachtclub</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Winkelcentrum</item>
+        <item>Winkel</item>
+        <item>Supermarkt</item>
+        <item>Anders</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>slecht</item>
+        <item>redelijk</item>
+        <item>goed</item>
+        <item>sterk</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NO</item>
+        <item>O</item>
+        <item>ZO</item>
+        <item>Z</item>
+        <item>ZW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>in noordelijke richting</item>
+        <item>in noordoostelijke richting</item>
+        <item>in oostelijke richting</item>
+        <item>in zuidoostelijke richting</item>
+        <item>in zuidelijke richting</item>
+        <item>in zuidwestelijke richting</item>
+        <item>in westelijke richting</item>
+        <item>in noordwestelijke richting</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Selecteer een beveiligingsvraag</item>
+        <item>Eerste telefoonnummer?</item>
+        <item>Naam van beste jeugdvriend(in)?</item>
+        <item>Naam van eerste leraar?</item>
+        <item>Naam van manager bij eerste baan?</item>
+        <item>Kenteken van uw auto?</item>
+    </string-array>
+</resources>

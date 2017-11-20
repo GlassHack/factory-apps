@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/BrightnessDialogContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:systemui="http://schemas.android.com/apk/res/com.android.systemui">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/brightness_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_qs_brightness_auto_off" android:paddingEnd="10.0dip" />
+    <com.android.systemui.settings.ToggleSlider android:layout_gravity="center_vertical" android:id="@id/brightness_slider" android:layout_width="0.0dip" android:layout_height="40.0dip" android:layout_weight="1.0" android:layout_marginEnd="2.0dip" systemui:text="@string/status_bar_settings_auto_brightness_label" />
+</LinearLayout>

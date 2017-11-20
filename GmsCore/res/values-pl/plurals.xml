@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="auth_authzen_request_description">
+        <item quantity="other">z przeglądarki na urządzeniu %1$s w: %2$s, mniej niż %3$s min temu</item>
+        <item quantity="one">z przeglądarki na urządzeniu %1$s w: %2$s, mniej niż %3$s min temu</item>
+    </plurals>
+    <plurals name="auth_authzen_request_description_no_useragent">
+        <item quantity="other">z: %1$s, mniej niż %2$s min temu</item>
+        <item quantity="one">z: %1$s, mniej niż %2$s min temu</item>
+    </plurals>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">Pozostało godzin: %d</item>
+        <item quantity="one">Pozostała 1 godz.</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d dni</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s osoby</item>
+        <item quantity="one">%1$s osoba</item>
+        <item quantity="two">%1$s osoby</item>
+        <item quantity="few">%1$s osoby</item>
+        <item quantity="many">%1$s osób</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">Ponowne uruchomienie i instalacja za %d s…</item>
+        <item quantity="one">Ponowne uruchomienie i instalacja za 1 s…</item>
+    </plurals>
+</resources>

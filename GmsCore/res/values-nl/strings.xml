@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="account_level_title">Actie op account vereist</string>
+    <string name="activity_recognition_permission_description">Hiermee kan een app periodieke updates van uw activiteitsniveau ontvangen van Google, bijvoorbeeld tijdens het lopen, rijden, fietsen of als u stilstaat.</string>
+    <string name="activity_recognition_permission_label">activiteitsherkenning</string>
+    <string name="add_a_place_add">Toevoegen</string>
+    <string name="add_a_place_call_to_action">Een plaats toevoegen</string>
+    <string name="add_a_place_call_to_drag">Sleep de map om de markering te plaatsen</string>
+    <string name="add_a_place_cancel">Annuleren</string>
+    <string name="add_a_place_next">Volgende</string>
+    <string name="agree">Akkoord</string>
+    <string name="app_label">Netwerklocatie</string>
+    <string name="app_level_title">Inlogverzoek</string>
+    <string name="app_level_title_secondary">Inlogverzoek van %s</string>
+    <string name="auth_accept_access">Accepteren</string>
+    <string name="auth_account_already_has_gmail">Account beschikt al over Gmail.</string>
+    <string name="auth_account_setup_title">Google-account</string>
+    <string name="auth_ads_settings_title">Advertenties</string>
+    <string name="auth_allow_external_site_access">Heeft doorlopende toegang tot uw gegevens op %s</string>
+    <string name="auth_app_label">Google Account Manager</string>
+    <string name="auth_app_permission_footnote">%s en Google gebruiken deze informatie in overeenstemming met hun respectieve servicevoorwaarden en privacybeleid.</string>
+    <string name="auth_app_permission_label">DEZE APP WIL</string>
+    <string name="auth_app_permission_ok_footnote">Als u doorgaat, geeft u deze app en Google toestemming uw informatie te gebruiken in overeenstemming met de respectieve servicevoorwaarden en privacybeleidsregels.</string>
+    <string name="auth_app_permission_sign_in_footnote">"Als u 'Inloggen' aanraakt, geeft u deze app en Google toestemming uw informatie te gebruiken in overeenstemming met de respectieve servicevoorwaarden en privacybeleidsregels."</string>
+    <string name="auth_app_permission_title">Inloggen bij %s met Google</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">Inloggen toestaan</string>
+    <string name="auth_authzen_action_approved_toast_text">Actie goedgekeurd</string>
+    <string name="auth_authzen_action_canceled_toast_text">Actie geannuleerd</string>
+    <string name="auth_authzen_allow_reset_button_text">Wachtwoord opnieuw instellen toestaan</string>
+    <string name="auth_authzen_cancel_button_label">Annuleren</string>
+    <string name="auth_authzen_close_button_text">Sluiten</string>
+    <string name="auth_authzen_confirmation_allow_button_text">Toestaan</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">Annuleren</string>
+    <string name="auth_authzen_default_confirmation_description">Inloggen op uw account vanuit %s toestaan?</string>
+    <string name="auth_authzen_default_confirmation_title">We hebben uw bevestiging nodig</string>
+    <string name="auth_authzen_default_incorrect_pin_text">Onjuist nummer geselecteerd. Uw verzoek is geannuleerd.</string>
+    <string name="auth_authzen_default_request_description">verzoekdetails niet bekend</string>
+    <string name="auth_authzen_generic_error_text">Fout opgetreden. Probeer het opnieuw.</string>
+    <string name="auth_authzen_google_logo_label">Google-logo</string>
+    <string name="auth_authzen_login_challenge_approved_text">Inloggen goedgekeurd</string>
+    <string name="auth_authzen_login_challenge_canceled_text">Inloggen geannuleerd</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">Inloggen toestaan</string>
+    <string name="auth_authzen_login_challenge_desc_text">Probeert u in te loggen vanuit %s?</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">Google heeft de inlogpoging gestopt.</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">Onjuist nummer</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">Tik op het nummer dat op het andere scherm wordt weergegeven. Zo wordt u ingelogd bij uw computer.</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">Iemand heeft zojuist geprobeerd op uw Google-account in te loggen met uw wachtwoord. Google heeft de inlogpoging geblokkeerd.</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">Login voorkomen</string>
+    <string name="auth_authzen_login_challenge_title_text">Probeert u in te loggen?</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">Als u inloggen op uw computer wilt toestaan, moet u uw identiteit verifiëren</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">inlogverzoek van een computer in %s</string>
+    <string name="auth_authzen_minutemaid_no_button_text">Ik heb dit verzoek niet ingediend</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">Bedankt voor de melding, %s</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">We hebben deze activiteit geregistreerd, zodat we uw account nog beter kunnen beveiligen.</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">Inloggen</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">Annuleren</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">Geef Google-accountpincode op</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">OK, doorgaan</string>
+    <string name="auth_authzen_no_button_text">Nee</string>
+    <string name="auth_authzen_notify_google_default_text">Google wordt ervan op de hoogte gesteld dat iemand heeft geprobeerd toegang tot uw account te krijgen.</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">Google heeft een verzoek ontvangen om uw wachtwoord te wijzigen. Aangezien het verzoek niet van u afkomstig lijkt te zijn, is het geannuleerd. Er zijn geen wijzigingen aangebracht in uw account.</string>
+    <string name="auth_authzen_ok_button_text">OK</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">Tik op het nummer dat op het andere scherm wordt weergegeven. Zo wordt u ingelogd bij uw computer.</string>
+    <string name="auth_authzen_pin_validation_default_title_text">Inloggen toestaan</string>
+    <string name="auth_authzen_profile_picture_label">Profielfoto</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Heeft u net geprobeerd in te loggen bij Google?</string>
+    <string name="auth_authzen_recovery_approved_text">Opnieuw instellen van wachtwoord goedgekeurd</string>
+    <string name="auth_authzen_recovery_canceled_text">Opnieuw instellen van wachtwoord geannuleerd</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">Opnieuw instellen van het wachtwoord vanuit %s toestaan?</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">We hebben uw bevestiging nodig</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">Google heeft de poging gestopt om het wachtwoord opnieuw in te stellen.</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">Onjuist nummer</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">Tik op het nummer dat op het andere scherm wordt weergegeven. Zo wordt uw wachtwoord opnieuw ingesteld.</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">Wachtwoord opnieuw instellen toestaan</string>
+    <string name="auth_authzen_recovery_reject_desc_text">Iemand heeft een verzoek voor het opnieuw instellen van het wachtwoord van uw Google-account ingediend. Google heeft de poging gestopt om het wachtwoord opnieuw in te stellen.</string>
+    <string name="auth_authzen_recovery_reject_title_text">Opnieuw instellen van wachtwoord voorkomen</string>
+    <string name="auth_authzen_recovery_verification_desc_text">Heeft u een verzoek voor het opnieuw instellen van uw wachtwoord ingediend vanuit %s?</string>
+    <string name="auth_authzen_recovery_verification_title_text">Heeft u geprobeerd uw wachtwoord opnieuw in te stellen?</string>
+    <string name="auth_authzen_secure_account_button_text">Uw account beveiligen</string>
+    <string name="auth_authzen_sending_reply_failed_text">Kan geen reactie verzenden naar de server.</string>
+    <string name="auth_authzen_sending_reply_text">Reactie wordt verzonden naar de server</string>
+    <string name="auth_authzen_time_display_text">minder dan %s minuten geleden</string>
+    <string name="auth_authzen_time_just_now_text">Zojuist</string>
+    <string name="auth_authzen_wait_text">Even geduld…</string>
+    <string name="auth_authzen_workflow_title">Google-autorisatieprompt</string>
+    <string name="auth_authzen_yes_button_text">Ja</string>
+    <string name="auth_back_button_label">Terug</string>
+    <string name="auth_bad_name_title">Deze naam gebruiken?</string>
+    <string name="auth_bluetooth_lure_button">Toevoegen als vertrouwd apparaat</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">Uw vergrendeling bevestigen</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"Nieuw Bluetooth-apparaat gekoppeld.
+Voeg %s toe als vertrouwd apparaat om de schermvergrendeling over te slaan wanneer het apparaat is verbonden."</string>
+    <string name="auth_bluetooth_lure_one_line_message">Nieuwe Bluetooth-apparaat gekoppeld.</string>
+    <string name="auth_bluetooth_lure_title">Persoonlijke ontgrendeling</string>
+    <string name="auth_cancel_button_label">Annuleren</string>
+    <string name="auth_captcha_instructions">Typ de tekst die u hier ziet:</string>
+    <string name="auth_captcha_title">CAPTCHA moet worden ingevoerd</string>
+    <string name="auth_communicating_message">Uw apparaat maakt verbinding met Google om informatie op te slaan in uw account. Dit kan maximaal vijf minuten duren.</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">Status van inloggegevens</string>
+    <string name="auth_d2d_source_bt_notice">Bluetooth wordt gebruikt.</string>
+    <string name="auth_d2d_source_lock_notice">Uw apparaat vergrendelt zichzelf en moet weer worden ontgrendeld om door te gaan.</string>
+    <string name="auth_d2d_source_no_accounts_toast">Kan niet tikken en herstellen omdat dit apparaat geen accounts bevat.</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">Kan niet tikken en herstellen omdat Bluetooth niet beschikbaar is op uw apparaat.</string>
+    <string name="auth_d2d_source_notification_text">"Er is op ^2 een nieuwe ^1 geconfigureerd met dit apparaat, inclusief een poging om de volgende Google-accounts over te zetten: 
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">Apparaatconfiguratie voltooid</string>
+    <string name="auth_d2d_source_progress_message">Gegevens kopiëren naar uw nieuwe apparaat...</string>
+    <string name="auth_d2d_source_question">Accounts en gegevens kopiëren van dit apparaat?</string>
+    <string name="auth_d2d_source_restricted_user_toast">Kan niet tikken en betalen vanaf een beperkt gebruikersprofiel.</string>
+    <string name="auth_d2d_source_title">Accounts herstellen</string>
+    <string name="auth_d2d_source_unknown_device_name">Onbekend apparaat</string>
+    <string name="auth_d2d_target_adding_accounts_message">Accounts toevoegen...</string>
+    <string name="auth_d2d_target_connecting_progress_message">Verbinding maken met uw apparaat…</string>
+    <string name="auth_d2d_target_connection_lost_alert">Verbinding verbroken</string>
+    <string name="auth_d2d_target_description">"Kopieer snel Google-accounts, evenals apps en gegevens waarvan een back-up is gemaakt vanaf uw huidige Android-apparaat. Ga hiervoor als volgt te werk: 
+
+1. Zorg ervoor dat uw andere apparaat is ingeschakeld en ontgrendeld. 
+
+2. Houd de apparaten kort met de achterkant tegen elkaar en houd ze vervolgens uit elkaar."</string>
+    <string name="auth_d2d_target_more_info">"Deze functie maakt gebruik van NFC om accountgegevens over te zetten. Als uw apparaat NFC ondersteunt, controleert u of de functie is ingeschakeld via 'Instellingen > Draadloos en netwerken > Meer'."</string>
+    <string name="auth_d2d_target_more_info_close">OK</string>
+    <string name="auth_d2d_target_more_info_link">Meer informatie</string>
+    <string name="auth_d2d_target_skip_button">Overslaan</string>
+    <string name="auth_d2d_target_sorry_alert">Er is iets misgegaan</string>
+    <string name="auth_d2d_target_tap_progress_message">"Tik op 'OK' op uw andere apparaat om door te gaan"</string>
+    <string name="auth_d2d_target_title">Tikken en gaan</string>
+    <string name="auth_d2d_target_try_again_button">Opnieuw proberen</string>
+    <string name="auth_d2d_target_unlock_progress_message">Uw andere apparaat ontgrendelen</string>
+    <string name="auth_d2d_target_wait_progress_message">Accounts en gegevens kopiëren…</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" Voor uw domein is mobiel apparaatbeheer vereist. Installeer de app 'Google Apps Device Policy' voor het activeren van het beveiligingsbeleid dat wordt vereist door het account van "<b>^1</b>.</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b> gebruikt geen Gmail.</string>
+    <string name="auth_error_account_disabled">"Dit account is uitgeschakeld. 
+
+(Ga voor informatie via een webbrowser naar http://google.com/accounts.)"</string>
+    <string name="auth_error_account_not_verified">"Dit account is niet geverifieerd. Raadpleeg uw e-mail en volg de link om dit account te verifiëren. 
+
+(U kunt uw accountgegevens ophalen door naar http://www.google.com/accounts/recovery te gaan op uw computer.)"</string>
+    <string name="auth_error_bad_password">Het wachtwoord is te zwak of bevat ongeldige tekens. Probeer het opnieuw.</string>
+    <string name="auth_error_bad_username">Ongeldige gebruikersnaam.</string>
+    <string name="auth_error_invalid_second_factor">Gebruik een app-specifiek wachtwoord in plaats van het normale wachtwoord voor uw account.</string>
+    <string name="auth_error_login_failed">"Uw gebruikersnaam en wachtwoord komen niet overeen. Probeer het opnieuw.
+
+Als u uw accountgegevens wilt herstellen, gaat u naar google.com/accounts/recovery/."</string>
+    <string name="auth_error_needs_browser">"Als u uw account wilt gebruiken, moet u inloggen op internet. Tik op 'Volgende' om 'Inloggen bij browser' te starten."</string>
+    <string name="auth_error_not_logged_in">De gebruiker is niet aangemeld.</string>
+    <string name="auth_error_username_unavailable">Gebruikersnaam is niet beschikbaar.</string>
+    <string name="auth_existing_account_error_text">"Er is al een account '^1' ingesteld op dit Android-apparaat."</string>
+    <string name="auth_existing_account_error_title">Account bestaat al</string>
+    <string name="auth_exit_menu_item">Inloggen bij browser afsluiten</string>
+    <string name="auth_facl_scope_details_dialog_title">Wat deze app kan zien</string>
+    <string name="auth_facl_with_warning_label">Wijzigen wie deze app kan zien</string>
+    <string name="auth_field_cant_be_blank">Veld mag niet leeg zijn.</string>
+    <string name="auth_fitness_settings_title">Fitness</string>
+    <string name="auth_gls_account_creation_tos">Als u doorgaat, geeft u daarmee aan akkoord te gaan met de <annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google en de <annotation id="play_tos">Servicevoorwaarden van Google Play</annotation>.</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">Als u doorgaat, geeft u daarmee aan akkoord te gaan met de <annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google, de <annotation id="chrome_tos">Servicevoorwaarden</annotation> en het <annotation id="chrome_privacy">Privacybeleid</annotation> van Chrome en de <annotation id="play_tos">Servicevoorwaarden</annotation> van Google Play.</string>
+    <string name="auth_gls_account_intro_default_message">U raakt geen gegevens meer kwijt: een Google-account houdt alles veilig bij elkaar.</string>
+    <string name="auth_gls_account_intro_learn_more">Meer informatie</string>
+    <string name="auth_gls_account_intro_recommended_title">Google instellen</string>
+    <string name="auth_gls_account_intro_required_title">Mogelijk gemaakt door Google</string>
+    <string name="auth_gls_account_intro_simple_message">Wilt u een bestaand account toevoegen of een nieuw account maken?</string>
+    <string name="auth_gls_account_intro_title">Google-account</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Heeft u een Google-account?
+
+Als u Gmail of Google Apps gebruikt, antwoordt u 'Ja'."</string>
+    <string name="auth_gls_account_pre_intro_no">Nee</string>
+    <string name="auth_gls_account_pre_intro_title">Heeft u al een Google-account?</string>
+    <string name="auth_gls_account_pre_intro_yes">Ja</string>
+    <string name="auth_gls_account_recovery_info">Als u ooit uw wachtwoord vergeet, kunt u een beveiligingsvraag beantwoorden en een link voor herstel naar een ander e-mailadres laten verzenden.</string>
+    <string name="auth_gls_account_tos_plus_title">Activering voor Google+ voltooien</string>
+    <string name="auth_gls_account_tos_title">Account voltooien</string>
+    <string name="auth_gls_add_a_google_account">Google-account toevoegen</string>
+    <string name="auth_gls_alternatives_list_title">Voorgestelde gebruikersnamen</string>
+    <string name="auth_gls_answer">" "<b>Antwoord</b></string>
+    <string name="auth_gls_backup_consent_message">"Gebruik uw Google-account om een back-up van uw apps, instellingen (zoals bladwijzers en wifi-wachtwoorden) en andere gegevens te maken. Als u eerder een back-up van uw account heeft gemaakt, kunt u deze nu terugzetten op deze telefoon.
+
+U kunt uw back-upinstellingen op elk gewenst moment wijzigen in 'Instellingen'."</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Gebruik uw Google-account om een back-up van uw apps, instellingen (zoals bladwijzers en wifi-wachtwoorden) en andere gegevens te maken.
+
+U kunt uw back-upinstellingen op elk gewenst moment wijzigen in 'Instellingen'."</string>
+    <string name="auth_gls_backup_consent_yes_agree">Een back-up van deze telefoon blijven maken in mijn Google-account</string>
+    <string name="auth_gls_cant_be_blank">Veld mag niet leeg zijn.</string>
+    <string name="auth_gls_checking_account">Beschikbaarheid controleren…</string>
+    <string name="auth_gls_checking_username_message">"Uw telefoon neemt contact op met Google om te zien of de gewenste gebruikersnaam beschikbaar is.
+
+Dit kan enkele minuten duren."</string>
+    <string name="auth_gls_choose_a_password">Wachtwoord</string>
+    <string name="auth_gls_circles_subtitle">Kringen</string>
+    <string name="auth_gls_circles_text">De eenvoudigste manier om dat wat u het belangrijkst vindt, online met anderen te delen.</string>
+    <string name="auth_gls_confirm_password">Wachtwoord opnieuw typen</string>
+    <string name="auth_gls_create_button_label">Een account maken</string>
+    <string name="auth_gls_create_google_account">Gebruikersnaam kiezen</string>
+    <string name="auth_gls_create_google_account_text">Uw Google-account wordt geleverd met Gmail, de e-mailservice van Google. Gmail werkt op elk apparaat, blokkeert spam en biedt u nog veel meer functies.</string>
+    <string name="auth_gls_creating_account_title">Account opslaan…</string>
+    <string name="auth_gls_creating_profile">Uw profiel maken…</string>
+    <string name="auth_gls_crop_failure">Kan foto niet bijsnijden.</string>
+    <string name="auth_gls_dasher_warning">De beheerder van %s is de eigenaar en beheerder van al uw gegevens op Google+ en kan uw profiel op elk gewenst moment zonder uw toestemming verwijderen of aanpassen.</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" Voor uw domein is mobiel apparaatbeheer vereist. Activeer de app 'Google Apps Device Policy' voor het activeren van het beveiligingsbeleid dat wordt vereist door het account van "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">Activeren</string>
+    <string name="auth_gls_dmagent_activity_download_message">" Voor uw domein is mobiel apparaatbeheer vereist. Installeer de app 'Google Apps Device Policy' voor het activeren van het beveiligingsbeleid dat wordt vereist door het account van "<b>^1</b>.</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">Downloaden</string>
+    <string name="auth_gls_edit_text_help">Raak een tekstvak aan om te beginnen met typen</string>
+    <string name="auth_gls_eight_chars_min">minimaal 8 tekens</string>
+    <string name="auth_gls_enable_web_history">Webgeschiedenis inschakelen</string>
+    <string name="auth_gls_error_bad_password">Het wachtwoord is te zwak of bevat ongeldige tekens. Probeer het opnieuw.</string>
+    <string name="auth_gls_error_login_failed">"Uw gebruikersnaam en wachtwoord komen niet overeen. Probeer het opnieuw.
+
+Als u uw accountgegevens wilt herstellen, gaat u naar google.com/accounts/recovery/."</string>
+    <string name="auth_gls_error_needs_browser">"Als u toegang wilt tot uw account, moet u op internet inloggen. Tik op 'Volgende' om de browserlogin te starten."</string>
+    <string name="auth_gls_existing_account_error_text">Er is al een account ^1 ingesteld op dit Android-apparaat.</string>
+    <string name="auth_gls_existing_account_error_title">Account bestaat al</string>
+    <string name="auth_gls_existing_button_label">Bestaand</string>
+    <string name="auth_gls_google_play_opt_in">Houd mij op de hoogte van nieuws en aanbiedingen van Google Play.</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>" mag alleen letters,
+cijfers en punten bevatten."</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b> bevat geen letters.</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b> bevat minder dan 6 of meer dan 30 tekens.</string>
+    <string name="auth_gls_huddle_text">Groepsberichten verzenden voor alle mensen in uw kringen.</string>
+    <string name="auth_gls_invalid_email">"Het opgegeven e-mailadres is niet geldig.
+ Voorbeeld: joop@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">Het e-mailadres voor accountherstel kan niet gelijk zijn aan het e-mailadres dat u wilt maken.</string>
+    <string name="auth_gls_is_not_available">De gebruikersnaam <b>^1</b> is niet beschikbaar.</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">Meer informatie</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Met een Google-account kunt u:
+
+"<li><ul>Uw informatie vanaf elke locatie bekijken en organiseren.</ul></li>"
+
+"<li><ul>Automatisch een back-up maken van uw gegevens, zoals e-mail, contacten, muziek en afbeeldingen.</ul></li>" 
+
+"<li><ul>De service van Google, waaronder Contacten, Agenda, Maps en meer, gemakkelijk gebruiken vanaf elke locatie.</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Over Google-accounts</string>
+    <string name="auth_gls_learn_more_web_history">"Webgeschiedenis past uw zoekresultaten aan op basis van wat u eerder heeft gezocht en de sites die u heeft bezocht, zodat uw zoekervaring op Google wordt gepersonaliseerd. 
+
+Ga naar http://www.google.com/history om uw webgeschiedenis te bekijken en te beheren (en in of uit te schakelen)."</string>
+    <string name="auth_gls_learn_more_web_history_title">Over Webgeschiedenis</string>
+    <string name="auth_gls_name_checking_info_title">Informatie controleren…</string>
+    <string name="auth_gls_name_progress_title">Een ogenblikje…</string>
+    <string name="auth_gls_name_text">Uw naam wordt gebruikt om uw telefoon en Google-services te personaliseren.</string>
+    <string name="auth_gls_name_text_local">De telefoon gebruikt uw naam om enkele apps te personaliseren.</string>
+    <string name="auth_gls_name_title_local">Deze telefoon is van…</string>
+    <string name="auth_gls_name_title_plus">Uw Google+ naam</string>
+    <string name="auth_gls_network_unreliable">Kan geen betrouwbare verbinding met de server tot stand brengen.</string>
+    <string name="auth_gls_network_unreliable_help">Dit is mogelijk een tijdelijk probleem of uw Android-apparaat is niet geschikt voor gegevensservices. Als het probleem zich blijft voordoen, kunt u contact opnemen met de klantenservice.</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">Dit kan een tijdelijk probleem zijn. Probeer het opnieuw of maak verbinding met een ander wifi-netwerk.</string>
+    <string name="auth_gls_new_button_label">Nieuw</string>
+    <string name="auth_gls_no_network">Er is geen netwerkverbinding.</string>
+    <string name="auth_gls_no_network_help">Dit kan een tijdelijk probleem zijn. Het is ook mogelijk dat uw Android-apparaat niet is ingesteld voor gegevensservices. Probeer het nogmaals als u verbinding heeft met een mobiel netwerk of met een wifi-netwerk.</string>
+    <string name="auth_gls_no_network_help_wifi_only">Dit kan een tijdelijk probleem zijn. Probeer het opnieuw of maak verbinding met een ander wifi-netwerk.</string>
+    <string name="auth_gls_not_now_button_label">Niet nu</string>
+    <string name="auth_gls_password_mismatch">Wachtwoorden komen niet overeen. Probeer het opnieuw.</string>
+    <string name="auth_gls_password_title">Wachtwoord instellen</string>
+    <string name="auth_gls_photo_button_label">Foto maken</string>
+    <string name="auth_gls_photo_description">Uw foto</string>
+    <string name="auth_gls_photo_failure">Kan de camera niet starten.</string>
+    <string name="auth_gls_photo_text">Deze foto wordt gebruikt in uw contactgegevens. U kunt de foto later wijzigen in de app Personen.</string>
+    <string name="auth_gls_photo_text_es">Maak een foto die uw vrienden zien op Google+. U kunt later een andere foto kiezen.</string>
+    <string name="auth_gls_photo_title">Uw foto</string>
+    <string name="auth_gls_plus_accepted_button_label">Deelnemen aan Google+</string>
+    <string name="auth_gls_plus_declined_button_label">Niet nu</string>
+    <string name="auth_gls_plus_failure_new_account_text">Uw Google-account is gemaakt, maar uw verzoek om Google+ te gaan gebruiken, is niet verwerkt. Probeer het later opnieuw op plus.google.com via een webbrowser.</string>
+    <string name="auth_gls_plus_failure_text">Uw verzoek om Google+ te gaan gebruiken, is niet verwerkt. Probeer het later opnieuw op plus.google.com via een webbrowser.</string>
+    <string name="auth_gls_plus_failure_title">Later registreren voor Google+</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Op Google+ heeft u een openbaar profiel waarmee uw vrienden u online kunnen vinden. Iedereen die uw e-mailadres kent, kan uw profiel vinden en bekijken.
+
+U kunt de Google+ knoppen op internet gebruiken om dingen aan anderen aan te raden. Uw profiel en +1-waarderingen worden openbaar weergegeven in zoekresultaten, bij advertenties en op websites.
+
+Voorlopig wordt alleen uw naam in uw profiel weergegeven (%s %s). U kunt later een foto, biografie en andere informatie toevoegen wanneer u Google+ gaat gebruiken."</string>
+    <string name="auth_gls_plus_name_check_text">Dit kan enkele minuten duren.</string>
+    <string name="auth_gls_plus_name_check_title">Contact opnemen met Google+…</string>
+    <string name="auth_gls_plus_query_text">Met Google+ wordt delen op internet meer zoals delen in het echte leven.</string>
+    <string name="auth_gls_provisioned_incorrect_login">Bent u niet %s?</string>
+    <string name="auth_gls_provisioned_welcome">Hallo, %s!</string>
+    <string name="auth_gls_provisioned_welcome_2">"Geef uw wachtwoord op voor:
+%s"</string>
+    <string name="auth_gls_recovery_title">Informatie voor herstel</string>
+    <string name="auth_gls_restore_consent_yes_agree">Terugzetten vanuit mijn Google-account naar deze telefoon</string>
+    <string name="auth_gls_restoring_message">Uw telefoon maakt verbinding met Google om uw account te herstellen. Dit kan enige tijd duren.</string>
+    <string name="auth_gls_restoring_title">Herstellen…</string>
+    <string name="auth_gls_retake_photo_button_label">Foto opnieuw maken</string>
+    <string name="auth_gls_secondary_email_label">Herstel-e-mailadres</string>
+    <string name="auth_gls_security_questions_title">Beveiligingsvragen</string>
+    <string name="auth_gls_server_error">Er is een probleem opgetreden bij de communicatie met de Google-servers.</string>
+    <string name="auth_gls_server_error_help">Probeer het later opnieuw.</string>
+    <string name="auth_gls_sign_in_agreement">Als u inlogt, geeft u daarmee aan akkoord te gaan met de <annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google en de <annotation id="play_tos">Servicevoorwaarden van Google Play</annotation>.</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" Als u inlogt, geeft u daarmee aan akkoord te gaan met de "<annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google en de <annotation id="play_tos">Servicevoorwaarden van Google Play</annotation>". 
+
+Let op: elke andere gebruiker kan bijgewerkte app-machtigingen namens u accepteren. Zoals bij elke computer moet u ook deze tablet alleen delen met mensen die u vertrouwt."</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" Als u inlogt, geeft u daarmee aan akkoord te gaan met de "<annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google, de <annotation id="chrome_tos">Servicevoorwaarden</annotation> en het <annotation id="chrome_privacy">Privacybeleid</annotation> van Chrome en de <annotation id="play_tos">Servicevoorwaarden</annotation> van Google Play.</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" Als u inlogt, geeft u daarmee aan akkoord te gaan met de "<annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google, de <annotation id="chrome_tos">Servicevoorwaarden</annotation> en het <annotation id="chrome_privacy">Privacybeleid</annotation> van Chrome en de <annotation id="play_tos">Servicevoorwaarden van Google Play</annotation>". 
+
+Let op: elke andere gebruiker kan bijgewerkte app-machtigingen namens u accepteren. Zoals bij elke computer moet u ook deze tablet alleen delen met mensen die u vertrouwt."</string>
+    <string name="auth_gls_submission_title">Helaas…</string>
+    <string name="auth_gls_suggest_username_next_button_label">Gebruikersnaam wijzigen</string>
+    <string name="auth_gls_suggestions_hint">Raak aan voor suggesties</string>
+    <string name="auth_gls_sync_intro_activity_title">Ingelogd bij account</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">Back-up maken en terugzetten</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">Back-up</string>
+    <string name="auth_gls_sync_intro_title">Accountsynchronisatie</string>
+    <string name="auth_gls_sync_item_title">%s synchroniseren</string>
+    <string name="auth_gls_too_short">Te kort</string>
+    <string name="auth_gls_ui_activity_authenticating">Verifiëren…</string>
+    <string name="auth_gls_ui_activity_title_checking_in">Voorbereiden…</string>
+    <string name="auth_gls_uploads_subtitle">Automatisch uploaden</string>
+    <string name="auth_gls_uploads_text">"Synchroniseer eenvoudig al uw foto's op al uw apparaten."</string>
+    <string name="auth_gls_verify_your_profile">Uw profiel verifiëren</string>
+    <string name="auth_gls_wait_for_device_country_msg">Informatie verzamelen over uw telefoon. Dit duurt maximaal 30 seconden.</string>
+    <string name="auth_gls_wait_for_device_country_title">Accountinstellingen</string>
+    <string name="auth_google_settings_header_title">Privacy</string>
+    <string name="auth_google_title_logo">Google-logo</string>
+    <string name="auth_google_trust_agent_title">Persoonlijke ontgrendeling</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Log in bij Google+</string>
+    <string name="auth_gsf_notification_login_error">Raak aan om in te loggen op uw account.</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"Toestemming gevraagd
+voor account '%s'"</string>
+    <string name="auth_invalid_login_character">Ongeldig teken. Alleen 0-9, a-z, A-Z en punten zijn toegestaan.</string>
+    <string name="auth_invalid_password_character">Ongeldig teken in wachtwoord.</string>
+    <string name="auth_invalid_scope">Ongeldig bereik gebruikt tijdens verificatieverzoek.</string>
+    <string name="auth_invalid_username">De getypte tekst is geen geldige gebruikersnaam.</string>
+    <string name="auth_learn_more_title">Meer informatie</string>
+    <string name="auth_location_neighborhood_level">Toestaan dat anonieme locatiegegevens worden verzonden naar Google. Ook toestaan dat toegestane apps gegevens uit bronnen zoals mobiele en wifi-netwerken gebruiken om uw geschatte locatie te bepalen.</string>
+    <string name="auth_location_network_based">Locatieservice van Google</string>
+    <string name="auth_location_settings_title">Locatie-instellingen</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">U heeft een onjuist wachtwoord getypt of uw account is gewijzigd. Typ uw wachtwoord opnieuw. Klik <annotation id="help_url">hier</annotation> als u uw wachtwoord bent vergeten en uw account wilt herstellen.</string>
+    <string name="auth_login_activity_task_title">Inloggen…</string>
+    <string name="auth_login_activity_title">Inloggen</string>
+    <string name="auth_login_task_title">Inloggen</string>
+    <string name="auth_login_title">E-mailadres en wachtwoord typen</string>
+    <string name="auth_maps_settings_title">Maps en Latitude</string>
+    <string name="auth_minutemaid_title">Een Google-account instellen</string>
+    <string name="auth_name_title">Uw naam</string>
+    <string name="auth_network_unreliable">Kan geen betrouwbare verbinding met de server tot stand brengen.</string>
+    <string name="auth_network_unreliable_help">Dit is mogelijk een tijdelijk probleem of uw Android-apparaat is niet geschikt voor gegevensservices. Als het probleem zich blijft voordoen, kunt u contact opnemen met de klantenservice.</string>
+    <string name="auth_network_unreliable_help_wifi_only">Dit kan een tijdelijk probleem zijn. Probeer het opnieuw of maak verbinding met een ander wifi-netwerk.</string>
+    <string name="auth_next_button_label">Volgende</string>
+    <string name="auth_nfc_caution">Bescherm deze tag. Een indringer zou deze kunnen kopiëren.</string>
+    <string name="auth_nfc_tag_exists">%1$s is al toegevoegd</string>
+    <string name="auth_nfc_tag_not_supported">Het opgegeven NFC-apparaat wordt niet ondersteund</string>
+    <string name="auth_no_network">Er is geen netwerkverbinding.</string>
+    <string name="auth_no_network_help">Dit kan een tijdelijk probleem zijn. Het is ook mogelijk dat uw Android-apparaat niet is ingesteld voor gegevensservices. Probeer het nogmaals als u verbinding heeft met een mobiel netwerk of met een wifi-netwerk.</string>
+    <string name="auth_no_network_help_wifi_only">Dit kan een tijdelijk probleem zijn. Probeer het opnieuw of maak verbinding met een ander wifi-netwerk.</string>
+    <string name="auth_ok_button_label">OK</string>
+    <string name="auth_only_you_acl">Alleen u</string>
+    <string name="auth_otp_dialog_title">Verificatiecode</string>
+    <string name="auth_otp_done_button">Klaar</string>
+    <string name="auth_otp_error">Er is een probleem met het genereren van de verificatiecode.</string>
+    <string name="auth_otp_instruction">Gebruik deze code alleen om in te loggen bij Google.</string>
+    <string name="auth_otp_no_accounts_available_message">Er is geen account geconfigureerd op dit apparaat.</string>
+    <string name="auth_otp_progress_dialog_message">Er wordt een verificatiecode gegenereerd.</string>
+    <string name="auth_otp_select_account_message">Selecteer een account</string>
+    <string name="auth_pacl_scope_details_dialog_title">Wat Google kan zien</string>
+    <string name="auth_password">Wachtwoord</string>
+    <string name="auth_personal_unlocking_name">Persoonlijke ontgrendeling</string>
+    <string name="auth_personal_unlocking_service_name">Persoonlijke ontgrendeling (Google)</string>
+    <string name="auth_plus_failure_new_account_text">Uw Google-account is gemaakt, maar uw verzoek om een Google+ profiel te maken, is niet verwerkt. Probeer het later met een webbrowser opnieuw op plus.google.com.</string>
+    <string name="auth_plus_failure_text">Uw verzoek om Google+ te gaan gebruiken, is niet verwerkt. Probeer het later opnieuw op plus.google.com via een webbrowser.</string>
+    <string name="auth_plus_failure_title">Later een Google+ profiel maken</string>
+    <string name="auth_plus_faq_title">Welkom bij Google+</string>
+    <string name="auth_plus_name_check_text">Dit kan enkele minuten duren.</string>
+    <string name="auth_plus_query_title">Een Google+ profiel maken</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">Hallo, %s!</string>
+    <string name="auth_provisioned_welcome_2">"Geef uw wachtwoord op voor:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Chrome-apparaat is vergrendeld.</string>
+    <string name="auth_proximity_auth_device_locked_title">Eenvoudig ontgrendelen</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Chrome-apparaat is ontgrendeld.</string>
+    <string name="auth_proximity_auth_device_unlocked_title">Eenvoudig ontgrendelen</string>
+    <string name="auth_proximity_auth_setup_completed_content">Deze telefoon kan uw Chrome-apparaten ontgrendelen.</string>
+    <string name="auth_proximity_auth_setup_completed_title">Eenvoudig ontgrendelen is ingeschakeld</string>
+    <string name="auth_proximity_auth_setup_failed_content">Probeer het opnieuw op uw Chrome-apparaat.</string>
+    <string name="auth_proximity_auth_setup_failed_title">Fout bij het instellen van Eenvoudig ontgrendelen</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">Telefoon gevonden. Ga verder op het Chrome-apparaat.</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">Eenvoudig ontgrendelen instellen</string>
+    <string name="auth_recovery_loading">Laden…</string>
+    <string name="auth_recovery_sending">Verzenden…</string>
+    <string name="auth_relogin_activity_title">Wachtwoord opnieuw typen</string>
+    <string name="auth_scope_acl_edit_desc">Bewerken</string>
+    <string name="auth_scope_details_dialog_title">Meer informatie</string>
+    <string name="auth_scope_icon_desc">Pictogram</string>
+    <string name="auth_scope_info_desc">Informatie</string>
+    <string name="auth_scope_warning_desc">Waarschuwing</string>
+    <string name="auth_search_settings_title">Zoeken</string>
+    <string name="auth_server_error">Er is een probleem opgetreden bij de communicatie met de Google-servers.</string>
+    <string name="auth_server_error_help">Probeer het later opnieuw.</string>
+    <string name="auth_setup_wizard_back_button_label">Terug</string>
+    <string name="auth_setup_wizard_next_button_label">Volgende</string>
+    <string name="auth_setup_wizard_services_activity_title">Google-services</string>
+    <string name="auth_setup_wizard_services_backup"><b>Maak een back-up van uw apparaat op Google</b>, zodat u apps, app-gegevens, systeeminstellingen en wifi-wachtwoorden gemakkelijk kunt terugzetten.</string>
+    <string name="auth_setup_wizard_services_backup_restore"><b>Maak een back-up van uw apps en gegevens</b> naar Google Drive zodat u een apparaat eenvoudig kunt herstellen. Gegevens zijn onder andere apps, app-gegevens, systeeminstellingen en wifi-wachtwoorden. Back-ups hebben geen invloed op uw opslaglimiet.</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">Gegevens omvatten apps, app-instellingen, systeeminstellingen en wifi-wachtwoorden.</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">Back-up en herstel</string>
+    <string name="auth_setup_wizard_services_communication_heading">Communicatie</string>
+    <string name="auth_setup_wizard_services_data_collection"><b>Help bij het verbeteren van uw Android-ervaring</b>, accuprestaties, Play Store-posities en meer door automatisch diagnostische en gebruiksgegevens over dit apparaat naar Google te verzenden.</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">Gegevens zijn onder andere hardware- en netwerkgegevens, app- en telefoongebruik en crashrapporten.</string>
+    <string name="auth_setup_wizard_services_data_collection_link"><b>Help bij het verbeteren van uw Android-ervaring</b>, accuprestaties, Play Store-posities en meer door automatisch diagnostische en gebruiksgegevens over dit apparaat naar Google te verzenden. <annotation id="learn_more">Meer informatie.</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">De locatieservice van Google gebruikt wifi en andere signalen om de locatie nauwkeuriger en sneller te bepalen, vaak met een lager energieverbruik dan bij GPS. Bepaalde gegevens kunnen worden opgeslagen op uw apparaat. Er kunnen ook gegevens worden verzameld wanneer er geen apps worden uitgevoerd.</string>
+    <string name="auth_setup_wizard_services_location_heading">Locatie</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Gebruik de locatieservice van Google</b> zodat apps de locatie beter kunnen bepalen. Anonieme locatiegegevens van uw apparaat worden naar Google verzonden.</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan"><b>Help bij het verbeteren van locatieservices</b> door apps en services naar netwerken te laten scannen, zelfs wanneer wifi is uitgeschakeld.</string>
+    <string name="auth_setup_wizard_services_play">Houd mij op de hoogte van nieuws en aanbiedingen van Google Play.</string>
+    <string name="auth_setup_wizard_services_tos_with_account">Dit apparaat ontvangt mogelijk updates en apps van Google, uw provider en de fabrikant van het apparaat.</string>
+    <string name="auth_setup_wizard_title">Installatiewizard</string>
+    <string name="auth_show_error_activity_title">Kan niet inloggen</string>
+    <string name="auth_show_error_title">Fout</string>
+    <string name="auth_sign_in_agreement">Als u zich aanmeldt, geeft u aan dat u het privacybeleid van <annotation id="google_privacy">Google</annotation> en de <annotation id="android_privacy">aanvullende</annotation> privacyrichtlijnen accepteert.</string>
+    <string name="auth_sign_in_agreement_multi_user">Als u inlogt, geeft u daarmee aan akkoord te gaan met de <annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google en de <annotation id="play_tos">Servicevoorwaarden van Google Play</annotation>". 
+
+Let op: elke andere gebruiker kan bijgewerkte app-machtigingen namens u accepteren. Zoals bij elke computer moet u ook deze tablet alleen delen met mensen die u vertrouwt."</string>
+    <string name="auth_sign_in_agreement_with_chrome">Als u inlogt, geeft u daarmee aan akkoord te gaan met de <annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google, de <annotation id="chrome_tos">Servicevoorwaarden</annotation> en het <annotation id="chrome_privacy">Privacybeleid</annotation> van Chrome en de <annotation id="play_tos">Servicevoorwaarden</annotation> van Google Play.</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">Als u inlogt, geeft u daarmee aan akkoord te gaan met de <annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google, de <annotation id="chrome_tos">Servicevoorwaarden</annotation> en het <annotation id="chrome_privacy">Privacybeleid</annotation> van Chrome en de <annotation id="play_tos">Servicevoorwaarden van Google Play</annotation>". 
+
+Let op: elke andere gebruiker kan bijgewerkte app-machtigingen namens u accepteren. Zoals bij elke computer moet u ook deze tablet alleen delen met mensen die u vertrouwt."</string>
+    <string name="auth_sign_in_browser">Inloggen bij browser</string>
+    <string name="auth_sign_in_button_label">Inloggen</string>
+    <string name="auth_sign_in_with_google_account_short">Log in met uw Google-account:</string>
+    <string name="auth_skip_button_label">Overslaan</string>
+    <string name="auth_submission_error_text">Er is een fout opgetreden. Probeer het opnieuw.</string>
+    <string name="auth_submission_title">Helaas…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">Houd dit apparaat tegen een NFC-tag of -apparaat om dit in te stellen.</string>
+    <string name="auth_trust_agent_add_nfc_title">NFC toevoegen</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">Vertrouwd apparaat toevoegen</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">Veilige plaats toevoegen</string>
+    <string name="auth_trust_agent_button_nfc_settings">NFC-instellingen</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Veilig verbonden met Bluetooth-apparaat %s</string>
+    <string name="auth_trust_agent_dpm_disabled">Uitgeschakeld door beheerder</string>
+    <string name="auth_trust_agent_enable_nfc">Schakel NFC in om een NFC-apparaat toe te voegen</string>
+    <string name="auth_trust_agent_first_use_notification_button">OK</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">wanneer het is verbonden met %s, dat u heeft ingesteld als een vertrouwd apparaat.</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">Als u uw apparaat geforceerd wilt vergrendelen, schakelt u het scherm uit en weer in en tikt u op het slotpictogram.</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">wanneer u in %s bent, dat u heeft ingesteld als een vertrouwde plaats.</string>
+    <string name="auth_trust_agent_first_use_notification_title">Uw apparaat is ontgrendeld</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">Naam</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFC gevonden
+Geef hier een naam voor op."</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">Uitgeschakeld</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">Aan</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">Gezichtsvergelijking verbeteren</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">Annuleren</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">Dit apparaat herkent uw gezicht niet meer en de functie Vertrouwd gezicht wordt uitgeschakeld.</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">Opnieuw instellen</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">Vertrouwd gezicht opnieuw instellen?</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">Vertrouwd gezicht opnieuw instellen</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">Vertrouwd gezicht</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">Verbonden</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">Geen</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">Geen verbinding</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">Veilige apparaten</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">Geen</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">Thuis</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">Onbekend</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">Veilige plaatsen</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">Werk</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">Koppelen mislukt. Probeer het opnieuw.</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">Inst. NFC-apparaat mislukt</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"Voeg een vertrouwd Bluetooth-apparaat toe om dit apparaat ontgrendeld te houden wanneer het verbonden is. 
+
+Voorbeelden:
+
+- Uw Bluetooth-horloge
+- Het Bluetooth-systeem in uw auto"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+(Bluetooth is uitgeschakeld)"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">Vertrouwd apparaat toevoegen</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">Bluetooth is uitgeschakeld.</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">Annuleren</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">Apparaat kiezen</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"Voeg een vertrouwd apparaat toe om dit apparaat ontgrendeld te houden wanneer het verbonden is. 
+
+Voorbeelden:
+
+- Uw Bluetooth-horloge
+- Het Bluetooth-systeem in uw auto 
+- Een NFC-sticker op het docksysteem voor uw telefoon in uw auto."</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">Dit apparaat verwijderen uit veilige apparaten?</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">Onbekend apparaat.</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"Voeg een vertrouwd NFC-apparaat toe om dit apparaat te ontgrendelen door te tikken. 
+
+Voorbeelden:
+
+- Een NFC-sticker op het docksysteem voor uw telefoon in uw auto."</string>
+    <string name="auth_trust_agent_trusted_places_add_account">Voeg een account toe om uw thuis- en werkadres op te halen.</string>
+    <string name="auth_trust_agent_trusted_places_cancel">Annuleren</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"Voeg een vertrouwde plaats toe om dit apparaat ontgrendeld te houden wanneer u zich op die plaats bevindt. 
+
+Voorbeelden:
+
+- Uw huis
+- Uw kantoor"</string>
+    <string name="auth_trust_agent_trusted_places_remove">Verwijderen</string>
+    <string name="auth_trust_agent_trusted_places_rename">Naam wijzigen</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">Account selecteren</string>
+    <string name="auth_trust_agent_trusted_places_unknown">Onbekend</string>
+    <string name="auth_trust_devices_not_available">De functie voor veilige apparaten is niet beschikbaar voor gebruik.</string>
+    <string name="auth_trust_places_not_available">De functie voor veilige plaatsen is niet beschikbaar voor gebruik.</string>
+    <string name="auth_try_again_button_label">Opnieuw proberen</string>
+    <string name="auth_ui_activity_authenticating">Verifiëren…</string>
+    <string name="auth_ui_activity_title">Inloggen bij Google</string>
+    <string name="auth_ui_activity_title_browser_signin">Inloggen</string>
+    <string name="auth_ui_add_account_title">Accountinstellingen</string>
+    <string name="auth_unexpected_acl_error">Er is een probleem opgetreden bij het verlenen van rechten.</string>
+    <string name="auth_use_location_summary">Google toestaan uw locatie te gebruiken om zoekresultaten en andere services te verbeteren</string>
+    <string name="auth_use_location_title">Locatie en Google Zoeken</string>
+    <string name="auth_username">E-mail</string>
+    <string name="auth_visible_actions_title">Delen met…</string>
+    <string name="authorization_dialog">Autorisatiedialoogvenster</string>
+    <string name="cancel">Annuleren</string>
+    <string name="circle_button_add_to_circles">Toevoegen aan kringen</string>
+    <string name="circle_button_circles">%d kringen</string>
+    <string name="circle_button_follow">Volgen</string>
+    <string name="circle_button_following_circle">Volgt</string>
+    <string name="circle_button_medium_add_to_circles">Toevoegen</string>
+    <string name="circle_button_profile_blocked">Geblokk.</string>
+    <string name="common_accessibility_audience_view_editable">Publiek bewerken</string>
+    <string name="common_add_account_button_label">Account toevoegen</string>
+    <string name="common_add_account_label">Een account toevoegen</string>
+    <string name="common_ads_settings_title">Advertenties</string>
+    <string name="common_android_wear_notification_needs_update_text">Er is een update van de Android Wear-app vereist voor een bepaalde app.</string>
+    <string name="common_android_wear_update_text">Deze app wordt niet uitgevoerd, tenzij u de Android Wear-app bijwerkt.</string>
+    <string name="common_android_wear_update_title">Android Wear bijwerken</string>
+    <string name="common_app_name">Google Play-services</string>
+    <string name="common_cannot_start_hangouts_exception">Hangouts kan niet worden gestart.</string>
+    <string name="common_cannot_start_hangouts_security_exception">Hangouts kan niet worden gestart (toestemmingsfout).</string>
+    <string name="common_car_permission_desc">Toegang tot de autoservice.</string>
+    <string name="common_car_permission_label">Autoservice</string>
+    <string name="common_chips_label_empty_circles">Geen kringen</string>
+    <string name="common_chips_label_extended_circles">Uitgebreide kringen</string>
+    <string name="common_chips_label_only_you">Alleen u</string>
+    <string name="common_chips_label_public">Openbaar</string>
+    <string name="common_chips_label_your_circles">Je kringen</string>
+    <string name="common_choose_account_label">Een account kiezen</string>
+    <string name="common_clear_app_data_menu_item">App-gegevens wissen</string>
+    <string name="common_connected_apps_settings_title">Verbonden apps</string>
+    <string name="common_fitness_settings_title">Fitness</string>
+    <string name="common_games_settings_title">Play Games</string>
+    <string name="common_get_verification_code_menu_item">Verificatiecode ophalen</string>
+    <string name="common_google_play_services_enable_button">Google Play-services inschak.</string>
+    <string name="common_google_play_services_enable_text">Deze app werkt niet, tenzij u Google Play-services inschakelt.</string>
+    <string name="common_google_play_services_enable_title">Google Play-services inschakelen</string>
+    <string name="common_google_play_services_error_dialog_title">Fout</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Aangevraagd door %1$s</string>
+    <string name="common_google_play_services_install_button">Google Play-services ophalen</string>
+    <string name="common_google_play_services_install_text_phone">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw telefoon.</string>
+    <string name="common_google_play_services_install_text_tablet">Deze app kan niet worden uitgevoerd zonder Google Play-services die ontbreken op uw tablet.</string>
+    <string name="common_google_play_services_install_title">Google Play-services ophalen</string>
+    <string name="common_google_play_services_invalid_account_text">Het gespecificeerde account bestaat niet op dit apparaat. Kies een ander account.</string>
+    <string name="common_google_play_services_invalid_account_title">Ongeldig account</string>
+    <string name="common_google_play_services_needs_enabling_title">Google Play-services moet zijn ingeschakeld voor een app.</string>
+    <string name="common_google_play_services_network_error_text">Er is een gegevensverbinding nodig om verbinding te kunnen maken met Google Play-services.</string>
+    <string name="common_google_play_services_network_error_title">Netwerkfout</string>
+    <string name="common_google_play_services_no_restricted_profiles">Deze app biedt geen ondersteuning voor accounts voor beperkte profielen</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Google Play-services moet zijn geïnstalleerd voor een app.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Google Play-services moet worden geüpdatet voor een app.</string>
+    <string name="common_google_play_services_notification_ticker">Fout met Google Play-services</string>
+    <string name="common_google_play_services_unknown_issue">Onbekend probleem met Google Play-services.</string>
+    <string name="common_google_play_services_unsupported_text">Google Play-services, dat vereist is voor een aantal van uw applicaties, wordt niet ondersteund door uw apparaat. Neem contact op met de fabrikant voor ondersteuning.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play-services</string>
+    <string name="common_google_play_services_update_button">Updaten</string>
+    <string name="common_google_play_services_update_text">Deze app kan niet worden uitgevoerd, tenzij u Google Play-services updatet.</string>
+    <string name="common_google_play_services_update_title">Google Play-services updaten</string>
+    <string name="common_google_settings">Google Instellingen</string>
+    <string name="common_list_apps_menu_help">Help</string>
+    <string name="common_list_apps_menu_help_and_feedback">Help en feedback</string>
+    <string name="common_location_settings_title">Locatie</string>
+    <string name="common_maps_settings_title">Maps en Latitude</string>
+    <string name="common_mdm_feature_name">Android Apparaatbeheer</string>
+    <string name="common_network_load_failed">Niet beschikbaar omdat het apparaat geen verbinding kan maken met een netwerk</string>
+    <string name="common_no_network">Niet beschikbaar omdat het apparaat offline is</string>
+    <string name="common_open_on_phone">Openen op telefoon</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">Er zijn geen accounts om te selecteren</string>
+    <string name="common_search_and_now_settings_title">Zoeken en Now</string>
+    <string name="common_search_settings_title">Zoeken</string>
+    <string name="common_security_settings_title">Apps verifiëren</string>
+    <string name="common_signin_button_text">Inloggen</string>
+    <string name="common_signin_button_text_long">Inloggen met Google</string>
+    <string name="common_storage_settings_title">Opslagruimte voor Play-services</string>
+    <string name="common_ui_confirm_deleting_button">Verwijderen</string>
+    <string name="common_ui_confirm_deleting_checkbox">Ik begrijp dit en wil wissen</string>
+    <string name="common_url_load_unsuccessful_message">Uw Android-apparaat heeft geen verbinding met een gegevensservice. Als u deze gegevens nu wilt bekijken, gaat u via een webbrowser naar %s.</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Uw Android-apparaat is niet verbonden met een wifi-netwerk. Als u deze informatie nu wilt bekijken, gaat u naar %s in een webbrowser.</string>
+    <string name="common_url_login_notice">Inloggen als %1$s</string>
+    <string name="common_usage_and_diagnostics">Gebruik en diagnost. gegevens</string>
+    <string name="country_invalid">Dit land is niet toegestaan</string>
+    <string name="device_location_acl_no_one">Niemand</string>
+    <string name="device_location_best_acl_picker_title">Zichtbaarheid van exacte locatie</string>
+    <string name="device_location_city_acl_picker_title">Zichtbaarheid op plaatsniveau</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%s, %s en anderen</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> en %d anderen</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b></string>
+    <string name="device_location_preference_no_network_alert">Je moet beschikken over een dataverbinding als je de instellingen voor locatie delen wilt zien. Controleer je verbinding of probeer het later opnieuw.</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">Locatie-instellingen openen</string>
+    <string name="device_location_reporting_reminder_dialog_summary">"Als je 'Locatie delen' uitschakelt, heeft dit geen effect op Locatiemelding of Locatiegeschiedenis. Andere Google-services waarvoor je je eerder hebt aangemeld, zoals Google Now, hebben misschien je locatie nodig. Je kunt Locatiemelding en Locatiegeschiedenis altijd beheren via 'Locatie-instellingen'."</string>
+    <string name="device_location_reporting_reminder_dialog_title">Locatiemelding</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>, &lt;b>%s&lt;/b> en &lt;b>%s&lt;/b></string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b> en &lt;b>%s&lt;/b></string>
+    <string name="disagree">Niet akkoord</string>
+    <string name="enable_location_reporting_error">"Locatiemelding en Locatiegeschiedenis kunnen niet worden ingeschakeld voor %s. Ga naar 'Locatie-instellingen' als je Locatiemelding en Locatiegeschiedenis wilt inschakelen."</string>
+    <string name="enable_location_reporting_error_title">Er is een fout opgetreden</string>
+    <string name="enable_location_reporting_title">Locatiemelding</string>
+    <string name="friend_locations_enable_reporting_auto_body">Met Locatiemelding kan elk Google-product dat deze functie gebruikt, de meest recente locatiegegevens van je apparaat opslaan en gebruiken. Locatiemelding moet zijn ingeschakeld als je Locatie delen wilt gebruiken.&lt;br/>&lt;br/>Met Locatiegeschiedenis kan Google de geschiedenis van je locatiegegevens opslaan voor apparaten waarop je Locatiemelding hebt ingeschakeld. &lt;a href=\"%2$s\"> Meer informatie&lt;/a>.&lt;br/>&lt;br/>Locatiemelding en Locatiegeschiedenis inschakelen voor %1$s?</string>
+    <string name="friend_locations_enable_reporting_manual_body">"Met Locatiemelding kan elk Google-product dat deze functie gebruikt, de meest recente locatiegegevens van je apparaat opslaan en gebruiken. Locatiemelding moet zijn ingeschakeld als je Locatie delen wilt gebruiken.&lt;br/>&lt;br/>Controleer bij 'Locatie-instellingen' in Google Maps of 'Locatiemelding' is ingesteld op 'Je locatie detecteren' en of 'Melden vanaf dit apparaat' is aangevinkt. &lt;a href=\"%s\">Meer informatie&lt;/a>."</string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">"Met Locatiemelding kan elk Google-product dat deze functie gebruikt, de meest recente locatiegegevens van je apparaat opslaan en gebruiken. Locatiemelding moet zijn ingeschakeld als je Locatie delen wilt gebruiken.&lt;br/>&lt;br/>Log in bij Google Maps als %1$s en controleer bij 'Locatie-instellingen' of 'Locatiemelding' is ingesteld op 'Je locatie detecteren' en of 'Melden vanaf dit apparaat' is aangevinkt. &lt;a href=\"%2$s\">Meer informatie&lt;/a>."</string>
+    <string name="loading">Laden…</string>
+    <string name="location_settings_allow_access_summary">Google-apps de locatie van dit apparaat laten gebruiken wanneer het is ingeschakeld</string>
+    <string name="location_settings_allow_access_title">Toegang tot locatie</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"U kunt uw locatiegeschiedenis niet meer herstellen. 
+
+Google Now en andere apps die uw locatiegeschiedenis gebruiken, werken mogelijk niet meer."</string>
+    <string name="location_settings_confirm_deleting_location_history_title">Permanent verwijderen?</string>
+    <string name="location_settings_delete_auth_error">Ongeldige gebruikersnaam of wachtwoord</string>
+    <string name="location_settings_delete_io_error">Apparaat kan geen verbinding maken met een netwerk</string>
+    <string name="location_settings_delete_location_history">LOCATIEGESCHIEDENIS VERWIJDEREN</string>
+    <string name="location_settings_delete_location_history_in_progress">VERWIJDEREN...</string>
+    <string name="location_settings_delete_offline_error">Het apparaat is offline</string>
+    <string name="location_settings_expiration_both_one">1 uur en 1 minuut resterend</string>
+    <string name="location_settings_expiration_both_other" formatted="false">%d uur en %d minuten resterend</string>
+    <string name="location_settings_expiration_hours_one">1 uur en %d minuten resterend</string>
+    <string name="location_settings_expiration_minutes">%d minuten resterend</string>
+    <string name="location_settings_expiration_minutes_one">%d uur en 1 minuut resterend</string>
+    <string name="location_settings_expiration_soon">Minder dan 15 minuten resterend</string>
+    <string name="location_settings_info_title">Info</string>
+    <string name="location_settings_location_history_activity_title">Locatiegeschiedenis</string>
+    <string name="location_settings_location_history_summary_full">"Met deze instelling kan Google een geschiedenis van uw locatiegegevens opslaan vanaf apparaten waarop u Locatiemelding heeft ingeschakeld voor dit account. Met Locatiegeschiedenis kunt u meer uit Google halen. Google Now kan deze geschiedenis bijvoorbeeld gebruiken om u te informeren over verkeer tijdens het forenzen. 
+
+U kunt uw Locatiegeschiedenis weergeven en beheren op maps.google.com/locationhistory. U kunt Locatiegeschiedenis op elk gewenst moment uitschakelen, maar als u dit doet, worden bestaande vermeldingen niet verwijderd. Met de onderstaande knop worden alle bestaande vermeldingen voor Locatiegeschiedenis verwijderd voor uw account."</string>
+    <string name="location_settings_location_reporting_activity_title">Locatiemelding</string>
+    <string name="location_settings_location_reporting_summary_full">"Google gebruikt deze functie in producten zoals Google Now en Google Maps. 
+
+Als u Locatiemelding inschakelt, kan elk Google-product dat deze functie gebruikt, de meest recente locatiegegevens van uw apparaat opslaan en gebruiken in verband met uw Google-account."</string>
+    <string name="location_settings_no_network_alert">Je moet beschikken over een dataverbinding als je de instellingen voor locatie delen wilt zien. Controleer je verbinding of probeer het later opnieuw.</string>
+    <string name="location_settings_not_available_summary">U heeft geen Google-account.</string>
+    <string name="location_settings_not_available_title">Een account toevoegen</string>
+    <string name="location_settings_reporting_summary_off">Uit voor dit apparaat</string>
+    <string name="location_settings_reporting_summary_on">Aan voor dit apparaat</string>
+    <string name="location_settings_save_error">Kan instellingen niet opslaan.</string>
+    <string name="location_settings_saving">Instellingen opslaan…</string>
+    <string name="location_settings_screen_title">Google locatie-instellingen</string>
+    <string name="location_settings_see_global_settings_dialog_message">"Met deze instelling wordt alleen locatietoegang voor Google-apps beheerd. 
+
+Als u locatietoegang voor alle apps wilt beheren, gaat u naar 'Instellingen > Locatietoegang'."</string>
+    <string name="location_settings_temporary_sharing_title">Tijdelijk delen met</string>
+    <string name="location_settings_ulr_summary_ambiguous">Kan eerdere instelling niet bepalen. Uitgeschakeld.</string>
+    <string name="location_settings_ulr_summary_auth_error">Niet beschikbaar omdat de gebruikersnaam of het wachtwoord onjuist is</string>
+    <string name="location_settings_ulr_summary_error">Kan de server niet bereiken om instellingen op te halen. Probeer het later opnieuw.</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">Uitgeschakeld</string>
+    <string name="location_settings_ulr_summary_loading">Ophalen…</string>
+    <string name="location_settings_ulr_summary_off">Uit</string>
+    <string name="location_settings_ulr_summary_offline">Niet beschikbaar omdat het apparaat offline is</string>
+    <string name="location_settings_ulr_summary_on">Aan</string>
+    <string name="location_settings_ulr_summary_restricted">Uitgeschakeld</string>
+    <string name="location_settings_ulr_summary_unknown">Onbekend</string>
+    <string name="location_settings_ulr_summary_unsupported_country">Niet beschikbaar in %1$s</string>
+    <string name="location_settings_ulr_summary_unsupported_region">Niet beschikbaar in deze regio</string>
+    <string name="location_settings_view_all">Alles weergeven</string>
+    <string name="location_sharing_settings_acl_title">Delen met %s</string>
+    <string name="location_sharing_settings_choose_acl_button">Mensen kiezen om mee te delen</string>
+    <string name="location_sharing_settings_city_description">Gebruik het delen van je locatie op plaatsniveau om de plaats waar je momenteel bent, te laten zien aan je vrienden en familie.</string>
+    <string name="location_sharing_settings_city_example">Voorbeeld: 1000 AA Amsterdam, Nederland</string>
+    <string name="location_sharing_settings_city_title">Locatie op plaatsniveau</string>
+    <string name="location_sharing_settings_description">Met Locatie delen kun je je huidige locatie via Locatiemelding op je apparaat delen met mensen die jij kiest.&lt;br/>&lt;br/> Mensen met wie je je locatie deelt, kunnen je huidige locatie bekijken in Google-producten, waaronder Google+ en Google Now. Ze kunnen ook je andere locaties zien, zoals je thuis- en werkadres. &lt;a href=\"%s\">Meer informatie&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">Met de functie Locatie delen kun je je huidige locatie via &lt;a href=\"%1$s\">Locatiemelding&lt;/a> op je apparaat delen met mensen die jij kiest.&lt;br/>&lt;br/>Mensen met wie je je locatie deelt, kunnen je huidige locatie bekijken in Google-producten, waaronder Google+ en Google Now. Ze kunnen ook je andere locaties zien, zoals je thuis- en werkadres. &lt;a href=\"%2$s\">Meer informatie&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">Wijzigen</string>
+    <string name="location_sharing_settings_pinpoint_description">Gebruik het delen van je exacte locatie om je precieze, huidige locatie te laten zien aan je vrienden en familie.</string>
+    <string name="location_sharing_settings_pinpoint_example">Voorbeeld: Hoofdstraat 123, 1000 AA Amsterdam, Nederland</string>
+    <string name="location_sharing_settings_pinpoint_title">Exacte locatie</string>
+    <string name="location_sharing_settings_title">Locatie delen</string>
+    <string name="location_ulr_ambiguous_setting_text">Kan eerdere instelling niet bepalen. Nu inschakelen?</string>
+    <string name="location_ulr_setting_google_location_disabled">Niet beschikbaar omdat Google-apps geen toegang hebben tot de locatie</string>
+    <string name="location_ulr_setting_label">Locatiemelding van Google</string>
+    <string name="location_ulr_setting_location_disabled">Niet beschikbaar omdat locatietoegang is uitgeschakeld</string>
+    <string name="location_ulr_setting_no_account">Uitgeschakeld, geen accounts</string>
+    <string name="location_ulr_setting_reporting_only">Laatste locatie gebruiken</string>
+    <string name="location_warning_do_not_show_again">Niet opnieuw weergeven</string>
+    <string name="location_warning_message">Laat Google apps helpen bij het bepalen van de locatie. Dit houdt in dat anonieme locatiegegevens naar Google worden verzonden, zelfs wanneer er geen apps actief zijn.</string>
+    <string name="location_warning_title">Locatieservice van Google gebruiken?</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"Mijn locatie 
+Nauwkeurig tot op {0} meter"</string>
+    <string name="maps_API_OUTDATED_WARNING">Deze app gebruikt een verouderde versie van Google Maps en functioneert mogelijk niet naar behoren.</string>
+    <string name="maps_BACK_TO_LIST">Terug naar lijst</string>
+    <string name="maps_CLOSE_SOFTKEY">Sluiten</string>
+    <string name="maps_COMPASS_ALT_TEXT">Kompas</string>
+    <string name="maps_LEVEL_ALT_TEXT">Niveau {0}</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">Mijn locatie</string>
+    <string name="maps_YOUR_LOCATION">Uw huidige locatie</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">Inzoomen</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">Uitzoomen</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - Beeldmateriaal ©%2$d %3$s, Kaartgegevens ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - Beeldmateriaal ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - Kaartgegevens ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">Ongeldige panoramagegevens.</string>
+    <string name="maps_network_unavailable">Dit programma vereist een dataverbinding en doet automatisch een nieuwe poging. Controleer de signaalsterkte. Is de vliegtuigmodus ingeschakeld? Is roaming uitgeschakeld?</string>
+    <string name="maps_no_panorama_data">Er zijn geen panoramagegevens ingesteld.</string>
+    <string name="maps_panorama_disabled">Afbeelding is niet meer beschikbaar</string>
+    <string name="maps_service_unavailable">De service Street View is niet beschikbaar.</string>
+    <string name="maps_street_range_name_format">%1$s %2$s</string>
+    <string name="maps_waiting_for_network">Dataverbinding verbroken, nieuwe poging…</string>
+    <string name="mr_media_route_button_content_description">Casten</string>
+    <string name="mr_media_route_chooser_searching">Zoeken naar apparaten…</string>
+    <string name="mr_media_route_chooser_title">Verbinding maken met apparaat</string>
+    <string name="mr_media_route_controller_disconnect">Verbinding verbreken</string>
+    <string name="mr_system_route_name">Systeem</string>
+    <string name="mr_user_route_category_name">Apparaten</string>
+    <string name="notification_ticker">Toegang aangevraagd</string>
+    <string name="off">Uit</string>
+    <string name="ok">OK</string>
+    <string name="on">Aan</string>
+    <string name="open_location_settings">Locatie-instellingen openen</string>
+    <string name="phone_number_hint">Telefoonnummer</string>
+    <string name="phone_number_invalid">Ongeldig telefoonnummer</string>
+    <string name="phone_number_invalid_character">Ongeldige tekens in telefoonnummer</string>
+    <string name="place_address_hint">Adres</string>
+    <string name="place_address_title">Adres</string>
+    <string name="place_address_update_hint">Updaten</string>
+    <string name="place_category_hint">Een categorie selecteren</string>
+    <string name="place_category_title">Categorie</string>
+    <string name="place_name_hint">Plaatsnaam</string>
+    <string name="place_name_title">Naam</string>
+    <string name="place_phone_hint">Primair telefoonnummer</string>
+    <string name="place_phone_title">Telefoon</string>
+    <string name="place_picker_adding_a_place">Melding verzenden...</string>
+    <string name="place_picker_cancel">Annuleren</string>
+    <string name="place_picker_cant_add_place">Kan plaats niet toevoegen.</string>
+    <string name="place_picker_label">Kies een plaats</string>
+    <string name="place_picker_location_off_message">"Als u een locatie wilt selecteren, moet u eerst 'Locatietoegang' inschakelen via 'Instellingen'."</string>
+    <string name="place_picker_nearby_places">Plaatsen in de buurt</string>
+    <string name="place_picker_no_search_results">Geen overeenkomende plaatsen.</string>
+    <string name="place_picker_search_error">Kan zoekresultaten niet laden.</string>
+    <string name="place_picker_search_hint">Zoeken</string>
+    <string name="place_picker_searching_label">Zoeken...</string>
+    <string name="place_picker_select_a_location_label">Selecteer locatie voor meer info</string>
+    <string name="place_picker_select_this_location">Deze locatie selecteren</string>
+    <string name="place_picker_settings">Instellingen</string>
+    <string name="place_picker_updating_location_label">Uw locatie bijwerken...</string>
+    <string name="place_picker_updating_nearby_label">Nabije plaatsen bijw...</string>
+    <string name="place_website_hint">Officiële website</string>
+    <string name="place_website_title">Website</string>
+    <string name="plus_accessibility_acl_selection">Publiek kiezen</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">Kring</string>
+    <string name="plus_accessibility_audience_selection_create_circle">Toevoegen aan nieuwe kring</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">Avatar</string>
+    <string name="plus_accessibility_audience_selection_person_circles">Kringen</string>
+    <string name="plus_accessibility_audience_selection_search_icon">Mensen of kringen zoeken</string>
+    <string name="plus_accessibility_circle_selection">Kringen kiezen</string>
+    <string name="plus_accessibility_comment_avatar">Kringen</string>
+    <string name="plus_accessibility_facl_selection">Leden van de kring selecteren die de app mag zien</string>
+    <string name="plus_accessibility_update_circles">Kringen bijwerken</string>
+    <string name="plus_actionbar_up_button_description">Omhoog navigeren</string>
+    <string name="plus_add_to_circle_progress">Toevoegen…</string>
+    <string name="plus_add_to_circles_title_default">Toevoegen aan kringen</string>
+    <string name="plus_add_to_circles_title_with_user_name">%1$s toevoegen</string>
+    <string name="plus_add_to_following_circle_progress">Volgen…</string>
+    <string name="plus_add_to_new_circle_progress_message">Toevoegen…</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">ACCOUNT</string>
+    <string name="plus_app_settings_activity_label">Gekoppelde apps</string>
+    <string name="plus_app_settings_activity_log_label">Activiteitenlogboek</string>
+    <string name="plus_app_settings_activity_log_page_label">Activiteitenlogboek</string>
+    <string name="plus_app_settings_all_apps_label">Alle apps en apparaten</string>
+    <string name="plus_app_settings_apps_page_label">Gekoppelde apps</string>
+    <string name="plus_app_settings_fitness_apps_label">Fitness-apps en apparaten</string>
+    <string name="plus_app_settings_sign_in_apps_label">Apps met Google+ Login</string>
+    <string name="plus_article_preview_image_description">Afbeelding van artikelvoorbeeld</string>
+    <string name="plus_audience_edit_button_label">Bewerken</string>
+    <string name="plus_audience_selection_cancel">Annuleren</string>
+    <string name="plus_audience_selection_contacts">Alle contacten</string>
+    <string name="plus_audience_selection_contacts_description">Inclusief contacten die in de toekomst worden gemaakt</string>
+    <string name="plus_audience_selection_description_acl">DELEN MET</string>
+    <string name="plus_audience_selection_done">Gereed</string>
+    <string name="plus_audience_selection_everyone">Alle kringen</string>
+    <string name="plus_audience_selection_everyone_description">Dit geldt ook voor kringen die je in de toekomst maakt</string>
+    <string name="plus_audience_selection_header_circles">KRINGEN</string>
+    <string name="plus_audience_selection_header_people">MENSEN</string>
+    <string name="plus_audience_selection_header_search">GEZOCHT NAAR</string>
+    <string name="plus_audience_selection_header_suggested">VOORGESTELD</string>
+    <string name="plus_audience_selection_hidden_circle">Mensen in deze kring zijn niet openbaar in je profiel</string>
+    <string name="plus_audience_selection_loading">Bezig met laden…</string>
+    <string name="plus_audience_selection_new_circle">Toevoegen aan nieuwe kring</string>
+    <string name="plus_audience_selection_public_circle">Iedereen op internet</string>
+    <string name="plus_audience_selection_search_device_results">VAN JE APPARAAT</string>
+    <string name="plus_audience_selection_search_google_results">VAN GOOGLE</string>
+    <string name="plus_audience_selection_title">Doelgroep</string>
+    <string name="plus_audience_selection_title_acl">Delen met…</string>
+    <string name="plus_audience_selection_title_search">Zoeken…</string>
+    <string name="plus_audience_selection_title_update_circles">Toevoegen aan kringen</string>
+    <string name="plus_auth_audience_view_default_description">%s verzendt informatie over je activiteiten in deze app naar Google. Je kunt kiezen wie deze activiteiten op Google mag zien.</string>
+    <string name="plus_auth_audience_view_footnote">Google gebruikt deze informatie in overeenstemming met de <annotation id="tos">Servicevoorwaarden</annotation> en het <annotation id="google_privacy">Privacybeleid</annotation> van Google.</string>
+    <string name="plus_auth_hide_circles_label">Alle kringen verbergen</string>
+    <string name="plus_auth_info_fragment_app_name">%s vraagt toestemming voor:</string>
+    <string name="plus_auth_see_circles_label">Alle kringen weergeven</string>
+    <string name="plus_avatar_image_description">Avatar-afbeelding gebruiken</string>
+    <string name="plus_bad_name_agree_button_label">Verzenden</string>
+    <string name="plus_bad_name_decline_button_label">Naam wijzigen</string>
+    <string name="plus_bad_name_skip_button_label">Google+ overslaan</string>
+    <string name="plus_checking_gplus_signup_state">Verbinding maken…</string>
+    <string name="plus_choose_facl_title">Basisinformatie die %s ziet</string>
+    <string name="plus_circle_creation_circle_name_hint">Naam van kring</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">Kan kring niet maken. Probeer het later opnieuw.</string>
+    <string name="plus_circle_creation_keyboard_action_label">Maken</string>
+    <string name="plus_circle_creation_title_default">Een kring maken</string>
+    <string name="plus_circle_creation_title_with_user_name">%1$s toevoegen</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">Knop om het dialoogvenster te sluiten</string>
+    <string name="plus_close_button_label">Sluiten</string>
+    <string name="plus_create_button_description">Knop om een nieuwe kring toe te voegen</string>
+    <string name="plus_cross_client_auth_toast_text">Welkom terug bij %1$s. Je bent ingelogd via Google als %2$s.</string>
+    <string name="plus_delete_dialog_acl_label">Deze activiteit is zichtbaar voor:</string>
+    <string name="plus_delete_moment_failed_dialog_message">Er is een probleem opgetreden bij het verwijderen van de activiteiten. Probeer het later opnieuw.</string>
+    <string name="plus_delete_moment_progress_dialog_message">Bezig met verwijderen...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Ook al je activiteiten voor %s verwijderen uit Google</string>
+    <string name="plus_disconnect_source_dialog_message">%1$s beschikt niet meer over de toegang tot je Google-account die je hebt verleend of mag je app-activiteiten niet meer verzenden naar Google. Het kan een uur duren voordat deze wijziging volledig is verwerkt.</string>
+    <string name="plus_disconnect_source_dialog_negative_button">Annuleren</string>
+    <string name="plus_disconnect_source_dialog_positive_button">Ontkoppelen</string>
+    <string name="plus_disconnect_source_dialog_title">Ontkoppelen?</string>
+    <string name="plus_disconnect_source_failed_dialog_message">Kan %s niet ontkoppelen.</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">Wil je de verbinding van deze app met Google verbreken?</string>
+    <string name="plus_disconnect_source_progress_dialog_message">%s ontkoppelen…</string>
+    <string name="plus_domain_default">jouw domein</string>
+    <string name="plus_domain_restricted_choice_body">Delen van bericht buiten %s voorkomen</string>
+    <string name="plus_domain_restricted_choice_title">Beperken tot %s</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">Je volledige naam, profielfoto, Google+ ID, leeftijdsgroep, taal en een lijst met mensen in de hieronder aangevinkte kringen. De lijst bevat hun openbare profielen, maar niet de namen van je kringen.</string>
+    <string name="plus_first_name">Voornaam</string>
+    <string name="plus_gender_prompt">Selecteer geslacht</string>
+    <string name="plus_install_app_dialog_checkbox_text">Niet meer vragen.</string>
+    <string name="plus_install_app_dialog_message">De Google+ app downloaden om het bericht te bekijken dat je zojuist hebt gedeeld?</string>
+    <string name="plus_install_app_dialog_negative_button">Niet nu</string>
+    <string name="plus_install_app_dialog_positive_button">Installeren</string>
+    <string name="plus_install_app_dialog_title">Google+ downloaden</string>
+    <string name="plus_internal_error">Interne fout opgetreden.</string>
+    <string name="plus_invalid_account">Ongeldig account</string>
+    <string name="plus_last_name">Achternaam</string>
+    <string name="plus_list_apps_aspen_empty_message">"Je hebt nog geen koppelingen met apps gemaakt via Google+ Login.
+
+"<annotation id="learn_more">Meer informatie</annotation></string>
+    <string name="plus_list_apps_disabled_error">Verbonden apps kunnen momenteel niet worden geladen. <annotation id="learn_more">Meer informatie</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Er zijn geen apps aan je Google-account gekoppeld</string>
+    <string name="plus_list_apps_error">Apps kunnen niet worden geladen. Probeer het later opnieuw.</string>
+    <string name="plus_list_apps_error_aspen">"Kan apps niet laden.
+
+"<annotation id="learn_more">Meer informatie</annotation> over apps met Google+ Login.</string>
+    <string name="plus_list_apps_error_fitness">"Kan apps of apparaten niet laden.
+
+"<annotation id="learn_more">Meer informatie</annotation> over fitness-apps en apparaten.</string>
+    <string name="plus_list_apps_fitness_empty_message">"Je hebt geen apps of apparaten gekoppeld aan Google Fit
+
+"<annotation id="learn_more">Meer informatie</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">Geen accounts.</string>
+    <string name="plus_list_moments_disabled_error">Je activiteitenlogboek kan momenteel niet worden geladen. <annotation id="learn_more">Meer informatie</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">Je hebt geen activiteiten</string>
+    <string name="plus_list_moments_error">Activiteiten kunnen niet worden geladen. Probeer het later opnieuw.</string>
+    <string name="plus_list_moments_filter_empty_message">Je hebt geen activiteiten van dit type</string>
+    <string name="plus_list_moments_time_acl_format">%1$s - %2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">Je kunt deze activiteit niet bekijken vanuit je activiteitenlogboek. Ga rechtstreeks naar deze app.</string>
+    <string name="plus_loading">Laden…</string>
+    <string name="plus_manage_app_acl_description_label">Activiteiten die deze app deelt met Google</string>
+    <string name="plus_manage_app_acl_error">Kan app niet updaten.</string>
+    <string name="plus_manage_app_all_circles_label">Alle kringen</string>
+    <string name="plus_manage_app_app_icon_desc">Pictogram</string>
+    <string name="plus_manage_app_disabled_error">Je verbonden app kan momenteel niet worden geladen. <annotation id="learn_more">Meer informatie</annotation></string>
+    <string name="plus_manage_app_disconnect_label">Ontkoppelen</string>
+    <string name="plus_manage_app_domain_label">Domein</string>
+    <string name="plus_manage_app_extended_circles_label">Uitgebreide kringen</string>
+    <string name="plus_manage_app_facl_label">Deze app kan deze mensen bekijken</string>
+    <string name="plus_manage_app_label">Gekoppelde app</string>
+    <string name="plus_manage_app_limited_label">Privé gedeeld</string>
+    <string name="plus_manage_app_no_acl_description">Je gebruik van deze app</string>
+    <string name="plus_manage_app_no_circles_label">Geen</string>
+    <string name="plus_manage_app_only_you_label">Alleen jij</string>
+    <string name="plus_manage_app_pacl_label">Wie app-activiteiten kan bekijken op Google</string>
+    <string name="plus_manage_app_pacl_sub_label">Keuzes die je hier maakt, zijn niet van invloed op de zichtbaarheid van bestaande activiteiten in je activiteitenlogboek, maar wel op activiteit in games.</string>
+    <string name="plus_manage_app_public_label">Openbaar</string>
+    <string name="plus_manage_app_scopes_label">Deze app heeft toegang tot:</string>
+    <string name="plus_manage_app_updating_acl">Bezig met bijwerken...</string>
+    <string name="plus_manage_aspen_app_label">App met Google+ Login</string>
+    <string name="plus_manage_device_disconnect_label">Verbinding verbreken</string>
+    <string name="plus_manage_device_label">Verbonden apparaat</string>
+    <string name="plus_manage_moment_acl">"Zichtbaar voor:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">Kan bepaalde details niet laden. Probeer het later opnieuw.</string>
+    <string name="plus_manage_moment_acl_separator">", "</string>
+    <string name="plus_manage_moment_delete_confirm">Verwijderen</string>
+    <string name="plus_manage_moment_delete_label">VERWIJDEREN</string>
+    <string name="plus_manage_moment_image_desc">Activiteit weergeven</string>
+    <string name="plus_manage_moment_label">Activiteit</string>
+    <string name="plus_manage_moment_no_in_app_delete">Kan deze activiteit niet beheren. <annotation id="learn_more">Meer informatie</annotation></string>
+    <string name="plus_ok_button_description">"De knop 'OK'"</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Dit aanbevelen op Google</string>
+    <string name="plus_one_annotation_none_short">Beveel dit aan</string>
+    <string name="plus_one_app">Van &lt;b>%s&lt;b></string>
+    <string name="plus_one_count_many">10K+</string>
+    <string name="plus_one_description">Tik om je +1 aan %1$s te geven</string>
+    <string name="plus_one_description_remove">Tik om je +1 van %1$s te verwijderen</string>
+    <string name="plus_one_description_standard">Tik om een +1 te geven</string>
+    <string name="plus_one_error">Er is een tijdelijk probleem opgetreden bij je +1. Probeer het opnieuw.</string>
+    <string name="plus_one_public">Openbaar</string>
+    <string name="plus_one_self">+1 van %1$s</string>
+    <string name="plus_one_self_removed">Je +1 is verwijderd.</string>
+    <string name="plus_one_share">Delen</string>
+    <string name="plus_one_social_annotation_prefix">inclusief %1$s</string>
+    <string name="plus_one_social_annotation_prefix_you">waaronder %1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$s, %2$s</string>
+    <string name="plus_one_social_annotation_suffix">%1$s heeft dit een +1 gegeven</string>
+    <string name="plus_one_social_annotation_user">Jij</string>
+    <string name="plus_one_title">Je hebt dit in het openbaar een +1 gegeven als</string>
+    <string name="plus_one_undo">Ongedaan maken</string>
+    <string name="plus_oob_3p_promo">Haal meer uit %1$s met een openbaar Google+ profiel.</string>
+    <string name="plus_oob_cancel_button_label">Annuleren</string>
+    <string name="plus_oob_default_promo">Haal meer uit Google met een openbaar Google+ profiel.</string>
+    <string name="plus_oob_done_button_label">Gereed</string>
+    <string name="plus_oob_edit_name_warning">Als je je profielnaam voor Google+ wijzigt, wordt je profielnaam voor alle Google-producten gewijzigd.</string>
+    <string name="plus_oob_failure_text">Google+ kan je profiel helaas niet instellen. Probeer het later opnieuw.</string>
+    <string name="plus_oob_first_and_last_name">%1$s %2$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">Naam</string>
+    <string name="plus_oob_first_name_content_description">Voornaam</string>
+    <string name="plus_oob_gender_content_description">Geslacht</string>
+    <string name="plus_oob_interstitial_cancel_button_label">Niet nu</string>
+    <string name="plus_oob_interstitial_loading">Verbinding maken…</string>
+    <string name="plus_oob_interstitial_loading_body">Dit kan enkele minuten duren.</string>
+    <string name="plus_oob_interstitial_sending">Verzenden…</string>
+    <string name="plus_oob_interstitial_sending_body">Dit kan enkele minuten duren.</string>
+    <string name="plus_oob_join">Maken</string>
+    <string name="plus_oob_last_name_content_description">Achternaam</string>
+    <string name="plus_oob_loading">Laden…</string>
+    <string name="plus_oob_next">Volgende</string>
+    <string name="plus_oob_next_content_description">Knop Volgende</string>
+    <string name="plus_oob_no_connection_message">Kan geen verbinding maken met de server.</string>
+    <string name="plus_oob_no_connection_title">Geen verbinding</string>
+    <string name="plus_oob_pronoun_content_description">Verwijs naar me als</string>
+    <string name="plus_oob_sending">Verzenden…</string>
+    <string name="plus_oob_title_tos">Google+ profiel</string>
+    <string name="plus_oob_tos_accept">Accepteren</string>
+    <string name="plus_photo_preview_image_description">Afbeelding van fotovoorbeeld</string>
+    <string name="plus_plus_icon_image_description">Afbeelding van Google Plus-pictogram</string>
+    <string name="plus_posted_just_now">Zojuist</string>
+    <string name="plus_pronoun_prompt">Selecteer</string>
+    <string name="plus_remove_from_circle_progress">Verwijderen…</string>
+    <string name="plus_replybox_button_description">Beantwoorden</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">Dit antwoord annuleren?</string>
+    <string name="plus_replybox_hint_text">Een antwoord toevoegen</string>
+    <string name="plus_replybox_internal_error">Kan niet beantwoorden.</string>
+    <string name="plus_replybox_no_network_connection">Kan het antwoord niet maken. Probeer het opnieuw.</string>
+    <string name="plus_replybox_post_error_message">Kan het antwoord niet plaatsen.</string>
+    <string name="plus_replybox_post_success">Je antwoord is geplaatst.</string>
+    <string name="plus_scope_fragment_extended_circles_label">Je uitgebreide kringen</string>
+    <string name="plus_scope_fragment_mixed_label">Geselecteerde kringen</string>
+    <string name="plus_scope_fragment_only_you_label">Alleen jij</string>
+    <string name="plus_scope_fragment_public_label">Iedereen op internet</string>
+    <string name="plus_scope_fragment_your_circles_label">Jouw kringen</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">Instelwizard</string>
+    <string name="plus_share_button_description">"De knop 'Delen'"</string>
+    <string name="plus_sharebox_audience_selection_activity_button">Gereed</string>
+    <string name="plus_sharebox_audience_selection_activity_title">Ontvangers kiezen</string>
+    <string name="plus_sharebox_audience_to_text">Aan:</string>
+    <string name="plus_sharebox_audience_view_icon_description">Publiek</string>
+    <string name="plus_sharebox_audience_view_name_separator">", "</string>
+    <string name="plus_sharebox_circles_add_title">Nieuwe kring</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">Kan mensen niet toevoegen aan kring</string>
+    <string name="plus_sharebox_circles_button">Gereed</string>
+    <string name="plus_sharebox_circles_checkbox_label">%1$s toevoegen aan kring:</string>
+    <string name="plus_sharebox_circles_create_failed">Kan kring niet maken</string>
+    <string name="plus_sharebox_circles_create_option">Een nieuwe kring maken</string>
+    <string name="plus_sharebox_circles_following_circle">Volgen</string>
+    <string name="plus_sharebox_circles_friends_circle">Vrienden</string>
+    <string name="plus_sharebox_circles_name_length_warning">Deze kringnaam is te lang.</string>
+    <string name="plus_sharebox_circles_name_used_warning">Deze kringnaam wordt al gebruikt.</string>
+    <string name="plus_sharebox_circles_option">%1$s (%2$s)</string>
+    <string name="plus_sharebox_circles_title">Toevoegen aan kring</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">Dit bericht verwijderen?</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">Kan niet delen.</string>
+    <string name="plus_sharebox_load_error">Er is een tijdelijk probleem bij het laden van het dialoogvenster voor delen. Probeer het opnieuw.</string>
+    <string name="plus_sharebox_next">VOLGENDE</string>
+    <string name="plus_sharebox_no_network_connection">Het bericht kan niet worden gemaakt. Probeer het opnieuw.</string>
+    <string name="plus_sharebox_post_body_hint">Deel je gedachten...</string>
+    <string name="plus_sharebox_post_body_icon">Profielafbeelding</string>
+    <string name="plus_sharebox_post_error_message">Het bericht kan niet worden gemaakt. Probeer het opnieuw.</string>
+    <string name="plus_sharebox_post_error_title">Let op</string>
+    <string name="plus_sharebox_post_pending">Verzenden…</string>
+    <string name="plus_sharebox_post_success">Je bericht is gedeeld</string>
+    <string name="plus_sharebox_preview_loading">Laden…</string>
+    <string name="plus_sharebox_search_hint">Typ een naam, e-mailadres of kring</string>
+    <string name="plus_sharebox_share">DELEN</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Ook delen op Google+</string>
+    <string name="plus_sharebox_share_via_google_plus">Delen via Google+</string>
+    <string name="plus_sharebox_under_age_warning_message">Als je openbaar deelt, kunnen mensen die je niet aan je kringen hebt toegevoegd, je berichten bekijken en reageren.</string>
+    <string name="plus_sharebox_under_age_warning_title">Openbaar gedeeld</string>
+    <string name="plus_undo_button_description">"De knop 'Ongedaan maken'"</string>
+    <string name="plus_unified_setup_activity_title">Maak een profiel</string>
+    <string name="plus_unknown_app_name">App</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">Bijwerken van kringen is mislukt. Probeer het later opnieuw.</string>
+    <string name="plus_update_circles_not_allowed_default_message">Je kunt deze gebruiker niet aan kringen toevoegen.</string>
+    <string name="plus_update_circles_not_allowed_message">Je kunt %1$s niet aan kringen toevoegen.</string>
+    <string name="plus_update_circles_progress">Kringen bijwerken…</string>
+    <string name="plus_video_preview_image_description">Afbeelding van videovoorbeeld</string>
+    <string name="recovery_done_button_label">Gereed</string>
+    <string name="recovery_input_screen_message">Laat Google weten hoe er contact met u kan worden opgenomen als u het wachtwoord vergeet voor %s.</string>
+    <string name="recovery_message_set">"U kunt een wachtwoord zomaar vergeten.
+
+Geef nu een telefoonnummer of tweede e-mailadres op. Zo kunt u weer toegang krijgen tot uw content op Google en Google Play. "<annotation id="help_url">Meer informatie</annotation></string>
+    <string name="recovery_message_verify">"U kunt een wachtwoord zomaar vergeten.
+
+Bevestig nu uw telefoonnummer of tweede e-mailadres. Zo kunt u weer toegang krijgen tot uw content op Google en Google Play. "<annotation id="help_url">Meer informatie</annotation></string>
+    <string name="recovery_notification_ticker">Account vereist aandacht</string>
+    <string name="recovery_notification_title">Herinnering voor wachtwoord herstellen</string>
+    <string name="recovery_server_error">Fout bij communiceren met server. Probeer het over enige tijd opnieuw.</string>
+    <string name="recovery_title">Google-wachtwoord herstellen</string>
+    <string name="recovery_yes_button_label">Herstelopties instellen</string>
+    <string name="recovery_yes_button_label_verify">Herstelopties bevestigen</string>
+    <string name="retry_call_to_action">Opnieuw</string>
+    <string name="secondary_email_hint">Back-up e-mailadres</string>
+    <string name="secondary_email_invalid">Ongeldig e-mailadres</string>
+    <string name="secondary_email_same_as_primary">Kan niet gelijk zijn aan primair e-mailadres</string>
+    <string name="selected_location_unknown">Onbekend</string>
+    <string name="sharedUserLabel">Google-services</string>
+    <string name="sid_lsid_grant_detail">Net zoals een wachtwoord koppelen SID- (Session Identification) en LSID-cookies (Local Session Identification) uw identiteit aan een reeks verzoeken van een browser. Ze maken volledige toegang tot al uw accountgegevens mogelijk. Alleen browsers maken legitiem gebruik van deze cookies.</string>
+    <string name="sid_lsid_grant_label">Gebruik SID- en LSID-cookies om toegang tot al uw Google-accountgegevens te krijgen.</string>
+    <string name="storage_management_drive_clear_failure">Er is een fout opgetreden bij het wissen van Drive-gegevens. Probeer het later opnieuw.</string>
+    <string name="storage_management_drive_clear_label">Wissen</string>
+    <string name="storage_management_drive_clear_success">Drive-gegevens zijn gewist.</string>
+    <string name="storage_management_drive_clearing">Wissen…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">Alle lokale Drive-gegevens voor met Drive compatibele apps worden permanent verwijderd. Dit kunnen openstaande wijzigingen zijn die nog niet zijn geüpload naar de server van Google Drive.</string>
+    <string name="storage_management_drive_confirm_clear_data_title">Alle gegevens wissen?</string>
+    <string name="storage_management_drive_descriptive_text">Apps die compatibel zijn met Drive, slaan bestanden op uw apparaat op om de prestaties te verbeteren en offline toegang in te schakelen.</string>
+    <string name="storage_management_drive_get_storage_failure">Er is een fout opgetreden bij het berekenen van het Drive-opslaggebruik. Probeer het later opnieuw.</string>
+    <string name="storage_management_drive_size_label">Lokale Drive-opslag</string>
+    <string name="storage_management_wear_descriptive_text">Apps gebruiken uw apparaatopslag om gegevens te kopiëren naar een wearable.</string>
+    <string name="storage_management_wear_manage_size_label">Opslag van wearable beheren</string>
+    <string name="storage_management_wear_size_label">Opslag van wearable</string>
+    <string name="storage_managment_all_storage_descriptive_text">Totale gegevens gebruikt door Google Play-services, inclusief de zoekmachine en andere gegevens.</string>
+    <string name="storage_managment_clear_all_data">Alle gegevens wissen</string>
+    <string name="storage_managment_computing_size">Berekenen…</string>
+    <string name="storage_managment_icing_size_label">Opslag voor zoekmachine</string>
+    <string name="storage_managment_manage_icing_button">Zoekopslag beheren</string>
+    <string name="storage_managment_search_index_descriptive_text">We versnellen het zoeken op uw telefoon door een zoekmachine te bieden die uw apps kunnen gebruiken.</string>
+    <string name="storage_managment_title">Opslag voor Google Play-services</string>
+    <string name="storage_managment_total_size_label">Totale opslag</string>
+    <string name="system_update_activity_battery_low_charging_text">Onvoldoende acculading om systeemupdate te installeren. Wacht totdat de accu voldoende is opgeladen.</string>
+    <string name="system_update_activity_battery_low_text">Onvoldoende acculading om systeemupdate te installeren. Sluit de oplader aan om door te gaan.</string>
+    <string name="system_update_activity_name">Systeemupdates</string>
+    <string name="system_update_activity_roaming_text">Systeemupdates kunnen niet worden gedownload tijdens roaming.</string>
+    <string name="system_update_activity_title">Systeemupdates</string>
+    <string name="system_update_check_now_button_text">Nu controleren</string>
+    <string name="system_update_complete_label">Systeemupdate</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Wifi-verbinding toevoegen</string>
+    <string name="system_update_connection_lost_text">De netwerkverbinding is verbroken.</string>
+    <string name="system_update_countdown_cancel_button">Installatie annuleren</string>
+    <string name="system_update_countdown_complete">Nu opnieuw opstarten…</string>
+    <string name="system_update_download_button_text">Downloaden</string>
+    <string name="system_update_download_failed_no_space_status_text">Onvoldoende ruimte beschikbaar om te downloaden</string>
+    <string name="system_update_download_failed_status_text">Kan niet downloaden</string>
+    <string name="system_update_download_retry_button_text">Downloaden opnieuw proberen</string>
+    <string name="system_update_download_waiting_status_text">Wachten op downloaden</string>
+    <string name="system_update_downloading_required_update_text">"Dit duurt maximaal ^1 minuten.
+
+Daarna wordt het apparaat automatisch opnieuw opgestart."</string>
+    <string name="system_update_downloading_required_update_text_tablet">"Dit duurt maximaal ^1 minuten.
+
+Daarna wordt de tablet automatisch opnieuw opgestart."</string>
+    <string name="system_update_downloading_required_update_title">Update downloaden…</string>
+    <string name="system_update_downloading_status_text">Downloaden</string>
+    <string name="system_update_downloading_wifi_status2_text">Via wifi alleen tot ^1</string>
+    <string name="system_update_install_button_text">Opnieuw opstarten en installeren</string>
+    <string name="system_update_installing_update_text">"Dit duurt maximaal 5 minuten.
+
+Daarna kunt u het configureren van uw telefoon voltooien."</string>
+    <string name="system_update_installing_update_title">Update installeren…</string>
+    <string name="system_update_last_checkin">Laatst gecontroleerd op updates: ^1</string>
+    <string name="system_update_no_update_content_text">Uw systeem is bijgewerkt.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">Het downloaden is mislukt. Probeer het opnieuw.</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">Kan systeemupdate niet downloaden</string>
+    <string name="system_update_not_owner_text">Er is een update van de systeemsoftware beschikbaar, maar alleen de eigenaar kan deze installeren.</string>
+    <string name="system_update_notification_action_download">Downloaden</string>
+    <string name="system_update_notification_action_install">Installeren</string>
+    <string name="system_update_notification_action_snooze">Later</string>
+    <string name="system_update_required_update_restart_text">Het apparaat wordt opnieuw opgestart zodat uw systeemupdate kan worden geïnstalleerd.</string>
+    <string name="system_update_required_update_restart_text_tablet">De tablet wordt opnieuw opgestart zodat uw systeemupdate kan worden geïnstalleerd.</string>
+    <string name="system_update_required_update_restart_title">Wordt binnenkort opnieuw opgestart</string>
+    <string name="system_update_requires_restart_status_text">Opnieuw opstarten vereist</string>
+    <string name="system_update_restart_button_text">Opnieuw opstarten (^1)</string>
+    <string name="system_update_update_available_notification_title">Systeemupdate beschikbaar</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">Onvoldoende ruimte beschikbaar om de systeemupdate te downloaden.</string>
+    <string name="system_update_update_downloaded_notification_title">Systeemupdate gedownload</string>
+    <string name="system_update_verification_failed_text">Verificatie mislukt</string>
+    <string name="system_update_verified_status_text">Gedownload en geverifieerd</string>
+    <string name="system_update_verifying_status_text">Bevestigen</string>
+    <string name="temporary_sharing_description">Mensen met wie je beperkte tijd je exacte locatie deelt in Google-producten.</string>
+    <string name="temporary_sharing_title">Tijdelijk delen</string>
+    <string name="turn_on_location_reporting_auto_button">Inschakelen</string>
+    <string name="usage_and_diagnostics_consent_message">Help ons uw Android-ervaring te verbeteren door automatisch diagnostische en gebruiksstatistieken naar Google te verzenden. Deze gegevens worden niet gebruikt om u te identificeren, maar helpen de teams die bijvoorbeeld aan accuduur, app-prestaties en nieuwe Google-functies werken.&lt;br/>&lt;br/>&lt;font color=\"#009688\">Meer informatie&lt;/font></string>
+    <string name="usage_reporting_off">Uit</string>
+    <string name="usage_reporting_on">Aan</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">Verbonden</string>
+    <string name="wearable_status_connecting">Verbinden…</string>
+    <string name="wearable_status_disconnected">Verbinding verbroken</string>
+    <string name="wearable_status_starting">Starten…</string>
+    <string name="wearable_status_wire_protocol_mismatch">Incompatibele wearable. Pas eventuele updates toe.</string>
+    <string name="wearable_storage_managment_reclaim_button_label">Nu wissen</string>
+    <string name="wearable_storage_managment_title">Opslag van wearable</string>
+    <string name="wearable_storage_managment_total_size_label">Opslag van wearable</string>
+    <string name="wearable_storage_managment_usage_label">Opslaggebruik per app</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Бар</item>
+        <item>Кафе</item>
+        <item>Май куюу бекети</item>
+        <item>Кинотеатр</item>
+        <item>Турак-жай</item>
+        <item>Түнкү клуб</item>
+        <item>Музей</item>
+        <item>Ресторан</item>
+        <item>Соода борбору</item>
+        <item>Дүкөн</item>
+        <item>Азык-түлүк дүкөнү же супермаркет</item>
+        <item>Башка</item>
+    </string-array>
+</resources>

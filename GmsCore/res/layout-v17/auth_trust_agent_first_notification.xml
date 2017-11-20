@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:background="#ff009688" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/auth_device_unlock_image_id" android:focusable="false" android:clickable="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/auth_ic_device_unlock" />
+    <LinearLayout android:orientation="vertical" android:id="@id/auth_trust_agent_first_use_notification_text_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="-132.0dip" android:layout_marginRight="24.0dip">
+        <TextView android:textAppearance="?android:textAppearanceLarge" android:id="@id/auth_trust_agent_first_use_notification_title_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginRight="24.0dip" android:text="@string/auth_trust_agent_first_use_notification_title" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/auth_trust_agent_first_use_notification_message_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="24.0dip" android:layout_marginRight="24.0dip" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:id="@id/auth_trust_agent_first_use_notification_message_part2_id" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="24.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="24.0dip" android:text="@string/auth_trust_agent_first_use_notification_message_part2" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <Button android:textColor="#ff009688" android:id="@id/auth_trust_agent_first_use_notification_button_id" android:layout_width="88.0dip" android:layout_height="36.0dip" android:layout_marginTop="24.0dip" android:text="@string/auth_trust_agent_first_use_notification_button" android:layout_marginEnd="24.0dip" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

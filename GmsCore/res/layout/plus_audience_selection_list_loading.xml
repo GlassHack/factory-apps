@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingLeft="@dimen/plus_audience_selection_list_item_padding" android:paddingRight="@dimen/plus_audience_selection_list_item_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/common_SelectableItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include android:id="@id/top_border" layout="@layout/plus_audience_selection_list_divider" />
+    <LinearLayout android:layout_gravity="center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ProgressBar android:padding="10.0dip" android:layout_width="60.0dip" android:layout_height="60.0dip" />
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:textColor="@color/plus_facl_header_title_text_color" android:ellipsize="end" android:gravity="left|center" android:id="@id/audience_selection_person_name" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/plus_audience_selection_loading" android:singleLine="true" />
+    </LinearLayout>
+</LinearLayout>

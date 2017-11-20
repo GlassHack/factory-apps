@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:padding="16.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditText android:id="@id/circle_name" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textCapSentences" style="?android:attr/textAppearanceMedium" />
+    <TextView android:id="@id/circle_name_warning" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_sharebox_container_padding_vertical" android:text="@string/plus_sharebox_circles_name_used_warning" />
+    <TextView android:id="@id/circle_name_length_warning" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/plus_sharebox_container_padding_vertical" android:text="@string/plus_sharebox_circles_name_length_warning" />
+</LinearLayout>

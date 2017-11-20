@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<view android:layout_width="fill_parent" android:layout_height="fill_parent" class="com.google.android.gsf.login.ProportionalOuterFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:gravity="bottom" android:id="@id/title_area" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/suggest_username_next_button_label" style="@style/setup_wizard_title" />
+        <View android:id="@id/top_divider" android:layout_below="@id/title" style="@style/setup_wizard_top_divider" />
+    </RelativeLayout>
+    <ScrollView style="@style/StackButtonedContent">
+        <LinearLayout android:orientation="vertical" android:id="@id/content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/sign_in_content_width" android:layout_centerHorizontal="true">
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layoutDirection="ltr">
+                <EditText android:textAppearance="?android:textAppearanceMedium" android:textSize="20.0sp" android:gravity="left" android:id="@id/username_edit" android:layout_width="0.0dip" android:layout_height="wrap_content" android:hint="@string/username" android:singleLine="true" android:selectAllOnFocus="true" android:maxLength="30" android:layout_weight="1.0" android:inputType="textEmailAddress" />
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="end" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="15.0dip" android:text="@string/gmail_host_name" />
+            </LinearLayout>
+            <TextView android:id="@id/detail_message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="30.0dip" android:text="@string/is_not_available" style="@style/setup_wizard_description_text" />
+            <Button android:textAppearance="?android:textAppearanceMedium" android:textSize="20.0sp" android:id="@id/suggest_names_spinner" android:paddingRight="40.0dip" android:nextFocusDown="@id/next_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:baselineAligned="false" android:minHeight="48.0dip" android:text="@string/suggestions_hint" android:maxLines="1" android:textAlignment="viewStart" android:paddingEnd="40.0dip" style="?android:attr/spinnerStyle" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:id="@id/buttons" style="@style/StackedButtons">
+        <Button android:enabled="false" android:id="@id/next_button" android:layout_width="fill_parent" android:text="@string/try_again_button_label" style="@style/setup_wizard_button" />
+        <Button android:id="@id/skip_button" android:layout_width="fill_parent" android:text="@string/skip_button_label" style="@style/setup_wizard_button" />
+    </LinearLayout>
+</view>

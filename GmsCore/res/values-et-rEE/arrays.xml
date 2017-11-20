@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baar</item>
+        <item>Kohvik</item>
+        <item>Bensiinijaam</item>
+        <item>Kino</item>
+        <item>Majutus</item>
+        <item>Ööklubi</item>
+        <item>Muuseum</item>
+        <item>Restoran</item>
+        <item>Kaubanduskeskus</item>
+        <item>Pood</item>
+        <item>Toidupoed</item>
+        <item>Muu</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>kehv</item>
+        <item>rahuldav</item>
+        <item>hea</item>
+        <item>tugev</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+</resources>

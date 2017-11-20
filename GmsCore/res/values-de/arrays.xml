@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Lokal</item>
+        <item>Café</item>
+        <item>Tankstelle</item>
+        <item>Kino</item>
+        <item>Unterkunft</item>
+        <item>Bar/Disco</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Einkaufszentrum</item>
+        <item>Geschäft</item>
+        <item>Lebensmittelgeschäft/Supermarkt</item>
+        <item>Sonstiges</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>Schwach</item>
+        <item>mäßig</item>
+        <item>Gut</item>
+        <item>Stark</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NO</item>
+        <item>O</item>
+        <item>SO</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>Norden</item>
+        <item>Nordosten</item>
+        <item>Osten</item>
+        <item>Südosten</item>
+        <item>Süden</item>
+        <item>Südwesten</item>
+        <item>Westen</item>
+        <item>Nordwesten</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Wählen Sie eine Sicherheitsfrage aus.</item>
+        <item>Erste Telefonnummer?</item>
+        <item>Name des besten Freundes/der besten Freundin in der Kindheit?</item>
+        <item>Name Ihres ersten Lehrers?</item>
+        <item>Name des Vorgesetzten bei Ihrem ersten Arbeitgeber?</item>
+        <item>Autokennzeichen?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="location_settings_expiration_hours">
+        <item quantity="other">%d മണിക്കൂർ ശേഷിക്കുന്നു</item>
+        <item quantity="one">ഒരു മണിക്കൂർ ശേഷിക്കുന്നു</item>
+    </plurals>
+    <plurals name="plus_num_days_ago">
+        <item quantity="other">%d ദിവസം</item>
+        <item quantity="one">%d ദിവസം</item>
+    </plurals>
+    <plurals name="plus_num_hours_ago">
+        <item quantity="other">%d മണിക്കൂർ</item>
+        <item quantity="one">%d മണിക്കൂർ</item>
+    </plurals>
+    <plurals name="plus_num_minutes_ago">
+        <item quantity="other">%d മിനിറ്റ്</item>
+        <item quantity="one">%d മിനിറ്റ്</item>
+    </plurals>
+    <plurals name="plus_sharebox_circles_checkbox_number_of_people">
+        <item quantity="other">%1$s പേർ</item>
+        <item quantity="one">%1$s ആൾ</item>
+        <item quantity="two">%1$s പേർ</item>
+        <item quantity="few">%1$s പേർ</item>
+        <item quantity="many">%1$s പേർ</item>
+    </plurals>
+    <plurals name="system_update_countdown_message">
+        <item quantity="other">ഇൻസ്റ്റാളുചെയ്യുന്നതിനായി %d നിമിഷത്തിനകം റീബൂട്ടുചെയ്യുന്നു…</item>
+        <item quantity="one">ഇൻസ്റ്റാളുചെയ്യുന്നതിനായി ഒരു നിമിഷത്തിനകം റീബൂട്ടുചെയ്യുന്നു…</item>
+    </plurals>
+</resources>

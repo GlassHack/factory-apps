@@ -1,0 +1,1136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">ホームへ移動</string>
+    <string name="abc_action_bar_home_description_format">%1$s、%2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s、%2$s、%3$s</string>
+    <string name="abc_action_bar_up_description">上へ移動</string>
+    <string name="abc_action_menu_overflow_description">その他のオプション</string>
+    <string name="abc_action_mode_done">完了</string>
+    <string name="abc_activity_chooser_view_see_all">すべて表示</string>
+    <string name="abc_activitychooserview_choose_application">アプリの選択</string>
+    <string name="abc_searchview_description_clear">検索キーワードを削除</string>
+    <string name="abc_searchview_description_query">検索キーワード</string>
+    <string name="abc_searchview_description_search">検索</string>
+    <string name="abc_searchview_description_submit">検索キーワードを送信</string>
+    <string name="abc_searchview_description_voice">音声検索</string>
+    <string name="abc_shareactionprovider_share_with">共有</string>
+    <string name="abc_shareactionprovider_share_with_application">%sと共有</string>
+    <string name="account_level_title">アカウントの操作が必要</string>
+    <string name="activity_recognition_permission_description">徒歩、車、自転車、移動していない場合など、操作レベルの定期的な更新情報をGoogleから受信することをアプリに許可します。</string>
+    <string name="activity_recognition_permission_label">操作の認識</string>
+    <string name="add_a_place_add">追加</string>
+    <string name="add_a_place_call_to_action">場所を追加してください</string>
+    <string name="add_a_place_call_to_drag">地図をドラッグし、マーカーの位置を指定してください</string>
+    <string name="add_a_place_cancel">キャンセル</string>
+    <string name="add_a_place_next">次へ</string>
+    <string name="agree">同意する</string>
+    <string name="app_label">利用ネットワーク</string>
+    <string name="app_level_title">ログインリクエスト</string>
+    <string name="app_level_title_secondary">%sからのログインリクエスト</string>
+    <string name="auth_accept_access">承認する</string>
+    <string name="auth_account_already_has_gmail">このアカウントでは既にGmailを使用しています。</string>
+    <string name="auth_account_setup_title">Googleアカウント</string>
+    <string name="auth_ads_settings_title">広告</string>
+    <string name="auth_allow_external_site_access">%sのデータに継続的にアクセスする</string>
+    <string name="auth_app_label">Googleアカウントマネージャ</string>
+    <string name="auth_app_permission_footnote">%sとGoogleはそれぞれの利用規約とプライバシーポリシーに従って、この情報を利用します。</string>
+    <string name="auth_app_permission_label">このアプリによるリクエスト</string>
+    <string name="auth_app_permission_ok_footnote">続行すると、このアプリとGoogleがそれぞれの利用規約とプライバシーポリシーに従ってあなたの情報を使用することを許可することになります。</string>
+    <string name="auth_app_permission_sign_in_footnote">[ログイン]をタップすると、このアプリとGoogleがそれぞれの利用規約とプライバシーポリシーに従ってあなたの情報を使用することを許可することになります。</string>
+    <string name="auth_app_permission_title">Googleでの%sへのログイン</string>
+    <string name="auth_authzen_2f_challenge_confirmation_allow_button_text">ログインを許可</string>
+    <string name="auth_authzen_action_approved_toast_text">操作を許可しました</string>
+    <string name="auth_authzen_action_canceled_toast_text">操作をキャンセルしました</string>
+    <string name="auth_authzen_allow_reset_button_text">パスワード再設定を許可</string>
+    <string name="auth_authzen_cancel_button_label">キャンセル</string>
+    <string name="auth_authzen_close_button_text">閉じる</string>
+    <string name="auth_authzen_confirmation_allow_button_text">許可</string>
+    <string name="auth_authzen_confirmation_cancel_button_text">キャンセル</string>
+    <string name="auth_authzen_default_confirmation_description">%sからアカウントへのログインを許可しますか？</string>
+    <string name="auth_authzen_default_confirmation_title">確認を行う必要があります</string>
+    <string name="auth_authzen_default_incorrect_pin_text">選択した番号が間違っています。リクエストはキャンセルされました。</string>
+    <string name="auth_authzen_default_request_description">リクエストの詳細は不明です</string>
+    <string name="auth_authzen_generic_error_text">エラーが発生しました。もう一度お試しください。</string>
+    <string name="auth_authzen_google_logo_label">Googleロゴ</string>
+    <string name="auth_authzen_login_challenge_approved_text">ログインを許可しました</string>
+    <string name="auth_authzen_login_challenge_canceled_text">ログインをキャンセルしました</string>
+    <string name="auth_authzen_login_challenge_confirmation_allow_button_text">ログインを許可</string>
+    <string name="auth_authzen_login_challenge_desc_text">%sからログインしようとしていますか？</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_desc_text">このログインは停止されました。</string>
+    <string name="auth_authzen_login_challenge_incorrect_pin_title_text">間違った番号</string>
+    <string name="auth_authzen_login_challenge_pin_confirm_desc_text">他の画面に表示される番号をタップしてください。これにより、パソコンからログインします。</string>
+    <string name="auth_authzen_login_challenge_reject_desc_text">他人があなたのパスワードを使用してGoogleアカウントにログインしようとしました。Googleはこのログインをブロックしました。</string>
+    <string name="auth_authzen_login_challenge_reject_title_text">ログインのブロック</string>
+    <string name="auth_authzen_login_challenge_title_text">ログインしようとしていますか？</string>
+    <string name="auth_authzen_minutemaid_challenge_desc_text">パソコンでのログインを許可するには、本人確認を行う必要があります</string>
+    <string name="auth_authzen_minutemaid_challenge_location_text">%sにあるパソコンからのログインリクエスト</string>
+    <string name="auth_authzen_minutemaid_no_button_text">リクエストしていません</string>
+    <string name="auth_authzen_minutemaid_notify_desc_text">%sさん、お知らせありがとうございます</string>
+    <string name="auth_authzen_minutemaid_notify_sub_desc_text">このアクティビティを記録しましたので、アカウントのセキュリティは引き続き維持されます。</string>
+    <string name="auth_authzen_minutemaid_pin_entry_allow_button_text">ログイン</string>
+    <string name="auth_authzen_minutemaid_pin_entry_cancel_button_text">キャンセル</string>
+    <string name="auth_authzen_minutemaid_pin_entry_description_text">GoogleアカウントのPINを入力</string>
+    <string name="auth_authzen_minutemaid_yes_button_text">OK（続行）</string>
+    <string name="auth_authzen_no_button_text">いいえ</string>
+    <string name="auth_authzen_notify_google_default_text">誰かがあなたのアカウントにアクセスしようとしたことがGoogleに通知されます。</string>
+    <string name="auth_authzen_notify_google_recovery_workflow_text">パスワード変更のリクエストを受け取りました。このリクエストはあなたからのものではないため、キャンセルされました。アカウントへの変更はありません。</string>
+    <string name="auth_authzen_ok_button_text">OK</string>
+    <string name="auth_authzen_pin_validation_default_desc_text">他の画面に表示される番号をタップしてください。これにより、パソコンからログインします。</string>
+    <string name="auth_authzen_pin_validation_default_title_text">ログインを許可</string>
+    <string name="auth_authzen_profile_picture_label">プロフィール写真</string>
+    <string name="auth_authzen_recovery_2f_challenge_desc_text">Googleへのログインを試行しましたか？</string>
+    <string name="auth_authzen_recovery_approved_text">パスワード再設定を許可しました</string>
+    <string name="auth_authzen_recovery_canceled_text">パスワード再設定をキャンセルしました</string>
+    <string name="auth_authzen_recovery_double_confirm_desc_text">%sからのパスワードの再設定を許可しますか？</string>
+    <string name="auth_authzen_recovery_double_confirm_title_text">確認を行う必要があります</string>
+    <string name="auth_authzen_recovery_incorrect_pin_desc_text">このパスワード再設定は停止されました。</string>
+    <string name="auth_authzen_recovery_incorrect_pin_title_text">番号が正しくない</string>
+    <string name="auth_authzen_recovery_pin_confirm_desc_text">別の画面に表示される番号をタップしてください。これにより、パスワードが再設定されます。</string>
+    <string name="auth_authzen_recovery_pin_confirm_title_text">パスワード再設定を許可</string>
+    <string name="auth_authzen_recovery_reject_desc_text">他のユーザーがGoogleアカウントパスワードの再設定をリクエストしました。このパスワード再設定は停止されました。</string>
+    <string name="auth_authzen_recovery_reject_title_text">パスワード再設定を拒否</string>
+    <string name="auth_authzen_recovery_verification_desc_text">%sからパスワードの再設定をリクエストしましたか？</string>
+    <string name="auth_authzen_recovery_verification_title_text">パスワードを再設定しようとしましたか？</string>
+    <string name="auth_authzen_secure_account_button_text">アカウント保護</string>
+    <string name="auth_authzen_sending_reply_failed_text">サーバーに応答を送信できませんでした。</string>
+    <string name="auth_authzen_sending_reply_text">サーバーへの応答を送信しています</string>
+    <string name="auth_authzen_time_display_text">%s分前</string>
+    <string name="auth_authzen_time_just_now_text">数秒前</string>
+    <string name="auth_authzen_wait_text">お待ちください…</string>
+    <string name="auth_authzen_workflow_title">Google認証プロンプト</string>
+    <string name="auth_authzen_yes_button_text">はい</string>
+    <string name="auth_back_button_label">戻る</string>
+    <string name="auth_bad_name_title">この名前を使用</string>
+    <string name="auth_bluetooth_lure_button">信頼できる端末として追加</string>
+    <string name="auth_bluetooth_lure_credential_confirmation_title">ロック画面の確認</string>
+    <string name="auth_bluetooth_lure_multi_line_message">"新しいBluetoothデバイスがペア設定されました。接続時に画面ロックをスキップするには信頼できる端末として
+追加してください%s。"</string>
+    <string name="auth_bluetooth_lure_one_line_message">Bluetoothデバイスがペア設定されました。</string>
+    <string name="auth_bluetooth_lure_title">個人ロック解除</string>
+    <string name="auth_cancel_button_label">キャンセル</string>
+    <string name="auth_captcha_instructions">表示されている文字をここに入力してください:</string>
+    <string name="auth_captcha_title">セキュリティ画像の文字を入力する必要があります</string>
+    <string name="auth_communicating_message">端末からGoogleに接続してアカウントに情報を保存しています。この処理には5分ほどかかることがあります。</string>
+    <string name="auth_confirm_creds_authority">com.google.android.gms.auth.confirm</string>
+    <string name="auth_confirm_creds_sync_title">認証情報のステータス</string>
+    <string name="auth_d2d_source_bt_notice">Bluetoothが使用されます。</string>
+    <string name="auth_d2d_source_lock_notice">端末がロックされます。続行するにはもう一度ロックを解除してください。</string>
+    <string name="auth_d2d_source_no_accounts_toast">この端末にアカウントがないため、[タップして復元]を使用できません。</string>
+    <string name="auth_d2d_source_no_bluetooth_toast">端末でBluetoothを使用できないため、[タップして復元]を使用できません。</string>
+    <string name="auth_d2d_source_notification_text">"この端末を使用して新しい^1が^2にセットアップされました。次のGoogleアカウントを移行しようとしています。
+
+^3"</string>
+    <string name="auth_d2d_source_notification_title">新しい端末のセットアップが完了</string>
+    <string name="auth_d2d_source_progress_message">新しい端末にデータをコピー中...</string>
+    <string name="auth_d2d_source_question">この端末からアカウントとデータをコピーしますか？</string>
+    <string name="auth_d2d_source_restricted_user_toast">制限付きユーザープロフィールからタップして復元することはできません。</string>
+    <string name="auth_d2d_source_title">アカウントの復元</string>
+    <string name="auth_d2d_source_unknown_device_name">不明な端末</string>
+    <string name="auth_d2d_target_adding_accounts_message">アカウントを追加しています...</string>
+    <string name="auth_d2d_target_connecting_progress_message">他の端末に接続しています...</string>
+    <string name="auth_d2d_target_connection_lost_alert">接続が切断されました</string>
+    <string name="auth_d2d_target_description">"お使いのAndroid搭載端末からGoogleアカウントをコピーし、アプリやデータをバックアップできます。コピーするには: 
+
+1. コピー先の端末がONになっており、ロックが解除されていることを確認します。
+
+2. 2つの端末を少しの間背中合わせにしておきます。"</string>
+    <string name="auth_d2d_target_skip_button">スキップ</string>
+    <string name="auth_d2d_target_sorry_alert">エラーが発生しました</string>
+    <string name="auth_d2d_target_tap_progress_message">続行するには、他の端末の[OK]をタップします</string>
+    <string name="auth_d2d_target_title">タップして移動</string>
+    <string name="auth_d2d_target_try_again_button">再試行</string>
+    <string name="auth_d2d_target_unlock_progress_message">他の端末のロックを解除します</string>
+    <string name="auth_d2d_target_wait_progress_message">アカウントとデータをコピーしています...</string>
+    <string name="auth_default_device_name">Android</string>
+    <string name="auth_dmagent_activity_message">" このドメインでは携帯端末管理が必要です。「Google Apps端末ポリシー」アプリをインストールして、アカウント「"<b>^1</b>」に必要なセキュリティポリシーを適用してください。</string>
+    <string name="auth_doesnt_use_gmail">" "<b>^1</b>ではGmailを使用していません。</string>
+    <string name="auth_error_account_disabled">"このアカウントは無効になっています。
+
+（詳しくはウェブブラウザで http://google.com/accounts にアクセスしてください）"</string>
+    <string name="auth_error_account_not_verified">"このアカウントは確認されていません。メールを確認し、メールに記載されているリンク先にアクセスしてこのアカウントの確認を行ってください。
+
+（アカウント情報を忘れた場合は、パソコンで http://www.google.com/accounts/recovery にアクセスしてください）"</string>
+    <string name="auth_error_bad_password">パスワードの安全性が低いか無効な文字が含まれています。別のパスワードをお試しください。</string>
+    <string name="auth_error_bad_username">ユーザー名が無効です。</string>
+    <string name="auth_error_invalid_second_factor">アカウントの通常のパスワードではなく、アプリ固有のパスワードを使用してください。</string>
+    <string name="auth_error_login_failed">"ユーザー名とパスワードが一致しません。もう一度お試しください。
+
+アカウント情報を忘れた場合は google.com/accounts/recovery/ にアクセスしてください。"</string>
+    <string name="auth_error_needs_browser">アカウントにアクセスするには、ウェブでログインする必要があります。[次へ]をタップしてブラウザログインを開始します。</string>
+    <string name="auth_error_not_logged_in">ユーザーがログインしていません。</string>
+    <string name="auth_error_username_unavailable">ユーザー名は使用できません。</string>
+    <string name="auth_existing_account_error_text">アカウント「^1」は既にこのAndroid搭載端末に追加されています。</string>
+    <string name="auth_existing_account_error_title">アカウントが既に存在します</string>
+    <string name="auth_exit_menu_item">ブラウザログインを終了</string>
+    <string name="auth_facl_scope_details_dialog_title">このアプリがアクセスできるもの</string>
+    <string name="auth_facl_with_warning_label">このアプリがアクセスできるユーザーを変更</string>
+    <string name="auth_field_cant_be_blank">フィールドは空にできません。</string>
+    <string name="auth_fitness_settings_title">Fitness</string>
+    <string name="auth_gls_account_creation_tos">続行すると、Googleの<annotation id="tos">利用規約</annotation>、<annotation id="google_privacy">プライバシーポリシー</annotation>、<annotation id="play_tos">Google Playの利用規約</annotation>に同意したことになります。</string>
+    <string name="auth_gls_account_creation_tos_with_chrome">続行すると、Googleの<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>に同意したことになります。</string>
+    <string name="auth_gls_account_intro_default_message">Googleアカウントがあればすべてのデータを安全に保管できます。</string>
+    <string name="auth_gls_account_intro_learn_more">詳細</string>
+    <string name="auth_gls_account_intro_recommended_title">Googleを利用する</string>
+    <string name="auth_gls_account_intro_required_title">Powered by Google</string>
+    <string name="auth_gls_account_intro_simple_message">既存のアカウントを追加するか、新しいアカウントを作成しますか？</string>
+    <string name="auth_gls_account_intro_title">Googleアカウント</string>
+    <string name="auth_gls_account_pre_intro_default_message">"Googleアカウントをお持ちですか？
+
+GmailやGoogle Appsをご利用なら既にアカウントがあります。"</string>
+    <string name="auth_gls_account_pre_intro_no">いいえ</string>
+    <string name="auth_gls_account_pre_intro_title">Googleアカウントをお持ちですか？</string>
+    <string name="auth_gls_account_pre_intro_yes">はい</string>
+    <string name="auth_gls_account_recovery_info">パスワードを忘れた場合は、セキュリティ保護用の質問に答えて再設定リンクを別のメールアドレスに送信できます。</string>
+    <string name="auth_gls_account_tos_plus_title">Google+への参加の完了</string>
+    <string name="auth_gls_account_tos_title">アカウントを完了</string>
+    <string name="auth_gls_add_a_google_account">Googleアカウントを追加</string>
+    <string name="auth_gls_alternatives_list_title">ユーザー名候補</string>
+    <string name="auth_gls_answer">" "<b>答え</b></string>
+    <string name="auth_gls_backup_consent_message">"Googleアカウントを使用して、アプリ、設定（ブックマーク、Wi-Fiパスワードなど）、その他のデータをバックアップします。このアカウントで以前にバックアップしている場合は、今この携帯端末にそれを復元できます。
+
+バックアップ設定は[設定]からいつでも変更できます。"</string>
+    <string name="auth_gls_backup_consent_message_no_restore">"Googleアカウントを使用して、アプリ、設定（ブックマーク、Wi-Fiパスワードなど）、その他のデータをバックアップします。
+
+バックアップ設定は[設定]からいつでも変更できます。"</string>
+    <string name="auth_gls_backup_consent_yes_agree">Googleアカウントでこの携帯端末を常にバックアップする</string>
+    <string name="auth_gls_cant_be_blank">フィールドは空にできません。</string>
+    <string name="auth_gls_checking_account">使用できるか確認しています…</string>
+    <string name="auth_gls_checking_username_message">"お使いの端末からGoogleに接続して、ご希望の名前が使用できるかどうか確認しています。
+
+この処理には数分かかることがあります。"</string>
+    <string name="auth_gls_choose_a_password">パスワード</string>
+    <string name="auth_gls_circles_subtitle">サークル</string>
+    <string name="auth_gls_circles_text">大事な情報をオンラインで共有する一番簡単な方法です。</string>
+    <string name="auth_gls_confirm_password">パスワードの再入力</string>
+    <string name="auth_gls_create_button_label">アカウントを作成</string>
+    <string name="auth_gls_create_google_account">ユーザー名の選択</string>
+    <string name="auth_gls_create_google_account_text">GoogleアカウントにはGoogleのメールサービスであるGmailが付属しています。Gmailはどの端末でも使用でき、迷惑メールのブロックなどの機能を備えています。</string>
+    <string name="auth_gls_creating_account_title">アカウントを保存中…</string>
+    <string name="auth_gls_creating_profile">プロフィールを作成しています…</string>
+    <string name="auth_gls_crop_failure">写真をトリミングできませんでした。</string>
+    <string name="auth_gls_dasher_warning">%sの管理者はユーザーのGoogle+データをすべて所有、管理しており、ユーザーの許可なくいつでもプロフィールを削除/変更できます。</string>
+    <string name="auth_gls_dmagent_activity_activate_message">" このドメインでは携帯端末管理が必要です。「Google Apps端末ポリシー」アプリを有効にして、アカウント「"<b>^1</b>」に必要なセキュリティポリシーを適用してください。</string>
+    <string name="auth_gls_dmagent_activity_activate_retry_button">有効にする</string>
+    <string name="auth_gls_dmagent_activity_download_message">" このドメインでは携帯端末管理が必要です。「Google Apps端末ポリシー」アプリをインストールして、アカウント「"<b>^1</b>」に必要なセキュリティポリシーを適用してください。</string>
+    <string name="auth_gls_dmagent_activity_download_retry_button">ダウンロード</string>
+    <string name="auth_gls_edit_text_help">文字入力エリアをタップして入力します</string>
+    <string name="auth_gls_eight_chars_min">8文字以上</string>
+    <string name="auth_gls_enable_web_history">ウェブ履歴を有効にする</string>
+    <string name="auth_gls_error_bad_password">パスワードの安全性が低いか無効な文字が含まれています。別のパスワードをお試しください。</string>
+    <string name="auth_gls_error_login_failed">"ユーザー名とパスワードが一致しません。もう一度お試しください。
+
+アカウント情報を忘れた場合は google.com/accounts/recovery/ にアクセスしてください。"</string>
+    <string name="auth_gls_error_needs_browser">アカウントにアクセスするには、ウェブでログインする必要があります。[次へ]をタップしてブラウザログインを開始します。</string>
+    <string name="auth_gls_existing_account_error_text">アカウント「^1」は既にこのAndroid搭載端末で使用しています。</string>
+    <string name="auth_gls_existing_account_error_title">アカウントが既に存在します</string>
+    <string name="auth_gls_existing_button_label">既存のアカウント</string>
+    <string name="auth_gls_google_play_opt_in">Google Playから最新のニュースやクーポンを受信する。</string>
+    <string name="auth_gls_hint_illegal_chars">" "<b>^1</b>"に使用できるのは、文字、数字、ピリオド
+のみです。"</string>
+    <string name="auth_gls_hint_numbers_only">" "<b>^1</b>に文字が含まれていません。</string>
+    <string name="auth_gls_hint_size">" "<b>^1</b>が6文字未満か30文字を超えています。</string>
+    <string name="auth_gls_huddle_text">サークル内のすべての人にグループメッセージを送信できます。</string>
+    <string name="auth_gls_invalid_email">"入力したメールアドレスが無効です。
+例: joe@example.com"</string>
+    <string name="auth_gls_invalid_email_primary">予備のメールアドレスには、作成するアカウントとは違うアドレスを指定してください。</string>
+    <string name="auth_gls_is_not_available">ユーザー名<b>^1</b>は使用できません。</string>
+    <string name="auth_gls_label">Google</string>
+    <string name="auth_gls_learn_more"><annotation id="auth_gls_learn_more">詳細</annotation></string>
+    <string name="auth_gls_learn_more_account_intro">" Googleアカウントを使用すると、次のメリットがあります:
+
+"<li><ul>どこからでも自分の情報を閲覧し、整理することができます。</ul></li>"
+
+"<li><ul>メールや連絡先、音楽、写真などのデータを自動的にバックアップできます。</ul></li>" 
+
+"<li><ul>連絡先、カレンダー、マップなど他にもいろいろなGoogleサービスをどこからでも簡単に利用できます。</ul></li></string>
+    <string name="auth_gls_learn_more_account_intro_title">Googleアカウントについて</string>
+    <string name="auth_gls_learn_more_web_history">"ウェブ履歴を利用すると、過去の検索内容やアクセスしたサイトに基づいて検索結果をさらにカスタマイズできます。
+
+ウェブ履歴の有効化/無効化の切り替え、表示、管理方法については、http://www.google.com/history をご覧ください。"</string>
+    <string name="auth_gls_learn_more_web_history_title">ウェブ履歴について</string>
+    <string name="auth_gls_name_checking_info_title">情報を確認中…</string>
+    <string name="auth_gls_name_progress_title">お待ちください…</string>
+    <string name="auth_gls_name_text">名前は端末やGoogleサービスのカスタマイズに使用されます。</string>
+    <string name="auth_gls_name_text_local">携帯端末では一部のアプリをカスタマイズする際にユーザーの名前が使用されます。</string>
+    <string name="auth_gls_name_title_local">この携帯端末の所有者…</string>
+    <string name="auth_gls_name_title_plus">あなたのGoogle+名</string>
+    <string name="auth_gls_network_unreliable">サーバーとの安定した接続を確立できません。</string>
+    <string name="auth_gls_network_unreliable_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。引き続き問題が発生する場合は、お客様サポートにお問い合わせください。</string>
+    <string name="auth_gls_network_unreliable_help_wifi_only">一時的な問題の可能性があります。もう一度お試しになるか、別のWi-Fiネットワークに接続してください。</string>
+    <string name="auth_gls_new_button_label">新規作成</string>
+    <string name="auth_gls_no_network">ネットワークに接続していません。</string>
+    <string name="auth_gls_no_network_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。モバイルネットワークに接続された状態でもう一度お試しになるか、Wi-Fiネットワークに接続してください。</string>
+    <string name="auth_gls_no_network_help_wifi_only">一時的な問題の可能性があります。もう一度お試しになるか、別のWi-Fiネットワークに接続してください。</string>
+    <string name="auth_gls_not_now_button_label">後で</string>
+    <string name="auth_gls_password_mismatch">パスワードが一致しませんでした。もう一度お試しください。</string>
+    <string name="auth_gls_password_title">パスワードを作成</string>
+    <string name="auth_gls_photo_button_label">写真を撮影</string>
+    <string name="auth_gls_photo_description">あなたの写真</string>
+    <string name="auth_gls_photo_failure">カメラを起動できませんでした。</string>
+    <string name="auth_gls_photo_text">この写真は連絡先レコードで使用されます。後で連絡帳アプリで変更できます。</string>
+    <string name="auth_gls_photo_text_es">Google+で友だちに公開する写真を撮影します。後で新しい画像を選ぶことができます。</string>
+    <string name="auth_gls_photo_title">あなたの写真</string>
+    <string name="auth_gls_plus_accepted_button_label">Google+に登録</string>
+    <string name="auth_gls_plus_declined_button_label">後で</string>
+    <string name="auth_gls_plus_failure_new_account_text">Googleアカウントが作成されましたが、Google+への参加リクエストは正常に処理されませんでした。ウェブブラウザから plus.google.com にアクセスしてもう一度お試しください。</string>
+    <string name="auth_gls_plus_failure_text">Google+への参加リクエストが正常に処理されませんでした。ウェブブラウザから plus.google.com にアクセスしてもう一度お試しください。</string>
+    <string name="auth_gls_plus_failure_title">しばらくしてからGoogle+への参加をお試しください</string>
+    <string name="auth_gls_plus_faq_text" formatted="false">"Google+では、友だちに見つけてもらうための公開プロフィールを作成します。あなたのメールアドレスを知っている人なら誰でも、プロフィールを検索して表示できます。
+
+ウェブのいたるところにある+1ボタンを使用するとおすすめの内容を世界と共有することができます。あなたのプロフィールと+1した内容は検索、広告、ウェブ上で公開されます。
+
+今のところプロフィールには名前（%s %s）だけを表示しています。画像や略歴などの情報はGoogle+を使い始めてから追加できます。"</string>
+    <string name="auth_gls_plus_name_check_text">この処理には数分かかることがあります。</string>
+    <string name="auth_gls_plus_name_check_title">Google+に問い合わせ中…</string>
+    <string name="auth_gls_plus_query_text">Google+は、現実の世界と同じような情報共有をウェブ上で可能にします。</string>
+    <string name="auth_gls_provisioned_incorrect_login">%sさんではありませんか？</string>
+    <string name="auth_gls_provisioned_welcome">こんにちは、%sさん</string>
+    <string name="auth_gls_provisioned_welcome_2">"パスワードを入力してください:
+%s"</string>
+    <string name="auth_gls_recovery_title">予備の情報</string>
+    <string name="auth_gls_restore_consent_yes_agree">Googleアカウントからこの端末に復元する</string>
+    <string name="auth_gls_restoring_message">お使いの携帯端末はGoogleに接続してアカウントを復元しようとしています。これには時間がかかることがあります。</string>
+    <string name="auth_gls_restoring_title">復元しています…</string>
+    <string name="auth_gls_retake_photo_button_label">写真を撮り直す</string>
+    <string name="auth_gls_secondary_email_label">再設定用のメールアドレス</string>
+    <string name="auth_gls_security_questions_title">セキュリティ保護用の質問</string>
+    <string name="auth_gls_server_error">Googleサーバーとの通信で問題が発生しました。</string>
+    <string name="auth_gls_server_error_help">後でもう一度お試しください。</string>
+    <string name="auth_gls_sign_in_agreement">ログインすると、Googleの<annotation id="tos">利用規約</annotation>、<annotation id="google_privacy">プライバシーポリシー</annotation>、<annotation id="play_tos">Google Playの利用規約</annotation>に同意したことになります。</string>
+    <string name="auth_gls_sign_in_agreement_multi_user">" ログインすると、Googleの"<annotation id="tos">利用規約</annotation>、<annotation id="google_privacy">プライバシーポリシー</annotation>、<annotation id="play_tos">Google Playの利用規約</annotation>"に同意したことになります。
+
+注: 他のユーザーは更新されたアプリの許可をあなたの代わりに承認できます。パソコンの場合と同様、このタブレットは信頼できる人とのみ共有してください。"</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome">" ログインすると、Googleの"<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーポリシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>に同意したことになります。</string>
+    <string name="auth_gls_sign_in_agreement_with_chrome_multi_user">" ログインすると、Googleの"<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>"に同意したことになります。
+
+注: 他のユーザーは更新されたアプリの許可をあなたの代わりに承認できます。パソコンの場合と同様、このタブレットは信頼できる人とのみ共有してください。"</string>
+    <string name="auth_gls_submission_title">申し訳ありません…</string>
+    <string name="auth_gls_suggest_username_next_button_label">ユーザー名の変更</string>
+    <string name="auth_gls_suggestions_hint">タップして候補を表示</string>
+    <string name="auth_gls_sync_intro_activity_title">アカウントにログインしました</string>
+    <string name="auth_gls_sync_intro_activity_title_first_account">バックアップと復元</string>
+    <string name="auth_gls_sync_intro_activity_title_first_created_account">バックアップ</string>
+    <string name="auth_gls_sync_intro_title">アカウントの同期</string>
+    <string name="auth_gls_sync_item_title">%sを同期</string>
+    <string name="auth_gls_too_short">短すぎます</string>
+    <string name="auth_gls_ui_activity_authenticating">認証しています…</string>
+    <string name="auth_gls_ui_activity_title_checking_in">準備しています…</string>
+    <string name="auth_gls_uploads_subtitle">インスタントアップロード</string>
+    <string name="auth_gls_uploads_text">すべての端末の画像を簡単に同期させることができます。</string>
+    <string name="auth_gls_verify_your_profile">プロフィールの確認</string>
+    <string name="auth_gls_wait_for_device_country_msg">携帯端末の情報を収集しています。この処理には最大30秒かかります。</string>
+    <string name="auth_gls_wait_for_device_country_title">アカウントのセットアップ</string>
+    <string name="auth_google_settings_header_title">プライバシー</string>
+    <string name="auth_google_title_logo">Googleロゴ</string>
+    <string name="auth_google_trust_agent_title">個人ロック解除</string>
+    <string name="auth_grant_credentials_activity_title">Google</string>
+    <string name="auth_grant_credentials_activity_title_with_acl">Google+にログイン</string>
+    <string name="auth_gsf_notification_login_error">タップしてアカウントにログインします。</string>
+    <string name="auth_gsf_permission_request_notification_with_subtitle">"次のアカウントにアクセスする権限が
+リクエストされました: %s"</string>
+    <string name="auth_invalid_login_character">無効な文字です。使用できるのは0～9、a～z、A～Z、ピリオドのみです。</string>
+    <string name="auth_invalid_password_character">パスワードの文字が無効です。</string>
+    <string name="auth_invalid_scope">認証リクエスト中に使用された範囲が正しくありません。</string>
+    <string name="auth_invalid_username">入力したユーザー名は無効です。</string>
+    <string name="auth_learn_more_title">詳細</string>
+    <string name="auth_location_neighborhood_level">匿名の現在地データのGoogleへの送信を許可します。Wi-Fi、モバイルネットワークなどのデータを使用したおおよその位置の特定もアプリに許可します。</string>
+    <string name="auth_location_network_based">Googleの位置情報サービス</string>
+    <string name="auth_location_settings_title">位置情報の設定</string>
+    <string name="auth_login_activity_loginfail_text_pwonly">間違ったパスワードを入力したか、アカウントが変更されています。パスワードを入力し直してください。パスワードをお忘れでアカウントの再設定が必要な場合は、<annotation id="help_url">こちら</annotation>をタップしてください。</string>
+    <string name="auth_login_activity_task_title">ログイン中…</string>
+    <string name="auth_login_activity_title">ログイン</string>
+    <string name="auth_login_task_title">ログイン</string>
+    <string name="auth_login_title">メールとパスワードを入力</string>
+    <string name="auth_maps_settings_title">Googleマップ＆Latitude</string>
+    <string name="auth_minutemaid_title">Googleアカウントの設定</string>
+    <string name="auth_name_title">氏名</string>
+    <string name="auth_network_unreliable">サーバーとの安定した接続を確立できません。</string>
+    <string name="auth_network_unreliable_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。引き続き問題が発生する場合は、お客様サポートにお問い合わせください。</string>
+    <string name="auth_network_unreliable_help_wifi_only">一時的な問題の可能性があります。もう一度お試しになるか、別のWi-Fiネットワークに接続してください。</string>
+    <string name="auth_next_button_label">次へ</string>
+    <string name="auth_nfc_caution">このタグを保護してください。攻撃者がコピーできる可能性があります。</string>
+    <string name="auth_nfc_tag_exists">%1$sは既に追加されています</string>
+    <string name="auth_nfc_tag_not_supported">指定したNFCデバイスはサポートされていません</string>
+    <string name="auth_no_network">ネットワークに接続していません。</string>
+    <string name="auth_no_network_help">一時的な問題か、Android搭載端末がデータサービスに対応していない可能性があります。モバイルネットワークに接続された状態でもう一度お試しになるか、Wi-Fiネットワークに接続してください。</string>
+    <string name="auth_no_network_help_wifi_only">一時的な問題の可能性があります。もう一度お試しになるか、別のWi-Fiネットワークに接続してください。</string>
+    <string name="auth_ok_button_label">OK</string>
+    <string name="auth_only_you_acl">あなたのみ</string>
+    <string name="auth_otp_dialog_title">確認コード</string>
+    <string name="auth_otp_done_button">完了</string>
+    <string name="auth_otp_error">確認コードの生成中に問題が発生しました。</string>
+    <string name="auth_otp_instruction">このコードはGoogleへのログイン専用です。</string>
+    <string name="auth_otp_no_accounts_available_message">この端末に設定済みのアカウントはありません。</string>
+    <string name="auth_otp_progress_dialog_message">確認コードを生成しています。</string>
+    <string name="auth_otp_select_account_message">アカウントを選択</string>
+    <string name="auth_pacl_scope_details_dialog_title">Googleがアクセスできるもの</string>
+    <string name="auth_password">パスワード</string>
+    <string name="auth_personal_unlocking_name">個人ロック解除</string>
+    <string name="auth_personal_unlocking_service_name">個人ロック解除（Google）</string>
+    <string name="auth_plus_failure_new_account_text">Googleアカウントが作成されましたが、Google+プロフィールの作成リクエストは正常に処理されませんでした。ウェブブラウザから plus.google.com にアクセスしてもう一度お試しください。</string>
+    <string name="auth_plus_failure_text">Google+への参加リクエストが正常に処理されませんでした。ウェブブラウザから plus.google.com にアクセスしてもう一度お試しください。</string>
+    <string name="auth_plus_failure_title">しばらくしてからGoogle+プロフィールの作成をお試しください</string>
+    <string name="auth_plus_faq_title">Google+へようこそ</string>
+    <string name="auth_plus_name_check_text">この処理には数分かかることがあります。</string>
+    <string name="auth_plus_query_title">Google+プロフィールの作成</string>
+    <string name="auth_plus_settings_title">Google+</string>
+    <string name="auth_provisioned_welcome">こんにちは、%sさん</string>
+    <string name="auth_provisioned_welcome_2">"パスワードを入力してください:
+%s"</string>
+    <string name="auth_proximity_auth_device_locked_content">Chromeデバイスがロックされています。</string>
+    <string name="auth_proximity_auth_device_locked_title">簡単ロック解除</string>
+    <string name="auth_proximity_auth_device_unlocked_content">Chromeデバイスのロックを解除しました。</string>
+    <string name="auth_proximity_auth_device_unlocked_title">簡単ロック解除</string>
+    <string name="auth_proximity_auth_setup_completed_content">この端末でChromeデバイスのロックを解除できます。</string>
+    <string name="auth_proximity_auth_setup_completed_title">簡単ロック解除ON</string>
+    <string name="auth_proximity_auth_setup_failed_content">Chromeデバイスでもう一度お試しください。</string>
+    <string name="auth_proximity_auth_setup_failed_title">簡単ロック解除をセットアップ中にエラーが発生しました</string>
+    <string name="auth_proximity_auth_setup_inprogress_content">端末の検出を完了しました。Chromeデバイスで続行します。</string>
+    <string name="auth_proximity_auth_setup_inprogress_title">簡単ロック解除のセットアップ</string>
+    <string name="auth_recovery_loading">読み込み中…</string>
+    <string name="auth_recovery_sending">送信中…</string>
+    <string name="auth_relogin_activity_title">パスワードの再入力</string>
+    <string name="auth_scope_acl_edit_desc">編集</string>
+    <string name="auth_scope_details_dialog_title">詳細情報</string>
+    <string name="auth_scope_icon_desc">アイコン</string>
+    <string name="auth_scope_info_desc">情報</string>
+    <string name="auth_scope_warning_desc">警告</string>
+    <string name="auth_search_settings_title">検索</string>
+    <string name="auth_server_error">Googleサーバーとの通信で問題が発生しました。</string>
+    <string name="auth_server_error_help">しばらくしてからもう一度お試しください。</string>
+    <string name="auth_setup_wizard_back_button_label">戻る</string>
+    <string name="auth_setup_wizard_next_button_label">次へ</string>
+    <string name="auth_setup_wizard_services_activity_title">Googleサービス</string>
+    <string name="auth_setup_wizard_services_backup"><b>Googleに端末をバックアップ</b>しておくと、アプリ、アプリのデータ、システム設定、Wi‑Fiのパスワードを簡単に復元できます。</string>
+    <string name="auth_setup_wizard_services_backup_restore">Googleドライブに<b>アプリやデータをバックアップ</b>しておくことにより、端末を簡単に復元できます。アプリ、アプリのデータ、システム設定、Wi‑Fiのパスワードがバックアップ対象です。バックアップしてもストレージ制限には影響しません。</string>
+    <string name="auth_setup_wizard_services_backup_restore_footnote">データにはアプリ、アプリの設定、システム設定、Wi‑Fiパスワードが含まれています。</string>
+    <string name="auth_setup_wizard_services_backup_restore_heading">バックアップと復元</string>
+    <string name="auth_setup_wizard_services_communication_heading">通信</string>
+    <string name="auth_setup_wizard_services_data_collection">この端末に関する診断情報や使用状況データのGoogleへの自動送信を許可することにより、<b>Android搭載端末の利便性が向上する</b>だけでなく、電池使用量の改善やPlayストアランキングの向上にもつながります。</string>
+    <string name="auth_setup_wizard_services_data_collection_detail">ハードウェアやネットワークの情報、アプリや携帯電話の使用状況、クラッシュレポートが収集対象です。</string>
+    <string name="auth_setup_wizard_services_data_collection_link">この端末に関する診断情報や使用状況データのGoogleへの自動送信を許可することにより、<b>Android搭載端末の利便性が向上する</b>だけでなく、電池使用量の改善やPlayストアランキングの向上にもつながります。<annotation id="learn_more">詳細</annotation></string>
+    <string name="auth_setup_wizard_services_location_footnote">Googleの位置情報サービスはWi‑Fiなどの信号からGPSよりもよりすばやく正確に現在地を特定します。一般に消費電力はGPSよりも抑えられます。一部のデータは端末に保存される場合があります。データ収集はアプリが起動していなくても行われることがあります。</string>
+    <string name="auth_setup_wizard_services_location_heading">場所</string>
+    <string name="auth_setup_wizard_services_location_sharing"><b>Googleの位置情報サービスを使用</b>することにより、アプリで使用できる現在地の精度が向上します。端末から匿名の現在地データがGoogleに送信されます。</string>
+    <string name="auth_setup_wizard_services_location_wifi_scan">Wi‑FiがOFFの場合でもアプリやサービスがネットワークをスキャンできるようにしておくことにより、<b>位置情報サービスの向上に役立ち</b>ます。</string>
+    <string name="auth_setup_wizard_services_play">Google Playから最新のニュースやクーポンを受信します。</string>
+    <string name="auth_setup_wizard_services_tos_with_account">この端末はGoogle、携帯通信会社、端末メーカーからアップデートやアプリを受信することがあります。</string>
+    <string name="auth_setup_wizard_title">セットアップウィザード</string>
+    <string name="auth_show_error_activity_title">ログインできませんでした</string>
+    <string name="auth_show_error_title">エラー</string>
+    <string name="auth_sign_in_agreement">ログインすると、<annotation id="google_privacy">Googleプライバシーポリシー</annotation>と<annotation id="android_privacy">追加プライバシーポリシー</annotation>に同意したことになります。</string>
+    <string name="auth_sign_in_agreement_multi_user">ログインすると、Googleの<annotation id="tos">利用規約</annotation>、<annotation id="google_privacy">プライバシーポリシー</annotation>、<annotation id="play_tos">Google Playの利用規約</annotation>"に同意したことになります。
+
+注: 他のユーザーは更新されたアプリの許可をあなたの代わりに承認できます。パソコンの場合と同様、このタブレットは信頼できる人とのみ共有してください。"</string>
+    <string name="auth_sign_in_agreement_with_chrome">ログインすると、Googleの<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>に同意したことになります。</string>
+    <string name="auth_sign_in_agreement_with_chrome_multi_user">ログインすると、Googleの<annotation id="tos">利用規約</annotation>と<annotation id="google_privacy">プライバシーポリシー</annotation>、Chromeの<annotation id="chrome_tos">利用規約</annotation>と<annotation id="chrome_privacy">プライバシーに関するお知らせ</annotation>、Google Playの<annotation id="play_tos">利用規約</annotation>"に同意したことになります。
+
+注: 他のユーザーは更新されたアプリの許可をあなたの代わりに承認できます。パソコンの場合と同様、このタブレットは信頼できる人とのみ共有してください。"</string>
+    <string name="auth_sign_in_browser">ブラウザにログイン</string>
+    <string name="auth_sign_in_button_label">ログイン</string>
+    <string name="auth_sign_in_with_google_account_short">Googleアカウントでログイン:</string>
+    <string name="auth_skip_button_label">スキップ</string>
+    <string name="auth_submission_error_text">エラーが発生しました。もう一度お試しください。</string>
+    <string name="auth_submission_title">申し訳ありません…</string>
+    <string name="auth_trust_agent_add_nfc_prompt">セットアップするには、この端末をNFCタグまたはデバイスにタップします。</string>
+    <string name="auth_trust_agent_add_nfc_title">NFCを追加</string>
+    <string name="auth_trust_agent_add_trusted_device_prompt">信頼できるデバイスを追加してください</string>
+    <string name="auth_trust_agent_add_trusted_place_prompt">信頼できる場所を追加してください</string>
+    <string name="auth_trust_agent_button_nfc_settings">NFC設定</string>
+    <string name="auth_trust_agent_connected_to_bt_device">Bluetoothデバイス%sに安全に接続されました</string>
+    <string name="auth_trust_agent_dpm_disabled">管理者によって無効にされています</string>
+    <string name="auth_trust_agent_enable_nfc">NFCデバイスを追加するにはNFCを有効にします</string>
+    <string name="auth_trust_agent_first_use_notification_button">OK</string>
+    <string name="auth_trust_agent_first_use_notification_message_device">信頼できるデバイスとして設定済みの%sに接続されている間。</string>
+    <string name="auth_trust_agent_first_use_notification_message_part2">端末を強制的にロックするには、画面をオフにしてからオンにし、ロックアイコンをタップします。</string>
+    <string name="auth_trust_agent_first_use_notification_message_place">信頼できる場所として設定済みの%sにある間。</string>
+    <string name="auth_trust_agent_first_use_notification_title">端末のロックが解除されました</string>
+    <string name="auth_trust_agent_nfc_device_name_hint">名前</string>
+    <string name="auth_trust_agent_nfc_found_prompt">"NFCが見つかりました。
+名前を入力してください。"</string>
+    <string name="auth_trust_agent_pref_face_unlock_disabled_summary">無効</string>
+    <string name="auth_trust_agent_pref_face_unlock_enabled_summary">有効</string>
+    <string name="auth_trust_agent_pref_face_unlock_improve_title">顔認識の精度を改善</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_cancel">キャンセル</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_message">この端末で顔が認識されなくなり、トラステッドフェイス機能がOFFになります。</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_reset">リセット</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_dialog_title">トラステッドフェイスをリセットしますか？</string>
+    <string name="auth_trust_agent_pref_face_unlock_reset_title">トラステッドフェイスのリセット</string>
+    <string name="auth_trust_agent_pref_face_unlock_title">トラステッドフェイス</string>
+    <string name="auth_trust_agent_pref_trusted_devices_connected">接続済み</string>
+    <string name="auth_trust_agent_pref_trusted_devices_default_summary">なし</string>
+    <string name="auth_trust_agent_pref_trusted_devices_not_connected">未接続</string>
+    <string name="auth_trust_agent_pref_trusted_devices_title">信頼できる端末</string>
+    <string name="auth_trust_agent_pref_trusted_places_default_summary">なし</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_title">自宅</string>
+    <string name="auth_trust_agent_pref_trusted_places_home_work_default_summary">不明</string>
+    <string name="auth_trust_agent_pref_trusted_places_title">信頼できる場所</string>
+    <string name="auth_trust_agent_pref_trusted_places_work_title">職場</string>
+    <string name="auth_trust_agent_status_error_pairing_failed">ペア設定できません。もう一度お試しください。</string>
+    <string name="auth_trust_agent_status_nfc_unavailable">NFCデバイスセットアップ不可</string>
+    <string name="auth_trust_agent_trusted_bluetooth_prompt">"信頼できるBluetoothデバイスを追加して、接続時にこの端末のロックを解除した状態にできます。 
+
+例:
+
+- Bluetooth時計
+- 車のBluetoothシステム"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_disable_option">"Bluetooth
+（BluetoothはOFFになっています）"</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_bluetooth_option">Bluetooth</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_nfc_option">NFC</string>
+    <string name="auth_trust_agent_trusted_devices_add_device_title">信頼できるデバイスの追加</string>
+    <string name="auth_trust_agent_trusted_devices_bluetooth_turn_off_summary">BluetoothはOFFになっています。</string>
+    <string name="auth_trust_agent_trusted_devices_cancel">キャンセル</string>
+    <string name="auth_trust_agent_trusted_devices_choose_device_title">デバイスの選択</string>
+    <string name="auth_trust_agent_trusted_devices_ok">OK</string>
+    <string name="auth_trust_agent_trusted_devices_prompt">"信頼できるデバイスを追加して、接続時にこの端末のロックを解除した状態にできます。 
+
+例:
+
+- Bluetooth時計
+- 車のBluetoothシステム 
+- 車の端末ホルダーのNFCステッカー"</string>
+    <string name="auth_trust_agent_trusted_devices_remove_message">この端末を信頼できる端末から削除しますか？</string>
+    <string name="auth_trust_agent_trusted_devices_unknown_bluetooth_default">不明なデバイス</string>
+    <string name="auth_trust_agent_trusted_nfc_prompt">"信頼できるNFCデバイスを追加すると、タップでこの端末のロックを解除できます。 
+
+例:
+
+- 車の端末ホルダーのNFCステッカー"</string>
+    <string name="auth_trust_agent_trusted_places_add_account">自宅や職場の住所を取得するにはアカウントを追加してください。</string>
+    <string name="auth_trust_agent_trusted_places_cancel">キャンセル</string>
+    <string name="auth_trust_agent_trusted_places_ok">OK</string>
+    <string name="auth_trust_agent_trusted_places_prompt">"信頼できる場所を追加して、その場所にいるときはこの端末のロックを解除した状態にできます。
+
+例:
+
+- 自宅
+- 職場"</string>
+    <string name="auth_trust_agent_trusted_places_remove">削除</string>
+    <string name="auth_trust_agent_trusted_places_rename">名前を変更</string>
+    <string name="auth_trust_agent_trusted_places_select_account_title">アカウントの選択</string>
+    <string name="auth_trust_agent_trusted_places_unknown">不明</string>
+    <string name="auth_trust_devices_not_available">信頼できる端末機能を使用できません。</string>
+    <string name="auth_trust_places_not_available">信頼できる場所機能を使用できません。</string>
+    <string name="auth_try_again_button_label">もう一度お試しください</string>
+    <string name="auth_ui_activity_authenticating">認証しています…</string>
+    <string name="auth_ui_activity_title">Googleにログイン</string>
+    <string name="auth_ui_activity_title_browser_signin">ログイン</string>
+    <string name="auth_ui_add_account_title">アカウントのセットアップ</string>
+    <string name="auth_unexpected_acl_error">権限を付与する際に問題が発生しました。</string>
+    <string name="auth_use_location_summary">検索結果やサービスの品質向上にGoogleが現在地情報を使用することを許可する</string>
+    <string name="auth_use_location_title">現在地とGoogle検索</string>
+    <string name="auth_username">メール</string>
+    <string name="auth_visible_actions_title">共有…</string>
+    <string name="authorization_dialog">認証ダイアログ</string>
+    <string name="cancel">キャンセル</string>
+    <string name="circle_button_add_to_circles">サークルに追加</string>
+    <string name="circle_button_circles">%d個のサークル</string>
+    <string name="circle_button_follow">フォロー</string>
+    <string name="circle_button_following_circle">フォロー中</string>
+    <string name="circle_button_medium_add_to_circles">追加</string>
+    <string name="circle_button_profile_blocked">ブロック中</string>
+    <string name="common_accessibility_audience_view_editable">対象ユーザーを編集</string>
+    <string name="common_add_account_button_label">アカウントを追加</string>
+    <string name="common_add_account_label">アカウントの追加</string>
+    <string name="common_ads_settings_title">広告</string>
+    <string name="common_android_wear_notification_needs_update_text">Android Wearアプリの更新が必要です。</string>
+    <string name="common_android_wear_update_text">Android Wearアプリを使用するにはアプリの更新が必要です。</string>
+    <string name="common_android_wear_update_title">Android Wearの更新</string>
+    <string name="common_app_name">Google Play開発者サービス</string>
+    <string name="common_cannot_start_hangouts_exception">ハングアウトを開始できません。</string>
+    <string name="common_cannot_start_hangouts_security_exception">ハングアウトを開始できません（権限エラー）。</string>
+    <string name="common_car_permission_desc">カーサービスにアクセスします。</string>
+    <string name="common_car_permission_label">カーサービス</string>
+    <string name="common_chips_label_empty_circles">サークルなし</string>
+    <string name="common_chips_label_extended_circles">友だちの友だちサークル</string>
+    <string name="common_chips_label_only_you">あなたのみ</string>
+    <string name="common_chips_label_public">一般公開</string>
+    <string name="common_chips_label_your_circles">あなたのサークル</string>
+    <string name="common_choose_account_label">アカウントの選択</string>
+    <string name="common_clear_app_data_menu_item">アプリデータを消去</string>
+    <string name="common_connected_apps_settings_title">接続済みのアプリ</string>
+    <string name="common_fitness_settings_title">Fitness</string>
+    <string name="common_games_settings_title">Playゲーム</string>
+    <string name="common_get_verification_code_menu_item">確認コードを取得</string>
+    <string name="common_google_play_services_enable_button">Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_enable_text">このアプリの実行には、Google Play開発者サービスの有効化が必要です。</string>
+    <string name="common_google_play_services_enable_title">Play開発者サービスの有効化</string>
+    <string name="common_google_play_services_error_dialog_title">エラー</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$sによるリクエスト</string>
+    <string name="common_google_play_services_install_button">Play開発者サービスの入手</string>
+    <string name="common_google_play_services_install_text_phone">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いの携帯端末にはインストールされていません。</string>
+    <string name="common_google_play_services_install_text_tablet">このアプリの実行にはGoogle Play開発者サービスが必要ですが、お使いのタブレットにはインストールされていません。</string>
+    <string name="common_google_play_services_install_title">Play開発者サービスの入手</string>
+    <string name="common_google_play_services_invalid_account_text">指定したアカウントはこの端末上に存在しません。別のアカウントを選択してください。</string>
+    <string name="common_google_play_services_invalid_account_title">無効なアカウント</string>
+    <string name="common_google_play_services_needs_enabling_title">アプリではGoogle Play開発者サービスを有効にする必要があります</string>
+    <string name="common_google_play_services_network_error_text">Google Play開発者サービスに接続するには、データ接続が必要です。</string>
+    <string name="common_google_play_services_network_error_title">ネットワークエラー</string>
+    <string name="common_google_play_services_no_restricted_profiles">このアプリでは制限付きプロフィールのアカウントはサポートしていません</string>
+    <string name="common_google_play_services_notification_needs_installation_title">アプリではGoogle Play開発者サービスをインストールする必要があります</string>
+    <string name="common_google_play_services_notification_needs_update_title">アプリではGoogle Play開発者サービスを更新する必要があります</string>
+    <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
+    <string name="common_google_play_services_unknown_issue">Google Play開発者サービスで原因不明の問題が発生しました。</string>
+    <string name="common_google_play_services_unsupported_text">一部のアプリが使用しているGoogle Play開発者サービスは、お使いの端末ではサポートされていません。詳しくは、端末メーカーまでお問い合わせください。</string>
+    <string name="common_google_play_services_unsupported_title">Google Play開発者サービス</string>
+    <string name="common_google_play_services_update_button">更新</string>
+    <string name="common_google_play_services_update_text">このアプリの実行には、Google Play開発者サービスの更新が必要です。</string>
+    <string name="common_google_play_services_update_title">Play開発者サービスの更新</string>
+    <string name="common_google_settings">Google設定</string>
+    <string name="common_list_apps_menu_help">ヘルプ</string>
+    <string name="common_list_apps_menu_help_and_feedback">ヘルプとフィードバック</string>
+    <string name="common_location_settings_title">位置情報</string>
+    <string name="common_maps_settings_title">Googleマップ＆Latitude</string>
+    <string name="common_mdm_feature_name">Androidデバイスマネージャー</string>
+    <string name="common_network_load_failed">端末がネットワークに接続できなかったため利用できません</string>
+    <string name="common_no_network">端末がオフラインのため利用できません</string>
+    <string name="common_open_on_phone">端末で開く</string>
+    <string name="common_plus_settings_title">Google+</string>
+    <string name="common_restricted_no_accounts">選択するアカウントがありません</string>
+    <string name="common_search_and_now_settings_title">検索とGoogle Now</string>
+    <string name="common_search_settings_title">検索</string>
+    <string name="common_security_settings_title">アプリの確認</string>
+    <string name="common_signin_button_text">ログイン</string>
+    <string name="common_signin_button_text_long">Googleでログイン</string>
+    <string name="common_storage_settings_title">Play開発者サービスのストレージ</string>
+    <string name="common_ui_confirm_deleting_button">削除</string>
+    <string name="common_ui_confirm_deleting_checkbox">理解したうえで削除</string>
+    <string name="common_url_load_unsuccessful_message">Android搭載端末がデータサービスに接続されていません。この情報を表示するにはウェブブラウザで %s にアクセスしてください。</string>
+    <string name="common_url_load_unsuccessful_message_wifi_only">Android搭載端末がWi-Fiネットワークに接続されていません。この情報を表示するにはウェブブラウザで %s にアクセスしてください。</string>
+    <string name="common_url_login_notice">%1$sとしてログイン</string>
+    <string name="common_usage_and_diagnostics">使用状況と診断</string>
+    <string name="country_invalid">この国は指定できません</string>
+    <string name="device_location_acl_no_one">誰にも許可しない</string>
+    <string name="device_location_best_acl_picker_title">詳細な現在地を公開</string>
+    <string name="device_location_city_acl_picker_title">現在地の都市名までを公開</string>
+    <string name="device_location_more_than_three_no_count" formatted="false">%sさん、%sさん他</string>
+    <string name="device_location_more_than_three_with_count" formatted="false">&lt;b>%s&lt;/b>さん、&lt;b>%s&lt;/b>さん、他%d人</string>
+    <string name="device_location_one_acl_entry">&lt;b>%s&lt;/b>さん</string>
+    <string name="device_location_preference_no_network_alert">現在地の共有設定を確認するには、データ接続が必要です。接続を確認するか、しばらくしてからもう一度お試しください。</string>
+    <string name="device_location_reporting_reminder_dialog_settings_command">現在地設定を開く</string>
+    <string name="device_location_reporting_reminder_dialog_summary">現在地の共有をオフにしても、現在送信機能やロケーション履歴には影響しません。Google Nowなど、既に利用しているその他のGoogleサービスで現在地が必要になる場合があります。現在地送信機能やロケーション履歴は現在地設定でいつでも設定できます。</string>
+    <string name="device_location_reporting_reminder_dialog_title">現在地送信</string>
+    <string name="device_location_three_acl_entries" formatted="false">&lt;b>%s&lt;/b>さん、&lt;b>%s&lt;/b>さん、&lt;b>%s&lt;/b>さん</string>
+    <string name="device_location_two_acl_entries" formatted="false">&lt;b>%s&lt;/b>さんと&lt;b>%s&lt;/b>さん</string>
+    <string name="disagree">同意しない</string>
+    <string name="enable_location_reporting_error">%sの現在地送信機能と履歴をオンにできませんでした。現在地送信機能と履歴をオンにするには、[現在地設定]に移動してください。</string>
+    <string name="enable_location_reporting_error_title">エラーが発生しました</string>
+    <string name="enable_location_reporting_title">現在地送信</string>
+    <string name="friend_locations_enable_reporting_auto_body">現在地送信機能を使用すると、その機能を使用するすべてのGoogleサービスが、お使いの端末の最新の場所データを保存および使用できるようになります。現在地の共有を使用する場合は、現在地送信機能をオンにする必要があります。&lt;br/>&lt;br/>ロケーション履歴を使用すると、現在地送信機能をオンにしている端末から場所データの履歴がGoogleに保存されます。&lt;a href=\"%2$s\">詳細&lt;/a>&lt;br/>&lt;br/>%1$sの現在地送信機能とロケーション履歴をオンにしますか？</string>
+    <string name="friend_locations_enable_reporting_manual_body">現在地送信機能を使用すると、その機能を使用するすべてのGoogleサービスが、お使いの端末の最新の場所データを保存および使用できるようになります。現在地の共有を使用する場合は、現在地送信機能をオンにする必要があります。&lt;br/>&lt;br/>Googleマップの[現在地設定]で[現在地送信]が[現在地を自動検出]に設定されており、[この端末から送信する]のチェックボックスがオンになっていることをご確認ください。&lt;a href=\"%s\">詳細&lt;/a></string>
+    <string name="friend_locations_enable_reporting_manual_body_multi_account">現在地送信機能を使用すると、その機能を使用するすべてのGoogleサービスが、お使いの端末の最新の場所データを保存および使用できるようになります。現在地の共有を使用する場合は、現在地送信機能をオンにする必要があります。&lt;br/>&lt;br/>Googleマップに%1$sでログインし、[現在地設定]で[現在地送信]が[現在地を自動検出]に設定されており、[この端末から送信する]のチェックボックスがオンになっていることをご確認ください。&lt;a href=\"%2$s\">詳細&lt;/a></string>
+    <string name="loading">読み込み中…</string>
+    <string name="location_settings_allow_access_summary">端末の電源がONの場合は常に、Googleアプリにこの端末の位置情報の使用を許可する</string>
+    <string name="location_settings_allow_access_title">位置情報へのアクセス</string>
+    <string name="location_settings_confirm_deleting_location_history_body">"ロケーション履歴を再度表示することはできなくなります。
+
+ロケーション履歴を使用するGoogle Nowなどのアプリを利用できなくなる場合があります。"</string>
+    <string name="location_settings_confirm_deleting_location_history_title">完全に削除しますか？</string>
+    <string name="location_settings_delete_auth_error">ユーザー名またはパスワードが正しくありません</string>
+    <string name="location_settings_delete_io_error">端末がネットワークに接続できませんでした</string>
+    <string name="location_settings_delete_location_history">ロケーション履歴を削除</string>
+    <string name="location_settings_delete_location_history_in_progress">削除しています...</string>
+    <string name="location_settings_delete_offline_error">端末がオフラインになっています</string>
+    <string name="location_settings_expiration_both_one">残り1時間1分</string>
+    <string name="location_settings_expiration_both_other" formatted="false">残り%d時間%d分</string>
+    <string name="location_settings_expiration_hours_one">残り1時間%d分</string>
+    <string name="location_settings_expiration_minutes">残り%d分</string>
+    <string name="location_settings_expiration_minutes_one">残り%d時間1分</string>
+    <string name="location_settings_expiration_soon">残り時間15分未満</string>
+    <string name="location_settings_info_title">情報</string>
+    <string name="location_settings_location_history_activity_title">ロケーション履歴</string>
+    <string name="location_settings_location_history_summary_full">"この設定を行うと、Googleではこのアカウントの現在地送信機能を有効にしている端末からの現在地データの履歴を保存できるようになります。ロケーション履歴を使用すると、Googleがより便利になります。たとえば、Google Nowではロケーション履歴を使用して通勤経路の交通情報を知らせてくれます。
+
+ロケーション履歴は maps.google.com/locationhistory で表示および管理できます。ロケーション履歴はいつでもOFFにできますが、OFFにしても既存の履歴が削除されることはありません。下のボタンを使用すると、アカウントの既存のロケーション履歴がすべて削除されます。"</string>
+    <string name="location_settings_location_reporting_activity_title">現在地送信機能</string>
+    <string name="location_settings_location_reporting_summary_full">"GoogleではGoogle NowやGoogleマップなどのサービスでこの機能を使用します。
+
+現在地送信機能をONにすると、この機能を使用するGoogleサービスがお使いのGoogleアカウントに関連する端末の最新の現在地データを保存し使用できるようになります。"</string>
+    <string name="location_settings_no_network_alert">現在地の共有設定を確認するには、データ接続が必要です。接続を確認するか、しばらくしてからもう一度お試しください。</string>
+    <string name="location_settings_not_available_summary">Googleアカウントがありません</string>
+    <string name="location_settings_not_available_title">アカウントの追加</string>
+    <string name="location_settings_reporting_summary_off">この端末ではOFF</string>
+    <string name="location_settings_reporting_summary_on">この端末ではON</string>
+    <string name="location_settings_save_error">設定を保存できませんでした。</string>
+    <string name="location_settings_saving">設定を保存しています…</string>
+    <string name="location_settings_screen_title">Googleの位置情報設定</string>
+    <string name="location_settings_see_global_settings_dialog_message">"この設定はGoogleアプリの位置情報アクセスのみを管理します。
+
+すべてのアプリの位置情報アクセスを管理するには、[設定] > [位置情報アクセス]に移動します。"</string>
+    <string name="location_settings_temporary_sharing_title">一時的な共有</string>
+    <string name="location_settings_ulr_summary_ambiguous">以前の設定を検出できません。OFFにしました。</string>
+    <string name="location_settings_ulr_summary_auth_error">ユーザー名またはパスワードが正しくないため利用できません</string>
+    <string name="location_settings_ulr_summary_error">サーバーにアクセスして設定を取得できません。後でもう一度お試しください。</string>
+    <string name="location_settings_ulr_summary_google_location_disabled">無効</string>
+    <string name="location_settings_ulr_summary_loading">取得しています…</string>
+    <string name="location_settings_ulr_summary_off">OFF</string>
+    <string name="location_settings_ulr_summary_offline">端末がオフラインのため利用できません</string>
+    <string name="location_settings_ulr_summary_on">ON</string>
+    <string name="location_settings_ulr_summary_restricted">無効</string>
+    <string name="location_settings_ulr_summary_unknown">不明</string>
+    <string name="location_settings_ulr_summary_unsupported_country">%1$sではご利用になれません</string>
+    <string name="location_settings_ulr_summary_unsupported_region">この地域ではご利用になれません</string>
+    <string name="location_settings_view_all">すべて表示</string>
+    <string name="location_sharing_settings_acl_title">共有先: %s</string>
+    <string name="location_sharing_settings_choose_acl_button">共有相手を選択</string>
+    <string name="location_sharing_settings_city_description">現在地の都市名までの共有を使うと、指定した相手にあなたの現在地の都市名までを表示することができます。</string>
+    <string name="location_sharing_settings_city_example">例: 東京都港区</string>
+    <string name="location_sharing_settings_city_title">現在地の都市名</string>
+    <string name="location_sharing_settings_description">現在地の共有機能を使うと、端末の現在地送信機能を利用して、指定した相手に対して自分の現在地を共有することができます。&lt;br/>&lt;br/>現在地を共有した相手は、Google+やGoogle Nowなど、さまざまなGoogleサービスであなたの現在地を見ることができ、自宅や職場などの場所を見ることもできます。&lt;a href=\"%s\">詳細&lt;/a></string>
+    <string name="location_sharing_settings_dialog_body">現在地の共有機能を使うと、端末の&lt;a href=\"%1$s\">現在地送信機能&lt;/a>を利用して、指定した相手に対して自分の現在地を共有することができます。&lt;br/>&lt;br/>現在地を共有した相手は、Google+やGoogle Nowなど、さまざまなGoogleサービスであなたの現在地を見ることができ、自宅や職場などの場所を見ることもできます。&lt;a href=\"%2$s\">詳細&lt;/a></string>
+    <string name="location_sharing_settings_edit_acl_button">変更</string>
+    <string name="location_sharing_settings_pinpoint_description">詳細な現在地の共有を使うと、指定した相手にあなたの正確な現在地を表示することができます。</string>
+    <string name="location_sharing_settings_pinpoint_example">例: 東京都港区六本木6丁目10-1</string>
+    <string name="location_sharing_settings_pinpoint_title">詳細な現在地</string>
+    <string name="location_sharing_settings_title">現在地の共有</string>
+    <string name="location_ulr_ambiguous_setting_text">以前の設定を検出できません。ONにしますか？</string>
+    <string name="location_ulr_setting_google_location_disabled">位置情報へのアクセス権がGoogleアプリにないため使用できません</string>
+    <string name="location_ulr_setting_label">Google現在地送信機能</string>
+    <string name="location_ulr_setting_location_disabled">位置情報へのアクセスがOFFのため使用できません</string>
+    <string name="location_ulr_setting_no_account">OFF: アカウントがありません</string>
+    <string name="location_ulr_setting_reporting_only">前回の位置情報を使用します</string>
+    <string name="location_warning_do_not_show_again">次回から表示しない</string>
+    <string name="location_warning_message">アプリによる現在地の特定をGoogleがサポートすることを許可します。これにより、アプリが起動していなくても匿名の現在地データがGoogleに送信されることになります。</string>
+    <string name="location_warning_title">Googleの位置情報サービスを使用しますか？</string>
+    <string name="maps_API_MY_LOCATION_ACCURACY">"現在地 
+誤差{0}m以内"</string>
+    <string name="maps_API_OUTDATED_WARNING">このアプリは古いバージョンのマップを使用しているため、正常に動作しない可能性があります。</string>
+    <string name="maps_BACK_TO_LIST">リストに戻る</string>
+    <string name="maps_CLOSE_SOFTKEY">閉じる</string>
+    <string name="maps_COMPASS_ALT_TEXT">コンパス</string>
+    <string name="maps_LEVEL_ALT_TEXT">{0}階</string>
+    <string name="maps_MY_LOCATION_ALT_TEXT">現在地</string>
+    <string name="maps_YOUR_LOCATION">現在地</string>
+    <string name="maps_ZOOM_IN_ALT_TEXT">ズームイン</string>
+    <string name="maps_ZOOM_OUT_ALT_TEXT">ズームアウト</string>
+    <string name="maps_dav_map_copyrights_full">©%1$d Google - 画像 ©%2$d %3$s、地図データ ©%4$d %5$s</string>
+    <string name="maps_dav_map_copyrights_google_only">©%1$d Google</string>
+    <string name="maps_dav_map_copyrights_imagery_only">©%1$d Google - 画像 ©%2$d %3$s</string>
+    <string name="maps_dav_map_copyrights_map_data_only">©%1$d Google - 地図データ ©%2$d %3$s</string>
+    <string name="maps_invalid_panorama_data">パノラマが無効です。</string>
+    <string name="maps_network_unavailable">このプログラムを使用するにはデータ接続が必要です。接続は自動的に再試行されます。機内モードがオンになっていないか、データローミングが無効になっていないかなど、電波状況をご確認ください。</string>
+    <string name="maps_no_panorama_data">パノラマデータが設定されていません。</string>
+    <string name="maps_panorama_disabled">写真は使用できません</string>
+    <string name="maps_service_unavailable">ストリートビューサービスはご利用いただけません。</string>
+    <string name="maps_street_range_name_format">%2$s %1$s</string>
+    <string name="maps_waiting_for_network">データ接続が切断されました。再接続中...</string>
+    <string name="mr_media_route_button_content_description">キャスト</string>
+    <string name="mr_media_route_chooser_searching">端末を検索しています…</string>
+    <string name="mr_media_route_chooser_title">端末に接続</string>
+    <string name="mr_media_route_controller_disconnect">接続を解除</string>
+    <string name="mr_system_route_name">システム</string>
+    <string name="mr_user_route_category_name">端末</string>
+    <string name="notification_ticker">アクセスが必要</string>
+    <string name="off">オフ</string>
+    <string name="ok">OK</string>
+    <string name="on">オン</string>
+    <string name="open_location_settings">現在地設定を開く</string>
+    <string name="phone_number_hint">電話番号</string>
+    <string name="phone_number_invalid">電話番号が無効です</string>
+    <string name="phone_number_invalid_character">電話番号に無効な文字が含まれています</string>
+    <string name="place_address_hint">住所</string>
+    <string name="place_address_title">住所</string>
+    <string name="place_address_update_hint">更新</string>
+    <string name="place_category_hint">カテゴリを選択</string>
+    <string name="place_category_title">カテゴリ</string>
+    <string name="place_name_hint">場所の名前</string>
+    <string name="place_name_title">名前</string>
+    <string name="place_phone_hint">メインの電話番号</string>
+    <string name="place_phone_title">電話</string>
+    <string name="place_picker_adding_a_place">レポートを送信中...</string>
+    <string name="place_picker_cancel">キャンセル</string>
+    <string name="place_picker_cant_add_place">場所を追加できません</string>
+    <string name="place_picker_label">場所を選択</string>
+    <string name="place_picker_location_off_message">場所を選択するには、[設定]で[位置情報アクセス]をONにしておく必要があります。</string>
+    <string name="place_picker_nearby_places">周辺のスポット</string>
+    <string name="place_picker_no_search_results">一致する場所がありません。</string>
+    <string name="place_picker_search_error">検索結果読み込みエラー</string>
+    <string name="place_picker_search_hint">検索</string>
+    <string name="place_picker_searching_label">検索しています...</string>
+    <string name="place_picker_select_a_location_label">詳細を見るには場所を選択</string>
+    <string name="place_picker_select_this_location">この場所を選択</string>
+    <string name="place_picker_settings">設定</string>
+    <string name="place_picker_updating_location_label">現在地を更新しています...</string>
+    <string name="place_picker_updating_nearby_label">周辺のスポットを更新中...</string>
+    <string name="place_website_hint">公式ウェブサイト</string>
+    <string name="place_website_title">ウェブサイト</string>
+    <string name="plus_accessibility_acl_selection">共有相手を選択</string>
+    <string name="plus_accessibility_audience_selection_circle_icon">サークル</string>
+    <string name="plus_accessibility_audience_selection_create_circle">新しいサークルに追加</string>
+    <string name="plus_accessibility_audience_selection_person_avatar">アバター</string>
+    <string name="plus_accessibility_audience_selection_person_circles">サークル</string>
+    <string name="plus_accessibility_audience_selection_search_icon">ユーザーやサークルを検索</string>
+    <string name="plus_accessibility_circle_selection">サークルを選択</string>
+    <string name="plus_accessibility_comment_avatar">サークル</string>
+    <string name="plus_accessibility_facl_selection">アプリがアクセスできるサークルのメンバーを選択</string>
+    <string name="plus_accessibility_update_circles">サークルを更新</string>
+    <string name="plus_actionbar_up_button_description">上へ移動</string>
+    <string name="plus_add_to_circle_progress">追加しています…</string>
+    <string name="plus_add_to_circles_title_default">サークルに追加</string>
+    <string name="plus_add_to_circles_title_with_user_name">%1$sさんの追加</string>
+    <string name="plus_add_to_following_circle_progress">フォローしています…</string>
+    <string name="plus_add_to_new_circle_progress_message">追加しています…</string>
+    <string name="plus_app_label">Google+</string>
+    <string name="plus_app_name">Google+</string>
+    <string name="plus_app_settings_accounts_label">アカウント</string>
+    <string name="plus_app_settings_activity_label">接続済みのアプリ</string>
+    <string name="plus_app_settings_activity_log_label">アクティビティログ</string>
+    <string name="plus_app_settings_activity_log_page_label">アクティビティログ</string>
+    <string name="plus_app_settings_all_apps_label">すべてのアプリと端末</string>
+    <string name="plus_app_settings_apps_page_label">接続済みのアプリ</string>
+    <string name="plus_app_settings_fitness_apps_label">フィットネスアプリと端末</string>
+    <string name="plus_app_settings_sign_in_apps_label">Google+ログイン使用アプリ</string>
+    <string name="plus_article_preview_image_description">記事のプレビュー画像</string>
+    <string name="plus_audience_edit_button_label">編集</string>
+    <string name="plus_audience_selection_cancel">キャンセル</string>
+    <string name="plus_audience_selection_contacts">すべての連絡先</string>
+    <string name="plus_audience_selection_contacts_description">今後作成する連絡先も含まれます</string>
+    <string name="plus_audience_selection_description_acl">共有相手</string>
+    <string name="plus_audience_selection_done">完了</string>
+    <string name="plus_audience_selection_everyone">すべてのサークル</string>
+    <string name="plus_audience_selection_everyone_description">今後追加するサークルを含む</string>
+    <string name="plus_audience_selection_header_circles">サークル</string>
+    <string name="plus_audience_selection_header_people">ユーザー</string>
+    <string name="plus_audience_selection_header_search">検索キーワード</string>
+    <string name="plus_audience_selection_header_suggested">候補</string>
+    <string name="plus_audience_selection_hidden_circle">このサークル内のユーザーは、あなたのプロフィールで一般公開されません</string>
+    <string name="plus_audience_selection_loading">読み込んでいます...</string>
+    <string name="plus_audience_selection_new_circle">新しいサークルに追加</string>
+    <string name="plus_audience_selection_public_circle">ウェブ上の全員</string>
+    <string name="plus_audience_selection_search_device_results">端末から</string>
+    <string name="plus_audience_selection_search_google_results">Googleから</string>
+    <string name="plus_audience_selection_title">対象ユーザー</string>
+    <string name="plus_audience_selection_title_acl">共有相手...</string>
+    <string name="plus_audience_selection_title_search">検索...</string>
+    <string name="plus_audience_selection_title_update_circles">サークルに追加</string>
+    <string name="plus_auth_audience_view_default_description">%sによってあなたのアクティビティ情報がこのアプリからGoogleに送信されます。このようなアクティビティをGoogleで誰に公開するかはご自分で決めることができます。</string>
+    <string name="plus_auth_audience_view_footnote">Googleはこの情報をGoogleの<annotation id="tos">利用規約</annotation>や<annotation id="google_privacy">プライバシーポリシー</annotation>に従って使用します。</string>
+    <string name="plus_auth_hide_circles_label">すべてのサークルを非表示</string>
+    <string name="plus_auth_info_fragment_app_name">%sからリクエストされた許可:</string>
+    <string name="plus_auth_see_circles_label">すべてのサークルを表示</string>
+    <string name="plus_avatar_image_description">ユーザーのアバター画像</string>
+    <string name="plus_bad_name_agree_button_label">送信</string>
+    <string name="plus_bad_name_decline_button_label">名前を変更</string>
+    <string name="plus_bad_name_skip_button_label">Google+をスキップ</string>
+    <string name="plus_checking_gplus_signup_state">接続しています...</string>
+    <string name="plus_choose_facl_title">%sが取得する基本情報:</string>
+    <string name="plus_circle_creation_circle_name_hint">サークル名</string>
+    <string name="plus_circle_creation_failed_to_create_circle_message">サークルを作成できませんでした。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_circle_creation_keyboard_action_label">作成</string>
+    <string name="plus_circle_creation_title_default">サークルの作成</string>
+    <string name="plus_circle_creation_title_with_user_name">%1$sさんの追加</string>
+    <string name="plus_circle_size_pattern">%d</string>
+    <string name="plus_close_button_description">ダイアログを閉じるためのボタンです</string>
+    <string name="plus_close_button_label">閉じる</string>
+    <string name="plus_create_button_description">新しいサークルに追加するためのボタンです</string>
+    <string name="plus_cross_client_auth_toast_text">%1$sを再度ご利用いただきありがとうございます。%2$sとしてGoogleアカウントでログインしています。</string>
+    <string name="plus_delete_dialog_acl_label">このアクティビティの公開対象:</string>
+    <string name="plus_delete_moment_failed_dialog_message">アクティビティの削除中に問題が発生しました。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_delete_moment_progress_dialog_message">削除しています...</string>
+    <string name="plus_disconnect_source_dialog_checkbox">Google上の%sのアクティビティもすべて削除する</string>
+    <string name="plus_disconnect_source_dialog_message">%1$sはあなたのGoogleアカウントにアクセスしたり、あなたのアプリでのアクティビティをGoogleに送信したりできなくなります。この処理には1時間ほどかかる場合があります。</string>
+    <string name="plus_disconnect_source_dialog_negative_button">キャンセル</string>
+    <string name="plus_disconnect_source_dialog_positive_button">接続を解除</string>
+    <string name="plus_disconnect_source_dialog_title">接続を解除しますか？</string>
+    <string name="plus_disconnect_source_failed_dialog_message">%sの接続を解除できませんでした。</string>
+    <string name="plus_disconnect_source_non_aspen_dialog_message">このアプリとGoogleの接続を解除してもよろしいですか？</string>
+    <string name="plus_disconnect_source_progress_dialog_message">%sの接続を解除しています…</string>
+    <string name="plus_domain_default">ご利用のドメイン</string>
+    <string name="plus_domain_restricted_choice_body">%s外で投稿を共有できないようにします</string>
+    <string name="plus_domain_restricted_choice_title">%s内限定</string>
+    <string name="plus_done">OK</string>
+    <string name="plus_facl_default_description">あなたの氏名、プロフィール写真、Google+ ID、年齢層、言語、下記で選択したサークルのユーザーリスト。リストには各ユーザーの公開プロフィールが含まれますが、サークル名は含まれません。</string>
+    <string name="plus_first_name">名</string>
+    <string name="plus_gender_prompt">性別を選択</string>
+    <string name="plus_install_app_dialog_checkbox_text">今後表示しない。</string>
+    <string name="plus_install_app_dialog_message">Google+アプリをインストールして共有した投稿を表示しますか？</string>
+    <string name="plus_install_app_dialog_negative_button">後で</string>
+    <string name="plus_install_app_dialog_positive_button">インストール</string>
+    <string name="plus_install_app_dialog_title">Google+をダウンロード</string>
+    <string name="plus_internal_error">内部エラーが発生しました。</string>
+    <string name="plus_invalid_account">アカウントが無効です</string>
+    <string name="plus_last_name">姓</string>
+    <string name="plus_list_apps_aspen_empty_message">"Google+ログインで接続しているアプリはありません。
+
+"<annotation id="learn_more">詳細</annotation></string>
+    <string name="plus_list_apps_disabled_error">現在、接続済みのアプリを読み込めません。<annotation id="learn_more">詳細</annotation>"
+
+"</string>
+    <string name="plus_list_apps_empty_message">Googleアカウントに接続したアプリはありません</string>
+    <string name="plus_list_apps_error">アプリを読み込めませんでした。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_list_apps_error_aspen">"アプリを読み込めませんでした。
+
+Google+ログイン使用アプリの詳細は"<annotation id="learn_more">こちら</annotation>。</string>
+    <string name="plus_list_apps_error_fitness">"アプリまたは端末を読み込めませんでした。
+
+フィットネスアプリと端末に関する"<annotation id="learn_more">詳細</annotation>。</string>
+    <string name="plus_list_apps_fitness_empty_message">"Google Fitに接続したアプリや端末はありません。
+
+"<annotation id="learn_more">詳細</annotation>"
+
+"</string>
+    <string name="plus_list_apps_no_accounts">アカウントがありません。</string>
+    <string name="plus_list_moments_disabled_error">現在、アクティビティログを読み込めません。<annotation id="learn_more">詳細</annotation>"
+
+"</string>
+    <string name="plus_list_moments_empty_message">アクティビティがありません</string>
+    <string name="plus_list_moments_error">アクティビティを読み込めませんでした。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_list_moments_filter_empty_message">このタイプのアクティビティはありません。</string>
+    <string name="plus_list_moments_time_acl_format">%1$s～%2$s</string>
+    <string name="plus_list_moments_view_moment_url_error">このアクティビティはアクティビティログでは表示できません。直接このアプリにアクセスしてください。</string>
+    <string name="plus_loading">読み込んでいます...</string>
+    <string name="plus_manage_app_acl_description_label">このアプリがGoogleと共有しているアクティビティ</string>
+    <string name="plus_manage_app_acl_error">アプリを更新できませんでした。</string>
+    <string name="plus_manage_app_all_circles_label">すべてのサークル</string>
+    <string name="plus_manage_app_app_icon_desc">アイコン</string>
+    <string name="plus_manage_app_disabled_error">現在、接続済みのアプリを読み込めません。<annotation id="learn_more">詳細</annotation></string>
+    <string name="plus_manage_app_disconnect_label">接続を解除</string>
+    <string name="plus_manage_app_domain_label">ドメイン</string>
+    <string name="plus_manage_app_extended_circles_label">友だちの友だちサークル</string>
+    <string name="plus_manage_app_facl_label">このアプリがアクセスできるユーザー</string>
+    <string name="plus_manage_app_label">接続済みのアプリ</string>
+    <string name="plus_manage_app_limited_label">限定公開で共有</string>
+    <string name="plus_manage_app_no_acl_description">このアプリの使用状況</string>
+    <string name="plus_manage_app_no_circles_label">なし</string>
+    <string name="plus_manage_app_only_you_label">自分だけ</string>
+    <string name="plus_manage_app_pacl_label">Googleでアプリのアクティビティを閲覧できるユーザー</string>
+    <string name="plus_manage_app_pacl_sub_label">ここでの選択によって、アクティビティログにある既存のアクティビティの公開先が変更されることはありませんが、ゲームアクティビティには適用されます。</string>
+    <string name="plus_manage_app_public_label">一般公開</string>
+    <string name="plus_manage_app_scopes_label">このアプリへのアクセス許可:</string>
+    <string name="plus_manage_app_updating_acl">更新しています...</string>
+    <string name="plus_manage_aspen_app_label">Google+ログイン使用アプリ</string>
+    <string name="plus_manage_device_disconnect_label">接続を解除</string>
+    <string name="plus_manage_device_label">接続されている端末</string>
+    <string name="plus_manage_moment_acl">"公開対象:
+%1$s"</string>
+    <string name="plus_manage_moment_acl_error">詳細の一部を読み込めませんでした。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_manage_moment_acl_separator">"、 "</string>
+    <string name="plus_manage_moment_delete_confirm">削除</string>
+    <string name="plus_manage_moment_delete_label">削除</string>
+    <string name="plus_manage_moment_image_desc">利用状況を表示</string>
+    <string name="plus_manage_moment_label">アクティビティ</string>
+    <string name="plus_manage_moment_no_in_app_delete">このアクティビティを管理できません。<annotation id="learn_more">詳細</annotation></string>
+    <string name="plus_ok_button_description">[OK]ボタン</string>
+    <string name="plus_one_annotation_count_only">+%1$s</string>
+    <string name="plus_one_annotation_count_prefix">+%1$s %2$s</string>
+    <string name="plus_one_annotation_none">Googleでおすすめする</string>
+    <string name="plus_one_annotation_none_short">おすすめする</string>
+    <string name="plus_one_app">&lt;b>%s&lt;b>から</string>
+    <string name="plus_one_count_many">1万以上</string>
+    <string name="plus_one_description">タップして既存の%1$sをプラスワン</string>
+    <string name="plus_one_description_remove">タップして既存の%1$s件のプラスワンから自分のプラスワンを取り消す</string>
+    <string name="plus_one_description_standard">タップしてプラスワンします。</string>
+    <string name="plus_one_error">+1で一時的な問題が発生しました。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_one_public">一般公開</string>
+    <string name="plus_one_self">%1$sさんの+1</string>
+    <string name="plus_one_self_removed">+1を削除しました。</string>
+    <string name="plus_one_share">共有</string>
+    <string name="plus_one_social_annotation_prefix">%1$sさんを含む</string>
+    <string name="plus_one_social_annotation_prefix_you">%1$s</string>
+    <string name="plus_one_social_annotation_separator">%1$sさん、%2$sさん</string>
+    <string name="plus_one_social_annotation_suffix">%1$sさんが+1しました</string>
+    <string name="plus_one_social_annotation_user">あなた</string>
+    <string name="plus_one_title">次のユーザーとして一般公開で+1しました:</string>
+    <string name="plus_one_undo">元に戻す</string>
+    <string name="plus_oob_3p_promo">Google+公開プロフィールで%1$sをもっと便利に。</string>
+    <string name="plus_oob_cancel_button_label">キャンセル</string>
+    <string name="plus_oob_default_promo">Google+公開プロフィールでGoogleをもっと便利に。</string>
+    <string name="plus_oob_done_button_label">完了</string>
+    <string name="plus_oob_edit_name_warning">Google+プロフィールで名前を変更すると、すべてのGoogleサービスで名前が変更されます。</string>
+    <string name="plus_oob_failure_text">Google+でプロフィールを設定できませんでした。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_oob_first_and_last_name">%2$s %1$s</string>
+    <string name="plus_oob_first_and_last_name_content_description">名前</string>
+    <string name="plus_oob_first_name_content_description">名</string>
+    <string name="plus_oob_gender_content_description">性別</string>
+    <string name="plus_oob_interstitial_cancel_button_label">後で</string>
+    <string name="plus_oob_interstitial_loading">Google+に接続中…</string>
+    <string name="plus_oob_interstitial_loading_body">これには数分かかることがあります。</string>
+    <string name="plus_oob_interstitial_sending">送信中…</string>
+    <string name="plus_oob_interstitial_sending_body">これには数分かかることがあります。</string>
+    <string name="plus_oob_join">作成</string>
+    <string name="plus_oob_last_name_content_description">姓</string>
+    <string name="plus_oob_loading">読み込み中...</string>
+    <string name="plus_oob_next">次へ</string>
+    <string name="plus_oob_next_content_description">[次へ]ボタン</string>
+    <string name="plus_oob_no_connection_message">サーバーに接続できませんでした。</string>
+    <string name="plus_oob_no_connection_title">接続なし</string>
+    <string name="plus_oob_pronoun_content_description">公の場での性別</string>
+    <string name="plus_oob_sending">送信中...</string>
+    <string name="plus_oob_title_tos">Google+プロフィール</string>
+    <string name="plus_oob_tos_accept">同意する</string>
+    <string name="plus_photo_preview_image_description">写真のプレビュー画像</string>
+    <string name="plus_plus_icon_image_description">Googleプラスのアイコン画像</string>
+    <string name="plus_posted_just_now">たった今</string>
+    <string name="plus_pronoun_prompt">選択</string>
+    <string name="plus_remove_from_circle_progress">削除しています…</string>
+    <string name="plus_replybox_button_description">返信</string>
+    <string name="plus_replybox_confirm_cancel_dialog_message">この返信を破棄しますか？</string>
+    <string name="plus_replybox_hint_text">返信を追加</string>
+    <string name="plus_replybox_internal_error">返信できませんでした。</string>
+    <string name="plus_replybox_no_network_connection">返信を作成できません。もう一度お試しください。</string>
+    <string name="plus_replybox_post_error_message">返信を投稿できませんでした。</string>
+    <string name="plus_replybox_post_success">返信を投稿しました。</string>
+    <string name="plus_scope_fragment_extended_circles_label">友だちの友だちサークル</string>
+    <string name="plus_scope_fragment_mixed_label">選択したサークル</string>
+    <string name="plus_scope_fragment_only_you_label">自分だけ</string>
+    <string name="plus_scope_fragment_public_label">ウェブ上のすべてのユーザー</string>
+    <string name="plus_scope_fragment_your_circles_label">あなたのサークル</string>
+    <string name="plus_service_title">Google+</string>
+    <string name="plus_setup_wizard_title">セットアップウィザード</string>
+    <string name="plus_share_button_description">[共有]ボタン</string>
+    <string name="plus_sharebox_audience_selection_activity_button">完了</string>
+    <string name="plus_sharebox_audience_selection_activity_title">共有相手を選択</string>
+    <string name="plus_sharebox_audience_to_text">共有相手:</string>
+    <string name="plus_sharebox_audience_view_icon_description">対象ユーザー</string>
+    <string name="plus_sharebox_audience_view_name_separator">"、 "</string>
+    <string name="plus_sharebox_circles_add_title">新しいサークル</string>
+    <string name="plus_sharebox_circles_add_to_circle_failed">ユーザーをサークルに追加できませんでした</string>
+    <string name="plus_sharebox_circles_button">完了</string>
+    <string name="plus_sharebox_circles_checkbox_label">サークルに%1$s追加:</string>
+    <string name="plus_sharebox_circles_create_failed">サークルを作成できませんでした</string>
+    <string name="plus_sharebox_circles_create_option">新しいサークルを作成する</string>
+    <string name="plus_sharebox_circles_following_circle">フォロー中</string>
+    <string name="plus_sharebox_circles_friends_circle">友だち</string>
+    <string name="plus_sharebox_circles_name_length_warning">サークル名が長すぎます。</string>
+    <string name="plus_sharebox_circles_name_used_warning">このサークル名は既に使用されています。</string>
+    <string name="plus_sharebox_circles_option">%1$s（%2$s）</string>
+    <string name="plus_sharebox_circles_title">サークルに追加</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_message">この投稿を破棄しますか？</string>
+    <string name="plus_sharebox_confirm_cancel_dialog_title">Google+</string>
+    <string name="plus_sharebox_internal_error">共有できませんでした。</string>
+    <string name="plus_sharebox_load_error">共有ダイアログの読み込み中に一時的な問題が発生しました。もう一度お試しください。</string>
+    <string name="plus_sharebox_next">次へ</string>
+    <string name="plus_sharebox_no_network_connection">投稿を作成できません。もう一度お試しください。</string>
+    <string name="plus_sharebox_post_body_hint">投稿内容を入力</string>
+    <string name="plus_sharebox_post_body_icon">プロフィール画像</string>
+    <string name="plus_sharebox_post_error_message">投稿を作成できません。もう一度お試しください。</string>
+    <string name="plus_sharebox_post_error_title">注意</string>
+    <string name="plus_sharebox_post_pending">送信中...</string>
+    <string name="plus_sharebox_post_success">投稿を共有しました。</string>
+    <string name="plus_sharebox_preview_loading">読み込んでいます...</string>
+    <string name="plus_sharebox_search_hint">名前、メールアドレス、サークルを入力</string>
+    <string name="plus_sharebox_share">共有</string>
+    <string name="plus_sharebox_share_plus_checkbox_text">Google+でも共有する</string>
+    <string name="plus_sharebox_share_via_google_plus">Google+で共有</string>
+    <string name="plus_sharebox_under_age_warning_message">一般公開で共有すると、あなたのサークルに追加していないユーザーがあなたの投稿を閲覧したりコメントできるようになります。</string>
+    <string name="plus_sharebox_under_age_warning_title">一般公開</string>
+    <string name="plus_undo_button_description">[元に戻す]ボタン</string>
+    <string name="plus_unified_setup_activity_title">プロフィールの作成</string>
+    <string name="plus_unknown_app_name">アプリ</string>
+    <string name="plus_update_circle_size_pattern">%d</string>
+    <string name="plus_update_circles_failed_message">サークルを更新できませんでした。しばらくしてからもう一度お試しください。</string>
+    <string name="plus_update_circles_not_allowed_default_message">このユーザーをサークルに追加できません。</string>
+    <string name="plus_update_circles_not_allowed_message">%1$sさんをサークルに追加できません。</string>
+    <string name="plus_update_circles_progress">サークルを更新しています...</string>
+    <string name="plus_video_preview_image_description">動画のプレビュー画像</string>
+    <string name="recovery_done_button_label">完了</string>
+    <string name="recovery_input_screen_message">%sのパスワードを忘れた場合の連絡方法をGoogleにお知らせください。</string>
+    <string name="recovery_message_set">"パスワードは忘れやすいものです。
+
+今すぐ電話番号かバックアップ用のメールアドレスを指定してください。指定しておくと、GoogleとGoogle Playのコンテンツへのアクセスを回復できます。詳しくは"<annotation id="help_url">こちら</annotation>をご覧ください。</string>
+    <string name="recovery_message_verify">"パスワードは忘れやすいものです。
+
+今すぐ電話番号かバックアップ用のメールアドレスを確認してください。確認しておくと、GoogleとGoogle Playのコンテンツへのアクセスを回復できます。詳しくは"<annotation id="help_url">こちら</annotation>をご覧ください。</string>
+    <string name="recovery_notification_ticker">アカウントに注意が必要です</string>
+    <string name="recovery_notification_title">パスワード再設定通知</string>
+    <string name="recovery_server_error">サーバーとの通信中にエラーが発生しました。後でもう一度お試しください。</string>
+    <string name="recovery_title">Googleパスワードの再設定</string>
+    <string name="recovery_yes_button_label">再設定オプションをセットアップ</string>
+    <string name="recovery_yes_button_label_verify">再設定オプションを確認</string>
+    <string name="retry_call_to_action">再試行してください</string>
+    <string name="secondary_email_hint">バックアップ用のメール</string>
+    <string name="secondary_email_invalid">メールアドレスが無効です</string>
+    <string name="secondary_email_same_as_primary">メインのアドレスは指定できません</string>
+    <string name="selected_location_unknown">不明</string>
+    <string name="sharedUserLabel">Googleサービス</string>
+    <string name="sid_lsid_grant_detail">パスワードと同様、SID（セッションID）とLSID（ローカルセッションID）のCookieではあなたのIDとブラウザからのリクエストを関連付けます。これらのCookieはあなたのアカウントデータすべてにアクセスすることができます。これらのCookieを正規に使用できるのはブラウザのみです。</string>
+    <string name="sid_lsid_grant_label">SIDとLSIDのCookieを使用して、すべてのGoogleアカウントデータにアクセスします。</string>
+    <string name="storage_management_drive_clear_failure">ドライブデータの消去中にエラーが発生しました。しばらくしてからもう一度お試しください。</string>
+    <string name="storage_management_drive_clear_label">消去</string>
+    <string name="storage_management_drive_clear_success">ドライブのデータを消去しました。</string>
+    <string name="storage_management_drive_clearing">消去しています…</string>
+    <string name="storage_management_drive_confirm_clear_data_message">ドライブ対応アプリのローカルのドライブデータはすべて完全に削除されます。Googleドライブサーバーにまだアップロードされていない保留中の変更も削除されることがあります。</string>
+    <string name="storage_management_drive_confirm_clear_data_title">データをすべて消去しますか？</string>
+    <string name="storage_management_drive_descriptive_text">ドライブ対応アプリは、パフォーマンスを向上させ、オフラインアクセスを可能にするために、端末上にファイルを保存しています。</string>
+    <string name="storage_management_drive_get_storage_failure">ドライブストレージ使用量の計算中にエラーが発生しました。しばらくしてからもう一度お試しください。</string>
+    <string name="storage_management_drive_size_label">ローカルドライブストレージ</string>
+    <string name="storage_management_wear_descriptive_text">アプリは端末のストレージを使用してデータをウェアラブルに複製しています。</string>
+    <string name="storage_management_wear_manage_size_label">ウェアラブルストレージを管理</string>
+    <string name="storage_management_wear_size_label">ウェアラブルストレージ</string>
+    <string name="storage_managment_all_storage_descriptive_text">Google Play開発者サービスによって使用されているデータ（例: 検索エンジンなどのデータ）の合計です。</string>
+    <string name="storage_managment_clear_all_data">データをすべて消去</string>
+    <string name="storage_managment_computing_size">計算しています…</string>
+    <string name="storage_managment_icing_size_label">検索エンジンの容量</string>
+    <string name="storage_managment_manage_icing_button">検索容量を管理</string>
+    <string name="storage_managment_search_index_descriptive_text">Googleではアプリが使用する検索エンジンを提供することで端末での検索を高速化しています。</string>
+    <string name="storage_managment_title">Google Play開発者サービスの容量</string>
+    <string name="storage_managment_total_size_label">合計容量</string>
+    <string name="system_update_activity_battery_low_charging_text">システムアップデートをインストールするための電池残量が不足しています。十分に充電されるまでお待ちください。</string>
+    <string name="system_update_activity_battery_low_text">システムアップデートをインストールするための電池残量が不足しています。続行する場合は充電してください。</string>
+    <string name="system_update_activity_name">システムアップデート</string>
+    <string name="system_update_activity_roaming_text">ローミング中はシステムアップデートをダウンロードできません。</string>
+    <string name="system_update_activity_title">システムアップデート</string>
+    <string name="system_update_check_now_button_text">今すぐ確認</string>
+    <string name="system_update_complete_label">システムアップデート</string>
+    <string name="system_update_complete_ok_button">OK</string>
+    <string name="system_update_connection_lost_button_text">Wi-Fiに接続</string>
+    <string name="system_update_connection_lost_text">ネットワーク接続が切断されました。</string>
+    <string name="system_update_countdown_cancel_button">インストールをキャンセル</string>
+    <string name="system_update_countdown_complete">再起動しています...</string>
+    <string name="system_update_download_button_text">ダウンロード</string>
+    <string name="system_update_download_failed_no_space_status_text">ダウンロードに必要な容量がありません</string>
+    <string name="system_update_download_failed_status_text">ダウンロードできませんでした</string>
+    <string name="system_update_download_retry_button_text">ダウンロードを再試行</string>
+    <string name="system_update_download_waiting_status_text">ダウンロード待機中</string>
+    <string name="system_update_downloading_required_update_text">"最大で^1分程度かかる場合があります。
+
+この処理が完了すると、端末は自動的に再起動します。"</string>
+    <string name="system_update_downloading_required_update_text_tablet">"最大で^1分程度かかる場合があります。
+
+この処理が完了すると、タブレットは自動的に再起動します。"</string>
+    <string name="system_update_downloading_required_update_title">アップデートのダウンロード中…</string>
+    <string name="system_update_downloading_status_text">ダウンロードしています</string>
+    <string name="system_update_downloading_wifi_status2_text">^1までWi-Fi専用</string>
+    <string name="system_update_install_button_text">再起動してインストール</string>
+    <string name="system_update_installing_update_text">"最大で5分程度かかる場合があります。
+
+この処理が完了すると、端末のセットアップを完了できます。"</string>
+    <string name="system_update_installing_update_title">アップデートをインストールしています…</string>
+    <string name="system_update_last_checkin">アップデートの最終確認: ^1</string>
+    <string name="system_update_no_update_content_text">お使いのシステムは最新の状態です。</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_message">ダウンロードできませんでした。しばらくしてからもう一度試してください。</string>
+    <string name="system_update_nonmandatory_update_download_failure_notification_title">システムアップデートをダウンロードできませんでした</string>
+    <string name="system_update_not_owner_text">システムソフトウェアのアップデートが利用可能ですが、このアップデートをインストールできるのは所有者のみです。</string>
+    <string name="system_update_notification_action_download">ダウンロード</string>
+    <string name="system_update_notification_action_install">インストール</string>
+    <string name="system_update_notification_action_snooze">後で</string>
+    <string name="system_update_required_update_restart_text">端末はシステムアップデートをインストールできるよう再起動します。</string>
+    <string name="system_update_required_update_restart_text_tablet">タブレットはシステムアップデートをインストールできるよう再起動します。</string>
+    <string name="system_update_required_update_restart_title">再起動します</string>
+    <string name="system_update_requires_restart_status_text">再起動が必要です</string>
+    <string name="system_update_restart_button_text">再起動（^1）</string>
+    <string name="system_update_update_available_notification_title">システムアップデートが利用可能です</string>
+    <string name="system_update_update_download_failure_no_space_notification_message">システムアップデートのダウンロードに必要な容量がありません。</string>
+    <string name="system_update_update_downloaded_notification_title">システムアップデートをダウンロードしました</string>
+    <string name="system_update_verification_failed_text">確認できませんでした</string>
+    <string name="system_update_verified_status_text">ダウンロードと確認が完了しました</string>
+    <string name="system_update_verifying_status_text">確認しています</string>
+    <string name="temporary_sharing_description">Googleのサービス全体で、一定時間、あなたが詳細な現在地を一時的に共有しているユーザーです。</string>
+    <string name="temporary_sharing_title">一時的な共有</string>
+    <string name="turn_on_location_reporting_auto_button">オンにする</string>
+    <string name="usage_and_diagnostics_consent_message">自動的にGoogleに診断や使用状況データを送信するようにしておくことにより、Androidの機能向上に役立ちます。この情報はGoogleチームの電池消費量、アプリの性能、Googleの新機能などの取り組みに役立てられ、ユーザーを特定するために使用されることはありません。&lt;br/>&lt;br/>&lt;font color=\"#009688\">詳細&lt;/font></string>
+    <string name="usage_reporting_off">OFF</string>
+    <string name="usage_reporting_on">ON</string>
+    <string name="wearable_companion_app_name">Android Wear</string>
+    <string name="wearable_service_name">Android Wear</string>
+    <string name="wearable_status_connected">接続済み</string>
+    <string name="wearable_status_connecting">接続しています…</string>
+    <string name="wearable_status_disconnected">未接続</string>
+    <string name="wearable_status_starting">開始中…</string>
+    <string name="wearable_status_wire_protocol_mismatch">ウェアラブルと互換性がありません。すべての更新を適用してください。</string>
+    <string name="wearable_storage_managment_reclaim_button_label">今すぐ消去</string>
+    <string name="wearable_storage_managment_title">ウェアラブルストレージ</string>
+    <string name="wearable_storage_managment_total_size_label">ウェアラブルストレージ</string>
+    <string name="wearable_storage_managment_usage_label">アプリのストレージ使用量</string>
+</resources>

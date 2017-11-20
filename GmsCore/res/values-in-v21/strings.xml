@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_list_apps_menu_help">Bantuan &amp; masukan</string>
+    <string name="plus_app_settings_all_apps_label">Semua aplikasi</string>
+    <string name="plus_app_settings_apps_page_label">Aplikasi terhubung</string>
+    <string name="plus_list_apps_empty_message">Tidak ada aplikasi yang terhubung</string>
+    <string name="plus_manage_app_pacl_label">Siapa yang dapat melihat aktivitas aplikasi di Google</string>
+    <string name="plus_manage_app_scopes_label">Aplikasi ini dapat mengakses:</string>
+</resources>

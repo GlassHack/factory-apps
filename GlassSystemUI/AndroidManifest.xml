@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:process="system" android:sharedUserId="android.uid.system" coreApp="true" package="com.google.android.glass.systemui">
+    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS"/>
+    <uses-permission android:name="android.permission.STATUS_BAR_SERVICE"/>
+    <uses-permission android:name="android.permission.MANAGE_USB"/>
+    <uses-permission android:name="com.google.android.glass.permission.TOUCHPAD_GESTURES"/>
+    <application android:allowBackup="false" android:allowClearUserData="false" android:hardwareAccelerated="true" android:label="@string/app_label" android:persistent="true">
+        <service android:exported="true" android:name="SystemUIService"/>
+        <service android:exported="true" android:label="@string/notification_monitor" android:name=".notification.NotificationMonitorService" android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE">
+            <intent-filter>
+                <action android:name="android.service.notification.NotificationListenerService"/>
+            </intent-filter>
+        </service>
+        <activity android:exported="true" android:name=".app.ResolverActivity"/>
+        <activity android:name=".security.PatternActivity">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.LOCKSCREEN_SETTINGS"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:name=".notification.NotificationActivity" android:theme="@style/Notification">
+            <intent-filter>
+                <action android:name="com.google.android.glass.action.SHOW_NOTIFICATION"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity android:excludeFromRecents="true" android:exported="true" android:finishOnCloseSystemDialogs="true" android:name=".usb.UsbDebuggingActivity" android:permission="android.permission.MANAGE_USB"/>
+        <activity android:excludeFromRecents="true" android:exported="true" android:finishOnCloseSystemDialogs="true" android:name=".usb.UsbResolverActivity" android:permission="android.permission.MANAGE_USB"/>
+        <activity android:excludeFromRecents="true" android:exported="true" android:finishOnCloseSystemDialogs="true" android:name=".usb.UsbPermissionActivity" android:permission="android.permission.MANAGE_USB"/>
+    </application>
+</manifest>

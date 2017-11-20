@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Baari</item>
+        <item>Kahvila</item>
+        <item>Huoltoasema</item>
+        <item>Elokuvateatteri</item>
+        <item>Majoitus</item>
+        <item>Yökerho</item>
+        <item>Museo</item>
+        <item>Ravintola</item>
+        <item>Ostoskeskus</item>
+        <item>Myymälä</item>
+        <item>Ruokakauppa tai marketti</item>
+        <item>Muut</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>huono</item>
+        <item>kohtalainen</item>
+        <item>hyvä</item>
+        <item>vahva</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NE</item>
+        <item>E</item>
+        <item>SE</item>
+        <item>S</item>
+        <item>SW</item>
+        <item>W</item>
+        <item>NW</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>pohjoinen</item>
+        <item>koillinen</item>
+        <item>itä</item>
+        <item>kaakko</item>
+        <item>etelä</item>
+        <item>lounas</item>
+        <item>länsi</item>
+        <item>luode</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Valitse turvakysymys</item>
+        <item>Ensimmäinen puhelinnumero?</item>
+        <item>Parhaan lapsuudenystävän nimi?</item>
+        <item>Ensimmäisen opettajan nimi?</item>
+        <item>Ensimmäisen työpaikan pomon nimi?</item>
+        <item>Ajoneuvon rekisterinumero?</item>
+    </string-array>
+</resources>

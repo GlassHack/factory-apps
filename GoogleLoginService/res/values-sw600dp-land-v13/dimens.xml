@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="setup_wizard_button_min_width">256.0dip</dimen>
+    <dimen name="bg_make_it_google_margin_top">44.0dip</dimen>
+    <dimen name="bg_make_it_google_margin_right">366.0dip</dimen>
+    <dimen name="bg_got_google_margin_top">214.0dip</dimen>
+    <dimen name="bg_got_google_margin_right">368.0dip</dimen>
+</resources>

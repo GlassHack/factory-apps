@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="add_a_place_categories">
+        <item>Bar</item>
+        <item>Kafé</item>
+        <item>Bensinstasjon</item>
+        <item>Kino</item>
+        <item>Innkvartering</item>
+        <item>Nattklubb</item>
+        <item>Museum</item>
+        <item>Restaurant</item>
+        <item>Kjøpesenter</item>
+        <item>Butikk</item>
+        <item>Matvarebutikk/supermarked</item>
+        <item>Annet</item>
+    </string-array>
+    <string-array name="auth_gls_passwordStrength">
+        <item>dårlig</item>
+        <item>akseptabel</item>
+        <item>god</item>
+        <item>sterk</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_bt">
+        <item>NFC</item>
+    </string-array>
+    <string-array name="auth_trust_agent_trusted_devices_add_device_options_no_nfc">
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="maps_compass_directions">
+        <item>N</item>
+        <item>NØ</item>
+        <item>Ø</item>
+        <item>SØ</item>
+        <item>S</item>
+        <item>SV</item>
+        <item>V</item>
+        <item>NV</item>
+    </string-array>
+    <string-array name="maps_full_compass_directions">
+        <item>nord</item>
+        <item>nordøst</item>
+        <item>øst</item>
+        <item>sørøst</item>
+        <item>sør</item>
+        <item>sørvest</item>
+        <item>vest</item>
+        <item>nordvest</item>
+    </string-array>
+    <string-array name="auth_gls_security_questions">
+        <item>Velg et sikkerhetsspørsmål</item>
+        <item>Hva var det første telefonnummeret ditt?</item>
+        <item>Hva het bestevennen din da du var barn?</item>
+        <item>Hva var navnet på den første læreren din?</item>
+        <item>Hva het sjefen i den første jobben din?</item>
+        <item>Hva er registreringsnummeret til bilen din?</item>
+    </string-array>
+</resources>
